@@ -38,15 +38,43 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour être électeur aux élections législatives il faut:
 
+- être Luxembourgeois ou Luxembourgeoise;
+
+- être âgé de dix-huit ans accomplis au jour des élections;
+
+- jouir des droits civils et politiques;
+
+- être domicilié dans le Grand-Duché de Luxembourg; les Luxembourgeois domiciliés à l’étranger sont admis aux élections législatives par la voie du vote par correspondance.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Pour être électeur aux élections communales il faut:
 
+- être âgé de dix-huit ans accomplis au jour des élections;
+
+- jouir des droits civils et ne pas être déchu du droit de vote dans l’Etat de résidence ou dans l’Etat d’origine; cette dernière condition ne peut toutefois pas être opposée à des citoyens non luxembourgeois qui, dans leur pays d’origine, ont perdu le droit de vote en raison de leur résidence en dehors de leur Etat d’origine;
+
+- pour les Luxembourgeois, être domicilié dans le Grand-Duché;
+
+- pour les ressortissants d’un autre État membre de l’Union européenne ou de l’Espace Schengen être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi ;
+
+- pour les autres ressortissants étrangers, disposer d’une carte ou d’un titre de séjour ou d’une carte de légitimation en cours de validité, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 Pour être électeur aux élections européennes, il faut:
+
+- être Luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;
+
+- être âgé de dix-huit ans accomplis au jour des élections;
+
+- jouir des droits civils et n’être déchu du droit de vote ni au Grand-Duché de Luxembourg ni dans l’Etat membre d’origine;
+
+- pour les Luxembourgeois, être domicilié dans le Grand-Duché; les Luxembourgeois domiciliés à l’étranger sont admis aux élections européennes par la voie du vote par correspondance;
+
+- pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié dans le Grand-Duché et y avoir résidé au moment de la demande d’inscription sur la liste électorale prévue par la présente loi.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -76,10 +104,80 @@ Les personnes qui sont privées du droit de vote par condamnation pénale défin
 <a id="art-7"></a>
 ## Art. 7.
 
+(1)
+
+Il y a dans chaque commune trois listes électorales:
+
+- une liste des citoyens luxembourgeois, électeurs aux élections législatives, européennes et communales;
+
+- une liste des ressortissants étrangers, électeurs aux élections communales;
+
+- une liste des ressortissants des autres Etats membres de l’Union européenne, électeurs aux élections européennes.
+
+Les listes électorales sont permanentes.
+
+Le collège des bourgmestre et échevins procède de façon continue aux mises à jour des listes électorales, en y apportant les inscriptions et radiations d’électeurs, ainsi qu’aux modifications d’inscriptions d’électeurs, le tout conformément aux dispositions de la présente loi.
+
+La tenue et la mise à jour des listes électorales se font soit sur papier, soit sous forme de fichiers électroniques. Toutefois, les listes prévues aux articles 12, paragraphe (2) et 17 et destinées à l’inspection du public sont éditées sous forme papier. Il en est de même du relevé prévu à l’article 56.
+
+(2)
+
+Le collège des bourgmestre et échevins peut déléguer la fonction de procéder aux mises à jour des listes électorales à un ou plusieurs fonctionnaires communaux, employés communaux ou salariés à tâche principalement intellectuelle au service de la commune, désignés ci-après par les termes agent délégué.
+
+Cette délégation est exercée sous la surveillance et la responsabilité du collège des bourgmestre et échevins.
+
 #### Chapitre II. De la mise à jour des listes électorales
 
 <a id="art-8"></a>
 ## Art. 8.
+
+(1)
+
+Les ressortissants luxembourgeois sont inscrits d’office sur la liste électorale de leur commune de résidence au Grand-Duché de Luxembourg dès qu’ils remplissent les conditions requises par la loi pour être électeur.
+
+(2)
+
+Les ressortissants d’un autre État membre de l’Union européenne ou de l’Espace Schengen et les autres ressortissants étrangers désireux de participer pour la première fois aux élections communales font une demande d’inscription sur la liste électorale afférente.
+
+Le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen et l’autre ressortissant étranger doit produire à l’appui de sa demande:
+
+- une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sous a) et b) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+
+  - sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat d’origine et son adresse sur le territoire du Grand-Duché de Luxembourg;
+
+  - qu’il n’est pas déchu du droit de vote dans l’Etat d’origine par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours juridictionnel ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+
+- un document d’identité en cours de validité.
+
+Le ressortissant étranger autre que le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen doit produire en outre à l’appui de sa demande une carte ou un titre de séjour ou une carte de légitimation en cours de validité.
+
+(3)
+
+Le ressortissant d’un autre Etat membre de l’Union européenne désireux de participer pour la première fois aux élections européennes fait une demande d’inscription sur la liste électorale afférente.
+
+Il doit produire à l’appui de sa demande d’inscription sur cette liste:
+
+- une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sous a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+
+  - sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse sur le territoire du Grand-Duché de Luxembourg;
+
+  - le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
+
+  - qu’il n’exercera son droit de vote pour les élections au Parlement européen que dans le Grand-Duché de Luxembourg;
+
+  - qu’il n’est pas déchu du droit de vote dans l’Etat membre d’origine par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours juridictionnel ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+
+- un document d’identité en cours de validité.
+
+(4)
+
+La demande d’inscription aux élections communales ou européennes signée et datée est faite soit par voie de dépôt électronique sur une plateforme étatique sécurisée, soit sur papier libre. En cas de demande sur papier libre, un récépissé est délivré par le collège des bourgmestre et échevins de la commune de résidence de l’intéressé si la demande d’inscription est accompagnée de toutes les pièces.
+
+Les ressortissants d’un autre État membre de l’Union européenne ou de l’Espace Schengen et les autres ressortissants étrangers qui ont été inscrits sur une liste électorale y sont maintenus, dans les mêmes conditions que les électeurs luxembourgeois, jusqu’à ce qu’ils demandent à être rayés ou jusqu’à ce qu’ils soient rayés d’office parce qu’ils ne répondent plus aux conditions requises pour l’exercice du droit de vote.
+
+Le collège des bourgmestre et échevins informe, par lettre individuelle, les intéressés de la suite réservée à leur demande d’inscription sur une liste électorale dans les quinze jours de la réception de la demande.
+
+En cas de refus d’inscription, le collège des bourgmestre et échevins indique le ou les motifs qui sont à la base du refus d’inscription en vertu des dispositions des articles 1, 2, 3 et 6 ainsi que les voies et procédures de recours prévues aux articles 12, 15, et 17.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -115,6 +213,30 @@ La radiation des personnes visées à l’article 6 s’effectue sur la base du 
 <a id="art-12"></a>
 ## Art. 12.
 
+(1)
+
+Les listes électorales sont provisoirement arrêtées par le collège des bourgmestre et échevins le cinquante-cinquième jour avant le jour du scrutin à dix-sept heures. Ces listes recensent en annexe les personnes qui atteindront l’âge de dix-huit ans entre le jour de l’arrêt provisoire des listes et le jour du scrutin, ce dernier y compris.
+
+Lorsque les élections ont lieu suite à une dissolution de la Chambre des Députés ou suite à une dissolution du conseil communal ainsi qu’en cas d’élections complémentaires les listes électorales sont arrêtées le premier vendredi qui suit la date de l’arrêté de dissolution ou de l’arrêté fixant la date des élections complémentaires.
+
+(2)
+
+Les listes sont déposées à l’inspection du public, soit au secrétariat de la commune, soit dans le local où se déroulent les séances du conseil communal du cinquante-quatrième au quarante-septième jour avant le jour du scrutin.
+
+(3)
+
+Cinquante-quatre jours avant le jour du scrutin ce dépôt est porté à la connaissance du public par un avis publié par voie d’affiches à apposer à la maison communale ainsi qu’aux lieux usuels dans chaque localité de vote et par la voie de la presse écrite. A titre complémentaire, l’avis peut être publié par la voie des médias électroniques.
+
+L’avis précise que tout citoyen peut adresser au collège des bourgmestre et échevins, séparément pour chaque électeur, toutes réclamations auxquelles les listes électorales pourraient donner lieu jusqu’au quarante-septième jour avant le jour du scrutin au plus tard.
+
+L’avis invite tout citoyen de produire, jusqu’au quarante-septième jour avant le jour du scrutin au plus tard, contre récépissé, les titres de ceux qui, n’étant pas inscrits sur les listes en vigueur, ont le droit d’y figurer.
+
+L’avis mentionne en outre qu’une réclamation tendant à l’inscription d’un électeur, pour être recevable devant la Cour administrative, doit avoir été soumise au préalable au collège des bourgmestre et échevins avec toutes les pièces justificatives.
+
+(4)
+
+Les citoyens n’ayant pas encore atteint l’âge de 18 ans lors du dépôt des listes mais qui, en vertu des dispositions des articles 1, 2 et 3, peuvent participer aux élections, doivent adresser leurs éventuelles réclamations au collège des bourgmestre et échevins par l’intermédiaire de leurs tuteurs légaux respectifs.
+
 <a id="art-13"></a>
 ## Art. 13.
 
@@ -131,6 +253,30 @@ Les électeurs mariés ou veufs sont inscrits sous leur nom et leurs prénoms, s
 
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+Les réclamations tendant à l’inscription d’un électeur sur les listes définitives doivent être faites séparément et par écrit, à moins que le réclamant ne déclare être dans l’impossibilité d’écrire. Dans ce cas, la réclamation peut être faite verbalement
+
+Les déclarations verbales sont reçues au secrétariat de la commune par le secrétaire communal ou le agent délégué.
+
+Le agent délégué qui les reçoit en dresse immédiatement un procès-verbal dans lequel il constate que l’intéressé lui a déclaré être dans l’impossibilité d’écrire; il signe ce procès-verbal et le remet au comparant après lui en avoir donné lecture.
+
+Les procès-verbaux des réclamations verbales et les réclamations écrites doivent, sous peine de nullité, être déposées avec toutes les pièces justificatives dont le réclamant entend faire usage, au secrétariat de la commune au plus tard le quarante-septième jour avant le jour du scrutin.
+
+Le agent délégué qui reçoit la réclamation est tenu de l’inscrire à sa date dans un registre spécial. Il donne au réclamant récépissé de la réclamation ainsi que des pièces produites à l’appui. Il est tenu de former un dossier pour chaque réclamation et de coter et parapher les pièces produites et de les inscrire avec leur numéro d’ordre dans l’inventaire joint à chaque dossier. Les pièces produites ne peuvent être retirées du dossier
+
+Lorsque la preuve des conditions de l’électorat doit résulter de documents officiels se trouvant en possession de l’administration communale, soit en original, soit en copie de l’original, le requérant n’est point tenu d’en produire copie. Il suffit qu’il les invoque dans sa requête ou dans ses conclusions, en spécifiant les éléments de fait que ces documents sont destinés à établir.
+
+(2)
+
+La liste des réclamations introduites est affichée au plus tard le quarante-cinquième jour avant le jour du scrutin au secrétariat de la commune où chaque citoyen peut en prendre inspection.
+
+(3)
+
+Le quarante-quatrième jour avant le jour du scrutin au plus tard le collège des bourgmestre et échevins doit statuer en séance publique sur toutes les réclamations, sur le rapport d’un membre du collège ou du agent délégué, et après avoir entendu les parties ou leurs mandataires, s’ils se présentent.
+
+Une décision motivée est rendue séparément sur chaque affaire. Elle est inscrite dans un registre spécial.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -172,6 +318,14 @@ Tout citoyen peut prendre inspection des listes actualisées ainsi que des pièc
 <a id="art-21"></a>
 ## Art. 21.
 
+(1)
+
+Contre toute décision par laquelle une personne a été indûment inscrite, omise ou rayée des listes électorales, un recours en réformation est ouvert devant la Cour administrative.
+
+(2)
+
+Le recours peut être exercé par la personne visée par la décision ou par toute autre personne jouissant des droits civils et politiques.
+
 <a id="art-22"></a>
 ## Art. 22.
 
@@ -179,6 +333,8 @@ Toutefois le recours n’est recevable que si le requérant prouve l’existence
 
 <a id="art-23"></a>
 ## Art. 23.
+
+(abrogé)
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -188,17 +344,37 @@ Le recours doit être introduit au plus tard le trente-septième jour précédan
 <a id="art-25"></a>
 ## Art. 25.
 
+(abrogé)
+
 <a id="art-26"></a>
 ## Art. 26.
+
+(abrogé)
 
 <a id="art-27"></a>
 ## Art. 27.
 
+(1)
+
+Le président de la Cour administrative fixe les dates de dépôt des mémoires. Il ne pourra y avoir qu’un seul mémoire de la part de chaque partie, y compris la requête introductive. Toutefois dans l’intérêt de l’instruction de l’affaire, le président de la Cour peut ordonner d’office la production de mémoires supplémentaires.
+
+(2)
+
+(abrogé)
+
+(3)
+
+(abrogé)
+
 <a id="art-28"></a>
 ## Art. 28.
 
+(abrogé)
+
 <a id="art-29"></a>
 ## Art. 29.
+
+(abrogé)
 
 <a id="art-30"></a>
 ## Art. 30.
@@ -221,6 +397,8 @@ Lorsqu’il paraît inéquitable de laisser à la charge d’une partie les somm
 <a id="art-46-49"></a>
 ## Art. 46. à 49.
 
+(abrogés)
+
 #### Chapitre VII. De la rectification des listes
 
 <a id="art-50"></a>
@@ -230,6 +408,8 @@ Le collège des bourgmestre et échevins rectifie les listes électorales confor
 
 <a id="art-51-53"></a>
 ## Art. 51. à 53.
+
+(abrogés)
 
 ### TITRE III DES COLLÈGES ÉLECTORAUX
 
@@ -276,6 +456,24 @@ Toutefois dans les communes de plus de 15.000 habitants, le bureau principal se 
 
 <a id="art-59"></a>
 ## Art. 59.
+
+(1)
+
+Dans les communes chefs-lieux d’arrondissement, Luxembourg et Diekirch, le bureau principal est présidé par le président du tribunal d’arrondissement ou, à son défaut, par le magistrat qui le remplace.
+
+Dans la commune chef-lieu du canton d’Esch-sur-Alzette, le bureau principal est présidé par le juge de paix directeur ou, à son défaut, par l’un des juges de paix.
+
+Dans les communes chefs-lieux des cantons de Clervaux, Echternach, Grevenmacher, Mersch, Redange, Remich, Vianden et Wiltz, le bureau principal est présidé par un électeur de la commune du chef-lieu de canton ou, à défaut, d’arrondissement à désigner par le président du tribunal d’arrondissement.
+
+Dans la commune chef-lieu du canton de Capellen, à savoir la commune de Mamer, le président du bureau principal est désigné par le juge de paix directeur d’Esch-sur-Alzette ou, à son défaut, par l’un des juges de paix.
+
+Dans les communes non visées par les alinéas 1er à 4, le président du bureau principal est nommé par le président du tribunal d’arrondissement ou par le magistrat qui le remplace, ou par le juge de paix directeur ou l’un des juges de paix pour la circonscription Sud visée à l’article 132.
+
+(2)
+
+Dans les communes chefs-lieux d’arrondissement et de canton, les bureaux de vote sont présidés, en ordre successif, par respectivement les juges du tribunal d’arrondissement et les juges de paix, et au besoin, par des personnes désignées par le président du bureau principal parmi les électeurs du canton ou, à défaut, de l’arrondissement.
+
+Dans les communes non visées par l’alinéa 1er, les présidents des bureaux de vote sont désignés par le président du bureau principal parmi les électeurs du canton ou, à défaut, de l’arrondissement.
 
 <a id="art-60"></a>
 ## Art. 60.
@@ -341,7 +539,9 @@ Dans aucune élection, ni les candidats, ni les titulaires d’un mandat électi
 
 Dans aucune élection, les parents ou alliés des candidats jusqu’au deuxième degré inclusivement ou leur partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, ne peuvent siéger comme président, secrétaire, secrétaire adjoint, assesseur, assesseur suppléant, témoin ou calculateur d’un bureau électoral de la circonscription électorale où ce candidat figure sur la liste. Lorsque, le président d’un bureau principal reçoit la candidature d’un parent, d’un allié jusqu’au deuxième degré inclusivement ou d’un partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats, il se fait immédiatement remplacer dans ses fonctions pour la suite des opérations électorales.
 
-Les président et assesseurs d’un bureau de vote ne peuvent être parents ou alliés jusqu’au deuxième degré inclusivement. Les membres des bureaux de vote, le secrétaire et, le cas échéant, le secrétaire adjoint se réunissent au moins une heure avant l’ouverture des locaux de vote afin de garantir le bon déroulement des opérations électorales ou être unis par les liens du partenariat .
+Les président et assesseurs d’un bureau de vote ne peuvent être parents ou alliés jusqu’au deuxième degré inclusivement.
+
+Les membres des bureaux de vote, le secrétaire et, le cas échéant, le secrétaire adjoint se réunissent au moins une heure avant l’ouverture des locaux de vote afin de garantir le bon déroulement des opérations électorales ou être unis par les liens du partenariat .
 
 Le président du bureau s’assure, avant le commencement du scrutin, en les interpellant individuellement, qu’aucune des personnes appelées à siéger au bureau ne contrevient aux prohibitions énoncées à l’alinéa 2 ci-dessus. Il s’assure ensuite, en les interpellant individuellement, qu’aucun des assesseurs n’est parent ou allié au degré prohibé ni du président lui-même, ni d’un autre assesseur du bureau. Il en est fait mention au procès-verbal.
 
@@ -423,6 +623,22 @@ Si l’électeur, par inadvertance, détériore le bulletin qui lui a été remi
 <a id="art-79"></a>
 ## Art. 79.
 
+(1)
+
+Lorsqu’il est constaté qu’un électeur présente une incapacité visuelle, physique, mentale, intellectuelle ou sensorielle durable ou est en tutelle, le président l’autorise à se faire accompagner d’un guide ou d’un soutien et même à faire formuler par celui-ci le vote qu’il se trouverait dans l’impossibilité de formuler lui-même.
+
+Le guide ou soutien ne doit pas être électeur. Ne peuvent pas être guides ou soutiens d’un électeur qui présente une incapacité visuelle, physique, mentale, intellectuelle ou sensorielle durable ou est en tutelle, les candidats aux élections, leurs parents ou alliés jusqu’au deuxième degré inclusivement, les titulaires d’un mandat électif national, européen ou communal, les personnes qui ne savent pas lire ou écrire ainsi que celles qui sont exclues de l’électorat d’après les dispositions de l’article 6 de la présente loi. Ne peut pas non plus être guide ou soutien d’un électeur en tutelle son tuteur
+
+Les noms de l’électeur et de son guide ou soutien ainsi que la nature de l’infirmité invoquée doivent être inscrits au procès-verbal.
+
+(2)
+
+L’électeur déficient visuel est également autorisé à formuler le vote en se servant du modèle de vote tactile qui lui est fourni par l’organisme désigné par règlement grand-ducal.
+
+L’électeur déficient visuel qui se présente au vote sans être muni du modèle de vote tactile, peut se servir du modèle tenu à disposition par le bureau de vote qu’il doit remettre au président après avoir formulé le vote
+
+Un membre du bureau peut accompagner l’électeur déficient visuel dans un compartiment pour l’aider à insérer le bulletin de vote correctement à l’intérieur du modèle de vote tactile.
+
 <a id="art-80"></a>
 ## Art. 80.
 
@@ -499,6 +715,12 @@ Les électeurs empêchés de prendre part au scrutin doivent faire connaître au
 
 Sont excusés de droit:
 
+- les électeurs qui au moment de l’élection habitent une autre commune que celle où ils sont appelés à voter;
+
+- les électeurs âgés de plus de 75 ans ;
+
+- les électeurs en tutelle. Une liste comportant les noms et prénoms des personnes en tutelle ainsi que l’identification du tribunal, la date et le numéro du jugement de mise en tutelle est envoyée à cet effet au collège des bourgmestre et échevins de la commune de résidence du majeur en tutelle par le préposé du répertoire civil auprès du Parquet Général.
+
 <a id="art-90"></a>
 ## Art. 90.
 
@@ -508,7 +730,7 @@ Ces électeurs sont cités devant le juge de paix dans les formes tracées par l
 
 Une première abstention non justifiée est punie d’une amende de 100 à 250 euros. En cas de récidive dans les cinq ans de la condamnation, l’amende est de 500 à 1.000 euros.
 
-La condamnation prononcée par défaut est sujette à opposition conformément aux dispositions du Code de procédure pénale.
+La condamnation prononcée par défaut est sujette à opposition conformément aux dispositions du Code de procédure pénale .
 
 Sont applicables les dispositions du titre I, livre II du Code de procédure pénale : Des tribunaux de police.
 
@@ -538,6 +760,38 @@ La dotation pour les élections législatives est allouée à condition que le p
 La dotation pour les élections européennes est allouée à condition que le parti ou le groupement politique présente une liste complète de candidats dans la circonscription électorale unique et obtienne au moins 2 pour cent des suffrages exprimés.
 
 Les montants des dotations sont fixés comme suit :
+
+- Pour les élections législatives
+
+  - un montant forfaitaire de:
+
+    - 50.000 euros pour les partis ou groupements qui comptent 1 à 4 élus à la Chambre des députés ;
+
+    - 100.000 euros pour les partis ou groupements qui comptent 5 à 7 élus à la Chambre des députés ;
+
+    - 150.000 euros pour les partis ou groupements qui comptent 8 à 11 élus à la Chambre des députés ;
+
+    - 200.000 euros pour les partis ou groupements qui comptent au moins 12 élus à la Chambre des députés.
+
+  - un montant supplémentaire de 10.000 euros par élu.
+
+- Pour les élections européennes
+
+  - un montant forfaitaire de:
+
+    - 5 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 2 pour cent des suffrages exprimés au niveau national ;
+
+    - 12 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 5 pour cent des suffrages exprimés au niveau national ;
+
+    - 25 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 10 pour cent des suffrages exprimés au niveau national ;
+
+    - 37 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 15 pour cent des suffrages exprimés au niveau national ;
+
+    - 50 000 euros pour les partis ou, au niveau national, groupements obtenant au moins 20 pour cent des suffrages exprimés au niveau national ;
+
+    - 74 500 euros pour les partis ou, au niveau national, groupements obtenant au moins 25 pour cent des suffrages exprimés au niveau national.
+
+  - un montant supplémentaire de 12.500 euros par député européen élu.
 
 Les montants à allouer aux partis ou groupements politiques sont à prévoir à la section de la Chambre des députés du budget de l’État de l’exercice des élections législatives ou européennes. En cas d’élections anticipées, les montants sont inscrits au budget de l’exercice de l’année qui suit les élections.
 
@@ -714,8 +968,74 @@ L’action publique résultant des infractions prévues par la présente loi est
 <a id="art-116bis"></a>
 ## Art. 116bis.
 
+(1)
+
+Des observateurs provenant d’organisations internationales auxquelles le Grand-Duché de Luxembourg a adhéré ou d’Etats membres de ces organisations peuvent être invités par le ministre des Affaires étrangères à l’occasion des élections législatives, européennes ou communales.
+
+(2)
+
+Les observateurs envoyés par ces organisations ainsi que leurs accompagnateurs indispensables sont à accréditer par le ministre des Affaires étrangères qui leur fait parvenir une attestation de leur accréditation. Le ministre des Affaires étrangères communique les noms et qualités des personnes accréditées au ministre d’Etat lorsque la mission d’observation a lieu à l’occasion d’élections législatives ou européennes et au ministre de l’Intérieur lorsque cette mission a lieu à l’occasion d’élections communales. Le ministre d’Etat, respectivement le ministre de l’Intérieur, transmet les noms et qualités des personnes accréditées dans le cadre d’une mission d’observation aux présidents des bureaux principaux de vote qui à leur tour les communiquent aux présidents des autres bureaux de vote de leurs ressorts respectifs.
+
+(3)
+
+Les observateurs sont autorisés à:
+
+- être présents lors des réunions des bureaux électoraux;
+
+- observer les opérations électorales dans les locaux de vote sans en être empêchés et à prendre connaissance des listes électorales et des relevés des électeurs;
+
+- être présents lors du dépouillement et de l’examen des bulletins de vote ainsi que lors du recensement des votes et de l’attribution des sièges;
+
+- prendre connaissance des procès-verbaux établis par les bureaux de vote;
+
+- prendre connaissance des recours introduits contre les opérations électorales, y compris des actes et dossiers y relatifs.
+
+(4)
+
+Les accompagnateurs dûment accrédités des observateurs peuvent accompagner les observateurs lors de l’exercice de leur mission; ils ne sont toutefois pas admis à exercer de façon autonome cette mission.
+
+(5)
+
+Les membres et les secrétaires des bureaux de vote soutiennent les observateurs dans la mesure du possible et donnent les informations utiles à l’observation électorale. Les noms, prénoms et qualités des observateurs et, le cas échéant, des accompagnateurs présents dans le bureau de vote le jour des élections sont mentionnés au procès-verbal des opérations électorales.
+
+(6)
+
+Il est interdit aux observateurs et à leurs accompagnateurs d’influencer de quelque manière que ce soit la procédure de vote, un électeur ou la décision d’un bureau de vote ou de son président. En cas de non observation de cette interdiction, le président du bureau de vote concerné peut expulser un observateur ou un accompagnateur du local de vote.
+
+(7)
+
+Le ministre des Affaires étrangères peut retirer l’accréditation à tout observateur ou accompagnateur qui contrevient aux dispositions des paragraphes (3), (4) ou (6) ci-dessus.
+
+Un règlement grand-ducal peut préciser les conditions et modalités de la mission d’observation électorale et de l’accréditation des observateurs et de leurs accompagnateurs.
+
 <a id="art-116ter"></a>
 ## Art. 116ter.
+
+(1)
+
+Le Gouvernement en conseil installe à l’occasion de chaque élection législative, européenne ou communale générale un bureau centralisateur chargé de la détermination et de la diffusion des résultats officieux des élections.
+
+(2)
+
+Le bureau centralisateur gouvernemental est dirigé par un chargé de la direction qui est assisté dans l’exercice de sa fonction par un adjoint.
+
+Le chargé de la direction et son adjoint sont désignés par le Gouvernement en conseil en même temps que les membres du bureau centralisateur gouvernemental.
+
+(3)
+
+Dans le cadre de leur mission, les membres du bureau centralisateur gouvernemental sont autorisés à se faire remettre des copies des procès-verbaux des bureaux de vote.
+
+(4)
+
+Le chargé de la direction désigne les agents de l’État, adjoints au bureau centralisateur, qui sont autorisés à être présents, à partir de l’heure de clôture du scrutin, dans les bureaux principaux des communes à déterminer par règlement grand-ducal.
+
+Quinze jours avant la date des élections, le chargé de la direction est tenu de notifier aux présidents des bureaux principaux des communes précitées les nom et prénoms des agents désignés.
+
+Les présidents des bureaux principaux désignent un membre de leur bureau à charge d’assurer la transmission, aux agents de l’État désignés, des informations nécessaires à la détermination et la diffusion des résultats officieux des élections.
+
+(5)
+
+Un règlement grand-ducal détermine la composition, le fonctionnement et les attributions du bureau centralisateur gouvernemental ainsi que le montant des indemnités revenant à ses membres.
 
 ## LIVRE II. DE LA CHAMBRE DES DÉPUTÉS ET DES ÉLECTIONS LÉGISLATIVES
 
@@ -725,6 +1045,14 @@ L’action publique résultant des infractions prévues par la présente loi est
 ## Art. 117.
 
 Le nombre des députés, par application de l’article 51, alinéa 3 de la Constitution, est fixé comme suit:
+
+- circonscription Sud: 23 députés;
+
+- circonscription Est: 7 députés;
+
+- circonscription Centre: 21 députés;
+
+- circonscription Nord: 9 députés.
 
 <a id="art-118"></a>
 ## Art. 118.
@@ -769,6 +1097,102 @@ Le député qui pendant chacune des deux sessions ordinaires consécutives est r
 <a id="art-126"></a>
 ## Art. 126.
 
+1.
+
+Durant son mandat, le parlementaire jouit d’une indemnité mensuelle correspondant à 375 points indiciaires, dont la moitié, constituant des frais de représentation, est exempte d’impôts. Cette moitié est également exempte de retenue pour pension, sauf décision contraire du parlementaire de cotiser sur l’intégralité de l’indemnité. A l’égard des parlementaires nouvellement assermentés après le 1er janvier 1999, l’assurance pension du chef de la retenue opérée sur l’autre moitié de l’indemnité susvisée se fait auprès du régime de pension spécial des fonctionnaires de l’Etat, à moins que le parlementaire visé par l’article 129 ci-après, ne relève d’un régime de pension spécial autre que celui prévu à l’égard des fonctionnaires de l’Etat. Dans cette hypothèse l’assurance est opérée auprès du régime de pension spécial dont il relève.
+
+Le Président de la Chambre des Députés jouit d’une indemnité de représentation mensuelle supplémentaire de 300 points indiciaires, exempte d’impôts et de retenue pour pension.
+
+Les présidents des groupements parlementaires dont la composition est déterminée par le règlement de la Chambre jouissent d’une indemnité mensuelle supplémentaire de 200 points exempte de retenue pour pension, dont la moitié, constituant des frais de représentation, est exempte d’impôts.
+
+La valeur numérique des points indiciaires est déterminée conformément aux règles fixées par la législation en matière des traitements des fonctionnaires de l’Etat.
+
+Le terme de parlementaire vise le membre de la Chambre des députés et le membre du Parlement européen élu au Grand-Duché de Luxembourg.
+
+L’indemnité est payable mensuellement , à raison d’un douzième par mois de l’indemnité annuelle . Une partie de mois est considérée comme un mois entier.
+
+Le parlementaire a par ailleurs droit à des jetons de présence pour sa participation aux séances plénières et aux réunions de commission.
+
+Les jetons de présence prévus à l’alinéa qui précède sont fixés à 15 euros NI 100.
+
+Il est payé un seul jeton de présence par demi-journée.
+
+Le député n’a droit au paiement du jeton de présence que si sa présence est dûment marquée au procès-verbal de la séance plénière ou de la réunion de commission, et s’il a participé personnellement au moins à tous les votes sauf un au cas où des votes ont eu lieu au cours de la séance plénière, respectivement de la réunion de commission.
+
+2.
+
+L’indemnité est sujette à réduction en proportion du nombre des absences non motivées du parlementaire. Les modalités de la réduction sont fixées par le Bureau de la Chambre.
+
+3.
+
+Les dispositions légales concernant l’allocation de famille prévue pour les fonctionnaires de l’Etat sont applicables dans la mesure où le parlementaire n’en bénéficie pas en vertu d’un autre droit.
+
+4.
+
+Pendant la durée de son mandat, le parlementaire est affilié auprès de la Caisse de maladie des Fonctionnaires et Employés Publics, à condition qu’il ne soit affilié obligatoirement à aucune autre caisse.
+
+5.
+
+Le membre de la Chambre des députés a droit à une indemnité de déplacement pour les obligations parlementaires à l’intérieur du pays et à une indemnité de déplacement et de séjour pour les missions à l’étranger. Les modalités de ces indemnités sont fixées par le Bureau de la Chambre des députés.
+
+6.
+
+L’indemnité parlementaire est cessible et saisissable conformément aux dispositions de la loi modifiée du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes.
+
+7.
+
+Sur base de pièces justificatives, la Chambre rembourse aux députés assurés au titre des articles 171 2) et 6) respectivement 173 du C.A.S. la moitié de la charge des cotisations telles que déterminées à l’article 240 du C.A.S. et calculées sur une assiette mensuelle ne dépassant pas la différence entre la moitié de l’indemnité parlementaire découlant du paragraphe 1er ci-dessus et le plafond cotisable déterminé à l’article 241 du C.A.S.
+
+8.a)
+
+Les agents du secteur privé, les membres des professions indépendantes ainsi que les personnes sans profession, qui exercent le mandat de député, ont droit à un congé politique pour remplir leur mandat. Le congé politique est de 20 heures par semaine au maximum. Il ne peut être utilisé par les ayants droit que pour l’exercice des missions qui découlent directement de l’accomplissement de leur mandat, dont notamment la participation aux travaux de la Chambre des députés ou de leur groupe politique ou technique, ainsi que pour préparer ces travaux. Le Bureau de la Chambre définit la nature des travaux à prendre en considération et fixe forfaitairement la part du congé politique consacrée à la préparation des travaux.
+
+L’ayant droit au congé politique prend ce congé à sa convenance par jour ou partie de jour, sans toutefois reporter le congé d’une année à l’autre.
+
+Le congé politique tel que fixé ci-dessus peut être cumulé avec le congé politique découlant des articles 76 et suivants de la loi communale du 13 décembre 1988, sans toutefois dépasser un maximum de 40 heures par semaine.
+
+b) Par agents du secteur privé on entend toute personne qui fournit contre rémunération un travail sous l’autorité d’une autre personne privée.
+
+Pendant le congé, les agents du secteur privé qui exercent le mandat de député peuvent s’absenter du lieu de leur travail pour remplir leur mandat.
+
+Le congé politique est considéré comme temps de travail effectif. Pendant la durée du congé politique, les dispositions légales en matière de sécurité sociale et de protection de l’emploi restent applicables.
+
+La durée du congé politique ne peut pas être imputée sur le congé annuel de récréation tel qu’il est fixé par la loi ou par une convention sociale.
+
+Les ayants droit du congé politique continuent, pendant la durée du congé, à toucher leur rémunération et à jouir des avantages attachés à leur activité professionnelle.
+
+La Chambre rembourse à l’employeur de l’agent un montant correspondant à la rémunération brute majorée des cotisations patronales versées aux organismes de la sécurité sociale pendant la période pendant laquelle l’agent s’est absenté du travail pour remplir son mandat, sans cependant pouvoir dépasser un taux horaire maximal fixé au quadruple du salaire social minimum pour travailleurs qualifiés ayant charge de famille. Le Bureau de la Chambre fixe les éléments à prendre en considération pour l’établissement de la rémunération normale ainsi que les conditions et les modalités du remboursement.
+
+L’exactitude des indications est certifiée par la signature de l’ayant droit.
+
+c) Aux membres des professions indépendantes ainsi qu’aux personnes sans profession ne bénéficiant pas d’un régime statutaire, âgés de moins de 65 ans, qui exercent un mandat de député, il est versé par la Chambre une compensation horaire fixée forfaitairement au quadruple du salaire social minimum pour travailleurs qualifiés. Le Bureau de la Chambre fixe les conditions et les modalités du versement.
+
+L’exactitude des indications est certifiée par la signature de l’ayant droit.
+
+9.
+
+Sur présentation d’un contrat de travail, la Chambre, de l’assentiment de son Bureau, qui juge de la réalité des relations de travail, indemnise le député des frais à lui accrus du fait de l’engagement d’un collaborateur, sans que cette indemnité ne puisse dépasser un maximum de 340 points indiciaires mensuels , à augmenter d’un douzième à titre d’allocation de fin d’année. Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés. Le député ne peut pas demander l’indemnisation des frais à lui accrus du fait de l’engagement de son conjoint, du partenaire avec lequel il vit dans un partenariat déclaré au Luxembourg ou à l’étranger, du partenaire avec lequel il vit en communauté de vie ou de ses parents, enfants, frères ou soeurs.
+
+Plusieurs députés peuvent engager en commun et solidairement un ou plusieurs collaborateurs. Dans ce cas l’indemnité à rembourser par la Chambre des députés est plafonnée au total cumulé des montants de l’indemnité de secrétariat revenant à chaque député employeur.
+
+La Chambre rembourse aux députés non réélus lors d’élections législatives les indemnités pour le mois en cours et, jusqu’à concurrence des montants prévus aux alinéas qui précèdent, les indemnités de préavis et de départ qu’ils sont tenus à verser conformément à la législation sur le contrat de travail à leurs collaborateurs visés au présent paragraphe en cas de licenciement à la suite des élections en question.
+
+Les alinéas qui précèdent ne s’appliquent pas aux membres du Parlement européen élus au Grand-Duché de Luxembourg.
+
+10.
+
+Une indemnité de départ est versée par la Chambre des députés à ses membres qui quittent leur mandat parlementaire national.
+
+Cette indemnité de départ correspond à 375 points indiciaires et est versée pendant 3 mois suivant la fin du mandat parlementaire.
+
+Les dispositions de l’alinéa 4 du paragraphe 1. du présent article sont applicables.
+
+Le membre de la Chambre qui abandonne son mandat de parlementaire pour accepter une fonction comme membre du Gouvernement, du Parlement européen ou de la Commission européenne n’a plus droit à l’indemnité de départ à partir du moment où il assume ses nouvelles fonctions. Il en est de même d’un ancien député qui réintègre la Chambre avant la fin de la durée du versement de son indemnité de départ.
+
+Au cas où un député ayant déjà dans le passé bénéficié de l’intégralité de l’indemnité de départ au sens du présent paragraphe réintègre ultérieurement la Chambre, il ne peut plus bénéficier une nouvelle fois d’une indemnité de départ au moment où il quitte de nouveau sa fonction de député. Toutefois, si à la fin du mandat précédent, il n’a touché qu’une partie de l’indemnité de départ, il peut en bénéficier du solde.
+
+L’indemnité de départ versée par la Chambre aux députés sortants est soumise aux mêmes charges sociales et fiscales que l’indemnité parlementaire. Pendant la durée du paiement de l’indemnité de départ, le député sortant continue à bénéficier du régime de sécurité sociale des députés.
+
 ### TITRE II DES ÉLIGIBLES
 
 #### Chapitre Ier. Des conditions d'éligibilité
@@ -778,15 +1202,97 @@ Le député qui pendant chacune des deux sessions ordinaires consécutives est r
 
 Pour être éligible, il faut:
 
+- être Luxembourgeois ou Luxembourgeoise;
+
+- jouir des droits civils et politiques;
+
+- être âgé de dix-huit ans accomplis au jour de l'élection;
+
+- être domicilié dans le Grand-Duché de Luxembourg.
+
 <a id="art-128"></a>
 ## Art. 128.
 
-Ne sont pas éligibles: La perte d'une des conditions d'éligibilité entraîne la cessation du mandat.
+Ne sont pas éligibles:
+
+- les personnes qui sont privées du droit d'éligibilité par condamnation;
+
+- les personnes qui sont exclues de l'électorat par l'article 6 de la présente loi.
+
+La perte d'une des conditions d'éligibilité entraîne la cessation du mandat.
 
 #### Chapitre II Des incompatibilités
 
 <a id="art-129"></a>
 ## Art. 129.
+
+(1)
+
+Sans préjudice des dispositions de l’article 65 de la Constitution, le mandat de parlementaire est incompatible avec la qualité de fonctionnaire, employé ou ouvrier exerçant un emploi rémunéré par l’Etat, par un établissement public soumis à la surveillance du Gouvernement, par une commune, un syndicat de communes, un établissement public placé sous la surveillance d’une commune, ainsi qu’avec la qualité d’agent exerçant un emploi rémunéré par la Société Nationale des Chemins de Fer Luxembourgeois.
+
+(2)
+
+En cas d’acceptation du mandat de parlementaire, qui est constatée par la prestation du serment de parlementaire, les membres du Gouvernement et les conseillers d’Etat sont démissionnés de plein droit de leur fonction sous réserve du droit acquis à la pension dans les conditions et limites fixées par la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat.
+
+(3) 1.
+
+Les personnes énumérées au paragraphe (1) à l’exception de celles visées au paragraphe (2) ci-dessus, en service à la date du 1er janvier 1999 ou rentrées en service après cette date, sont d’office mises à la retraite et ont droit, à partir du premier jour du mois qui suit la prestation du serment de parlementaire, à une pension spéciale à charge de l’Etat, calculée par les organismes respectifs visés au paragraphe (1) d’après les dispositions de leur législation de pension propre, compte tenu du temps de service et de la rémunération établis suivant les droits dont les intéressés jouissent en vertu de leur régime statutaire ou contractuel.
+
+Les personnes entrées en service après la prédite date sont démissionnées d’office à partir du jour de la prestation de serment de parlementaire et ont droit, à partir du premier jour du mois qui suit, à un traitement d’attente à charge de l’Etat correspondant à soixante-six pour cent de la rémunération sujette à retenue pour pension, respectivement de la rémunération établie suivant les droits dont les intéressés jouissent en vertu de leur régime statutaire ou contractuel, acquise à la veille de la démission. Ce traitement d’attente est versé ensemble avec l’indemnité parlementaire et donne lieu aux déductions à titre de cotisations pour l’assurance maladie, l’assurance vieillesse invalidité, l’assurance dépendance, respectivement à titre de retenue pour pension suivant le régime dont l’intéressé relève, et à titre d’impôts généralement prévues en matière de rémunérations.
+
+2. A la date du 1er janvier de chaque année, la pension spéciale, respectivement le traitement d’attente du bénéficiaire sont révisés sur la base des traitements, indemnités ou salaires et des services ou périodes que l’agent aurait encore pu obtenir dans la carrière occupée au moment de la mise à la retraite, compte tenu des avancements en échelon et en traitement ainsi que des promotions qu’il aurait pu y acquérir encore, s’il était resté en service. Pour cette reconstitution de carrière toutes les prémisses nécessaires à leur réalisation, à l’exception des conditions d’âge et d’années de service, sont censées être acquises. Les promotions ont lieu au moment où un collègue de rang égal ou immédiatement inférieur obtient la même promotion.
+
+3. Si l’intéressé exerce pendant sa mise à la retraite une activité professionnelle, la pension spéciale ou le traitement d’attente sont diminués ou suspendus dans la mesure où le total des revenus d’une activité professionnelle sujette à assurance-pension auprès du régime de pension général ainsi que de la pension spéciale ou du traitement d’attente dépasse la rémunération servant de base au calcul respectivement de la pension spéciale et du traitement d’attente.
+
+4. La pension spéciale ou le traitement d’attente peuvent être remplacés, sur demande, par la pension à laquelle le parlementaire peut prétendre auprès du régime de pension dont il relève. Ils le seront d’office à partir de la limite d’âge de l’intéressé telle qu’elle est prévue par son régime statutaire ou contractuel et, à défaut de pareille limite d’âge, à partir de l’âge de 65 ans.
+
+A condition que l’intéressé ait été bénéficiaire d’une pension spéciale et qu’il s’agisse d’une pension à servir par un régime de pension spécial, le calcul en sera fait sur la base de la pension spéciale révisée à la date de sa cessation. La situation du parlementaire en cause sera assimilée à celle d’un bénéficiaire de pension rentré au service de l’Etat, conformément aux dispositions de l’art. 18.1., paragraphes 1, 2 et 3 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat. S’il s’agit d’une pension à servir par le régime de pension général, le calcul en sera fait en raison des périodes d’assurance acquises à la date de son octroi.
+
+Si l’intéressé était bénéficiaire d’un traitement d’attente, le calcul de la pension sera fait en raison des périodes d’assurance acquises à la date de son octroi auprès du régime de pension spécial dont il relève.
+
+(4)
+
+En cas de décès du bénéficiaire d’une pension spéciale ou du bénéficiaire d’un traitement d’attente, la pension des survivants est calculée par le régime de pension spécial dont relève le défunt sur la base de la pension spéciale, révisée à la date du décès, respectivement des périodes d’assurance acquises auprès du régime de pension dont relève le défunt à la date du décès.
+
+(5) 1.
+
+Lorsque le mandat de parlementaire vient à cesser, d’office ou sur demande de l’intéressé, le bénéficiaire d’une pension spéciale ou d’un traitement d’attente, qui à la date de cette cessation remplit les conditions de droit ou d’allocation requises par le régime de pension spécial dont il relève, y aura droit à une pension établie sur la base de la pension spéciale révisée à la prédite date, respectivement des périodes d’assurance y acquises.
+
+Si l’ayant droit à pension, ancien bénéficiaire d’une pension spéciale, relève du régime de pension général, il aura droit à la pension résultant de l’affiliation auprès du régime de pension général et, dans la mesure où l’ayant droit remplit les conditions de droit à pension prévues à l’article 55, II. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, aux prestations découlant de son mandat de parlementaire dans les conditions et limites y prévues.
+
+2. Celui qui ne fait pas usage de son droit à pension ou qui ne remplit pas encore les conditions pour obtenir sa pension est, sur sa demande à présenter endéans les six mois qui suivent la cessation de son mandat de parlementaire, réintégré dans son administration d’origine à un emploi correspondant à la rémunération qui a servi de base au calcul respectivement de ladite pension spéciale et du traitement d’attente, révisée à la date de la cessation du mandat de parlementaire. A défaut de vacance d’emploi, il est créé, soit dans son administration d’origine, soit dans une autre administration, un emploi hors cadre correspondant à cette rémunération; cet emploi est supprimé de plein droit à la première vacance de poste appropriée se produisant dans le cadre ordinaire.
+
+Le temps passé en qualité de bénéficiaire, soit d’une pension spéciale, soit d’un traitement d’attente est considéré comme temps de service, respectivement comme période d’assurance.
+
+3. Dans les hypothèses visées par le paragraphe (4) ci-dessus, des mensualités égales au montant de la rémunération qui a servi de base à la fixation de la pension spéciale et du traitement d’attente révisés à la date du décès, sont payées encore à titre de trimestre de faveur pendant la période de trois mois suivant le décès.
+
+4. La pension spéciale, respectivement le traitement d’attente prennent fin, soit à partir du premier jour du mois qui suit celui au cours duquel la demande de réintégration a été présentée, soit à partir respectivement du début du trimestre de faveur ou de la pension et au plus tard six mois après la cessation du mandat de député.
+
+5. Si la cessation du mandat de député n’a pas donné lieu à jouissance subséquente d’une pension ou à réintégration, l’ancien bénéficiaire d’une pension spéciale relevant d’un régime de pension spécial est considéré, en ce qui concerne ses droits à la pension, comme ayant terminé sa carrière à la date de la cessation du mandat de député. Dans cette hypothèse l’intéressé est censé avoir touché une rémunération égale au montant ayant servi de base à la fixation de la pension spéciale, révisée à la date de la cessation du mandat de député.
+
+(6)
+
+Si le bénéficiaire de la pension spéciale respectivement du traitement d’attente visé par les paragraphes (3) 4, (4), (5) 1., 2. et 5 relève du régime de pension général, le temps passé comme membre de la Chambre des députés est considéré comme période d’assurance pour la durée de jouissance de cette pension ou de ce traitement d’attente.
+
+Les cotisations y relatives, sauf en ce qui concerne la part de l’intéressé bénéficiaire du traitement d’attente, sont à charge de l’Etat. Elles sont établies en fonction respectivement des rémunérations servant de base à la fixation de la pension spéciale, respectivement du traitement d’attente.
+
+Sans préjudice des prestations à faire en application des alinéas qui précèdent, et à condition qu’il n’y ait pas jouissance d’une pension en application des dispositions des paragraphes 1 à 4 de l’article 55, II de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, la cessation du mandat de parlementaire ouvre droit aussi, à l’égard des personnes visées à l’alinéa premier du paragraphe (3) 1, aux prestations résultant de l’assurance rétroactive auprès de la Caisse de Pension des Employés Privés, telle que cette assurance rétroactive est réglée par le paragraphe 5 du prédit article, et à l’égard des personnes visées par le deuxième alinéa du même paragraphe, aux prestations résultant de l’assurance, du chef du bénéfice de l’indemnité parlementaire imposable, auprès du régime de pension spécial dont relève l’intéressé.
+
+(7) 1.
+
+La pension venant à échéance dans les hypothèses des paragraphes (4) et (5) 1 et 5 sur la base des dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est calculée sur la rémunération qui a servi de base à la fixation de la pension spéciale révisée à la date de la cessation du mandat de parlementaire, augmentée de soixante points indiciaires.
+
+2. En cas de cessation du mandat de député, la pension venant à échéance dans les hypothèses des paragraphes (3) 4 et (5) 2 sur la base des dispositions de la loi sur les pensions des fonctionnaires de l’Etat est calculée ou recalculée sur la rémunération ayant servi ou servant de base à la fixation de la pension augmentée de 60 points indiciaires.
+
+Il en est de même en cas de révision de la pension ou du droit à pension du bénéficiaire relevant d’un régime de pension spécial et tombant sous le champ d’application de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat dans l’hypothèse de l’exercice du mandat de député postérieurement à la cessation des fonctions ou à la jouissance de la pension.
+
+3. Le calcul des pensions accordées sur la base des dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat du chef de personnes qui, avant leur admission au service public, avaient exercé le mandat de député, se fait sur la base du traitement pensionnable augmenté de 60 points indiciaires.
+
+4. Les dispositions du présent paragraphe ne s’appliquent pas aux pensions accordées en application de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat et établies sur la base d’un traitement attaché à la fonction de membre du Gouvernement.
+
+(8)
+
+Les termes de «loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat» visent indistinctement la prédite loi du 26 mai 1954 ainsi que les règlements grand-ducaux d’assimilation y relatifs pris en exécution d’autres dispositions légales ayant trait à l’assurance pension des agents publics ou des personnes y assimilées.
 
 <a id="art-130"></a>
 ## Art. 130.
@@ -802,6 +1308,86 @@ Les membres de la Chambre ne peuvent être parents ou alliés jusqu’au deuxiè
 
 <a id="art-131bis"></a>
 ## Art. 131bis.
+
+(1)
+
+Le recours visé à l’article 67, paragraphe 3, de la Constitution doit, sous peine de forclusion, être introduit par requête déposée au greffe de la Cour Constitutionnelle dans un délai de trois jours après la notification de la décision de la Chambre des Députés.
+
+Le recours a un effet suspensif.
+
+(2)
+
+Le recours ne peut être introduit que par le candidat élu ou le député qui fait l’objet de la décision.
+
+Le recours est introduit sous forme de requête.
+
+Le requérant et la Chambre des Députés sont dispensés du ministère d’avocat à la Cour.
+
+(3)
+
+Le recours est introduit par requête déposée au greffe de la Cour Constitutionnelle.
+
+La requête écrite, datée et signée par le requérant ou son mandataire contient :
+
+- les nom, prénoms, adresse électronique et domicile du requérant ;
+
+- l’objet de la demande ;
+
+- la désignation et la date de la notification de la décision contre laquelle le recours est dirigé ;
+
+- l’exposé sommaire des faits et des moyens invoqués ;
+
+- le relevé des pièces dont le requérant entend se servir.
+
+(4)
+
+La requête est déposée en deux exemplaires. Les pièces sont jointes en deux copies. La décision critiquée doit figurer en copie parmi les pièces versées.
+
+La Cour Constitutionnelle peut exiger le dépôt des originaux des pièces au greffe de la Cour Constitutionnelle.
+
+(5)
+
+Au plus tard le jour ouvrable qui suit la date de dépôt de la requête, un exemplaire de la requête ainsi qu’une copie des pièces déposées avec la requête est notifiée, par courrier électronique confirmé par lettre recommandée, par le greffe de la Cour Constitutionnelle à la Chambre des Députés.
+
+(6)
+
+La Chambre des Députés est représentée par un agent de l’Administration parlementaire dûment mandaté ou un mandataire ayant la qualité d’avocat inscrit à la liste I des tableaux dressés annuellement par les conseils des ordres des avocats.
+
+(7)
+
+Les pièces dont la Chambre des Députés entend se prévaloir doivent être déposées auprès du greffe de la Cour Constitutionnelle, sous peine de forclusion, au plus tard trois jours avant l’audience. Elles sont notifiées par courrier électronique confirmé par lettre recommandée par le greffe de la Cour Constitutionnelle au requérant.
+
+(8)
+
+Au plus tard dans les dix jours qui suivent le dépôt de la requête, les parties sont entendues par la Cour Constitutionnelle à l’audience à laquelle elles ont été convoquées par les soins du greffe par courrier électronique confirmé par lettre recommandée avec accusé de réception.
+
+Cette convocation est notifiée au plus tard quatre jours avant la date de l’audience.
+
+Lorsqu’une partie entend se servir d’une attestation testimoniale en appui de sa position, la Cour Constitutionnelle peut décider de convoquer, par les soins du greffe par courrier électronique confirmé par lettre recommandée avec accusé de réception et au plus tard quatre jours avant la date de l’audience, les témoins à ladite audience.
+
+Dans ce cas, la liste des témoins convoqués est jointe à la convocation adressée aux parties.
+
+Lorsqu’une des parties ou les deux parties ne comparaissent pas, la Cour Constitutionnelle statue néanmoins à leur égard. L’arrêt est réputé contradictoire.
+
+(9)
+
+La procédure est orale.
+
+(10)
+
+L’arrêt de la Cour Constitutionnelle est rendu au plus tard le quatrième jour ouvré après le jour du délibéré. Il est motivé et se prononce tant sur la recevabilité que sur le bien-fondé du recours.
+
+(11)
+
+L’arrêt est prononcé en audience publique et une copie certifiée conforme de l’arrêt est notifiée par le greffe de la Cour Constitutionnelle au requérant et à la Chambre des Députés.
+
+(12)
+
+La Cour Constitutionnelle statue en dernier ressort.
+
+(13)
+
+L’arrêt est publié sur le site Internet de la Justice du Grand-Duché de Luxembourg dans les trente jours de son prononcé.
 
 <a id="art-131ter"></a>
 ## Art. 131ter.
@@ -1002,6 +1588,10 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+
+- les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire; ceux qui ne contiennent l’expression d’aucun suffrage; ceux dont les formes et dimensions ont été altérées, qui contiennent à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+
 <a id="art-148"></a>
 ## Art. 148.
 
@@ -1026,6 +1616,34 @@ Le président du bureau principal de la commune, après avoir recueilli tous ces
 
 <a id="art-150"></a>
 ## Art. 150.
+
+(1)
+
+Les bulletins de vote sont groupés par bulletins valables et bulletins nuls et placés, à l’exclusion de toutes autres pièces, dans deux enveloppes dont l’une renferme les bulletins valables et l’autre les bulletins nuls.
+
+(2)
+
+La suscription de chacune de ces enveloppes porte l’indication du lieu et de la date de l’élection, du numéro du bureau de dépouillement, du genre ainsi que du nombre des bulletins qu’elle renferme
+
+(3)
+
+Ces enveloppes sont réunies en un seul paquet, qui est cacheté du sceau communal ou de celui d’un membre du bureau et muni des signatures du président, d’un assesseur et d’un témoin, et dont la suscription porte les mêmes indications.
+
+(4)
+
+Le bureau arrête le nombre des votants, celui des bulletins blancs et nuls et des bulletins valables, le nombre des suffrages de liste et celui des suffrages nominatifs. Il les fait inscrire au procès-verbal. Le procès-verbal est clos par un tableau, conçu d’après le modèle 2 annexé à la présente loi qui renseigne:
+
+- le nombre des bulletins trouvés dans l’urne;
+
+- le nombre des bulletins blancs et nuls;
+
+- le nombre des bulletins valables;
+
+- pour chacune des listes, classées dans l’ordre de leur numéro, le nombre des suffrages de liste et celui des suffrages nominatifs obtenus par chaque candidat.
+
+(5)
+
+Ces opérations terminées, le président proclame publiquement le résultat du recensement de son bureau de dépouillement.
 
 <a id="art-151"></a>
 ## Art. 151.
@@ -1056,6 +1674,16 @@ Lorsque ce dernier est lui-même président du bureau principal de la commune, i
 ## Art. 154.
 
 Le président du bureau principal de la commune forme en outre:
+
+- un ou plusieurs paquets scellés et cachetés du sceau communal ou de celui du président qui contiennent les bulletins de vote de tous les bureaux de vote de la commune et portent comme suscription, outre l’adresse :
+
+  - Élections législatives du..............................
+
+  - Bulletins de vote
+
+- un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 146;
+
+- un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux.
 
 Ces paquets sont expédiés par le président du bureau principal de la commune à la Chambre des députés par envois séparés recommandés à la poste et ne peuvent être ouverts que par les commissions de vérification des pouvoirs.
 
@@ -1255,6 +1883,8 @@ Les enveloppes de transmission sont immédiatement détruites sans avoir été o
 <a id="art-182"></a>
 ## Art. 182.
 
+(abrogé)
+
 ## LIVRE III. DES CORPS COMMUNAUX ET DES ÉLECTIONS COMMUNALES
 
 ### TITRE Ier DISPOSITIONS ORGANIQUES
@@ -1264,13 +1894,19 @@ Les enveloppes de transmission sont immédiatement détruites sans avoir été o
 <a id="art-183"></a>
 ## Art. 183.
 
+(abrogé)
+
 #### Chapitre II. Du conseil communal
 
 <a id="art-184"></a>
 ## Art. 184.
 
+(abrogé)
+
 <a id="art-185"></a>
 ## Art. 185.
+
+(abrogé)
 
 <a id="art-186"></a>
 ## Art. 186.
@@ -1284,8 +1920,12 @@ Par dérogation à ce qui précède, un règlement grand-ducal peut changer la d
 <a id="art-187"></a>
 ## Art. 187.
 
+(abrogé)
+
 <a id="art-188"></a>
 ## Art. 188.
+
+(abrogé)
 
 <a id="art-189"></a>
 ## Art. 189.
@@ -1308,6 +1948,8 @@ Les conseillers élus lors des élections qui suivent la dissolution du conseil 
 <a id="art-191"></a>
 ## Art. 191.
 
+(abrogé)
+
 ### TITRE II DES ÉLIGIBLES
 
 #### Chapitre Ier. Des conditions d'éligibilité
@@ -1317,7 +1959,21 @@ Les conseillers élus lors des élections qui suivent la dissolution du conseil 
 
 Pour être éligible, il faut:
 
-Le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen et l’autre ressortissant étranger doit produire à l’appui de sa candidature: En cas de fausse déclaration, les pénalités prévues à l’article 94 par la présente loi sont applicables En cas de doute sur le contenu de la déclaration visée sous b) ci-dessus, le président du bureau de vote principal de la commune avant le vote ou la juridiction saisie d'un recours après le vote peuvent demander une attestation des autorités administratives compétentes de l'Etat membre d'origine certifiant que le candidat n'est pas déchu du droit d'éligibilité dans cet Etat ou que les autorités ne sont pas au courant d'une telle déchéance.
+- jouir des droits civils et ne pas être déchu du droit d’éligibilité dans le Grand-Duché de Luxembourg ou dans l’Etat d’origine; cette dernière condition ne peut toutefois pas être opposée à des citoyens non luxembourgeois qui, dans leur pays d’origine, ont perdu le droit d’éligibilité en raison de leur résidence en dehors de leur Etat d’origine;
+
+- être âgé de dix-huit ans accomplis au jour de l’élection;
+
+- avoir sa résidence habituelle dans la commune, c’est-à-dire y habiter d’ordinaire; cette condition doit être remplie depuis six mois au moins lors du dépôt de la candidature.
+
+Le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen et l’autre ressortissant étranger doit produire à l’appui de sa candidature:
+
+- une déclaration précisant: En cas de fausse déclaration, les pénalités prévues à l’article 94 par la présente loi sont applicables En cas de doute sur le contenu de la déclaration visée sous b) ci-dessus, le président du bureau de vote principal de la commune avant le vote ou la juridiction saisie d'un recours après le vote peuvent demander une attestation des autorités administratives compétentes de l'Etat membre d'origine certifiant que le candidat n'est pas déchu du droit d'éligibilité dans cet Etat ou que les autorités ne sont pas au courant d'une telle déchéance.
+
+  - sa nationalité et son adresse au Grand-Duché de Luxembourg;
+
+  - qu'il n'est pas déchu du droit d'éligibilité dans son Etat membre d'origine ou, le cas échéant, que la perte du droit d'éligibilité est due aux conditions de résidence imposées par l'Etat d'origine.
+
+- un document d'identité en cours de validité.
 
 Le ressortissant étranger autre que le ressortissant d’un autre État membre de l’Union européenne ou de l’Espace Schengen doit produire en outre à l’appui de sa candidature une carte ou un titre de séjour ou une carte de légitimation en cours de validité.
 
@@ -1325,6 +1981,10 @@ Le ressortissant étranger autre que le ressortissant d’un autre État membre 
 ## Art. 193.
 
 Ne sont pas éligibles:
+
+- les personnes qui sont privées du droit d'éligibilité par condamnation;
+
+- les personnes qui sont exclues de l'électorat par l'article 6 de la présente loi.
 
 <a id="art-193bis"></a>
 ## Art. 193bis.
@@ -1344,8 +2004,12 @@ La déchéance est constatée par le conseil communal dans les trente jours de l
 <a id="art-194"></a>
 ## Art. 194.
 
+(abrogé)
+
 <a id="art-195"></a>
 ## Art. 195.
+
+(abrogé)
 
 <a id="art-196"></a>
 ## Art. 196.
@@ -1504,7 +2168,9 @@ Chaque bureau électoral compte, sans les déplier, les bulletins contenus dans 
 <a id="art-214"></a>
 ## Art. 214.
 
-L’un des assesseurs déplie les bulletins et les remet au président, qui énonce les suffrages obtenus par chaque candidat. Deux des assesseurs font le recensement des suffrages et en tiennent note, chacun séparément.
+L’un des assesseurs déplie les bulletins et les remet au président, qui énonce les suffrages obtenus par chaque candidat.
+
+Deux des assesseurs font le recensement des suffrages et en tiennent note, chacun séparément.
 
 <a id="art-215"></a>
 ## Art. 215.
@@ -1512,6 +2178,12 @@ L’un des assesseurs déplie les bulletins et les remet au président, qui éno
 Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
+
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+
+- les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire et ceux qui ne contiennent l’expression d’aucun suffrage;
+
+- les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient, à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
 
 <a id="art-216"></a>
 ## Art. 216.
@@ -1583,6 +2255,10 @@ Le procès-verbal d’élection et le relevé des personnes élues, dressés par
 Une copie du procès-verbal d’élection signé comme l’original est déposé au secrétariat de la commune où chacun peut en prendre connaissance.
 
 Toutes les enveloppes renfermant les bulletins de vote sont réunies séance tenante et à l’exclusion de toutes autres pièces en un ou plusieurs paquets qui portent pour suscription, outre l’adresse du destinataire:
+
+- Election communale de ................................du........................
+
+- Bulletins de vote.
 
 <a id="art-225"></a>
 ## Art. 225.
@@ -1795,6 +2471,12 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+
+- les bulletins qui expriment plus de suffrages qu’il n y a de membres à élire et ceux qui ne contiennent l’expression d’aucun suffrage;
+
+- les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+
 <a id="art-246"></a>
 ## Art. 246.
 
@@ -1828,6 +2510,12 @@ Ces deux enveloppes sont réunies en un seul paquet qui est cacheté du sceau co
 ## Art. 249.
 
 Le bureau arrête le nombre des votants, celui des bulletins blancs et nuls et des bulletins valables, le nombre des suffrages de liste et celui des suffrages nominatifs. Il les fait inscrire au procès-verbal. Le procès-verbal est clos par un tableau, conçu d’après le modèle 2 annexé à la présente, qui renseigne:
+
+- le nombre des bulletins trouvés dans l’urne;
+
+- le nombre des bulletins blancs et nuls;
+
+- le nombre des bulletins valables;
 
 pour chacune des listes, classées dans l’ordre de leur numéro, le nombre des votes de liste et celui des suffrages nominatifs obtenus par chaque candidat.
 
@@ -1917,6 +2605,10 @@ Le procès-verbal d’élection et le relevé des personnes élues dressés par 
 Une copie du procès-verbal d’élection, signé comme l’original, est déposé au secrétariat de la commune où chacun peut en prendre connaissance.
 
 Toutes les enveloppes renfermant les bulletins de vote sont réunies dès la clôture du procès-verbal du bureau principal en un ou plusieurs paquets qui portent pour suscription, outre l’adresse du destinataire:
+
+- Election communale de ................................du........................
+
+- Bulletins de vote.
 
 <a id="art-261"></a>
 ## Art. 261.
@@ -2046,6 +2738,8 @@ Le greffe de la Cour donne avis de ce recours, par lettre recommandée, à l’a
 <a id="art-278"></a>
 ## Art. 278.
 
+(abrogé)
+
 <a id="art-279"></a>
 ## Art. 279.
 
@@ -2103,15 +2797,117 @@ Le Parlement européen reçoit la démission de ses membres.
 <a id="art-285"></a>
 ## Art. 285.
 
+(1)
+
+Pour être éligible, il faut:
+
+- être Luxembourgeois ou ressortissant d’un autre Etat membre de l’Union européenne;
+
+- jouir des droits civils et ne pas être déchu des droits politiques au Grand-Duché de Luxembourg ou dans l’Etat membre d’origine;
+
+- être âgé de 18 ans accomplis au jour de l’élection;
+
+- – pour les Luxembourgeois, être domicilié dans le Grand-Duché de Luxembourg; – pour les ressortissants d’un autre Etat membre de l’Union européenne, être domicilié sur le territoire luxembourgeois et y avoir résidé au moment du dépôt de la liste des candidats.
+
+(2)
+
+Le ressortissant d’un autre Etat membre de l’Union européenne doit produire à l’appui de sa candidature:
+
+- une déclaration formelle précisant: En cas de fausse déclaration sur un des points visés sub a), b), c) ou d) ci-dessus, les pénalités prévues par la présente loi sont applicables;
+
+  - sa nationalité, sa date et son lieu de naissance, sa dernière adresse dans l’Etat membre d’origine et son adresse au Grand-Duché de Luxembourg;
+
+  - le cas échéant, sur la liste électorale de quelle collectivité locale ou circonscription dans l’Etat membre d’origine il a été inscrit en dernier lieu;
+
+  - qu’il n’est pas simultanément candidat aux élections européennes dans un autre Etat membre;
+
+  - qu’il n’est pas déchu du droit d’éligibilité dans l’Etat membre d’origine, par l’effet d’une décision de justice individuelle ou d’une décision administrative pour autant que cette dernière puisse faire l’objet d’un recours ou, le cas échéant, que la perte du droit de vote est due aux conditions de résidence imposées par l’Etat d’origine.
+
+- un document d’identité en cours de validité.
+
 <a id="art-286"></a>
 ## Art. 286.
 
-Ne sont pas éligibles: La perte d’une des conditions d’éligibilité entraîne la cessation du mandat.
+Ne sont pas éligibles:
+
+- les personnes qui sont privées du droit d’éligibilité par condamnation;
+
+- les personnes qui sont exclues de l’électorat par les dispositions de l’article 6 de la présente loi.
+
+La perte d’une des conditions d’éligibilité entraîne la cessation du mandat.
 
 #### Chapitre II. Des incompatibilités
 
 <a id="art-287"></a>
 ## Art. 287.
+
+(1)
+
+Le mandat de membre du Parlement européen est incompatible avec la qualité de député, la fonction de membre du Gouvernement et celle de membre du Conseil d’État, la qualité de fonctionnaire, employé ou ouvrier exerçant un emploi rémunéré par l’État, par un établissement public soumis à la surveillance du Gouvernement, par une commune, un syndicat de communes ou un établissement public placé sous la surveillance d’une commune.
+
+(2)
+
+En cas d’acceptation du mandat de membre du Parlement européen, qui est constatée par la prestation du serment de parlementaire, les membres du Gouvernement et les conseillers d’Etat sont démissionnés de plein droit de leur fonction sous réserve du droit acquis à la pension dans les conditions et limites fixées par la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat.
+
+(3)
+
+1. Les personnes énumérées au paragraphe (1) à l’exception de celles visées au paragraphe (2) ci-dessus, en service à la date du 1er janvier 1999 ou rentrées en service après cette date, sont d’office mises à la retraite et ont droit, à partir du premier jour du mois qui suit la prestation du serment de parlementaire européen, à une pension spéciale à charge de l’Etat, calculée par les organismes respectifs visés au paragraphe (1) d’après les dispositions de leur législation de pension propre, compte tenu du temps de service et de la rémunération établis suivant les droits dont les intéressés jouissent en vertu de leur régime statutaire ou contractuel.
+
+Les personnes entrées en service après la prédite date sont démissionnées d’office à partir du jour de la prestation du serment de parlementaire européen et ont droit, à partir du premier jour du mois qui suit, à un traitement d’attente à charge de l’Etat correspondant à soixante-six pour-cent de la rémunération sujette à retenue pour pension, respectivement de la rémunération établie suivant les droits dont les intéressés jouissent en vertu de leur régime statutaire ou contractuel, acquise à la veille de la démission. Ce traitement d’attente est versé ensemble avec l’indemnité parlementaire et donne lieu aux déductions à titre de cotisations pour l’assurance maladie, l’assurance vieillesse invalidité, l’assurance dépendance, respectivement à titre de retenue pour pension suivant le régime dont l’intéressé relève, et à titre d’impôts généralement prévues en matière de rémunérations.
+
+2. A la date du 1er janvier de chaque année, la pension spéciale, respectivement le traitement d’attente du bénéficiaire seront révisés sur la base des traitements, indemnités ou salaires et des services ou périodes que l’agent aurait encore pu obtenir dans la carrière occupée au moment de la mise en retraite, compte tenu des avancements en échelon et en traitement ainsi que des promotions qu’il aurait pu y acquérir encore, s’il était resté en service. Pour cette reconstitution de carrière, toutes les prémisses nécessaires à leur réalisation, à l’exception des conditions d’âge et d’années de service, sont censées être acquises. Les promotions ont lieu au moment où un collègue de rang égal ou immédiatement inférieur obtient la même promotion.
+
+3. Si l’intéressé exerce pendant sa mise à la retraite une activité professionnelle, la pension spéciale ou le traitement d’attente sont diminués ou suspendus dans la mesure où le total des revenus d’une activité professionnelle sujette à assurance pension auprès du régime de pension général ainsi que de la pension spéciale ou du traitement d’attente dépasse la rémunération servant de base au calcul respectivement de la pension spéciale et du traitement d’attente.
+
+4. La pension spéciale ou le traitement d’attente peuvent être remplacés, sur demande, par la pension à laquelle le parlementaire européen peut prétendre auprès du régime de pension dont il relève. Ils le seront d’office à partir de la limite d’âge de l’intéressé telle qu’elle est prévue par son régime statutaire ou contractuel et, à défaut de pareille limite d’âge, à partir de l’âge de 65 ans.
+
+A condition que l’intéressé ait été bénéficiaire d’une pension spéciale et qu’il s’agisse d’une pension à servir par un régime de pension spécial, le calcul en sera fait sur la base de la pension spéciale révisée à la date de sa cessation. La situation du parlementaire européen en cause sera assimilée à celle d’un bénéficiaire de pension rentré au service de l’Etat, conformément aux dispositions de l’art. 18.1, paragraphes 1er, 2 et 3 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat. S’il s’agit d’une pension à servir par le régime de pension général, le calcul en sera fait en raison des périodes d’assurance acquises à la date de son octroi.
+
+Si l’intéressé était bénéficiaire d’un traitement d’attente, le calcul de la pension sera fait en raison des périodes d’assurance acquises à la date de son octroi auprès du régime de pension spécial dont il relève.
+
+(4)
+
+En cas de décès du bénéficiaire d’une pension spéciale ou du bénéficiaire d’un traitement d’attente, la pension des survivants est calculée par le régime de pension spécial dont relève le défunt sur la base de la pension spéciale, révisée à la date de décès, respectivement des périodes d’assurance acquises auprès du régime de pension dont relève le défunt à la date du décès.
+
+(5)
+
+1. Lorsque le mandat de membre du Parlement européen vient à cesser, d’office ou sur demande de l’intéressé, le bénéficiaire d’une pension spéciale ou d’un traitement d’attente, qui à la date de cette cessation remplit les conditions de droit ou d’allocation requises par le régime de pension spécial dont il relève, y aura droit à une pension établie sur la base de la pension spéciale révisée à la prédite date, respectivement des périodes d’assurance y acquises.
+
+Si l’ayant droit à pension, ancien bénéficiaire d’une pension spéciale, relève du régime de pension général, il aura droit à la pension résultant de l’affiliation auprès du régime de pension général et, dans la mesure où l’ayant droit remplit les conditions de droit à pension prévues à l’article 55.II. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, aux prestations découlant de son mandat de parlementaire dans les conditions et limites y prévues.
+
+2. Celui qui ne fait pas usage de son droit à pension ou qui ne remplit pas encore les conditions pour obtenir sa pension est, sur sa demande à présenter endéans les six mois qui suivent la cessation de son mandat de parlementaire, réintégré dans son administration d’origine à un emploi correspondant à la rémunération qui a servi de base au calcul respectivement de ladite pension spéciale et du traitement d’attente, révisée à la date de la cessation du mandat de parlementaire. A défaut de vacance d’emploi, il est créé, soit dans son administration d’origine, soit dans une autre administration, un emploi hors cadre correspondant à cette rémunération. Cet emploi est supprimé de plein droit à la première vacance de poste appropriée se produisant dans le cadre ordinaire.
+
+Le temps passé en qualité de bénéficiaire, soit d’une pension spéciale, soit d’un traitement d’attente est considéré comme temps de service, respectivement comme période d’assurance.
+
+3. Dans les hypothèses visées par les paragraphes (3) 4, (4) et (5) 1. ci-dessus, des mensualités égales au montant de la rémunération qui a servi de base à la fixation respectivement de la pension normale sur la base des dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, de la pension spéciale et du traitement d’attente révisés à la date de la cessation du mandat de parlementaire, sont payées encore à titre de trimestre de faveur pendant la durée de trois mois suivant la cessation du mandat.
+
+4. La pension spéciale, respectivement le traitement d’attente prendront fin, soit à partir du premier jour du mois qui suit celui au cours duquel la demande de réintégration a été présentée, soit à partir respectivement du début du trimestre de faveur ou de la pension et au plus tard six mois après la cessation du mandat de député.
+
+5. Si la cessation du mandat de député n’a pas donné lieu à jouissance subséquente d’une pension ou à réintégration, l’ancien bénéficiaire d’une pension spéciale relevant d’un régime de pension spécial est considéré, en ce qui concerne ses droits à pension, comme ayant terminé sa carrière à la date de la cessation du mandat de député européen. Dans cette hypothèse l’intéressé est censé avoir touché une rémunération égale au montant ayant servi de base à la fixation de la pension spéciale, révisée à la date de la cessation du mandat de député européen.
+
+(6)
+
+Si le bénéficiaire de la pension spéciale respectivement du traitement d’attente visé par les paragraphes (3) 4, (4), (5) 1, 2 et 5 relève du régime de pension général, le temps passé comme membre du Parlement européen est considéré comme période d’assurance pour la durée de jouissance de cette pension ou de ce traitement d’attente.
+
+Les cotisations y relatives, sauf en ce qui concerne la part de l’intéressé bénéficiaire du traitement d’attente, sont à charge de l’Etat. Elles sont établies en fonction respectivement des rémunérations servant de base à la fixation de la pension spéciale, respectivement du traitement d’attente.
+
+Sans préjudice des prestations à faire en application des alinéas qui précèdent, et à condition qu’il n’y ait pas jouissance d’une pension en application des dispositions des paragraphes 1 à 4 de l’article 55, II de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, la cessation du mandat de parlementaire ouvre droit aussi, à l’égard des personnes visées à l’alinéa premier du paragraphe (3), 1; aux prestations résultant de l’assurance rétroactive auprès de la Caisse de pension des employés privés, telle que cette assurance rétroactive est réglée par le paragraphe 5 du prédit article, et à l’égard des personnes visées par le deuxième alinéa du même paragraphe, aux prestations résultant de l’assurance, du chef du bénéfice de l’indemnité parlementaire imposable, auprès du régime de pension spécial dont relève l’intéressé.
+
+(7)
+
+1. La pension venant à échéance dans les hypothèses des paragraphes (4) et (5), 1 et 5 sur la base des dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est calculée ou recalculée sur la rémunération ayant servi ou servant de base à la fixation de la pension augmentée de 60 points indiciaires.
+
+2. En cas de cessation du mandat de membre du Parlement européen élu au Grand-Duché de Luxembourg, la pension venant à échéance dans les hypothèses des paragraphes (3), 4 et (5), 2 sur la base des dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat est calculée ou recalculée sur la rémunération ayant servi ou servant de base à la fixation de la pension augmentée de 60 points indiciaires.
+
+Il en est de même en cas de révision de la pension ou du droit à pension du bénéficiaire relevant d’un régime de pension spécial et tombant sous le champ d’application de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat dans l’hypothèse de l’exercice du mandat de membre du Parlement européen élu au Grand-Duché de Luxembourg postérieurement à la cessation des fonctions ou à la jouissance de la pension.
+
+3. Le calcul des pensions accordées sur la base des dispositions de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat du chef de personnes qui, avant leur admission au service public, avaient exercé le mandat de député, se fait sur la base du traitement pensionnable augmenté de 60 points indiciaires.
+
+4. Les dispositions du présent paragraphe ne s’appliquent pas aux pensions accordées en application de la loi modifiée du 26 mai 1954 et établies sur la base d’un traitement attaché à la fonction de membre du Gouvernement.
+
+(8)
+
+Les termes de «loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat» visent indistinctement la prédite loi du 26 mai 1954 ainsi que les règlements grand-ducaux d’assimilation y relatifs pris en exécution d’autres dispositions légales ayant trait à l’assurance pension des agents publics ou des personnes y assimilées.
 
 <a id="art-288"></a>
 ## Art. 288.
@@ -2127,6 +2923,86 @@ Le membre du Parlement européen élu au Grand-Duché de Luxembourg qui a été 
 
 <a id="art-289bis"></a>
 ## Art. 289bis.
+
+(1)
+
+Le recours visé à l’article 67, paragraphe 3, de la Constitution doit être introduit sous peine de forclusion dans un délai de trois jours après la date de la notification de la décision prise par la Chambre des Députés.
+
+L’introduction du recours a un effet suspensif.
+
+(2)
+
+Le recours ne peut être introduit que par le candidat au Parlement européen ou membre du Parlement européen élu au Grand-Duché de Luxembourg qui fait l’objet de la décision.
+
+Le recours est introduit sous forme de requête.
+
+Le requérant et la Chambre des Députés sont dispensés du ministère d’avocat à la Cour
+
+(3)
+
+Le recours est introduit par requête déposée au greffe de la Cour Constitutionnelle.
+
+La requête écrite, datée et signée par le requérant ou son mandataire contient :
+
+- les nom, prénoms, adresse électronique et domicile du requérant ;
+
+- l’objet de la demande ;
+
+- la désignation et la date de la notification de la décision contre laquelle le recours est dirigé ;
+
+- l’exposé sommaire des faits et des moyens invoqués ; et
+
+- le relevé des pièces dont le requérant entend se servir.
+
+(4)
+
+La requête est déposée en deux exemplaires. Les pièces sont jointes en deux copies. La décision critiquée doit figurer en copie parmi les pièces versées.
+
+La Cour Constitutionnelle peut exiger le dépôt des originaux des pièces au greffe de la Cour Constitutionnelle.
+
+(5)
+
+Au plus tard le jour ouvrable qui suit la date de dépôt de la requête, un exemplaire de la requête ainsi qu’une copie des pièces déposées avec la requête est notifiée, par courrier électronique confirmé par lettre recommandée, par le greffe de la Cour Constitutionnelle à la Chambre des Députés.
+
+(6)
+
+La Chambre des Députés est représentée par un agent de l’Administration parlementaire dûment mandaté ou un mandataire ayant la qualité d’avocat inscrit à la liste I des tableaux dressés annuellement par les conseils des ordres des avocats.
+
+(7)
+
+Les pièces dont la Chambre des Députés entend se prévaloir doivent être déposées auprès du greffe de la Cour Constitutionnelle, sous peine de forclusion, au plus tard trois jours avant l’audience. Elles sont notifiées par courrier électronique confirmé par lettre recommandée par le greffe de la Cour Constitutionnelle au requérant.
+
+(8)
+
+Au plus tard dans les dix jours qui suivent le dépôt de la requête, les parties sont entendues par la Cour Constitutionnelle à l’audience à laquelle elles ont été convoquées par les soins du greffe par courrier électronique confirmé par lettre recommandée avec accusé de réception.
+
+Cette convocation est notifiée au plus tard quatre jours avant la date de l’audience.
+
+Lorsqu’une partie entend se servir d’une attestation testimoniale en appui de sa position, la Cour Constitutionnelle peut décider de convoquer, par les soins du greffe par courrier électronique confirmé par lettre recommandée avec accusé de réception et au plus tard quatre jours avant la date de l’audience, les témoins à ladite audience.
+
+Dans ce cas, la liste des témoins convoqués est jointe à la convocation adressée aux parties.
+
+Lorsqu’une des parties ou les deux parties ne comparaissent pas, la Cour Constitutionnelle statue néanmoins à leur égard. L’arrêt est réputé contradictoire.
+
+(9)
+
+La procédure est orale.
+
+(10)
+
+L’arrêt de la Cour Constitutionnelle est rendu au plus tard le quatrième jour ouvré après le jour du délibéré. Il est motivé et se prononce tant sur la recevabilité que sur le bien-fondé du recours.
+
+(11)
+
+L’arrêt est prononcé en audience publique et une copie certifiée conforme de l’arrêt est notifiée par le greffe de la Cour Constitutionnelle au requérant et à la Chambre des Députés.
+
+(12)
+
+La Cour Constitutionnelle statue en dernier ressort.
+
+(13)
+
+L’arrêt est publié au sur le site Internet de la Justice du Grand-Duché de Luxembourg dans les trente jours de son prononcé.
 
 <a id="art-289ter"></a>
 ## Art. 289ter.
@@ -2318,6 +3194,10 @@ Les bulletins nuls n’entrent point en compte pour fixer le nombre de voix.
 
 Sont nuls:
 
+- tous les bulletins autres que ceux dont l’usage est permis par la présente loi;
+
+- les bulletins qui expriment plus de suffrages qu’il n’y a de membres à élire; ceux qui ne contiennent l’expression d’aucun suffrage; ceux dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+
 <a id="art-305"></a>
 ## Art. 305.
 
@@ -2354,6 +3234,12 @@ Ces enveloppes sont réunies en un seul paquet, qui est cacheté du sceau commun
 
 Le bureau arrête le nombre des votants, celui des bulletins blancs et nuls et des bulletins valables, le nombre des suffrages de liste et celui des suffrages nominatifs. Il les fait inscrire au procès-verbal. Le procès-verbal est clos par un tableau, conçu d’après le modèle 8 annexé à la présente, qui renseigne:
 
+- le nombre des bulletins trouvés dans l’urne;
+
+- le nombre des bulletins blancs et nuls;
+
+- le nombre des bulletins valables;
+
 pour chacune des listes, classées dans l’ordre de leur numéro, le nombre des votes de liste et celui des suffrages nominatifs obtenus par chaque candidat.
 
 Ces opérations terminées, le président proclame publiquement le résultat du recensement de son bureau de dépouillement.
@@ -2385,6 +3271,16 @@ La suscription de chacun de ces deux plis indique, outre l’adresse, la mention
 ## Art. 312.
 
 Le président du bureau principal de la commune forme en outre:
+
+- un ou plusieurs paquets scellés et cachetés du sceau communal ou de celui du président qui contiennent les bulletins de vote de tous les bureaux de vote de la commune et portent comme suscription, outre l’adresse :
+
+  - Élections européennes du......................................
+
+  - Bulletins de vote
+
+- un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 303
+
+- un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux.
 
 Ces paquets sont expédiés par le président du bureau principal de la commune à la Chambre des députés par envois séparés recommandés à la poste et ne peuvent être ouverts que par les commissions de vérification des pouvoirs.
 
@@ -2482,6 +3378,8 @@ S’il n’y a plus de suppléant de la liste dont faisait partie le titulaire d
 
 <a id="art-327"></a>
 ## Art. 327.
+
+(abrogé)
 
 <a id="art-328"></a>
 ## Art. 328.
@@ -2590,6 +3488,8 @@ Les enveloppes de transmission sont immédiatement détruites sans avoir été o
 <a id="art-342"></a>
 ## Art. 342.
 
+(abrogé)
+
 ## LIVRE V. DISPOSITIONS MODIFICATIVES, ABROGATOIRES ET ADDITIONNELLES
 
 <a id="art-343"></a>
@@ -2607,6 +3507,10 @@ Les dispositions des articles 3 et 4 de la loi du 23 décembre 1978 portant fusi
 ## Art. 344.
 
 Sont abrogées:
+
+- la loi électorale du 31 juillet 1924, telle qu'elle a été modifiée par la suite;
+
+- la loi du 7 janvier 1999 sur le remboursement partiel des frais de campagnes électorales aux partis et groupements politiques engagés dans les élections à la Chambre des députés et du Parlement européen.
 
 <a id="art-345"></a>
 ## Art. 345.

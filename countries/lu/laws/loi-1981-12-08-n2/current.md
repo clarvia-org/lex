@@ -29,7 +29,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le droit de réquisition peut s’exercer dès que le Gouvernement en conseil a constaté que le Grand-Duché est impliqué soit directement, soit par le fait de son appartenance à une alliance militaire, dans un conflit armé ou dans une crise internationale grave. Il en est de même en cas de survenance d’une catastrophe ou d’une crise, au sens de la loi portant création d’un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l’organisation militaire, b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, d) la loi modifiée du 25 juin 2009 sur les marchés publics, e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État, f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+Le droit de réquisition peut s’exercer dès que le Gouvernement en conseil a constaté que le Grand-Duché est impliqué soit directement, soit par le fait de son appartenance à une alliance militaire, dans un conflit armé ou dans une crise internationale grave. Il en est de même en cas de survenance d’une catastrophe ou d’une crise, au sens de la loi portant création d’un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l’organisation militaire, b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe, c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, d) la loi modifiée du 25 juin 2009 sur les marchés publics, e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État, f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État .
 
 #### Chapitre II. Les autorités et personnes investies du droit de réquisition
 
@@ -52,6 +52,10 @@ Le Gouvernement en conseil assure la coordination des mesures de réquisition.
 
 Les autorités ou personnes mentionnées à l’article 2 peuvent, dans les circonstances définies aux articles 1er et 2,
 
+- requérir les personnes, les biens et les services;
+
+- soumettre à contrôle et à répartition la main-d’oeuvre, les ressources en énergie, matières premières, denrées et marchandises ainsi que toutes autres ressources du pays.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -72,7 +76,21 @@ Toute prestation en matière de réquisition donne droit à indemnisation.
 <a id="art-8"></a>
 ## Art. 8.
 
-Peut encore être requise toute entreprise exerçant une activité au Grand-Duché de Luxembourg.
+- Dans les cas prévus à l’article 1er, toute personne physique ou morale, luxembourgeois ou étrangère, résidant ou établie au Grand-Duché, peut être requise en vue de l’exécution de tâches d’intérêt public. Peut encore être requise toute entreprise exerçant une activité au Grand-Duché de Luxembourg.
+
+- Sont exemptés:
+
+  - les membres de l’armée,
+
+  - les membres de la gendarmerie et de la police, pour des prestations autres que celles prévues dans les lois et règlements régissant ces corps,
+
+  - les étrangers, dans la mesure où des traités ou d’autres règles de droit international leur accordent des exemptions,
+
+  - les ressortissants luxembourgeois occupés d’une manière militaire dont le Grand-Duché fait partie, sauf l’accord de cette organisation.
+
+  - Les agents du Haut-Commissariat à la Protection nationale
+
+  - les membres du Corps grand-ducal d’incendie et de secours, pour des prestations autres que celles prévues dans les lois et règlements régissant ce corps.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -179,6 +197,12 @@ Ces accords ne peuvent stipuler en faveur des prestataires une indemnité supér
 
 L’autorité requérante fait adresser directement des réquisitions aux prestataires:
 
+- en cas d’urgence,
+
+- si l’ordre de réquisition ne peut être notifié à l’autorité communale,
+
+- si le collège des bourgmestre et échevins refuse ou néglige de faire exécuter la réquisition.
+
 <a id="art-28"></a>
 ## Art. 28.
 
@@ -267,6 +291,14 @@ En cas de mort occasionnée par la réquisition, ou de blessures, maladies ou in
 Les présentes dispositions sont pareillement applicables lorsque les faites dommageables surviennent à l’étranger.
 
 Est à considérer comme réquisition au sens des présentes dispositions:
+
+- la prtésence imposée ou autorisée dans une installation de l’autorité auyant prononcé l’ordre de réquisition ou en tout autre lieu de service pendant la période de réquisition;
+
+- la présence en tout autre lieu si elle a été organisée par l’autorité requérante;
+
+- la comparution, sur convocation, devant cette autorité;
+
+- le trajet effectué dans l’un ou l’autre sens, soit du domicile ou de la résidence habituelle au lieu de service, soit de ce dernier au lieu imposé par l’autorité requérante: Toutefois la présence dans un intérêt privé en dehors d’un lieu de service n’est pas couverte par la présente disposition. L’accident de trajet survenu aux requis à l’occasion de la permission de sortir n’impliquant pas de destination précise donne lieu à indemnisation s’il se situe au parcours effectué dans le rayon de circulation autorisé, soit entre le lieu de service et le lieu où le parcours est interrompu dans un intérêt privé, soit entre le lieu où l’activité privée du requis a pris fin et le lieu de service.
 
 <a id="art-41"></a>
 ## Art. 41.

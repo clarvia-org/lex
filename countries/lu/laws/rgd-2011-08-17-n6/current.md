@@ -34,6 +34,12 @@ Les forfaits journaliers, prévus aux points 1, 2, 3 et 6 de l’article 15 de l
 
 Les facteurs suivants sont pris en compte pour la détermination des frais de personnel:
 
+- les frais salariaux selon les dispositions légales, réglementaires et conventionnelles en vigueur;
+
+- la quote-part pour les «frais généraux» comprenant les frais liés au personnel de direction et d’administration;
+
+- la quote-part pour les frais de personnel logistique et technique;
+
 Les facteurs suivants sont pris en compte pour la détermination des frais d’entretien: les frais réels et l’évolution de l’indice du coût de la vie.
 
 <a id="art-2"></a>
@@ -45,6 +51,18 @@ Les forfaits journaliers, prévus pour le placement familial ou l’accueil soci
 ## Art. 3.
 
 Le Ministère de la Famille et de l’Intégration peut conclure une convention avec un organisme gestionnaire agréé et reconnu comme service d’aide sociale en vertu de l’article 13 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, réglant la prise en charge des frais suivants:
+
+- les frais médicaux ou paramédicaux se rapportant à des prestations non remboursées par la Caisse de maladie;
+
+- les frais spéciaux pouvant incomber aux familles d’accueil en matière de prestations médicales, scolaires, paramédicales et parascolaires;
+
+- les frais spécifiques liés aux familles d’accueil;
+
+- les frais de loyer immobilier;
+
+- les frais relatifs aux équipements et infrastructures prévus à l’article 16 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille;
+
+- les frais relatifs aux contrats d’entretien de techniques spéciales du bâtiment.
 
 Les frais de formation continue et de supervision font l’objet d’une demande de subvention préalable au Ministre de la Famille et de l’Intégration qui peut, dans les limites des dispositions légales et réglementaires afférentes, accorder une participation financière à ces frais à condition qu’il s’agisse d’un organisme agréé et reconnu comme service d’aide sociale.
 
@@ -62,6 +80,14 @@ Ils ne sont pas dus en cas de concours avec des remboursements dus pour des pres
 Le forfait journalier «accueil de base», de même que le forfait journalier «accueil psychothérapeutique» ne peuvent être complétés par des forfaits horaires suivant article 15, point 9) de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille. Par contre, si la situation de l’enfant le requiert, le forfait journalier «accueil orthopédagogique» peut être complété par des forfaits horaires suivant article 15, point 9) de la loi en question. Ces mesures supplémentaires sont prestées en conformité avec le projet d’intervention validé par l’Office National de l’Enfance.
 
 Le Ministre de la Famille et de l’Intégration peut conclure une convention avec un organisme gestionnaire agréé et reconnu comme service d’aide sociale en vertu de l’article 13 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, réglant la prise en charge des frais:
+
+- les frais de loyer immobilier;
+
+- les frais relatifs aux équipements et infrastructures prévus à l’article 16 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille;
+
+- les frais relatifs aux contrats d’entretien de techniques spéciales du bâtiment;
+
+- les frais de formation continue.
 
 En ce qui concerne les frais de déplacement, l’ONE valide la prise en charge d’un nombre déterminé de « déplacements », qui correspondront forfaitairement à 70 % d’un forfait horaire (coefficient : 0,70). Ce forfait horaire comprend à la fois la prise en charge des frais de personnel et la prise en charge des frais de transport (leasing, essence… ).
 
@@ -90,6 +116,14 @@ Les forfaits horaires sont déterminés en considération de l’évolution des 
 
 Il est créée une commission de concertation, appelée ci-après la commission, qui a pour mission d’analyser et d’aviser les modalités de détermination des forfaits. La commission soumet son avis au Ministre de la Famille et de l’Intégration. La commission réunit:
 
+- un représentant du Ministre de la Famille et de l’Intégration;
+
+- un représentant du Ministre des Finances;
+
+- le directeur de l’Office National de l’Enfance;
+
+- deux représentants de gestionnaires privés offrant des mesures d’aide à l’enfance et à la famille.
+
 Les membres de la commission sont nommés par le Ministre de la Famille et de l’Intégration et le Ministre des Finances pour un mandat d’une durée de 5 ans.
 
 Des experts peuvent être invités aux séances de la commission. La présidence et le secrétariat de la commission sont assurés par un représentant de l’Etat. La période de concertation débute le 1er octobre et finit le 31 décembre de la même année.
@@ -99,7 +133,15 @@ Des experts peuvent être invités aux séances de la commission. La présidence
 <a id="art-8"></a>
 ## Art. 8.
 
-Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour et de nuit, la participation financière des parents est déterminée de la manière suivante: Si un enfant reste à charge des parents, la quote-part Q est de 16%. Si deux enfants restent à charge des parents, la quote-part Q est de 14%. Si trois enfants restent à charge des parents, la quote-part Q est de 12%. Si quatre enfants ou plus restent à charge des parents, la quote-part est de 10%.
+Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour et de nuit, la participation financière des parents est déterminée de la manière suivante:
+
+- La participation est le résultat d’une quote-part Q exprimée en un pourcentage du revenu semi-net R moins une constante C exprimée en valeur absolue: QR – C.
+
+- Est à considérer comme revenu semi-net, le 12e de l’ensemble des revenus annuels, de quelque nature qu’ils soient, dont disposent les parents, déduction faite des éléments qui, selon les dispositions de la loi concernant l’impôt sur le revenu, sont mis en compte pour la détermination du revenu imposable au cas où l’ensemble de ces revenus serait soumis à l’impôt. Les seuls revenus qui sont à exclure de l’ensemble des revenus sont les prestations familiales.
+
+- La constante C est de 64,45 €.
+
+- Si aucun enfant ne reste à charge des parents, la quote-part Q est de 18%. Si un enfant reste à charge des parents, la quote-part Q est de 16%. Si deux enfants restent à charge des parents, la quote-part Q est de 14%. Si trois enfants restent à charge des parents, la quote-part Q est de 12%. Si quatre enfants ou plus restent à charge des parents, la quote-part est de 10%.
 
 Les bases de calcul pour ces participations et pour la facturation en rapport sont le mois-calendrier et les périodes de présence. Sauf en cas d’accueil de moins de 8 jours au cours d’un mois-calendrier, la participation est due pour le mois entier.
 
@@ -127,6 +169,14 @@ L’Etat facture cette participation aux parents sur base du nombre des journée
 Dans le contexte des mesures d’aide correspondant aux forfaits définis par l’article 15 – points 7, 8, 9, 10, 11 et 12 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, la participation financière des parents est calculée sur base du nombre des forfaits horaires dont a bénéficié l’enfant.
 
 La participation des parents est déterminée sur base de la tarification précisée ci-dessous:
+
+- Revenus de la famille supérieurs à 5 fois le salaire social minimum mensuel: € 6 par forfait horaire (n.i. 719,84).
+
+- Revenus de la famille supérieurs à 3 fois le salaire social minimum mensuel, mais inférieurs à 5 fois le salaire social minimum mensuel: € 4 par forfait horaire (n.i. 719,84).
+
+- Revenus de la famille supérieurs à 2 fois le salaire social minimum mensuel, mais inférieurs à 3 fois le salaire social minimum mensuel: € 2 par forfait horaire (n.i. 719,84).
+
+- Revenus de la famille inférieurs à 2 fois le salaire social minimum mensuel: gratuité.
 
 Les montants précités au titre de forfait horaire correspondent au nombre indice 719,84 et sont adaptés selon les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.
 

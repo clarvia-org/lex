@@ -81,6 +81,18 @@ Elles doivent être faites dans l’ordre hiérarchique, tel qu’il est déterm
 
 (Arrêté grand-ducal du 16 décembre 2015)
 
+«(1)
+
+Une délégation ou subdélégation de signature peut être conférée aux fonctionnaires des départements ministériels nommés à une fonction des grades 12 et suivants de la catégorie de traitement A du premier tableau de l’annexe A de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat. Si toutefois un département ne dispose pas de fonctionnaires de la catégorie de traitement A, une délégation de signature peut être conférée à un fonctionnaire nommé à une fonction des grades 12 et suivants de la catégorie de traitement B du premier tableau de l’annexe A de la loi précitée.»
+
+«(2)
+
+Une subdélégation de signature peut être conférée pour des catégories d’affaires courantes déterminées dans l’acte de subdélégation aux fonctionnaires des départements ministériels nommés à une fonction des grades 9 et suivants de la catégorie de traitement B, s’ils ont une ancienneté d’au moins 10 ans de service dans l’administration de l’Etat.»
+
+«(3)
+
+Une subdélégation de signature peut être conférée dans des cas particuliers pour des catégories d’affaires courantes, déterminées dans l’acte de subdélégation, aux fonctionnaires des départements ministériels nommés à une fonction des grades 7 et suivants des catégories de traitement C et D, s’ils ont une ancienneté d’au moins 12 ans de service dans l’administration de l’Etat.»
+
 <a id="art-8"></a>
 ## Art. 8.
 
@@ -103,6 +115,22 @@ Elles doivent être faites dans l’ordre hiérarchique des départements minist
 ## Art. 10.
 
 (Arrêté grand-ducal du 16 décembre 2015)
+
+«(1)
+
+Une délégation ou subdélégation de signature en matière financière jusqu’à concurrence de 250.000 euros peut être conférée aux fonctionnaires des départements ministériels ainsi que des administrations y rattachées nommés à une fonction des grades 15 et suivants du premier tableau de l’annexe A de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.»
+
+«(2)
+
+Une délégation ou subdélégation de signature en matière financière jusqu’à concurrence de 125.000 euros peut être conférée aux fonctionnaires des départements ministériels ainsi que des administrations y rattachées nommés à une fonction des grades 12 à 14 du premier tableau de l’annexe A de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.»
+
+«(3)
+
+Une subdélégation de signature en matière financière jusqu’à concurrence de 12.500 euros peut être conférée aux fonctionnaires des départements ministériels ainsi que des administrations y rattachées nommés à une fonction des grades 9 à 11 du premier tableau de l’annexe A de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, si ces fonctionnaires ont une ancienneté d’au moins 10 années de service dans l’administration de l’Etat.»
+
+«(4)
+
+Une subdélégation de signature en matière financière jusqu’à concurrence de 1.250 euros peut être conférée aux fonctionnaires des départements ministériels ainsi que des administrations y rattachées nommés à une fonction des grades 6 à 8bis du premier tableau de l’annexe A de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, si ces fonctionnaires ont une ancienneté d’au moins 10 années de service dans l’administration de l’Etat.»
 
 <a id="art-11"></a>
 ## Art. 11.

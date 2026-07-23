@@ -48,8 +48,100 @@ L’Institut informe le candidat de la date et des modalités des épreuves.
 <a id="art-3"></a>
 ## Art. 3.
 
+I.
+
+Les épreuves préliminaires ont pour objet d’apprécier, sous forme d’épreuves de compréhension et d’expression orale, les connaissances du candidat dans les trois langues administratives selon des niveaux de compétences fixés conformément au Cadre européen commun de référence pour les langues.
+
+- En ce qui concerne les épreuves préliminaires organisées pour la catégorie de traitement et d’indemnité A , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale sont fixés comme suit:
+
+  - niveau C1 pour la première langue
+
+  - niveau B2 pour la deuxième langue
+
+  - niveau B1 pour la troisième langue.
+
+- En ce qui concerne les épreuves préliminaires organisées pour la catégorie de traitement et d’indemnité B , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+
+  - niveau B2 pour la première langue
+
+  - niveau B1 pour la deuxième langue
+
+  - niveau A2 pour la troisième langue.
+
+- En ce qui concerne les épreuves préliminaires organisées pour les catégories de traitement et d’indemnité C et D , les niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues sont fixés comme suit:
+
+  - niveau B1 pour la première langue
+
+  - niveau A2 pour la deuxième langue
+
+  - niveau A1 pour la troisième langue.
+
+II.
+
+En fonction de son niveau de carrière, le candidat déterminera laquelle des trois langues constituera sa première, sa deuxième et sa troisième langue. Le contrôle des connaissances se fera conformément au choix du candidat en tenant compte des niveaux de compétences fixés au paragraphe précédent.
+
+Le candidat qui, conformément à l’article 6 du présent règlement, a obtenu une dispense de l’épreuve préliminaire dans une des trois langues est considéré être dispensé dans sa première langue. Il choisira pour les deux langues qui entrent en considération pour les épreuves préliminaires entre le niveau de compétences de la deuxième et le niveau de compétences de la troisième langue.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+1.
+
+Les épreuves préliminaires tiennent compte des niveaux de compétences à atteindre prévus à l’article 3 et comprennent pour chacune des trois langues une épreuve de compréhension orale et une épreuve d’expression orale.
+
+2.
+
+L’épreuve de compréhension orale se compose pour chacune des trois langues de l’écoute de documents enregistrés et de questionnaires portant sur ces documents.
+
+Les questionnaires peuvent comprendre les trois types de questions suivants:
+
+- questions à choix binaire ou multiple
+
+- questions du type vrai/faux
+
+- des questions d’appariement.
+
+Le candidat est évalué par deux correcteurs suivant une grille de correction.
+
+L’épreuve porte sur un maximum de 25 points.
+
+3.
+
+L’épreuve d’expression orale peut comprendre pour chacune des trois langues:
+
+- un entretien entre l’examinateur et le candidat sur un thème donné;
+
+- une description d’un support visuel;
+
+- l’expression d’un point de vue à partir d’un document déclencheur;
+
+- la présentation et la défense d’un point de vue à partir d’un document déclencheur.
+
+L’épreuve porte sur un maximum de 25 points. Elle a lieu devant deux examinateurs, dont le premier est l’interlocuteur qui mène l’entretien et donne une note globale, et le deuxième est l’assesseur qui donne une note suivant une grille de correction. La note de l’interlocuteur compte pour 1/5 et celle de l’assesseur pour 4/5 de la note finale sur le maximum des 25 points à attribuer.
+
+Le questionnaire utilisé lors de l’entretien ou de la description du support visuel par l’interlocuteur doit être arrêté à l’avance et les questions doivent être posées de façon identique à chaque candidat.
+
+L’épreuve d’expression orale se fait séparément pour chaque candidat et fait l’objet d’un enregistrement en vue de l’évaluation ultérieure.
+
+4.
+
+Les notes obtenues à l’épreuve de compréhension orale et à l’épreuve d’expression orale sont additionnées et calculées sur un maximum de 50 points pour chacune des trois langues.
+
+Si le résultat ainsi obtenu est égal ou supérieur aux 3/5 du maximum des points pouvant être obtenus, le candidat a fait preuve d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve préliminaire .
+
+Si le résultat obtenu est inférieur aux 3/5 du maximum des points pouvant être obtenus, le candidat n’a pas fait preuve d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve préliminaire et partant n’est pas admissible à un emploi communal sous le statut du fonctionnaire communal .
+
+5.
+
+Les décisions concernant chaque candidat sont prises par les membres du comité d’évaluation qui ont évalué les épreuves du candidat et documentées sous forme de procès-verbal .
+
+6.
+
+Les résultats des épreuves préliminaires sont communiqués par l’Institut national d’administration publique au Ministre ayant l’Intérieur dans ses attributions au plus tard dix jours après les épreuves.
+
+6.
+
+L’Institut communique le résultat au candidat et à l’entité communale visée à l’article 2.
 
 <a id="art-5-"></a>
 ## Art. 5.

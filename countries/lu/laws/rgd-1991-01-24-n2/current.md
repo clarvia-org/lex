@@ -36,6 +36,12 @@ Le tarif des actes ainsi que la durée et le tarif des vacations des huissiers d
 
 Les actes, exploits et requêtes, y incluses les demandes tendant à l'obtention d'une ordonnance conditionnelle de paiement, les requêtes en obtention d'une saisie-arrêt sur prestations périodiques et toute autre demande en obtention d'une ordonnance, que l'huissier de justice peut accomplir dans l'exercice de ses fonctions et prévus à l'article 13 de la loi portant organisation du service des huissiers de justice, sont tarifés:
 
+- par droit fixe, lorsqu'il s'agit d'une des fonctions prévues au premier alinéa de l'article 13 de la loi précitée, à l'exception du procès-verbal d'apposition de placards, de déguerpissement, d'enlèvement du mobilier et de saisie. Ce droit fixe est de 72 euros;
+
+- par vacation, pour les procès-verbaux de constat prévus au quatrième alinéa de l'article 13 de la loi précitée, ainsi que pour les procès-verbaux de déguerpissement, d'enlèvement du mobilier et de saisie, vacation qui est de 72 euros par heure; toute heure commencée est due en entier;
+
+- par 1/5 du droit fixe, pour la signification d'acte d'avoué à avoué.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -63,14 +69,18 @@ Outre les droits prévus à l'article 2 du présent règlement, il est alloué �
 <a id="art-7"></a>
 ## Art. 7.
 
-A l'intérieur de la Ville de Luxembourg, les frais de voyage sont tarifés par un forfait de 10 euros. A l'intérieur des villes d'Esch-sur-Alzette et de Diekirch, ce forfait est fixé à 5 euros.
+A l'intérieur de la Ville de Luxembourg, les frais de voyage sont tarifés par un forfait de 10 euros.
+
+A l'intérieur des villes d'Esch-sur-Alzette et de Diekirch, ce forfait est fixé à 5 euros.
 
 ##### Autres droits
 
 <a id="art-8"></a>
 ## Art. 8.
 
-L'huissier de justice peut liquider sur les recouvrements qu'il est chargé de faire, un droit de recette de 3% sur toute somme n'excédant pas 2.500 euros , 2% sur l'excédent jusqu'à 5.000 euros , 1% sur l'excédent de ce dernier chiffre jusqu'à 10.000 euros et 0,5% sur tout ce qui excède ce dernier chiffre. Ce droit est calculé sur le montant total de chaque créance récupérée et non sur les paiements partiels.
+L'huissier de justice peut liquider sur les recouvrements qu'il est chargé de faire, un droit de recette de 3% sur toute somme n'excédant pas 2.500 euros , 2% sur l'excédent jusqu'à 5.000 euros , 1% sur l'excédent de ce dernier chiffre jusqu'à 10.000 euros et 0,5% sur tout ce qui excède ce dernier chiffre.
+
+Ce droit est calculé sur le montant total de chaque créance récupérée et non sur les paiements partiels.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -151,6 +161,16 @@ Les montants fixés au présent règlement sont périodiquement adaptés par voi
 ## Art. 19.
 
 Sont abrogés:
+
+- le règlement grand-ducal du 10 janvier 1970 portant coordination du tarif des huissiers en matière répressive,
+
+- le règlement grand-ducal du 10 janvier 1970 portant coordination du tarif des huissiers en matière civile et commerciale,
+
+- le règlement grand-ducal du 14 mars 1973 majorant de 30% le tarif des huissiers,
+
+- le règlement grand-ducal du 10 avril 1975 majorant de 30% le tarif des huissiers de justice et adaptant ce dernier aux variations de l'indice pondéré des prix à la consommation,
+
+- le règlement grand-ducal du 20 septembre 1982 portant relèvement du tarif des frais de voyage des huissiers de justice de 12 à 15 francs, respectivement de 14 à 17 francs par kilomètre.
 
 ##### Entrée en vigueur
 

@@ -36,6 +36,18 @@ Les dispositions de la présente loi s'appliquent aux référendums prévus aux 
 
 Pour l'application de la présente loi, on entend par:
 
+- «le référendum prévu à l'article 114 de la Constitution»: le référendum dans le cadre d'une procédure de révision constitutionnelle;
+
+- «loi électorale»: la loi électorale du 18 février 2003, telle que modifiée par la suite;
+
+- «électeurs»: les électeurs inscrits sur les listes électorales pour les élections législatives conformément aux dispositions de la loi électorale;
+
+- «domicile électoral»: le domicile électoral du citoyen est au lieu de sa résidence habituelle, c'est-à-dire au lieu où il habite d'ordinaire conformément à l'article 10 de la loi électorale;
+
+- «comité d'initiative»: l'ensemble des personnes physiques à l'origine d'une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle;
+
+- «listes d'inscription»: les feuilles officielles préimprimées mises à disposition des communes sur lesquelles les électeurs peuvent apposer leur signature en vue de soutenir une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle.
+
 #### Chapitre 2. Collecte des signatures en vue d'un référendum prévu à l'article 114 de la Constitution
 
 <a id="art-3"></a>
@@ -44,6 +56,16 @@ Pour l'application de la présente loi, on entend par:
 La demande visant l'organisation d'un référendum prévu à l'article 114 de la Constitution doit être présentée au Premier Ministre, Ministre d'Etat, par un comité d'initiative composé de cinq électeurs au moins au plus tard le quatorzième jour suivant celui de l'adoption du texte de révision constitutionnelle en première lecture par la Chambre des députés.
 
 La demande d'introduction doit comporter:
+
+- l'intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des députés en première lecture, qui sont mis à la disposition de toute personne intéressée par le greffe de la Chambre des députés;
+
+- les noms, prénoms, dates de naissance et adresses des membres du comité d'initiative;
+
+- les signatures manuscrites des personnes préqualifiées en vue d'attester leur appartenance au comité d'initiative;
+
+- l'attestation que les personnes préqualifiées sont inscrites en tant qu'électeurs sur les listes électorales pour les élections législatives;
+
+- l'adresse élue du comité d'initiative.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -58,6 +80,12 @@ La décision est notifiée par lettre recommandée à l'adresse élue du comité
 ## Art. 5.
 
 Si le Premier Ministre, Ministre d'Etat, retient que la demande répond aux conditions de la présente loi, il fait publier endéans la huitaine au Mémorial, Recueil administratif et économique, et dans au moins trois quotidiens paraissant au Luxembourg une communication reprenant
+
+- l'intitulé et le texte de la révision constitutionnelle adoptée en première lecture par la Chambre des députés;
+
+- les noms, prénoms, âges et adresses des membres du comité d'initiative;
+
+- les dates de début et de fin de la période de collecte des signatures pendant laquelle les électeurs peuvent soutenir la demande d'organisation d'un référendum prévu à l'article 114 de la Constitution en s'inscrivant sur les listes d'inscription tenues à cette fin par les communes.
 
 La collecte des signatures commence au plus tard quinze jours après la date de la publication au Mémorial.
 
@@ -74,6 +102,12 @@ Les frais y relatifs sont à charge du budget de l'Etat.
 ## Art. 7.
 
 Chaque liste d'inscription conçue d'après le modèle figurant à l'annexe 1 de la présente loi doit mentionner:
+
+- l'intitulé du texte de la révision constitutionnelle qui fait l'objet de la demande d'organisation d'un référendum, précédé de la mention «Demande d'organisation d'un référendum sur la révision constitutionnelle»;
+
+- les dates de début et de fin de la période de collecte des signatures;
+
+- le nom de la commune respective.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -134,6 +168,14 @@ Le fonctionnaire, employé communal ou salarié à tâche principalement intelle
 
 Sont nulles les inscriptions:
 
+- apposées sur des listes non conformes;
+
+- apposées par des personnes ne remplissant pas les conditions énumérées à l'article 11, alinéa 3;
+
+- supplémentaires concernant des électeurs qui ont déjà soutenu la même demande;
+
+- reçues avant ou après la période de collecte des signatures fixée et publiée au Mémorial par le Premier Ministre, Ministre d'Etat.
+
 <a id="art-15"></a>
 ## Art. 15.
 
@@ -144,6 +186,12 @@ Les communes sont tenues de numéroter les inscriptions sur leurs listes en reco
 
 A la fin de la période de collecte des signatures, chaque commune dispose d'un délai de huit jours pour déterminer le nombre total:
 
+- d'inscriptions reçues;
+
+- d'inscriptions nulles;
+
+- d'inscriptions valables.
+
 Au plus tard à l'expiration du délai précité, les résultats obtenus sont à attester dans un procès-verbal, conformément au modèle figurant à l'annexe 2 de la présente loi, à transmettre, ensemble avec les listes d'inscription, au Premier Ministre, Ministre d'Etat.
 
 Une fois déposées auprès du Premier Ministre, Ministre d'Etat, les listes d'inscription ne peuvent être ni restituées ni consultées.
@@ -152,6 +200,12 @@ Une fois déposées auprès du Premier Ministre, Ministre d'Etat, les listes d'i
 ## Art. 17.
 
 Le Premier Ministre, Ministre d'Etat, dispose d'un délai de huit jours pour vérifier tous les résultats et déterminer, pour l'ensemble des communes, le nombre total:
+
+- d'inscriptions reçues;
+
+- d'inscriptions nulles;
+
+- d'inscriptions valables.
 
 Afin de constater si l'initiative populaire en vue de l'organisation d'un référendum a abouti ou non, le Premier Ministre, Ministre d'Etat, vérifie si le nombre total d'inscriptions valables visées à l'alinéa précédent, point 3, correspond au moins à vingt-cinq mille signatures.
 
@@ -165,6 +219,14 @@ Tant la détermination que la constatation du résultat peuvent être contestée
 Le recours doit être introduit sous peine de forclusion dans les cinq jours de la date de la publication des résultats au Mémorial par le Premier Ministre, Ministre d'Etat.
 
 La requête, qui porte date, contient
+
+- les nom, prénoms et domicile du requérant,
+
+- l'exposé sommaire des faits et des moyens invoqués,
+
+- les prétentions du requérant et
+
+- le relevé des pièces dont il entend se servir.
 
 La Cour administrative, statuant par voie d'urgence conformément à l'article 46, paragraphe 5 de la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives, et en dernier ressort, examine tant la recevabilité que le bien-fondé du recours. Elle redresse d'office les erreurs contenues dans les calculs.
 
@@ -364,7 +426,11 @@ Le vote a lieu par l'intermédiaire d'un bulletin de vote conformément au modè
 
 Chaque électeur dispose d'une voix par question posée.
 
-L'électeur exprime son vote: – soit en remplissant le carré d'une des deux cases figurant sur le bulletin de vote à côté de chaque question; – soit en inscrivant une croix (+ ou x) dans l'une des deux cases à côté de chaque question.
+L'électeur exprime son vote:
+
+– soit en remplissant le carré d'une des deux cases figurant sur le bulletin de vote à côté de chaque question;
+
+– soit en inscrivant une croix (+ ou x) dans l'une des deux cases à côté de chaque question.
 
 L'électeur procède aux inscriptions sur le bulletin de vote à l'aide d'un crayon, d'une plume, d'un stylo à bille ou d'un instrument analogue.
 
@@ -386,6 +452,10 @@ Tout électeur peut demander de voter par correspondance lors d’un référendu
 ## Art. 47.
 
 Peuvent être admis au vote par correspondance lors du référendum:
+
+- les électeurs qui, pour des raisons professionnelles ou personnelles dûment justifiées, se trouvent dans l'impossibilité de se présenter en personne devant le bureau de vote auquel ils sont affectés;
+
+- les Luxembourgeois et les Luxembourgeoises domiciliés à l'étranger.
 
 <a id="art-48"></a>
 ## Art. 48.
@@ -424,6 +494,10 @@ Les bulletins nuls n'entrent point en compte pour fixer le nombre des voix.
 
 Sont nuls:
 
+- tous les bulletins autres que ceux dont l'usage est permis par la présente loi;
+
+- les bulletins qui expriment plus d'un suffrage par question posée; ceux dont les formes et dimensions ont été altérées, qui contiennent à l'intérieur un papier ou un objet quelconque, ou dont l'auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.
+
 Sont blancs, les bulletins qui ne contiennent l'expression d'aucun suffrage.
 
 <a id="art-53"></a>
@@ -456,6 +530,14 @@ La suscription de chacune de ces enveloppes porte l'indication du lieu et de la 
 Ces deux enveloppes sont réunies en un seul paquet qui est cacheté du sceau communal ou de celui d'un membre du bureau et muni des signatures du président et d'un assesseur, et dont la suscription porte les mêmes indications.
 
 Le bureau arrête le nombre des votants, celui des bulletins blancs et nuls et des bulletins valables, ainsi que le nombre des votes affirmatifs et des votes négatifs. Il les fait inscrire au procès-verbal. Le procès-verbal est clos par un tableau, conçu d'après le modèle figurant respectivement aux annexes 7 et 8, qui font partie intégrante de la présente loi, qui renseigne:
+
+- le nombre des bulletins trouvés dans l'urne;
+
+- le nombre des bulletins blancs et nuls;
+
+- le nombre des bulletins valables;
+
+- pour chaque question posée, classée dans l'ordre de son numéro, le nombre des votes affirmatifs et le nombre des votes négatifs.
 
 Ces opérations terminées, le président du bureau de vote proclame publiquement le résultat du référendum de son bureau pour chaque question soumise au référendum.
 
@@ -494,7 +576,17 @@ Un exemplaire du procès-verbal et toutes les pièces sont adressés, sous plis 
 <a id="art-60"></a>
 ## Art. 60.
 
-Sur base de ce procès-verbal, le Premier Ministre, Ministre d'Etat, arrête le nombre total: et proclame officiellement le résultat du référendum au niveau national pour chaque question soumise au référendum. Ce résultat est publié au Mémorial, Recueil administratif et économique.
+Sur base de ce procès-verbal, le Premier Ministre, Ministre d'Etat, arrête le nombre total:
+
+- de votants;
+
+- de bulletins blancs et nuls;
+
+- de bulletins valables;
+
+- pour chaque question posée, classée dans l'ordre de son numéro, le nombre des votes affirmatifs et le nombre des votes négatifs,
+
+et proclame officiellement le résultat du référendum au niveau national pour chaque question soumise au référendum. Ce résultat est publié au Mémorial, Recueil administratif et économique.
 
 <a id="art-61"></a>
 ## Art. 61.
@@ -519,6 +611,30 @@ Lorsqu'un référendum est définitivement déclaré nul, le Grand-Duc fixe dans
 
 <a id="art-63bis"></a>
 ## Art. 63bis.
+
+(1)
+
+Le Gouvernement en conseil installe à l’occasion de chaque référendum au niveau national un bureau centralisateur chargé de la détermination et de la diffusion des résultats officieux du référendum.
+
+(2)
+
+Le bureau centralisateur gouvernemental est dirigé par un chargé de la direction qui est assisté dans l’exercice de sa fonction par un adjoint.
+
+(3)
+
+Dans le cadre de leur mission, les membres du bureau centralisateur gouvernemental sont autorisés à se faire remettre des copies des procès-verbaux des bureaux de vote.
+
+(4)
+
+Le chargé de la direction désigne les agents de l’État, adjoints au bureau centralisateur, qui font d’office partie, à partir de l’heure de clôture du scrutin, des bureaux principaux des communes à déterminer par règlement grand-ducal.
+
+Quinze jours avant la date du référendum, le chargé de la direction est tenu de notifier aux présidents des bureaux principaux des communes précitées les nom et prénoms des agents désignés.
+
+Les présidents des bureaux principaux désignent un membre de leur bureau à charge d’assurer la transmission, aux agents de l’État désignés, des informations nécessaires à la détermination et la diffusion des résultats officieux du référendum.
+
+(5)
+
+Un règlement grand-ducal détermine la composition, le fonctionnement et les attributions du bureau centralisateur gouvernemental ainsi que le montant des indemnités revenant à ses membres.
 
 #### Chapitre 6 . Dispositions pénales
 

@@ -32,6 +32,92 @@ On entend par bruit au sens de la présente loi les émissions acoustiques qui, 
 <a id="art-2"></a>
 ## Art. 2.
 
+1.
+
+Des règlements grand-ducaux, à prendre sur avis du Conseil d’Etat, fixent les mesures à prendre en vue d’évaluer, de prévenir, de réduire ou de supprimer le bruit.
+
+Ces règlements peuvent
+
+- interdire la production de certains bruits;
+
+- soumettre la production de certains bruits à des restrictions, entre autres, limiter le temps de la production de bruit;
+
+- réglementer ou interdire la fabrication, l’importation, l’exportation, le transit, le transport, l’offre en vente, la vente, la cession à titre onéreux ou gratuit, la distribution, l’installation et l’utilisation d’appareils, de dispositifs ou d’objets produisant ou susceptibles de produire certains bruits;
+
+- imposer et réglementer le placement et l’utilisation d’appareils ou de dispositifs destinés à réduire le bruit, à l’absorber ou à remédier à ses inconvénients;
+
+- créer des zones de protection et décréter des mesures spécifiques qui doivent être observées dans ces zones;
+
+- imposer des conditions techniques de construction et d’installation susceptibles d’atténuer les inconvénients du bruit et de sa propagation.
+
+- Définir des valeurs limites en fonction d’indicateurs de bruit et établir des méthodes d’évaluation du bruit.
+
+- Fixer les conditions et modalités d’une cartographie stratégique du bruit et de plans d’action pour certaines zones d’intérêt particulier en concertation avec le public concerné, ainsi que déclarer ces derniers plans obligatoires sur avis du Conseil d’Etat.
+
+- Arrêter les modalités selon lesquelles la cartographie stratégique et les plans d’action sont accessibles et diffusés au public.
+
+2.
+
+Le ministre ayant l’Environnement dans ses attributions, ci-après « ministre », adresse, aux fins d’enquête publique, le projet de plan d’action à la ou les communes concernées. Dans les quinze jours qui suivent la notification, le projet est déposé pendant soixante jours à la maison communale de la ou des communes concernées, où le public peut en prendre connaissance. Pendant le même délai, le projet est publié sur un site internet accessible au public. Le dépôt du projet est publié par voie d’affiches apposées dans la ou les communes concernées et portant invitation à prendre connaissance des pièces. En outre, le projet est porté à la connaissance du public par voie de publication par extrait dans au moins deux journaux quotidiens imprimés et publiés au Grand-Duché, les frais de cette publication sont à charge de l’État.
+
+Durant la période de dépôt du projet, le Ministre ou la ou les personnes déléguées à cet effet tiennent au moins une réunion d’information de la population, soit sous la forme d’une réunion présentielle à un endroit qu’il détermine, soit sous la forme d’une réunion via une plateforme en ligne.
+
+Dans le délai de publication de soixante jours, les observations relatives au projet sont déposées par le biais d’un assistant électronique installé à cet effet ou adressées par écrit au collège des bourgmestre et échevins de la ou des communes concernées, qui en donne connaissance au conseil communal pour avis. Le dossier, avec les observations et l’avis du conseil communal, est retourné au Ministre au plus tard soixante jours après l’expiration du délai d’affichage.
+
+2bis.
+
+Régime d’aides en faveur des propriétaires de bâtiments d’habitation et d’appartements construits avant le 31 août 1986 en vue de l’amélioration de l’isolation acoustique contre le bruit aérien en provenance de l’aéroport de Luxembourg
+
+1.
+
+Il est créé un régime d’aides en faveur des propriétaires de bâtiments d’habitation et d’appartements, dont la construction a été autorisée avant le 31 août 1986, en vue de l’amélioration de l’isolation acoustique contre le bruit aérien en provenance de l’aéroport de Luxembourg. A défaut de pouvoir produire cette autorisation de construire, celle-ci pourra être remplacée par un certificat établi par le bourgmestre attestant l’existence de la construction avant ladite date.
+
+2.
+
+Sont éligibles pour bénéficier de l’aide financière prévue à la présente loi, les bâtiments d’habitation qui se trouvent dans leur ensemble ou en partie à l’intérieur d’une zone définie par l’isocontour Lden de 70dB(A), ou bien à l’intérieur de la zone définie par l’isocontour Lnight de 60dB(A), identifiées au moyen des cartes stratégiques du bruit de l’aéroport de Luxembourg établies conformément au point 8 du paragraphe 1er de l’article 2.
+
+3.
+
+Les investissements éligibles concernent les éléments de construction suivants:
+
+- les fenêtres;
+
+- les caissons à rouleaux;
+
+- la ventilation contrôlée;
+
+- le tapissage et la plâtrerie;
+
+- la toiture;
+
+- la dalle de grenier.
+
+Sont également éligibles, le conseil, la supervision et la surveillance des travaux en matière d’amélioration de l’isolation acoustique.
+
+4.
+
+Le montant des aides pour les investissements éligibles visés au paragraphe 3, alinéa 1er, est limité à 12.500 euros pour une maison et à 6.250 euros pour un appartement.
+
+5.
+
+Le montant des aides pour le conseil ne peut pas dépasser 1.500 euros.
+
+6.
+
+Le montant des aides pour la supervision et la surveillance des travaux ne peut pas dépasser 1.500 euros.
+
+7.
+
+Les aides susvisées sont cumulatives.
+
+8.
+
+Les aides visées ci-avant s’entendent hors taxe sur la valeur ajoutée.
+
+9.
+
+Un règlement grand-ducal précise les critères et procédures d’octroi des aides financières.
+
 <a id="art-3"></a>
 ## Art. 3.
 

@@ -93,6 +93,8 @@ Pour le chargé de cours en service jusqu´à la fin de l´année scolaire l´in
 <a id="art-7"></a>
 ## Art. 7.
 
+Dispositions transitoires.
+
 Les chargés de cours qui ont été en service pendant l´année scolaire 1973/74 et qui seront rengagés sans interruption pour les années scolaires 1974/75 et suivantes, conserveront, si le classement antérieur a été plus favorable que celui prévu par le présent règlement, le bénéfice de l´échelon acquis précédemment. Le cas échéant, ils auront droit à un supplément personnel d´indemnité égal à la différence entre cet échelon et l´échelon nouvellement fixé. Le supplément sera résorbé au fur et à mesure de l´augmentation de la nouvelle indemnité par l´accomplissement des conditions d´années de service.
 
 <a id="art-8"></a>

@@ -30,10 +30,38 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 On entend dans le présent règlement:
 
+- par «jeunes enfants», les enfants âgés de moins de quatre ans;
+
+- par «enfants scolarisés», les enfants âgés de plus de quatre ans et de moins de douze ans ou fréquentant l'enseignement fondamental ou l'éducation différenciée;
+
+- par «enfants», les jeunes enfants et les enfants scolarisés;
+
+- par «service d'éducation et d'accueil pour enfants» ci-après appelé «service», un ensemble d'activités d'accueil de jour pour enfants au sens de la loi modifiée du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeuthique. Par la suite, le texte réglementaire se référera à la loi en utilisant la forme abrégée «loi précitée du 8 septembre 1998»;
+
+- par «gestionnaire», toute personne physique ou morale chargée de la mise en oeuvre et de la gestion d'un service;
+
+- par «maison relais», un regroupement de services sous l'autorité de l'administration communale ou d'un syndicat intercommunal qui permet d'exercer, soit de son propre chef soit par l'intermédiaire d'un ou de plusieurs gestionnaires agréés plusieurs services;
+
+- par «infrastructure», tout local approprié et destiné aux besoins de l'éducation et de l'accueil des enfants.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Pour pouvoir être considéré comme service d'éducation et d'accueil pour enfants, le service doit fournir les prestations suivantes :
+
+- la détente et le repos;
+
+- une restauration équilibrée;
+
+- des activités d'animation et d'initiation culturelle, musicale, artisanale, artistique, motrice et sportive;
+
+- des activités favorisant le développement social, affectif, cognitif, linguistique et psychomoteur de l'enfant;
+
+- des activités favorisant l'intégration de l'enfant dans son environnement social et local;
+
+- des études surveillées consistant à offrir aux enfants scolarisés un cadre favorable à l'exécution des devoirs à domicile de façon autonome, dans des conditions de calme avec une surveillance et un soutien minimal.
+
+- des activités qui sont établies et mises en œuvre conformément aux champs d’action définis par le cadre de référence national « éducation non formelle des enfants et des jeunes » de la loi modifiée du 4 juillet 2008 sur la jeunesse.
 
 Ces prestations doivent être adaptées à l'âge de l'enfant.
 
@@ -44,6 +72,46 @@ Les prestations offertes par le service sont garanties pendant 46 semaines au mo
 
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+La demande d'agrément est à adresser par écrit au ministre ayant l'Enfance dans ses attributions par le gestionnaire qui entend exercer ou entreprendre un ou plusieurs services. Le gestionnaire introduit autant de demandes d'agrément qu'il y a de services.
+
+Chaque demande d'agrément doit être datée, signée et accompagnée des pièces justificatives suivantes:
+
+- d'une copie du certificat établi par l'administration communale attestant la conformité du service par rapport au plan d'aménagement général de la commune, à moins qu'il ne fasse partie intégrante de l'attestation prévue au point b. ci-après ;
+
+- d'une attestation émanant de l'Inspection du travail et des mines pour les services régis par la classe 3A des établissements classés ou du Service national de la sécurité dans la fonction publique pour les institutions relevant du champ d'application de la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l'État, dans les établissements publics et dans les écoles établissant que l'infrastructure dans laquelle le requérant exerce ses activités correspond aux normes minima de sécurité et de salubrité ainsi qu'aux besoins des enfants ;
+
+- d'une copie de l'avis émanant du ministre ayant la Santé dans ses attributions attestant que l'infrastructure est conforme aux exigences hygiéniques et sanitaires et répond à la réglementation relative à la sécurité alimentaire ;
+
+- d'une copie de la lettre adressée au service d'incendie et de sauvetage renseignant sur l'existence et l'emplacement d'un service ;
+
+- d'un document renseignant sur l'utilisation de l'espace en fonction des prestations prévues à l'article 2 et en fonction de l'âge des enfants. Ce document est accompagné d'un plan détaillé des infrastructures avec leurs fonctions correspondantes et d'un plan de l'aire de jeu extérieure ;
+
+- d'un extrait du casier judiciaire récent du gestionnaire et du personnel dirigeant établi en application de l'article 5 ci-après ;
+
+- d'un budget prévisionnel et des pièces afférentes documentant la situation financière ;
+
+- d'un engagement écrit du gestionnaire qu'il garantit que les activités agréées sont accessibles aux enfants indépendamment de toutes considérations d'ordre idéologique, philosophique et religieux et que l'enfant accueilli par le service a droit à la protection de sa vie privée et au respect de ses convictions religieuses ou philosophiques.
+
+Au cas où le gestionnaire est une personne morale la demande d'agrément doit être introduite et signée par la ou les personnes qui sont autorisées à représenter la personne morale en justice. Dans ce cas le dossier d'agrément contient également une copie des statuts ou de l'acte constitutif de la personne morale qui soit en conformité avec la loi.
+
+(2)
+
+A des fins de contrôle, le gestionnaire conservera un dossier personnel pour chaque membre du personnel comprenant le contrat d'engagement ou une copie de la décision de sa nomination, la documentation attestant sa qualification professionnelle, ses expériences et sa formation continue, ses compétences linguistiques suivant l’article 9 ci-après, ainsi qu’un certificat d’aptitude au travail ainsi qu'un certificat médical et un extrait du casier judiciaire récent établi en application de l'article 5 ci-après.
+
+Le gestionnaire tient à jour sa documentation relative au dossier de son personnel.
+
+(3)
+
+Le gestionnaire désireux de renouveler l'agrément du service est tenu d'en faire la demande écrite au ministre ayant l'Enfance dans ses attributions au plus tard trois mois avant l'échéance de l'agrément.
+
+La demande de renouvellement est à accompagner des pièces figurant aux points b. et c. et en cas de besoin des pièces figurant aux points a. et e. du paragraphe (1) ci-avant.
+
+Lorsque le service change de gestionnaire, il convient d'introduire une nouvelle demande d'agrément.
+
+En cas de rénovation ou d’aménagement substantiels de l’infrastructure engendrant des modifications au niveau de l’offre ou de la capacité d’accueil ou en cas d’une réaffectation des locaux de service rendant nécessaire une réévaluation de la sécurité au sein du service, le requérant est tenu d’introduire une demande de renouvellement de l’agrément selon les modalités définies au paragraphe 1er ci-avant auprès du ministre ayant l’Enfance dans ses attributions et de produire les pièces figurant aux points b. c. et e. et en cas de besoin des pièces figurant aux points a. et d. du paragraphe 1er ci-avant.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -78,14 +146,108 @@ Sans préjudice des dispositions du paragraphe (3) de l'article 7 ci-après, les
 <a id="art-7"></a>
 ## Art. 7.
 
+(1)
+
+Le personnel d'encadrement des services pour jeunes enfants doit faire valoir une qualification professionnelle répondant aux conditions minimales ci-après:
+
+- Pour soixante pour cent au moins du total des heures d'encadrement pour un service donné, les membres du personnel d'encadrement doivent faire valoir relevant des domaines psychosocial, pédagogique ou socio-éducatif et destinant leur titulaire à l'encadrement professionnel d'enfants.
+
+  - soit d'un diplôme de niveau minimum de fin d'études secondaires classiques ou secondaires générales reconnu par le ministre ayant l'Enseignement secondaire dans ses attributions ;
+
+  - soit d'un titre d'enseignement supérieur reconnu par le ministre ayant l'Enseignement supérieur dans ses attributions ;
+
+- Pour trente pour cent au maximum du total des heures d'encadrement pour un service donné, les membres du personnel d'encadrement doivent faire valoir une des formations suivantes :
+
+  - être détenteur d'une autorisation d'exercer une profession de santé au Grand-Duché de Luxembourg;
+
+  - avoir une qualification professionnelle respectivement un titre d'enseignement supérieur dans les domaines de la motricité, de la langue, de l'art ou de la musique reconnu par le ministre ayant l'Enseignement secondaire dans ses attributions, respectivement reconnu par le ministre ayant l'Enseignement supérieur dans ses attributions ;
+
+  - être détenteur d'un certificat de capacité professionnelle ou bien d'un diplôme d'aptitude professionnelle reconnu par le ministre ayant la Formation professionnelle dans ses attributions et relevant des domaines psychosocial, pédagogique ou socio-éducatif et destinant leur titulaire à l'encadrement professionnel d'enfants.
+
+  - être détenteur d'un certificat d'aptitude technique et professionnelle ou bien d'un diplôme d'aptitude professionnelle reconnu par le ministre ayant la Formation professionnelle dans ses attributions et certifiant avoir participé à au moins cent heures de formation continue dans le domaine socio-éducatif, reconnue par le ministre ayant la Famille dans ses attributions;
+
+  - être détenteur du certificat de formation aux fonctions d'aide socio-familiale;
+
+  - au moins cinq années d'études suivant l'enseignement fondamental accomplies et reconnues par le ministre ayant la Formation professionnelle dans ses attributions, et certifiant avoir participé à au moins cent heures de formation continue dans le domaine socio-éducatif, reconnue par le ministre ayant la Famille dans ses attributions.
+
+Cependant sur le contingent des trente pour cent du total des heures d’encadrement visé au point 2. ci-avant, les membres du personnel d’encadrement qui sont en voie de formation pour l’obtention d’une des qualifications professionnelles visées au point 1. ci-avant ne peuvent représenter au maximum que deux tiers de ce contingent.
+
+- Pour dix pour cent au maximum du total des heures d'encadrement pour un service donné, les membres du personnel d'encadrement doivent faire valoir une des formations suivantes : Le membre du personnel d'encadrement ne pouvant pas se prévaloir de la formation continue requise sous les points b) et c) doit l'avoir accompli au plus tard trois ans à compter de son engagement.
+
+  - être détenteur d'un certificat de formation aux fonctions d'aide socio-familiale ;
+
+  - certifiant avoir accompli une formation continue d'au moins cent heures, ciblée sur l'encadrement socio-éducatif d'enfants, reconnue par le ministre ayant l'Enfance dans ses attributions ;
+
+  - être détenteur d'un certificat de capacité professionnelle ou bien d'un diplôme d'aptitude professionnelle reconnu par le ministre ayant la Formation professionnelle dans ses attributions et certifiant avoir accompli une formation continue comprenant au moins cent heures, ciblée sur l'encadrement socio-éducatif d'enfants, reconnue par le ministre ayant l'Enfance dans ses attributions.
+
+(2)
+
+Le personnel d'encadrement des services pour enfants scolarisés doit faire valoir une qualification professionnelle répondant aux conditions minimales ci-après:
+
+- Pour cinquante pour cent au moins du total des heures d'encadrement pour un service donné, les membres du personnel d'encadrement doivent faire valoir relevant des domaines psychosocial, pédagogique ou socio-éducatif et destinant leur titulaire à l'encadrement professionnel d'enfants.
+
+  - soit d'un diplôme de niveau minimum de fin d'études secondaires classiques ou secondaires générales reconnu par le ministre ayant l'Enseignement secondaire dans ses attributions ;
+
+  - soit d'un titre d'enseignement supérieur reconnu par le ministre ayant l'Enseignement supérieur dans ses attributions ;
+
+- Pour quarante pour cent au maximum du total des heures d'encadrement pour un service donné, les membres du personnel d'encadrement doivent faire valoir une des formations suivantes :
+
+  - être détenteur d'une autorisation d'exercer une profession de santé au Grand-Duché de Luxembourg;
+
+  - avoir une qualification professionnelle respectivement un titre d’enseignement supérieur dans les domaines de la motricité, de la langue, de l’art ou de la musique reconnu par le ministre ayant l’Enseignement secondaire dans ses attributions, respectivement reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions ;
+
+  - être détenteur d’un certificat de capacité professionnelle ou bien d’un diplôme d’aptitude professionnelle reconnu par le ministre ayant la Formation professionnelle dans ses attributions et relevant des domaines psychosocial, pédagogique ou socio-éducatif et destinant leur titulaire à l’encadrement professionnel d’enfants.
+
+  - être détenteur d'un certificat d'aptitude technique et professionnelle ou bien d'un diplôme d'aptitude professionnelle reconnu par le ministre ayant la Formation professionnelle dans ses attributions et certifiant avoir participé à au moins cent heures de formation continue dans le domaine socio-éducatif, reconnue par le ministre ayant la Famille dans ses attributions;
+
+  - être détenteur du certificat de formation aux fonctions d'aide socio-familiale.
+
+Cependant sur le contingent des quarante pour cent du total des heures d’encadrement visé au point 2. ci-avant, les membres du personnel d’encadrement qui sont en voie de formation pour l’obtention d’une des qualifications professionnelles visées au point 1. ci-avant ne peuvent représenter au maximum que la moitié de ce contingent.
+
+- Pour dix pour cent au maximum du total des heures d’encadrement pour un service donné, les membres du personnel d’encadrement doivent faire valoir une des formations suivantes : Le membre du personnel d’encadrement ne pouvant pas se prévaloir de la formation continue requise sous les points b) et c) doit l’avoir accompli au plus tard dans les trois ans à compter de son engagement.
+
+  - être détenteur d’un certificat de formation aux fonctions d'aide socio-familiale ;
+
+  - certifiant avoir accompli une formation continue comprenant au moins cent heures, ciblée sur l’encadrement socio-éducatif d’enfants, reconnue par le ministre ayant l’Enfance dans ses attributions ;
+
+  - être détenteur d'un certificat de capacité professionnelle ou bien d'un diplôme d'aptitude professionnelle reconnu par le ministre ayant la Formation professionnelle dans ses attributions et certifiant avoir accompli une formation continue comprenant au moins cent heures, ciblée sur l’encadrement socio-éducatif d’enfants, reconnue par le ministre ayant l’Enfance dans ses attributions.
+
+(3)
+
+Pour des activités de vacances qui peuvent être encadrées par des étudiants, le service agissant dans le cadre d'une maison relais est autorisé à recourir à des élèves ou étudiants à condition qu'ils soient détenteurs d'un brevet d'aide-animateur niveau A et qu'ils interviennent sous la supervision du personnel d'encadrement.
+
+(4)
+
+Par dérogation aux dispositions des paragraphes 1er à 3, il peut être dérogé aux conditions de qualification professionnelle applicables au personnel d’encadrement des enfants pour les besoins des mesures à prendre suite à l’afflux massif de personnes déplacées en provenance d’Ukraine.
+
+À cet effet, une demande écrite motivée par les besoins en personnel liés à des mesures à prendre pour faire face à un accroissement exceptionnel du nombre d’enfants à prendre en charge, causé par l’afflux massif de personnes déplacées en provenance d’Ukraine, doit être introduite par le gestionnaire auprès du ministre ayant l’Enfance et la Jeunesse dans ses attributions.
+
+La durée de validité de la décision d’autorisation de déroger aux conditions de qualification professionnelle du personnel d’encadrement des enfants expire en date du 31 décembre 2023 au plus tard
+
 <a id="art-8"></a>
 ## Art. 8.
 
 Par personnel dirigeant, le présent règlement désigne tous les membres du personnel du service dont la tâche principale consiste à:
 
+- assurer un développement organisationnel;
+
+- déterminer un concept pédagogique;
+
+- encadrer et diriger le personnel;
+
+- surveiller la mise en pratique des prestations conformément aux dispositions de l'article 2;
+
+- promouvoir les relations entre les partenaires du réseau social de l'enfant.
+
 Cette tâche ne peut être inférieure à vingt heures par semaine.
 
 Un au moins des membres du personnel dirigeant doit remplir les conditions suivantes :
+
+- avoir une tâche au sens de l’alinéa 1er qui ne peut être inférieure à vingt heures par semaine et ;
+
+- faire valoir une qualification professionnelle qui est conforme au point 1 du paragraphe 1 de l’article 7, respectivement au point 1 du paragraphe 2 de l’article 7 ou bien être détenteur d’une autorisation d’exercer une profession de santé au Grand-Duché de Luxembourg relevant des domaines psychosocial, pédagogique ou socio-éducatif et ;
+
+- faire preuve d’une expérience professionnelle d’au moins trois ans dans les domaines psychosocial, pédagogique ou socio-éducatif.
 
 Lorsque la capacité d’accueil du service est supérieure ou égale à 40 enfants, un au moins des membres du personnel dirigeant doit faire valoir au minimum soit une qualification de niveau bachelor relevant des domaines psychosocial, pédagogique ou socio-éducatif et destinant leur titulaire à l’encadrement professionnel d’enfants, soit être détenteur d’une autorisation d’exercer une profession de santé au Grand-Duché de Luxembourg et de faire valoir une qualification de niveau bachelor relevant des domaines psychosocial, pédagogique ou socio-éducatif.
 
@@ -98,6 +260,12 @@ Pour garantir la mise en œuvre des articles 7 et 8 du présent règlement, une 
 
 La commission comprend au plus 4 membres :
 
+- un représentant du ministre ayant l’Enseignement secondaire dans ses attributions ;
+
+- un représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
+
+- deux représentants du ministre ayant l’Enfance dans ses attributions.
+
 Les membres de la commission sont nommés pour une durée de 5 ans. Les arrêtés de nomination sont publiés au Journal officiel du Grand-Duché de Luxembourg.
 
 La commission est présidée par un membre représentant le ministre ayant l’Enfance dans ses attributions et le secrétariat en est assuré par un agent du ministre ayant l’Enfance dans ses attributions non membre de la Commission. En cas de partage des voix au sein de la commission, celle du président est prépondérante.
@@ -105,6 +273,12 @@ La commission est présidée par un membre représentant le ministre ayant l’E
 La commission peut avoir recours à des experts si elle le juge nécessaire ; les experts peuvent assister avec voix consultative aux réunions de la commission, si celle-ci le leur demande.
 
 La commission se réunit sur convocation du président et elle accomplit les missions suivantes, à savoir :
+
+- proposer au ministre une liste des diplômes ou titres d’enseignement qui relèvent des domaines psychosocial, pédagogique ou socio-éducatif au sens de l’article 7 (1) point 1, de l’article 7 (1) point 2 sous c., de l’article 7 (2) point 1 et de l’article 7 (2) point 2 sous c. ;
+
+- proposer au ministre une liste des professions de santé qui sont éligibles en tant que personnel dirigeant au sens de l’alinéa 2 de l’article 8 ;
+
+- donner son avis au ministre pour lui permettre de déterminer la qualification professionnelle suite à la demande du requérant par rapport aux paragraphes 1er et 2 de l’article 7 au cas où la qualification professionnelle du requérant ne figure pas sur les listes visées aux points a) et b).
 
 La commission se dote d’un règlement d’ordre interne et arrête les procédures et critères relatifs à l’accomplissement de ses missions.
 
@@ -118,6 +292,28 @@ Le niveau de compétence à certifier dans chacune des trois langues correspond 
 <a id="art-10"></a>
 ## Art. 10.
 
+(1)
+
+Le ratio d'encadrement pédagogique détermine le nombre minimal du personnel d'encadrement à engager par le gestionnaire pour assurer le fonctionnement d'un service.
+
+| Le nombre maximal d'enfants par agent d'encadrement: |  |
+| --- | --- |
+| a. enfants âgés de moins de deux ans: | 6 |
+| b. enfants âgés de deux à quatre ans: | 8 |
+| c. enfants âgés de plus de quatre ans: | 11 |
+
+Pour déterminer le nombre du personnel d'encadrement (NPE) du service on utilise la formule suivante:
+
+NPE = x/6 + y/8 + z/11
+
+dont x, y et z sont les nombres d'enfants inscrits selon les classes d'âge respectives.
+
+Le nombre minimal du personnel d'encadrement obtenu à l'aide du calcul est arrondi au nombre entier supérieur.
+
+(2)
+
+L'organisation des ressources humaines tient compte des besoins du service, des prestations offertes et du nombre des enfants effectivement présents au service à un moment donné de la journée. Le gestionnaire est tenu d'organiser les ressources humaines de manière à respecter à tout moment de la journée le ratio d'encadrement pour assurer le fonctionnement d'un service.
+
 <a id="art-11"></a>
 ## Art. 11.
 
@@ -130,8 +326,40 @@ En ce qui concerne le volet sous 3), chaque membre du personnel d'encadrement en
 <a id="art-12"></a>
 ## Art. 12.
 
+(1)
+
+Le service qui prépare le repas de midi en régie propre, de même que le service qui confie la préparation des repas à un sous-traitant doit prouver que le cuisinier est détenteur d'un diplôme d'aptitude professionnelle de cuisinier ou d'un diplôme équivalent, dès que le nombre de couverts dépasse soixante unités.
+
+(2)
+
+En tout état de cause le cuisinier préparant les repas pour les enfants accueillis par un service doit certifier qu'il a suivi une formation dans le domaine de la cuisine pour enfants. Au cas où il n'est pas en possession d'une telle formation il dispose d'un délai d'un an pour s'y conformer.
+
 <a id="art-13"></a>
 ## Art. 13.
+
+(1)
+
+La capacité d'accueil maximale est déterminée en fonction de l'âge des enfants accueillis, des prestations offertes, des mesures de sécurité prescrites et de l'attribution des locaux utilisés pour l'activité du service.
+
+La surface totale nette des locaux de séjour disponibles représente la surface utilisable pour l'exécution des prestations d'un service telles que définies à l'article 2 ci-avant.
+
+(2)
+
+La capacité d'accueil maximale du service est calculée en divisant la surface totale nette des locaux de séjour disponibles pour l'exécution des prestations d'un service telles que définies à l'article 2 par le nombre de mètres carrés (m2) attribué par enfant selon les dispositions suivantes:
+
+- Pour les jeunes enfants la superficie totale nette des locaux de séjour et de repos disponibles attribués pour l'exécution de l'activité d'un service accueillant des jeunes enfants est de 4 m2 par enfant. Les dortoirs destinés aux enfants âgés de moins de 2 ans ne sont pas considérés pour le calcul de la capacité d'accueil maximale. Les locaux servant à l'exécution des prestations visées à l'article 2 ne peuvent comprendre plus de douze enfants âgés de moins de deux ans ou plus de seize enfants âgés entre deux et quatre ans. Les locaux servant à l'exécution des prestations visées à l'article 2 peuvent toutefois regrouper des enfants appartenant à différentes classes d'âge sans dépasser un nombre maximal de douze enfants.
+
+- Pour les enfants scolarisés la superficie totale nette des locaux de séjour et de détente disponibles attribués pour l'exécution de l'activité d'un service accueillant des enfants scolarisés doit comprendre au moins 3 m2 par enfant. Pour le calcul de la capacité d'accueil maximale ne sont pas considérés les halls sportifs et les centres culturels. Lorsque le gestionnaire peut recourir pour l'exercice de l'activité du service à un hall sportif ou à un centre culturel et sous réserve que ces locaux ne soient pas détournés de leur attribution initiale, la capacité d'accueil maximale peut être augmentée de trente pour cent.
+
+- La capacité d'accueil maximale d'enfants ainsi que les normes d'encadrement légales en vigueur d'encadrement doivent être affichés visiblement dans le hall d'entrée du service.
+
+(3)
+
+Le service doit disposer d'une aire de jeu extérieure adjacente dont la taille ne peut être inférieure à 5 m2 par enfant.
+
+(4)
+
+En cas d'urgence dûment motivée, la capacité d'accueil maximale d'un service pour enfants scolarisés peut être dépassée de 33% au plus à condition que le ratio d'encadrement par enfant soit respecté et que le ministre ayant l’Enfance dans ses attributions soit informé dans les meilleurs délais.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -214,6 +442,14 @@ Toutefois, pendant la période transitoire, la personne physique ou morale visé
 A titre d'exception et pour des raisons dûment motivées, le ministre ayant la Famille dans ses attributions peut accorder une dérogation limitée dans le temps au gestionnaire qui n'a pas pu mettre son service en conformité avec la nouvelle réglementation pendant la période transitoire.
 
 À l’expiration de la période transitoire prévue par l’article 23, la personne physique ou morale ayant obtenu un agrément en application 1) des prescriptions du règlement grand-ducal modifié du 20 décembre 2001 portant exécution des articles 1er et 2 de la loi précitée du 8 septembre 1998 pour ce qui concerne l’agrément gouvernemental à accorder aux gestionnaires de structures d’accueil sans hébergement pour enfants ou 2) des prescriptions du règlement grand-ducal modifié du 20 juillet 2005 concernant l’agrément à accorder aux gestionnaires de maison relais peut bénéficier d’une dérogation par rapport aux dispositions suivantes du présent règlement grand-ducal :
+
+- la superficie totale nette des locaux de séjour pour jeunes enfants suivant le point a) du paragraphe 2 de l’article 13 (4 m2 jeunes enfants)
+
+- conditions relatives à l’aire de jeu extérieure telle que définie par le paragraphe 3 de l’article 13
+
+- la surface du dortoir visée par l’alinéa 1er de l’article 16 (pour jeunes enfants âgés de moins de deux ans)
+
+- l’espace à prévoir pour landaus et poussettes visé par l’alinéa 3 de l’article 19.
 
 À cet effet le requérant introduit une demande écrite qui est à adresser au ministre ayant l’Enfance dans ses attributions au plus tard avant le 31 décembre 2018.
 

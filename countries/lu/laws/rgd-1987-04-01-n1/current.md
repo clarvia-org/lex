@@ -57,10 +57,38 @@ Nul ne peut être nommé aux fonctions de concierge auprès d’une administrati
 <a id="art-9"></a>
 ## Art. 9.
 
+1.
+
+La durée du stage pour les fonctions de concierge est de deux ans.
+
+2.
+
+Toutefois les candidats-concierges recrutés parmi les garçons de bureau peuvent bénéficier directement d’une nomination à condition d’avoir rempli leur fonction depuis trois ans au moins. A cet effet ils sont dispensés du stage et de l’examen d’admission définitive.
+
+3.
+
+Les candidats recrutés parmi les volontaires de l’armée ayant à leur actif trois ans de service militaire ainsi que les candidats pouvant justifier d’une expérience professionnelle artisanale de six ans au moins peuvent bénéficier d’une réduction de stage, sans que la période de stage restante puisse être inférieure à six mois.
+
+4.
+
+Les dispenses et réductions de stage sont accordées par le Ministre du ressort sur avis du Ministre de la Fonction publique.
+
 <a id="art-10"></a>
 ## Art. 10.
 
 Le stage se termine par un examen d’admission définitive qui comporte des épreuves écrites et des épreuves pratiques. Il porte sur les matières suivantes:
+
+- dictée en langue française ou allemande;
+
+- notions élémentaires sur le statut général des fonctionnaires de l’Etat;
+
+- notions approfondies sur le contrat collectif des ouvriers de l’Etat;
+
+- surveillance des bâtiments;
+
+- sécurité dans les administrations;
+
+- organisation du travail des garçons de bureau et du personnel de charge.
 
 #### B. Promotions
 
@@ -68,6 +96,14 @@ Le stage se termine par un examen d’admission définitive qui comporte des ép
 ## Art. 11.
 
 L’examen de promotion requis pour l’accès aux fonctions supérieures à celles de concierge par l’article 17, section VII de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat porte sur les matières suivantes:
+
+- rédaction d’un rapport de service en langue allemande ou française;
+
+- mesures préventives contre les accidents;
+
+- notions sur le statut des fonctionnaires de l’Etat;
+
+- exécution d’un travail pratique.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -83,6 +119,22 @@ La procédure des examens d’admission définitive et de promotion prévues par
 
 <a id="art-14"></a>
 ## Art. 14.
+
+1.
+
+Sont éliminés aux examens susvisés les candidats qui ont obtenu moins de trois cinquièmes du maximum total des points.
+
+2.
+
+Les candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum des points dans une ou deux branches, subissent un examen supplémentaire dans ces branches, dont le résultat décide de leur admission.
+
+3.
+
+En cas d’insuccès à l’examen d’admission définitive, la durée du stage peut être prolongée d’une année à l’expiration de laquelle le candidat doit se présenter une nouvelle fois à l’examen. Un nouvel échec entraîne l’élimination définitive du candidat.
+
+4.
+
+En cas d’insuccès à l’examen de promotion, le candidat peut se présenter une deuxième fois à cet examen après l’expiration d’un délai d’une année. Un second échec entraîne pour le candidat l’élimination définitive de cet examen.
 
 <a id="art-15"></a>
 ## Art. 15.

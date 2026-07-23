@@ -32,10 +32,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le montant du droit d'enregistrement dont sont grevés les permis de chasser annuels respectivement les permis d'invité, est fixé comme suit:
 
+- permis annuel: 21 euros
+
+- permis d'invité: 10 euros.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Le montant du droit supplémentaire dont sont grevés les permis de chasser annuels respectivement les permis d'invité est fixé comme suit:
+
+- Permis annuel : 209 euros
+
+- permis d'invité: 40 euros.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -45,7 +53,9 @@ La quote-part annuelle à rembourser par le fonds spécial d'indemnisation des d
 <a id="art-4"></a>
 ## Art. 4.
 
-Il est instauré un comité de suivi du fonds spécial d'indemnisation des dégâts causés par le gibier. Le comité se compose de six membres, dont trois représentants des associations de chasse et trois représentants de l’Administration de la nature et des forêts, qui sont tous nommés par le ministre pour un terme de trois ans.
+Il est instauré un comité de suivi du fonds spécial d'indemnisation des dégâts causés par le gibier.
+
+Le comité se compose de six membres, dont trois représentants des associations de chasse et trois représentants de l’Administration de la nature et des forêts, qui sont tous nommés par le ministre pour un terme de trois ans.
 
 Le comité se réunit au moins une fois par an. Il observe l’évolution du fonds et avise le ministre ayant l’Environnement dans ses attributions sur le montant du droit supplémentaire grevé aux permis de chasser et le maximum des remboursements à fixer. L’Administration de la nature et des forêts se charge du secrétariat du comité.
 

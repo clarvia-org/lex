@@ -29,6 +29,44 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le présent règlement détermine les modalités des épreuves de l’examen de fin d’études secondaires générales pour les divisions et sections suivantes :
 
+- division administrative et commerciale :
+
+  - section gestion ;
+
+  - section communication et organisation ;
+
+  - section finance ;
+
+  - section marketing, médias et communication ;
+
+  - section Deutsch-Luxemburgisches Schengen-Lyzeum.
+
+- division artistique : section arts et communication visuelle.
+
+- division hôtelière et touristique : section gestion de l’hospitalité.
+
+- division des professions de santé et des professions sociales :
+
+  - section de la formation de l’éducateur ;
+
+  - section de la formation de l’infirmier ;
+
+  - section sciences de la santé ;
+
+  - section sciences sociales,
+
+- division technique générale :
+
+  - section architecture, design et développement durable ;
+
+  - section ingénierie ;
+
+  - section informatique ;
+
+  - section sciences environnementales ;
+
+  - section sciences naturelles.
+
 <a id="art-2"></a>
 ## Art. 2.
 

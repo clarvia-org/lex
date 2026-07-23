@@ -130,6 +130,32 @@ En cas de prestations supplémentaires par l’office à une ou plusieurs commun
 
 En application de ses missions légales, l'office est chargé des missions suivantes:
 
+- expliquer au demandeur les droits auxquels il peut prétendre en vertu des lois et règlements en vigueur;
+
+- indiquer au demandeur les formalités à accomplir en rapport avec sa situation sociale et au besoin l'assister dans ses démarches;
+
+- s'assurer de l'affiliation du demandeur à la sécurité sociale et, le cas échéant, procéder à son affiliation;
+
+- orienter le demandeur vers les services spécialisés les mieux adaptés à ses besoins;
+
+- inciter le demandeur à toutes les mesures permettant d'améliorer sa situation individuelle;
+
+- accompagner le demandeur de l'aide sociale jusqu'à la stabilisation de sa situation individuelle;
+
+- établir au besoin un plan d'intervention adapté à la situation individuelle du bénéficiaire de l'aide et assister le bénéficiaire de l'aide dans la gestion de ses finances;
+
+- évaluer ensemble avec le bénéficiaire de l'aide les objectifs atteints du plan d'intervention;
+
+- contrôler et mettre à jour périodiquement les dossiers portant sur les aides, les prestations et les interventions;
+
+- accepter dans la mesure du possible les tutelles prononcées par le juge des tutelles;
+
+- assurer à titre d'avance ou de complément une aide financière ou matérielle, si les prestations fournies au titre de la législation luxembourgeoise ou étrangère ne couvrent pas en temps utile ou de manière suffisante les besoins constatés et retenus par l'enquête sociale et les données disponibles;
+
+- réaliser des enquêtes sociales et établir les diagnostics sociaux y relatifs;
+
+- veiller à la coordination et au bon déroulement des diverses interventions et démarches.
+
 <a id="art-9"></a>
 ## Art. 9.
 

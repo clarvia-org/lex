@@ -36,6 +36,14 @@ L'expropriation peut porter sur tout ou partie d'un immeuble ou de droits réels
 
 Elle peut s'opérer à la demande:
 
+- de l'Etat;
+
+- des communes;
+
+- d'établissements publics ou d'utilité publique;
+
+- de particuliers, mais seulement si l'intérêt de la partie demanderesse est en même temps d'utilité publique.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -46,7 +54,13 @@ Les tribunaux ne peuvent prononcer l'expropriation qu'autant que l'utilité publ
 
 Ces formes consistent:
 
+- soit dans une loi, soit dans un arrêté grand-ducal pris après délibération du conseil de Gouvernement, le Conseil d'Etat entendu, lorsque l'expropriation est poursuivie à la demande de l'Etat;
+
+- dans un arrêté grand-ducal pris après délibération du conseil de Gouvernement, le Conseil d'Etat entendu, lorsque l'expropriation est poursuivie à la demande d'une commune ou d'un établissement public et sur avis conforme du Conseil d'Etat, lorsque l'expropriation est poursuivie à la demande d'un établissement d'utilité publique ou d'un particulier.
+
 ### Titre II. Mesures préparatoires relatives à l´expropriation
+
+A. — Expropriation poursuivie à la demande de l´Etat.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -107,6 +121,10 @@ Quelle que soit la nature des biens, il ne peut être tenu compte, même lorsqu'
 
 Les biens à exproprier sont estimés en prenant seule en considération la valeur du bien telle qu’elle était le jour avant la première publication au Journal officiel du Grand-Duché de Luxembourg :
 
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 12, paragraphe 2 de la loi du 17 avril 2018 concernant l’aménagement du territoire ;
+
+- soit de la décision du Gouvernement en conseil prise en vertu de l’article 19, paragraphe 2 de la loi précitée du 17 avril 2018.
+
 Il est cependant tenu compte de l'évolution générale du prix des biens.
 
 <a id="art-13"></a>
@@ -139,6 +157,8 @@ L´indemnité due pour l´occupation temporaire prévue à l´article 14 est ré
 
 Aucune réclamation de ce chef n´est plus recevable un an après la cessation du fait dommageable.
 
+B. — Expropriation poursuivie à la demande des communes.
+
 <a id="art-17"></a>
 ## Art. 17.
 
@@ -158,6 +178,8 @@ A l´expiration du délai prévu à l´article 10 pour la publication du plan pa
 ## Art. 20.
 
 Lorsque les propriétaires sont d´accord avec la cession qui leur est demandée, il est passé entre eux et le demandeur en expropriation un acte de vente qui peut être établi dans la forme usuelle des actes administratifs des communes.
+
+C. — Expropriation poursuivie à la demande d´établissements publics ou d´utilité publique ou de particuliers.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -269,6 +291,12 @@ Le jour même du dépôt, les experts envoient à l´expropriant, par lettre rec
 
 Après avoir signifié par exploit d´huissier à toutes les parties défenderesses et intervenantes une copie certifiée conforme:
 
+- du jugement fixant le montant de l´indemnité provisionnelle,
+
+- du certificat le dépôt de l´indemnité provisionnelle à la caisse des consignations,
+
+- de l´état descriptif des lieux,
+
 l´expropriant peut se faire envoyer en possession du bien exproprié par ordonnance du président du tribunal.
 
 Cette ordonnance est apposée au bas de la requête. Elle sera exécutoire sur minute et avant l´enregistrement.
@@ -308,6 +336,10 @@ Une expédition en est adressée à l´expropriant dans les quinze jours du pron
 Si le montant de l´indemnité excède celui de l´indemnité provisionnelle, l´expropriant dépose dans le mois du prononcé du jugement à la caisse des consignations le supplément d´indemnité.
 
 Dans les dix jours qui suivent le dépôt, il signifie par exploit d´huissier aux parties défenderesses et intervenantes une copie certifiée conforme:
+
+- du jugement fixant le montant de l´indemnité,
+
+- du certificat de dépôt à la caisse des consignations du supplément d´indemnité.
 
 A défaut, l´exproprié peut, en vertu du même jugement, exiger que l´expropriant suspende l´occupation des immeubles.
 
@@ -405,6 +437,10 @@ A défaut de publication de cet avis, les anciens propriétaires ou leurs ayants
 Le prix des terrains à rétrocéder est fixé par le tribunal de la situation, à moins que le propriétaire ne préfère restituer le montant de l´indemnité qu´il a reçue. La fixation judiciaire du prix ne peut en aucun cas excéder le montant de l´indemnité.
 
 Par dérogation aux alinéas 1, 2 et 3 l´expropriant est en droit de céder de gré à gré les immeubles acquis sous les conditions ci-après déterminées à des personnes de droit privé ou de droit public:
+
+- le cessionnaire doit utiliser les immeubles cédés aux fins prescrites par l´arrêté déclarant l´utilité publique et par le cahier des charges annexé à l´acte de cession;
+
+- les immeubles doivent avoir été acquis en vue de la réalisation d´un plan d´urbanisme (rénovation, restauration, extensions urbaines) approuvé sur la base de la loi du 12 juin 1937 concernant l´aménagement des villes et autres agglomérations importantes ou de la loi du 20 mars 1974 sur l´aménagement du territoire ou de toute autre loi à édicter ultérieurement dans ce domaine.
 
 Dans le cas de l´alinéa précédent, les propriétaires expropriés qui ont déclaré au cours de la procédure leur intention de construire selon les conditions du plan d´urbanisme bénéficient d´un droit de priorité pour l´attribution d´un immeuble à céder.
 

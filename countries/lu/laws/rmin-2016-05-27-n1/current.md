@@ -31,10 +31,34 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Peuvent être inscrites, auprès du registre de commerce et des sociétés, sur base de l'article 6, point 2°, de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, les mentions supplémentaires suivantes :
 
+- société d'investissement à capital variable - fonds d'investissement spécialisé ;
+
+- société d'investissement en capital à risque ;
+
+- société d'épargne-pension à capital variable ;
+
+- société de gestion de patrimoine familial ;
+
+- fonds d’investissement spécialisé ;
+
+- société d’investissement à capital variable - fonds d’investissement alternatif réservé ;
+
+- fonds d’investissement alternatif réservé ;
+
+- société d’impact sociétal ;
+
+- société d’investissement à capital variable régie par la loi du 17 décembre 2010 concernant les OPC.
+
 <a id="art-1bis"></a>
 ## Art. 1bis.
 
 Les actes, extraits d’acte et documents quelconques, dont le dépôt au registre de commerce et des sociétés est prescrit par la loi, doivent répondre aux critères techniques suivants :
+
+- les documents doivent être présentés au gestionnaire du registre de commerce et des sociétés sous un format PDF/A ;
+
+- les documents doivent être rédigés avec des polices de caractère communément utilisées en bureautique. La liste des polices est précisée par le gestionnaire du registre de commerce et des sociétés sur son site internet ;
+
+- une zone horizontale blanche d’au moins 35 millimètres en haut de la première page doit être réservée.
 
 Par dérogation à l’alinéa premier, les documents comptables et statuts coordonnés doivent être transmis au gestionnaire du registre de commerce et des sociétés dans un format lisible par machine, supporté par le gestionnaire et décrit sur son site internet.
 
@@ -43,22 +67,58 @@ Par dérogation à l’alinéa premier, les documents comptables et statuts coor
 
 Les publications effectuées au Recueil électronique des sociétés et associations doivent répondre aux critères techniques suivants:
 
+- les documents destinés à la publication doivent être transmis au gestionnaire du registre de commerce et des sociétés dans un format lisible par machine, supporté par le gestionnaire et décrit sur son site internet ;
+
+- les documents destinés à la publication doivent être rédigés avec des polices de caractère communément utilisées en bureautique. La liste des polices est précisée par le gestionnaire du registre de commerce et des sociétés sur son site internet;
+
+- les documents destinés à la publication doivent être présentés au format A4;
+
+- une zone horizontale blanche d’au moins 35 millimètres en haut de la première page doit être réservée;
+
+- les documents destinés à la publication doivent être rédigés en police de caractère noire, sur fond blanc.
+
 <a id="art-3"></a>
 ## Art. 3.
 
-L’en-tête des publications doit reprendre les informations suivantes: s’agissant des fonds communs de placement, le nom du fonds, suivi de la dénomination de la société de gestion, s’agissant des succursales de personne morale de droit étranger, la dénomination de la succursale le cas échéant, suivie de celle de l’établissement de droit étranger;
+L’en-tête des publications doit reprendre les informations suivantes:
+
+- la dénomination, suivie le cas échéant de la mention d’une observation de justice frappant la personne ou entité ou d’une mise en liquidation volontaire, s’agissant des fonds communs de placement, le nom du fonds, suivi de la dénomination de la société de gestion, s’agissant des succursales de personne morale de droit étranger, la dénomination de la succursale le cas échéant, suivie de celle de l’établissement de droit étranger;
+
+- le numéro d’immatriculation;
+
+- la forme juridique;
+
+- l’adresse précise du siège, ou dans le cas des succursales de personne morale de droit étranger, l’adresse de la succursale.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Les publications pouvant être générées par le gestionnaire du registre de commerce et des sociétés sur base de l’article 2quinquies du règlement modifié du 23 janvier 2003 portant exécution de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises concernent:
 
+- les démissions, telles que prévues à l’article 13, point 14), de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises;
+
+- les dénonciations de siège, telles que prévues à l’article 13, point 14) de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises;
+
+- l’extrait prescrit à l’article 100-13, paragraphe 1er, point 1°, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et aux articles 22, paragraphe 2, point 1° et 57, paragraphe 2, point 1°, de la loi du 7 août 2023 sur les associations sans but lucratif et les fondations ;
+
+- les informations dont la loi prescrit la publication par mention ;
+
+- les décisions judiciaires de rabattement, telles que prévues à l’article 13, point 16) de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;
+
+- les informations communiquées au moyen du système d’interconnexion des registres en application de l’article 24bis, paragraphe 3bis, point 1°, du règlement grand-ducal modifié du 23 janvier 2003 portant exécution de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises et qui doivent être publiées en application de l’article 1300-5 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
+
+- l’extrait prescrit aux articles 67 de la loi du 7 août 2023 relative à la préservation des entreprises et portant modernisation du droit de la faillite et 536-3 et 536-4 du code de commerce.
+
 Les publications prescrites aux points 1°, 2° et 3° sont générées par le gestionnaire sur base d’un formulaire spécifique, dûment complété par le déposant.
 
 <a id="art-5"></a>
 ## Art. 5.
 
-La publication générée par le gestionnaire du registre de commerce et des sociétés en application de l’article 4, point 1° reprend l’identité de la personne démissionnaire, son adresse, sa fonction et la date de dépôt à laquelle le registre de commerce et des sociétés a été informé de la démission; s’il s’agit d’une personne physique, ses nom et prénoms ou s’il s’agit d’une personne morale, sa dénomination et le cas échéant son numéro d’immatriculation et le nom du registre auprès duquel elle est immatriculée.
+La publication générée par le gestionnaire du registre de commerce et des sociétés en application de l’article 4, point 1° reprend l’identité de la personne démissionnaire, son adresse, sa fonction et la date de dépôt à laquelle le registre de commerce et des sociétés a été informé de la démission;
+
+s’il s’agit d’une personne physique, ses nom et prénoms ou
+
+s’il s’agit d’une personne morale, sa dénomination et le cas échéant son numéro d’immatriculation et le nom du registre auprès duquel elle est immatriculée.
 
 <a id="art-6"></a>
 ## Art. 6.

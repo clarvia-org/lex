@@ -56,6 +56,10 @@ Le candidat n’est pas autorisé à apporter des pièces supplémentaires aprè
 
 Le modèle du dossier de validation tel que prévu à l’article 47 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle, est arrêté par le ministre. Il comprend deux étapes:
 
+- La demande de recevabilité du dossier
+
+- La demande de validation sur le fond.
+
 La demande de recevabilité du dossier précise pour quel brevet, diplôme ou certificat et, le cas échéant, pour quel métier ou profession, le candidat entend se faire valider son expérience.
 
 Les périodes d’expérience relevant de l’apprentissage formel et de l’apprentissage non formel sont documentées par des pièces officielles. Pour les expériences relevant de l’apprentissage informel, l’activité bénévole est certifiée par l’association ou l’organisme concerné, l’activité privée est prouvée par une déclaration sur l’honneur.
@@ -136,7 +140,11 @@ Le candidat peut recourir à tout organisme d’information et d’orientation r
 <a id="art-14"></a>
 ## Art. 14.
 
-Les indemnités des membres de la commission et des experts de validation sont fixées comme suit: 21,56 € (indice 100). 4,31 € (indice 100) par heure.
+Les indemnités des membres de la commission et des experts de validation sont fixées comme suit:
+
+- Indemnité pour la lecture et l’analyse d’un dossier: 21,56 € (indice 100).
+
+- Indemnité pour l’entretien, la mise en situation ainsi que pour la réunion préliminaire et la réunion d’évaluation: 4,31 € (indice 100) par heure.
 
 Le président et le secrétaire de la commission de validation se voient augmenter ces indemnités de 4,31 € (indice 100).
 
@@ -148,6 +156,20 @@ Les membres et les experts des commissions ont droit au remboursement de leurs f
 Il est créé une commission de pilotage qui a pour mission de suivre l’organisation et d’accompagner le processus de validation des acquis de l’expérience professionnelle.
 
 La commission se compose:
+
+- d’un représentant du ministre ayant la formation professionnelle dans ses attributions, comme président;
+
+- d’un représentant du Service de la Formation professionnelle, comme secrétaire;
+
+- d’un représentant du collège des directeurs de l’enseignement secondaire technique;
+
+- d’un représentant de la Chambre de Commerce;
+
+- d’un représentant de la Chambre des Métiers;
+
+- d’un représentant de la Chambre d’Agriculture;
+
+- de deux représentants de la Chambre des Salariés.
 
 Le fonctionnement de la commission sera déterminé par règlement ministériel.
 

@@ -41,6 +41,22 @@ Elle délibère, soit à la demande du conseil communal ou du collège des bourg
 
 Peuvent plus particulièrement, sans en exclure d’autres, former l’objet de délibérations de la commission:
 
+- l’information de l’administration communale sur la situation des étrangers résidant dans la commune;
+
+- l’information appropriée des étrangers sur les services communaux;
+
+- les problèmes scolaires des enfants étrangers;
+
+- l’organisation de cours de langues pour les jeunes et adultes;
+
+- les problèmes de l’accueil, du logement, de l’hygiène et de la santé, de la sécurité et de l’aide sociale;
+
+- l’aide aux associations d’étrangers dont les statuts ont été reconnus par l’administration communale pour l’organisation de loisirs, d’activités et de manifestations culturelles, éducatives, récréatives et sportives;
+
+- l’organisation de manifestations destinées aux étrangers dans le cadre d’un échange culturel en vue de la promotion culturelle et sociale des étrangers;
+
+- la participation des étrangers à la vie de la communauté locale.
+
 <a id="art-3"></a>
 ## Art. 3.
 

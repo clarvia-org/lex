@@ -38,6 +38,26 @@ L’impôt forfaitaire est fixé à 7,5 pour cent de la différence entre, d’u
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+L’impôt forfaitaire est perçu par l’entrepreneur de travail intérimaire et à déclarer et verser au bureau de recette compétent selon les dispositions de la section 4 du règlement grand-ducal modifié du 27 décembre 1974 concernant la procédure de la retenue d’impôt sur salaires et les pensions.
+
+(2)
+
+L’entrepreneur de travail intérimaire tient les enregistrements comptables des salaires soumis au régime d’imposition forfaitaire. Il tient séparément les enregistrements comptables des rémunérations imposées d’après le régime normal. Les enregistrements comptables visés aux deux phrases précédentes se font conformément à la section 2 du règlement grand-ducal modifié du 27 décembre 1974 concernant la procédure de la retenue d’impôt sur salaires et les pensions.
+
+(3)
+
+Après la fin de l’année d’imposition, l’entrepreneur de travail intérimaire délivre à chaque salarié intérimaire pour ses contrats de mission exercés au cours de l’année d’imposition et soumis à l’imposition forfaitaire un certificat de salaire, de retenue d’impôt et de crédits d’impôt bonifiés regroupant l’intégralité des contrats de mission imposés forfaitairement de ce salarié intérimaire.
+
+(4)
+
+Si un salarié a travaillé auprès du même entrepreneur de travail intérimaire pendant une période de l’année comme salarié non soumis à l’imposition forfaitaire et pendant une période de la même année comme salarié intérimaire soumis à l’imposition forfaitaire, l’entrepreneur de travail intérimaire doit déposer un extrait de compte de salaire électronique pour l’occupation non soumise à l’imposition forfaitaire et un extrait de compte de salaire électronique supplémentaire pour l’occupation intérimaire soumise à l’imposition forfaitaire.
+
+(5)
+
+L’extrait de compte de salaire électronique supplémentaire contient une référence au régime d’imposition forfaitaire, les données d’identification du salarié intérimaire imposé forfaitairement, l’indication de la date début du premier contrat de mission de l’année d’imposition soumis au régime d’imposition forfaitaire, l’indication de la date fin du dernier contrat de mission de l’année d’imposition soumis au régime d’imposition forfaitaire, toutes les inscriptions visées à l’article 7 du règlement grand-ducal modifié du 27 décembre 1974 concernant la procédure de la retenue d’impôt sur salaires et les pensions ainsi que la désignation de l’entrepreneur de travail intérimaire. Lorsque le salarié intérimaire imposé forfaitairement a exercé au cours de l’année d’imposition plusieurs contrats de mission soumis au régime d’imposition forfaitaire, les indications visées à la phrase qui précède, à délivrer par l’entrepreneur de travail intérimaire, doivent être réunies dans un seul et même extrait de compte.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -50,6 +70,18 @@ Lors de l’imposition par voie d’assiette ou de la régularisation des retenu
 
 <a id="art-6"></a>
 ## Art. 6.
+
+(1)
+
+Par dérogation aux dispositions de l’article 5, le salarié intérimaire soumis à l’imposition forfaitaire peut, sur demande à formuler après la fin de l’année d’imposition, suivant le cas dans le cadre du décompte annuel ou de l’imposition par voie d’assiette, bénéficier d’une régularisation d’après le régime d’imposition normal des retenues d’impôt forfaitaires opérées au cours de l’année d’imposition en vertu du présent règlement.
+
+(2)
+
+La demande visée à l’alinéa 1er doit porter sur l’ensemble des retenues d’impôt forfaitaires au sens du présent règlement opérées au cours de l’année d’imposition et se rapportant aux rémunérations du salarié intérimaire et à celles de son conjoint ou partenaire avec lequel il est imposable collectivement. Il en est de même en cas d’imposition individuelle telle que prévue à l’article 3ter, alinéa 3 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+
+(3)
+
+Aux fins de la régularisation prévisée chaque salarié intérimaire est tenu de joindre à sa demande le ou les certificats de salaire, de retenue d’impôt et de crédits d’impôt bonifiés qui lui ont été délivrés par le ou les entrepreneurs de travail intérimaire.
 
 <a id="art-7"></a>
 ## Art. 7.

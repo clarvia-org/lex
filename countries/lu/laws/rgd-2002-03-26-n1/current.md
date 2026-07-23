@@ -43,7 +43,55 @@ La délimitation de la zone protégée d’intérêt national est indiquée sur 
 <a id="art-3"></a>
 ## Art. 3.
 
-Dans la zone protégée sont interdits: Les exceptions visées sous les lettres a) et b) restent soumises à autorisation préalable du ministre ayant l’Environnement dans ces attributions, désigné ci-après comme « ministre ». Les exceptions visées sous les lettres a) à d) restent soumises à autorisation préalable du ministre.
+Dans la zone protégée sont interdits:
+
+- la chasse, ceci à partir de l'entrée en vigueur du nouveau bail de chasse c.-à-d. le 1er août 2003;
+
+- la capture, la perturbation ou la destruction d’animaux sauvages indigènes non classés comme gibier ;
+
+- les travaux de terrassement, notamment le dépôt et l’extraction de matériaux, l’enlèvement de terre végétale, le déblai et le remblai, à l’exception de ceux relatifs aux interventions prévues au point 6°, lettre b) ;
+
+- la divagation d'animaux domestiques tels que chiens et chats, ainsi que la circulation avec animaux de compagnie non tenus en laisse ;
+
+- la circulation à l’aide de véhicules motorisés ; cette interdiction ne s’applique ni aux propriétaires des terrains et à leurs ayants droit, ni à la circulation dans le couloir prévu au point 6°, lettre b) ;
+
+- toute construction incorporée au sol ou non; cette interdiction ne s’applique pas : Les exceptions visées sous les lettres a) et b) restent soumises à autorisation préalable du ministre ayant l’Environnement dans ces attributions, désigné ci-après comme « ministre ».
+
+  - aux interventions nécessaires à l’entretien ou aux modifications des constructions existantes ;
+
+  - aux interventions nécessaires à l’implantation de ponts réservés pour la mobilité douce et le transport en commun, ainsi que d’autres infrastructures techniques, d’une largeur maximale totale de 30 mètres, le tout uniquement au sein d’un couloir pour projets d’infrastructures d’une largeur de 60 mètres, dont l’implantation est indiquée sur les plans figurant en annexe ;
+
+- l’emploi de pesticides, la fertilisation ou le chaulage ;
+
+- le changement d'affectation des sols, y compris la réduction, la destruction ou la détérioration de biotopes protégés et habitats visés par l’article 17 de la loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;
+
+- l’enlèvement, la destruction et l’endommagement de plantes sauvages et de parties de ces plantes appartenant à la flore indigène sans préjudice de l’exploitation agricole et forestière ou des travaux nécessaires pour des raisons de sécurité publique ; la lutte mécanique ou thermique contre les adventices de l’agriculture est autorisée dans le contexte de la conditionnalité de l’exploitation agricole ;
+
+- le dépôt de déchets, de matériaux et l’installation de poubelles ;
+
+- la mise en place d’installations de transport et de communication, d’infrastructures d’énergie, de liquide ou de gaz, de canalisations ou d’équipements assimilés ; cette interdiction ne s’applique pas : Les exceptions visées sous les lettres a) à d) restent soumises à autorisation préalable du ministre.
+
+  - aux interventions nécessaires à l’entretien ou aux modifications des installations existantes ;
+
+  - aux nouvelles installations, à leur entretien et leur modification dans les chemins munis d’un revêtement à base d’asphalte, de bitume, de macadam ou de béton existants ou dans leurs accotements ;
+
+  - aux nouvelles installations, à leur entretien et leur modification, au sein du couloir mentionné au point 6°, lettre b) ;
+
+  - aux forages ou fonçages indispensables pour garantir une évacuation des eaux du cycle urbain des nouveaux quartiers situés au nord de la vallée Märtesgrond par un raccordement situé au niveau du couloir mentionné sous le point 6°, lettre b) au système d’évacuation des eaux existant.
+
+- l’exploitation forestière, à l’exception de coupes nécessaires pour des raisons de sécurité ; les arbres abattus étant à abandonner sur place ;
+
+- l’installation d’abris pour bétail ;
+
+- le pâturage pendant la période du 15 novembre au 15 mars, ainsi que le pâturage sans enclos de nuit ;
+
+- l’affouragement du bétail ou l’appâtage du gibier ;
+
+- la circulation à pied en-dehors des chemins existants ou encore des sentiers balisés à cet effet ; cette interdiction ne s’applique pas aux propriétaires des terrains et à leurs ayants droit, ni aux gestionnaires de la zone protégée ;
+
+- la circulation à vélo, à cheval ou toute autre forme de mobilité douce en-dehors des chemins munis d’un revêtement à base d’asphalte, de bitume, de macadam ou de béton, ainsi que des sentiers balisés à cet effet ; cette interdiction ne s’applique ni aux mesures de conservation de la zone protégée réalisées avec des chevaux de traits, ni aux propriétaires des terrains et à leurs ayants droit ;
+
+- l’usage de drones ou autres engins télécommandés.
 
 <a id="art-4"></a>
 ## Art. 4.

@@ -58,6 +58,14 @@ Le Gouvernement crée ou subventionne des centres régionaux de consultation et 
 
 Ces centres sont appelés à aider et à conseiller les personnes qui le demandent en les informant:
 
+- sur les différents moyens de la contraception et de la stérilisation volontaire;
+
+- sur les droits, aides et avantages garantis par la loi aux familles, aux mères célibataires ou non;
+
+- sur les possibilités offertes par l´adoption;
+
+- sur les possibilités légales d´interruption volontaire de la grossesse en soulignant les risques médicaux et psychiques que comporte cette intervention.
+
 Un dossier guide comportant tous ces renseignements est remis à chaque consultant.
 
 Ces centres sont placés sous la tutelle du ministre ayant la Santé dans ses attributions.
@@ -84,6 +92,10 @@ Les prestations médicales autres que les consultations sont mises en compte au 
 
 Les prestations et médicaments des centres sont gratuits:
 
+- pour tous les consultants mineurs
+
+- pour tout autre consultant, au vu de sa situation sociale, sur avis motivé de l´assistante sociale.
+
 <a id="art-10"></a>
 ## Art. 10.
 
@@ -98,6 +110,42 @@ Les associations-gérantes des centres visés à l´article 5 ci-dessus sont hab
 
 <a id="art-12"></a>
 ## Art. 12.
+
+(1)
+
+Avant la fin de la 12e semaine de grossesse ou avant la fin de la 14e semaine d’aménorrhée, une interruption volontaire de grossesse peut être pratiquée lorsque la femme enceinte la demande, à condition:
+
+- que la femme enceinte ait consulté un médecin spécialiste en gynécologie et obstétrique avant que ne soit pratiquée l’interruption volontaire de grossesse qui lui fournit :
+
+  - une attestation de grossesse datée qui renseigne sur le siège et l’âge exact de la grossesse qui sera remise au médecin qui réalise l’interruption volontaire de grossesse;
+
+  - des informations médicales sur les différentes méthodes d’interruption volontaire de grossesse existantes, ainsi que sur les risques médicaux et les effets secondaires potentiels de ces méthodes;
+
+  - une liste des établissements agréés pour pratiquer une interruption volontaire de grossesse selon les modalités prévues au présent article, qui est mise à disposition par le ministre ayant la Santé dans ses attributions, lorsque le médecin, pour une raison quelconque, n’est pas en mesure de pratiquer lui-même une telle intervention; et
+
+  - une documentation qui est mise à disposition par le ministre ayant la Santé dans ses attributions, informant sur les droits de la femme enceinte, les aides aux enfants et familles, et les différents choix qui s’offrent dans la situation où elle se trouve, ainsi que leurs conséquences. Cette documentation comprend une liste des services d’assistance psychosociale dont question au paragraphe 2;
+
+- que l’interruption volontaire de grossesse soit réalisée par un médecin spécialiste en gynécologie et obstétrique autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg et pratiquée dans un établissement hospitalier ou tout autre établissement agréé à cette fin par arrêté du ministre ayant la Santé dans ses attributions. L’interruption de grossesse réalisée par moyens médicamenteux peut également être réalisée par un médecin, autorisé à pratiquer l’art de guérir au Grand-Duché de Luxembourg, qui n’est pas spécialiste en gynécologie et obstétrique. Elle peut être pratiquée par le médecin en cabinet médical s’il le juge possible, à condition qu’il ait passé une convention avec un établissement hospitalier disposant d’un service de gynécologie-obstétrique qui assure un service d’urgence permanent.
+
+(2)
+
+Le médecin informe systématiquement la femme enceinte qui le demande et avant que ne soit pratiquée l’interruption volontaire de grossesse, qu’elle a droit, tant avant qu’après l’interruption volontaire de grossesse, à une consultation dans un service d’assistance psychosociale établi auprès d’un établissement hospitalier ou tout autre établissement agréé pour réaliser une interruption volontaire de grossesse par arrêté du ministre ayant la Santé dans ses attributions. Le service lui fournit des informations circonstanciées sur les droits, aides et avantages garantis par la loi aux familles ainsi qu’une assistance et des conseils sur les moyens auxquels la femme pourra avoir recours pour résoudre les problèmes psychologiques et sociaux éventuels posés par sa situation et qui ont pour but d’accompagner la femme dans son choix.
+
+(3)
+
+Si la femme enceinte est une mineure non émancipée, elle doit consulter un service d’assistance psychosociale visé au paragraphe 2 et y avoir obtenu les informations mentionnées au même point. Le consentement de l’un des titulaires de l’autorité parentale ou de son représentant légal est requis. Si la femme enceinte mineure non émancipée désire garder le secret à l’égard du ou des titulaires de l’autorité parentale ou de son représentant légal, l’interruption volontaire de grossesse ainsi que les actes médicaux et les soins qui sont liés peuvent être pratiqués à sa demande à condition toutefois que la mineure se fasse accompagner tout au long de la procédure par une personne de confiance majeure qu’elle désigne. Dans ce cas, le service d’assistance psychosociale conseillera la mineure sur le choix de la personne majeure.
+
+La femme mineure non émancipée doit par ailleurs confirmer par écrit:
+
+- être déterminée à faire procéder à une interruption volontaire de grossesse;
+
+- consentir à l’intervention prévue après avoir obtenu de la part du médecin les informations mentionnées au point 1 du paragraphe 1er.
+
+La confirmation écrite est versée au dossier médical et doit être contresignée soit par l’un des titulaires de l’autorité parentale ou par le représentant légal, soit par la personne de confiance ci-avant désignée.
+
+(4)
+
+Il n’y a pas d’infraction lorsque l’interruption volontaire de grossesse est pratiquée après la fin de la 12e semaine de grossesse ou après la fin de la 14e semaine d’aménorrhée, et lorsque deux médecins qualifiés attestent par écrit qu’il existe une menace grave pour la santé ou la vie de la femme enceinte ou de l’enfant à naître.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -115,3 +163,11 @@ Les articles 60 et suivants du Code des assurances sociales sont applicables.
 
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+Celui qui, par quelque moyen que ce soit, aura avorté ou tenté d’avorter en dehors des conditions posées à l’article 12 une femme enceinte ou supposée enceinte qui y a consenti, sera condamné à un emprisonnement de deux à cinq ans et à une amende de 251 euros à 25.000 euros.
+
+(2)
+
+La femme enceinte qui interrompt volontairement sa grossesse en dehors des conditions posées à l’article 12, sera punie d’une amende de 251 euros à 2.000 euros.

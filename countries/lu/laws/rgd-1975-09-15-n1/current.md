@@ -27,12 +27,26 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+L'indemnité de compensation prévue au chapitre II de la loi du 26 juillet 1975 autorisant le Gouvernement à prendre des mesures destinées à prévenir des licenciements pour des causes conjoncturelles et à assurer le maintien de l'emploi est due pour chaque heure de travail perdue involontairement et en dehors de tous motifs d'ordre personnel.
+
+Sont toutefois à mettre en déduction du nombre des heures de travail perdues, les heures de travail récupérées à l'entreprise au cours du mois considéré ainsi que les heures de travail acessoire effectuées pour le compte d'un autre employeur.
+
+(2)
+
+La semaine de travail à mettre en compte pour la fixation du nombre normal des heures de travail du mois considéré et partant du nombre des heures de travail perdues, est la semaine de travail ordinaire de l'entreprise; elle ne peut excéder en aucun cas 40 heures.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Le taux de l'indemnité de compensation est fixé à quatre-vingts pour cent (80%) du salaire horaire brut normal du travailleur sans qu'il puisse toutefois dépasser le montant de deux cent cinquante pour cent (250%) du salaire social minimum horaire revenant à un travailleur non qualifié âgé de plus de dix-huit ans.
 
 Par salaire horaire normal au sens du présent règlement il faut entendre et compter séparément:
+
+- le salaire de base la plus élevée qui fait partie de l'assiette appliquée au cours de l'un des trois mois de calendrier précédant le début de la période de chômage partiel;
+
+- la moyenne des compléments et accessoires de salaire qui font partie des assiettes des douze mois de calendrier précédant le mois antérieur à la survenance du chômage partiel; si cette période de référence n'est pas entièrement couverte par une activité soumise à l'assurance, la moyenne est calculée sur base des mois de calendrier entièrement couverts.
 
 A défaut d'un seul mois entièrement couvert, le salaire de base ainsi que les compléments et accessoires sont portés en compte suivant leur valeur convenue dans le contrat de travail.
 

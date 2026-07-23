@@ -41,6 +41,12 @@ Pour l'établissement, l'entretien et l'exploitation des canalisations et de tou
 
 La société aura le droit:
 
+- d'installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs ou d'autres clôtures équivalentes;
+
+- d'assurer la surveillance des canalisations;
+
+- de procéder aux travaux d'entretien et de réfection de ces canalisations.
+
 L'exécution des travaux prévus sous le numéro 1) ci-dessus doit être précédée d'une notification directe aux intéressés, et d'une enquête dont la procédure sera déterminée par arrêté grand-ducal; elle ne peut avoir lieu qu'après approbation du projet de détail des tracés par les ministres ayant dans leurs attributions l'Energie et l'Intérieur.
 
 Les indemnités dues pour les emprises, moins-values ou dommages généralement quelconques résultant de l'exercice des droits prévus à l'alinéa 4, sub 1) à 3) sont fixées, soit à l'amiable, soit en cas de désaccord, par le juge de paix de la situation du fonds assujetti qui statuera, en dernière instance, dans les limites de sa compétence ordinaire, et à charge d'appel, quelle que soit la valeur de l'objet en litige.

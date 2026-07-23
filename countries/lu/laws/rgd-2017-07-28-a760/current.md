@@ -30,6 +30,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le cadre de référence national comporte les cinq annexes suivantes :
 
+- À l’annexe I portant l’intitulé « Lignes directrices sur l’éducation non formelle des enfants et des jeunes » figurent les objectifs généraux, les principes pédagogiques fondamentaux y compris les lignes directrices pour le développement et le soutien des compétences linguistiques et l’intégration sociale pour l’action des services d’éducation et d’accueil pour enfants, des assistants parentaux et des services pour jeunes.
+
+- À l’annexe II figurent les lignes directrices pour l’élaboration du concept d’action général et du journal de bord applicables aux services d’éducation et d’accueil pour enfants.
+
+- À l’annexe III figurent les lignes directrices pour l’élaboration du concept d’action général et du journal de bord applicable aux services pour jeunes.
+
+- À l’annexe IV figurent les lignes directrices pour l’élaboration du projet d’établissement et du rapport d’activité pour les assistants parentaux.
+
+- À l’annexe V figurent les lignes directrices sur l’éducation linguistique dans l’accueil de la petite enfance.
+
 <a id="art-2"></a>
 ## Art. 2.
 

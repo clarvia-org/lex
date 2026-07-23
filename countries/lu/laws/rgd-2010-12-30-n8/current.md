@@ -30,15 +30,41 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Aux fins du présent règlement, on entend par:
 
+- «inondation»: submersion temporaire par l'eau de terres qui ne sont pas submergées en temps normal. Cette notion recouvre les inondations dues aux crues de rivières en excluant les inondations dues aux réseaux d'égouts.
+
+- «risque d'inondation»: la combinaison de la probabilité d'une inondation et des conséquences négatives potentielles pour la santé humaine, l'environnement, le patrimoine culturel et l'activité économique associées à une inondation.
+
 <a id="art-2"></a>
 ## Art. 2.
 
-Les cartes des zones inondables sont établies pour: Pour ces trois scénarios, les éléments suivants doivent apparaître dans les cartes:
+Les cartes des zones inondables sont établies pour:
+
+- des crues de faible probabilité ou de scénarios d'évènements extrêmes,
+
+- des crues de probabilité moyenne pour une période de retour probable de cent ans,
+
+- des crues de forte probabilité, d'une période de retour de 10 ans.
+
+Pour ces trois scénarios, les éléments suivants doivent apparaître dans les cartes:
+
+- l'étendue de l'inondation,
+
+- les hauteurs d'eau et
+
+- le cas échéant, la vitesse du courant.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Les cartes des risques d'inondation doivent contenir les paramètres suivants:
+
+- le nombre indicatif des habitants potentiellement touchés,
+
+- les types d'activités économiques dans la zone potentiellement touchée,
+
+- les installations visées à l’annexe I de la loi modifiée du 9 mai 2014 relative aux émissions industrielles
+
+- les zones protégées telles que définies à l'article 20 de la loi du 19 décembre 2008 relative à l'eau.
 
 <a id="art-4"></a>
 ## Art. 4.

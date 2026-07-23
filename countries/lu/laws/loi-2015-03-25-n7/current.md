@@ -57,6 +57,18 @@ Le fonctionnaire qui, suite au changement d’administration, est classé dans u
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Tout changement d’administration qui entraîne pour le fonctionnaire l’exercice de fonctions classées dans une rubrique autre que celle dans laquelle sont classées les fonctions de son groupe de traitement initial, ne peut être accordé que si le grade de computation de la bonification d’ancienneté ainsi que le grade de début et le grade de fin sont les mêmes que ceux du groupe de traitement initial du fonctionnaire.
+
+(2)
+
+Toutefois, dans des cas exceptionnels et pour des raisons dûment motivées à constater par le ministre ayant la Fonction publique dans ses attributions, dénommé ci-après «ministre», le fonctionnaire peut être autorisé à changer d’administration même si le transfert entraîne un classement dans des fonctions d’un groupe de traitement hiérarchiquement inférieur à son groupe de traitement initial.
+
+Dans ce cas, les dispositions de l’article 28 (2) de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat lui sont applicables.
+
+(3)
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -70,10 +82,32 @@ Le fonctionnaire qui, suite au changement d’administration, est classé dans u
 <a id="art-7"></a>
 ## Art. 7.
 
+(1)
+
+Les administrations de l’Etat qui recourent à la procédure du recrutement interne pour un poste vacant communiquent au ministre copie de l’autorisation d’engagement ou de remplacement du poste vacant. Elles remplissent à cet effet le formulaire que le ministre met à leur disposition.
+
+(2)
+
+Tout poste vacant à occuper par le biais du recrutement interne doit être publié par la voie appropriée pendant au moins cinq jours ouvrables.
+
 <a id="art-8"></a>
 ## Art. 8.
 
 Le fonctionnaire qui demande de changer d’administration peut postuler à l’intégralité des postes vacants publiés soit par le biais du recrutement interne, soit par le biais du recrutement externe, à l’exception :
+
+- des postes relevant du Corps diplomatique ;
+
+- des fonctions relevant de la rubrique « Armée, Police et Inspection générale de la Police » ;
+
+- des fonctions relevant du groupe de traitement C1 du sous-groupe des douanes ;
+
+- des fonctions relevant de la rubrique « Enseignement » ;
+
+- des fonctions relevant de la rubrique « Magistrature » ;
+
+- des postes de pompier professionnel auprès du Corps grand-ducal d’incendie et de secours ;
+
+- de la fonction d’agent pénitentiaire.
 
 Le fonctionnaire qui postule aux postes vacants relevant de son groupe de traitement publiés en tant que recrutement externe est directement admis à l’épreuve spéciale.
 
@@ -96,10 +130,30 @@ Le chef d’administration examine pour chaque demande si les conditions énumé
 
 Le chef d’administration soumet à son ministre une proposition motivée quant au candidat à retenir.
 
-Le ministre du ressort de destination informe le ministre du ressort d’origine du nom du candidat retenu, sollicite son avis motivé quant au changement projeté et propose une date de prise d’effet du changement, conformément à l’article 12, paragraphe 3, alinéa 3 .
+Le ministre du ressort de destination informe le ministre du ressort d’origine du nom du candidat retenu, sollicite son avis motivé quant au changement projeté et propose une date de prise d’effet du changement , conformément à l’article 12, paragraphe 3, alinéa 3 .
 
 <a id="art-12"></a>
 ## Art. 12.
+
+(1)
+
+Le ministre du ressort de destination transmet au ministre les candidatures reçues et, s’il y a lieu, le nom du candidat retenu, l’avis motivé du ministre du ressort d’origine et une proposition de date pour la prise d’effet du changement.
+
+(2)
+
+Le ministre accorde ou refuse le changement par une décision motivée.
+
+(3)
+
+La décision accordant le changement est transmise au fonctionnaire concerné, une copie étant transmise aux ministres des ressorts concernés.
+
+L’autorité investie du pouvoir de nomination procède à la nomination du fonctionnaire qui est admis à changer d’administration, nomination qui emporte de plein droit démission de la fonction exercée antérieurement.
+
+Le changement prend effet trois mois à partir de la décision du ministre, sauf si les ministres des ressorts concernés s’accordent sur une autre date.
+
+(4)
+
+La décision refusant le changement est transmise au candidat. Au cas où le refus concerne le candidat retenu par le ministre du ressort de destination, une copie de la décision est transmise à ce dernier et au ministre du ressort d’origine.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -113,6 +167,18 @@ Le ministre du ressort de destination informe le ministre du ressort d’origine
 
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+Le fonctionnaire est intégré dans sa nouvelle administration aux niveaux de grade et de traitement atteints dans l’administration d’origine.
+
+(2)
+
+Par traitement au sens du présent article, il y a lieu d’entendre le traitement tel qu’il est fixé aux tableaux indiciaires des annexes de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+(3)
+
+N’est pas considérée comme une diminution de ce traitement au sens du présent article la cessation d’emplois accessoires ou la cessation de primes, d’indemnités extraordinaires ou de frais de voyage, de bureau ou autres lorsque la cause de ces indemnités vient à disparaître avec le nouvel emploi.
 
 <a id="art-16"></a>
 ## Art. 16.

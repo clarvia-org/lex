@@ -30,7 +30,9 @@ warning: 'Official consolidation: Version rectifiée applicable au 03/02/2023 : 
 <a id="art-1er"></a>
 ## Art. 1er.
 
-L’article 3, point 2, du règlement grand-ducal modifié du 20 décembre 1999 concernant l’établissement de l’indice des prix à la consommation est remplacé comme suit : Le schéma de pondération ayant vigueur pour les indices correspondant aux douze mois de l’année 2023 est dérivé des données du quatrième trimestre 2021 et des trois premiers trimestres 2022. Les coefficients de pondération figurant dans ce schéma sont ajustés de manière à tenir compte des variations de prix qui se sont produites entre cette période de référence et le mois de décembre 2022, mois de référence pour le calcul des indices mensuels de l’année 2023. ».
+L’article 3, point 2, du règlement grand-ducal modifié du 20 décembre 1999 concernant l’établissement de l’indice des prix à la consommation est remplacé comme suit :
+
+- Le schéma de pondération ayant vigueur pour les indices correspondant aux douze mois de l’année 2023 est dérivé des données du quatrième trimestre 2021 et des trois premiers trimestres 2022. Les coefficients de pondération figurant dans ce schéma sont ajustés de manière à tenir compte des variations de prix qui se sont produites entre cette période de référence et le mois de décembre 2022, mois de référence pour le calcul des indices mensuels de l’année 2023. ».
 
 <a id="art-2"></a>
 ## Art. 2.

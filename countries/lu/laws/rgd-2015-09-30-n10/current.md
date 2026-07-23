@@ -43,6 +43,8 @@ Les dispositions du chapitre 4 s’appliquent aux fonctionnaires et employés de
 <a id="art-2"></a>
 ## Art. 2.
 
+Dispositions communes
+
 Le stagiaire admis au stage dans un groupe de traitement ou d’indemnité supérieur à son groupe initial bénéficie d’une réduction de stage qui est calculée à raison d’un mois de réduction pour quatre mois de service ou de stage dans le groupe de traitement ou d’indemnité initial. Ne sont pas prises en compte les périodes de service ou de stage inférieures à quatre mois.
 
 La réduction de stage ne peut être supérieure à un an. Elle est calculée au prorata du degré d’occupation pendant le service ou le stage dans le groupe de traitement ou d’indemnité initial.
@@ -50,17 +52,27 @@ La réduction de stage ne peut être supérieure à un an. Elle est calculée au
 <a id="art-3"></a>
 ## Art. 3.
 
+Dispositions spécifiques aux agents de la catégorie A (groupes A1 et A2)
+
 Dans la catégorie de traitement ou d’indemnité A, groupes de traitement ou d’indemnité A1 et A2, la période de stage est réduite d’une durée d’un an:
+
+- pour le stagiaire ayant passé l’examen de fin de stage judiciaire;
+
+- pour le stagiaire qui, en dehors des diplômes requis pour l’admission au service de l’Etat, est titulaire d’un diplôme universitaire supplémentaire dans une matière qui concerne spécialement la fonction ou l’emploi occupé.
 
 Pour le stagiaire qui a acquis une formation pratique par une activité professionnelle correspondant à sa formation universitaire, autre que le stage judiciaire, la réduction de stage est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.
 
 <a id="art-4"></a>
 ## Art. 4.
 
+Dispositions spécifiques aux agents de la catégorie B
+
 Dans la catégorie de traitement ou d’indemnité B, la période de stage est réduite d’une durée d’un an en faveur du stagiaire qui peut se prévaloir d’une expérience professionnelle dans un domaine qui concerne spécialement la fonction ou l’emploi occupés. La réduction de stage est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.
 
 <a id="art-5"></a>
 ## Art. 5.
+
+Dispositions spécifiques aux agents des catégories C et D
 
 Dans les catégories de traitement ou d’indemnité C et D, la période de stage est réduite d’une durée d’un an en faveur du stagiaire qui peut se prévaloir d’une expérience professionnelle dans un domaine qui concerne spécialement la fonction ou l’emploi occupés. La réduction de stage est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.
 
@@ -88,6 +100,8 @@ La partie de l’examen sanctionnant la formation spéciale est organisée par l
 
 <a id="art-8"></a>
 ## Art. 8.
+
+Activité professionnelle autre que dans le secteur public
 
 La bonification d’ancienneté de service prévue à l’article 5, paragraphe 1er, alinéa 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État est accordée à raison de cent pour cent pour les périodes où le degré d’occupation correspondait à une tâche supérieure à la moitié d’une tâche complète. Cette bonification est de cinquante pour cent lorsque le degré d’occupation correspond à une tâche inférieure ou égale à la moitié d’une tâche complète.
 

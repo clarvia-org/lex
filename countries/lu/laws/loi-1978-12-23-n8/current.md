@@ -24,10 +24,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 01/01/1994 : Loi du 23 décembre 1978 concernant les cartes de priorité et d'invalidité.
 
+A. Généralités
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
 Il est créé une carte de priorité et des cartes d´invalidité au profit des personnes qui sont à considérer comme invalides au sens des dispositions de la présente loi.
+
+B. Catégories
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -43,6 +47,12 @@ La carte de priorité peut être délivrée conjointement avec la carte d´inval
 
 Les cartes d´invalidité sont de trois catégories:
 
+- celles de la première sont délivrées aux personnes dont le degré d´invalidité physique est égal ou supérieur à trente pour-cent sans atteindre cinquante pour-cent;
+
+- celles de la seconde sont délivrées aux personnes dont le degré d´invalidité physique est égal ou supérieur à cinquante pour-cent;
+
+- celles de la troisième sont délivrées aux personnes dont l´état physique ou mental est tel qu´elles ne peuvent se déplacer sans l´assistance d´une tierce personne.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -56,6 +66,8 @@ Les détenteurs d´une carte d´invalidité de la troisième catégorie bénéfi
 ## Art. 5.
 
 Les tarifs visés à l´article qui précède sont ceux d´un billet normal, sans préjudice de dispositions plus favorables que les administrations ou services intéressés pourront accorder en matière d´abonnements.
+
+C. Délivrance
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -72,10 +84,18 @@ Pour les personnes résidant à l´étranger mais travaillant régulièrement au
 
 La demande de carte de priorité ou d´invalidité est soumise à l´avis:
 
+- du médecin-conseil de l´office des dommages de guerre s´il s´agit d´un invalide ou mutilé de guerre. Si l´intéressé touche une rente de ce chef l´attestation de l´office des dommages de guerre constatant ce fait et le degré d´invalidité suffit.
+
+- du médecin-chef de l´office des assurances sociales s´il s´agit d´un accidenté de travail. Si l´intéressé touche une rente de ce chef l´attestation de l´office des assurances sociales constatant ce fait et le degré d´invalidité suffit.
+
+- du médecin-directeur de la Santé Publique ou de son délégué dans tous les autres cas.
+
 <a id="art-7"></a>
 ## Art. 7.
 
 La délivrance des cartes de priorité et d´invalidité ainsi que des certificats et attestations y relatifs est faite sans frais.
+
+D. Durée de validité et renouvellement
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -83,6 +103,12 @@ La délivrance des cartes de priorité et d´invalidité ainsi que des certifica
 Les cartes de priorité et d´invalidité délivrées en raison d´une invalidité permanente à des personnes résidant au Grand-Duché sont valables sans limitation de durée.
 
 Les détenteurs sont cependant tenus de faire renouveler leur carte dans les cas suivants:
+
+- Si la photographie ne répond plus à l´apparence du détenteur.
+
+- Si l´état de la carte est tel qu´elle est devenue difficilement lisible.
+
+- Si les indications portées sur la carte ne répondent plus à la réalité.
 
 Le renouvellement se fait sans frais contre remise de l´ancienne carte et de deux photographies récentes du détenteur.
 
@@ -110,6 +136,8 @@ En cas de perte d´une carte le détenteur peut se faire délivrer sans frais et
 
 Ce dernier est émis pour le restant de la validité de l´ancienne carte.
 
+E. Dispositions spéciales
+
 <a id="art-13"></a>
 ## Art. 13.
 
@@ -117,7 +145,17 @@ Un règlement grand-ducal détermine les modèles détaillés des cartes de prio
 
 Le même règlement grand-ducal détermine également le signe distinctif spécial des cartes délivrées aux mutilés et invalides de guerre.
 
-Sont considérés comme mutilés et invalides de guerre au sens de la disposition qui précède les invalides et mutilés luxembourgeois dont l´invalidité est démontrée provenir: l´enrôlement dans les armées et formations paramilitaires alliées; la collaboration à un service de renseignement et d´action luxembourgeoise ou alliée pour des motifs patriotiques; la collaboration à une organisation de résistance; la tentative de rejoindre les armées alliées; la désertion de l´armée allemande par un non-volontaire; l´insoumission à l´armée allemande, à l´S.H.D. et à l´R.A.D.; des mutilations volontaires pour échapper au service militaire dans l´armée allemande; de l´enrôlement forcé dans l´armée allemande, l´S.H.D. et l´R.A.D.;
+Sont considérés comme mutilés et invalides de guerre au sens de la disposition qui précède les invalides et mutilés luxembourgeois dont l´invalidité est démontrée provenir:
+
+- de l´emprisonnement, de l´internement dans un camp de concentration ou de la déportation pour des raisons politiques;
+
+- de l´évasion ou de la vie en cachette devant les mesures de l´occupant en raison de leur activité patriotique active dans une organisation de résistance ou de faits de résistance individuelle caractérisée, si la disparition a été le seul moyen d´éviter un danger imminent pour la vie et la liberté;
+
+- d´actes exécutés pour la défense ou la libération de la patrie notamment par: l´enrôlement dans les armées et formations paramilitaires alliées; la collaboration à un service de renseignement et d´action luxembourgeoise ou alliée pour des motifs patriotiques; la collaboration à une organisation de résistance; la tentative de rejoindre les armées alliées; la désertion de l´armée allemande par un non-volontaire; l´insoumission à l´armée allemande, à l´S.H.D. et à l´R.A.D.; des mutilations volontaires pour échapper au service militaire dans l´armée allemande; de l´enrôlement forcé dans l´armée allemande, l´S.H.D. et l´R.A.D.;
+
+- d´un fait caractérisé de guerre.
+
+F. Dispositions transitoires
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -132,6 +170,8 @@ Les titulaires peuvent cependant en demander le remplacement sans frais par les 
 Les cartes pour pupilles de la nation et orphelins de guerre émises sous l´empire de la loi précitée du 24 décembre 1948 restent en vigueur et peuvent être prolongées ou renouvelées jusqu´à l´expiration des délais prévus par l´article 2 dernier alinéa de la prédite loi du 24 décembre 1948.
 
 Toutefois les cartes de cette espèce délivrées à titre permanent pour cause d´invalidité sont remplacées par des cartes d´invalidité de la troisième catégorie prévues par l´article 3 sub c) de la présente loi, ces cartes sont du modèle spécial visé à l´article 13, deuxième alinéa de la présente loi.
+
+G. Dispositions abrogatoire et finale
 
 <a id="art-16"></a>
 ## Art. 16.

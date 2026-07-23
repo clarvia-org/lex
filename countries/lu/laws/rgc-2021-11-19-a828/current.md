@@ -33,8 +33,62 @@ Le Fonds national de solidarité accordera pour l’année 2022, sur demande du 
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Peut prétendre à l’allocation de vie chère et au complément , toute personne qui remplit les conditions suivantes :
+
+- bénéficier d’un droit de séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;
+
+- avoir résidé au Grand-Duché de Luxembourg pendant une période de référence de 12 mois en continu précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;
+
+- disposer seule ou ensemble avec les personnes qui vivent avec elle en communauté domestique au moment de l’introduction de la demande, d’un revenu annuel global inférieur aux limites fixées à l’article 3 ci-après.
+
+Sont présumées faire partie d’une communauté domestique, toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. Les dispositions de l’article 4 (1) et (4) de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale sont applicables.
+
+Toutes les personnes faisant partie de la communauté domestique à la date du dépôt de cette demande, sont considérées comme demandeurs de l’allocation et du complément pour l’année en cours. Le requérant, au nom duquel la demande est déposée, est le demandeur principal.
+
+(2)
+
+L’allocation et le complément ne peuvent être demandés qu’une seule fois par année . Cette limitation s’applique également en cas de changement de la composition de ménage ou de la situation de revenu du demandeur.
+
+(3)
+
+Ne peut prétendre à l’allocation de vie chère et au complément :
+
+- la personne qui a bénéficié de l’aide financière de l’État pour études supérieures au courant des 12 mois précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;
+
+- la personne qui est entrée sur le territoire du Grand-Duché de Luxembourg dans les conditions prévues aux articles 5, 6 (1) 3 et 38 (1) d) de la loi modifiée du 29 août 2008 portant sur la libre circulation des personnes et l’immigration ;
+
+- la personne qui fait l’objet d’une mesure de détention préventive ou d’une peine privative de liberté, sauf pendant la période où elle est soumise au régime de la semi-liberté, qu’elle bénéficie d’une suspension de l’exécution d’une peine, d’une libération conditionnelle ou d’un placement sous surveillance électronique.
+
 <a id="art-3"></a>
 ## Art. 3.
+
+(1)
+
+Pour avoir droit à l’allocation de vie chère, le revenu annuel global visé à l’article 2, paragraphe 1er, lettre c) ci-avant ne doit pas dépasser trois mille cent soixante-huit euros pour une personne seule. Cette limite de revenu est augmentée de :
+
+- mille cinq cent quatre-vingt-quatre euros pour la deuxième personne ;
+
+- neuf cent cinquante euros et quarante cents pour chaque personne supplémentaire dans le ménage.
+
+(2)
+
+Pour avoir droit au complément, le revenu annuel global visé à l’article 2, paragraphe 1er, lettre c) ci-avant ne doit pas dépasser trois mille neuf cent soixante euros pour une personne seule. Cette limite de revenu est augmentée de :
+
+- mille neuf cent quatre-vingt euros pour la deuxième personne ;
+
+- mille cent quatre-vingt-huit euros pour chaque personne supplémentaire dans le ménage.
+
+(3)
+
+Les montants prévus aux paragraphes 1 et 2 correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.
+
+Ils sont adaptés annuellement
+
+- à la cote d’application applicable au 1er janvier de l’année au cours de laquelle l’allocation est due suivant les modalités applicables aux traitements des fonctionnaires de l’État ;
+
+- à toute variation du salaire social minimum.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -43,8 +97,52 @@ Est considéré comme revenu annuel global au sens de l’article 3 ci-dessus, l
 
 Sont notamment pris en compte pour la détermination des revenus de la communauté domestique :
 
+- le revenu provenant d’un travail régulier ou généralement d’une activité professionnelle quelconque ;
+
+- les revenus de remplacement dus au titre de la législation luxembourgeoise ou étrangère ;
+
+- les revenus de biens mobiliers et immobiliers ;
+
+- les rentes et pensions ;
+
+- les allocations ou prestations touchées de la part d’un organisme public ou privé, à l’exception des allocations familiales, de l’allocation de rentrée scolaire et de l’allocation de naissance ;
+
+- les pensions alimentaires.
+
 <a id="art-5"></a>
 ## Art. 5.
+
+(1)
+
+L’allocation de vie chère est fixée à :
+
+- mille six cent cinquante-deux euros pour une personne seule ;
+
+- deux mille soixante-cinq euros pour une communauté de deux personnes ;
+
+- deux mille quatre cent soixante-dix-huit euros pour une communauté de trois personnes ;
+
+- deux mille huit cent quatre-vingt-onze euros pour une communauté de quatre personnes ;
+
+- trois mille trois cent quatre euros pour une communauté de cinq personnes et plus.
+
+Les personnes qui disposent d’un revenu qui dépasse les limites visées à l’article 3, paragraphe 1er ont droit à une allocation réduite correspondant à la différence entre les montants de l’allocation fixés à l’alinéa qui précède et la part du montant du revenu annuel adapté à l’indice qui dépasse les limites de revenu visées à l’article 3, paragraphe 1er.
+
+(2)
+
+Le complément est fixée à :
+
+- deux cent euros pour une personne seule ;
+
+- deux cent cinquante euros pour une communauté de deux personnes ;
+
+- trois cent euros pour une communauté de trois personnes ;
+
+- trois cent cinquante euros pour une communauté de quatre personnes ;
+
+- quatre cent euros pour une communauté de cinq personnes et plus.
+
+Les personnes qui disposent d’un revenu qui dépasse les limites visées à l’article 3, paragraphe 2 ont droit à un complément réduit correspondant à la différence entre les montants du complément fixé à l’alinéa qui précède et la part du montant du revenu annuel adapté à l’indice qui dépasse les limites de revenu visées à l’article 3, paragraphe 2.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -58,6 +156,32 @@ L’allocation et le complément sont exempts d’impôts et de cotisations d’
 
 <a id="art-8"></a>
 ## Art. 8.
+
+(1)
+
+Les demandes sont à présenter sur des formulaires mis à la disposition des intéressés par le Fonds national de solidarité, par les communes et par la Ville de Luxembourg. Ainsi, le Fonds national de solidarité communique, à la fin de l’année, les données des ménages bénéficiaires de l’année en cours au Syndicat Intercommunal de Gestion Informatique afin que celui-ci mette à disposition des communes, par outil informatique, un formulaire pré-rempli complété des données communales pour les demandeurs d’une allocation de vie chère de l’année suivante. Les données des ménages bénéficiaires sont communiquées aux communes de résidence aux fins de l’attribution éventuelle d’une allocation de vie chère, suivant les règlements communaux respectifs. En cas de reconduction de la prestation, l’envoi des formulaires pré-remplis aux bénéficiaires actuels est assuré par le Fonds national de solidarité à la fin de l’année. Les demandes complétées sont à signer par tous les demandeurs majeurs d’âge, ou par leur représentant légal. En cas de signature par le représentant légal, une copie du jugement est à joindre.
+
+Les demandes en obtention de l’allocation de vie chère valent dépôt de la demande en obtention du complément.
+
+(2)
+
+Les demandes complètes doivent parvenir au Fonds national de solidarité entre le 1er janvier 2022 et le 31 octobre 2022 au plus tard. Le cachet de la poste fait foi.
+
+(3)
+
+Est obligatoirement à joindre à la demande un relevé d’identité bancaire du demandeur principal.
+
+(4)
+
+Une demande incomplète ne peut être considérée par le Fonds national de solidarité et sera renvoyée par envoi recommandé au demandeur. Les demandes renvoyées doivent parvenir dûment complétées au Fonds national de solidarité endéans un délai de 30 jours. Le cachet de la poste fait foi. Passé ce délai, l’allocation de vie chère et le complément sont refusés.
+
+(5)
+
+Tout renseignement ou document demandé par le Fonds national de solidarité lors du traitement du dossier doit parvenir de manière complète au Fonds national de solidarité endéans un délai de 30 jours. Le cachet de la poste fait foi. Passé ce délai, l’allocation de vie chère et le complément sont refusés.
+
+(6)
+
+Tous les actes dont la production sera la suite du présent règlement seront délivrés gratuitement avec exemption de tous droits et taxes.
 
 <a id="art-9"></a>
 ## Art. 9.

@@ -44,10 +44,40 @@ Le Ministre accorde les concessions, assorties des cahiers des charges, au nom d
 <a id="art-4"></a>
 ## Art. 4.
 
+- Les concessions sont d'une durée limitée, mais elles peuvent être renouvelées au profit du même bénéficiaire. Les dispositions de la nouvelle concession et du cahier des charges peuvent être différentes de celles applicables antérieurement.
+
+- Une concession peut porter sur un ou sur plusieurs services .
+
 <a id="art-5"></a>
 ## Art. 5.
 
-Il pourra contenir par ailleurs, selon le cas, notamment les dispositions sur:
+- Le cahier des charges assorti à une concession précisera le type de service pour lequel la concession est accordée. Il pourra contenir par ailleurs, selon le cas, notamment les dispositions sur:
+
+  - le mode de financement du service ;
+
+  - la redevance éventuelle à verser au Trésor public ou les services culturels à assurer dans l'intérêt du pays, de la population de la région couverte par le ou les réseaux câblés diffusant le service ou des spectateurs du service ;
+
+  - le respect du pluralisme dans la présentation de l'actualité et des idées;
+
+  - la promotion de la culture et de la créativité artistique dans la conception et la réalisation du service ;
+
+  - la surveillance du contenu du service par le Conseil national des programmes;
+
+  - les conditions selon lesquelles le Gouvernement peut faire diffuser à ses frais des programmes luxembourgeois socioculturels à la demande de l'Etablissement de Radiodiffusion Socioculturelle;
+
+  - l'interdiction de diffuser des messages publicitaires ou de parrainage ou les limites dans lesquelles les services peuvent contenir des messages publicitaires;
+
+  - les droits de regard du Gouvernement sur les statuts, l'actionnariat et les organes de la société bénéficiaire et de toutes les sociétés participant à l'exploitation de la permission;
+
+  - la surveillance de l'activité du bénéficiaire par un Commissaire du Gouvernement;
+
+  - l'obligation de mettre le canal gratuitement à la disposition de l'Etat pour la diffusion de communiqués officiels ou d'informations relatifs à la sécurité de la vie humaine et aux nécessités de police, cette diffusion se faisant à la demande du Gouvernement et ayant priorité sur celle des autres programmes ;
+
+  - la proportion des programmes qui doivent être acquis auprès de producteurs indépendants du bénéficiaire;
+
+  - les conditions dans lesquelles le bénéficiaire peut associer d'autres sociétés à l'exploitation de la concession.
+
+- Si la concession porte sur plusieurs services , le cahier des charges pourra comprendre des dispositions communes concernant tous les services et des dispositions particulières concernant chacun des services visés par la concession.
 
 <a id="art-6"></a>
 ## Art. 6.

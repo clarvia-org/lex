@@ -35,6 +35,16 @@ Le Corps grand-ducal d’incendie et de secours, ci-après dénommé « CGDIS »
 
 Au sens du présent règlement, on entend par :
 
+- « demandeur » : un vétéran du CGDIS, qui adresse une demande au CGDIS pour obtenir l’allocation de reconnaissance ;
+
+- « pompier volontaire opérationnel » : un pompier tel que défini aux articles 1 et 12 à 14 du règlement grand-ducal du 15 juin 2018 relatif aux pompiers volontaires du Corps grand-ducal d’incendie et de secours ;
+
+- « pompier volontaire de support » : un pompier tel que défini aux articles 1 et 15 à 17 du règlement grand-ducal du 15 juin 2018 relatif aux pompiers volontaires du Corps grand-ducal d’incendie et de secours ;
+
+- « temps de service » : service effectué par le pompier calculé suivant les modalités définies à l’article 5 ;
+
+- « vétéran » : un pompier tel que défini aux articles 1, 18 et 19 du règlement grand-ducal du 15 juin 2018 relatif aux pompiers volontaires du Corps grand-ducal d’incendie et de secours.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -43,7 +53,21 @@ Est éligible pour l’obtention de l’allocation de reconnaissance par le CGDI
 <a id="art-4"></a>
 ## Art. 4.
 
-Le montant annuel de l’allocation de reconnaissance est déterminé sur base des éléments suivants : Temps de service Montant annuel > 15 ans € 260,00 > 20 ans € 360,00 > 25 ans € 460,00 > 30 ans € 560,00 > 35 ans € 660,00 Temps de service Montant annuel > 15 ans € 260,00 > 20 ans € 360,00 > 25 ans € 460,00 > 30 ans € 560,00 > 35 ans € 660,00
+Le montant annuel de l’allocation de reconnaissance est déterminé sur base des éléments suivants :
+
+- le temps de service, calculé suivant les modalités prévues à l’article 5 ;
+
+- le cadre et le dernier grade fonctionnel, obtenu en tant que pompier volontaire, tels que prévus à l’article 36 de la loi précitée du 27 mars 2018 ;
+
+- le barème suivant :
+
+| Temps de service | Montant annuel |
+| --- | --- |
+| > 15 ans | € 260,00 |
+| > 20 ans | € 360,00 |
+| > 25 ans | € 460,00 |
+| > 30 ans | € 560,00 |
+| > 35 ans | € 660,00 |
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -53,6 +77,10 @@ Au moment de la demande pour l’obtention de l’allocation de reconnaissance, 
 Le temps de service effectué par le vétéran est exprimé en années et en mois, les mois sont ajustés vers le haut.
 
 Le temps de service est calculé en additionnant :
+
+- la période pendant laquelle le demandeur appartenait à la catégorie des pompiers volontaires opérationnels ;
+
+- la moitié de la période pendant laquelle le demandeur appartenait à la catégorie des pompiers volontaires de support.
 
 <a id="art-6"></a>
 ## Art. 6.

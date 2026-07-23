@@ -36,6 +36,28 @@ Ces indemnités couvrent tous les frais inhérents à la fonction, à l’except
 
 Les montants des indemnités mensuelles ne peuvent dépasser les maxima indiqués ci-après:
 
+- dans les communes dont le conseil communal se compose de 7 membres: 66,00 EUR pour le bourgmestre et 33,00 EUR pour chacun des échevins;
+
+- dans les communes dont le conseil communal se compose de 9 membres: 118,80 EUR pour le bourgmestre et 59,40 EUR pour chacun des échevins;
+
+- dans les communes dont le conseil communal se compose de 11 membres: 171,60 EUR pour le bourgmestre et 103,90 pour chacun des échevins;
+
+- dans les communes dont le conseil communal se compose de 13 membres: 211,20 EUR pour le bourgmestre et 126,50 EUR pour chacun des échevins;
+
+- dans les communes dont le conseil communal se compose de 15 membres: 264,00 EUR pour le bourgmestre et 177,10 EUR pour chacun des échevins;
+
+- dans les communes dont le conseil communal se compose de 17 membres: 316,80 EUR pour le bourgmestre et 212,30 EUR pour chacun des échevins;
+
+- dans les communes dont le conseil communal se compose de 19 membres: 422,40 EUR pour le bourgmestre et 282,70 EUR pour chacun des échevins;
+
+- dans la Ville de Luxembourg: 844,80 EUR pour le bourgmestre et 566,50 EUR pour chacun des échevins;
+
+- dans la commune fusionnée de Schengen, pendant la période transitoire telle que définie à l'article 13. (1) de la loi du 24 mai 2011 portant fusion des communes de Burmerange, de Schengen et de Wellenstein: 211,20 EUR pour le bourgmestre et 126,50 EUR pour chacun des échevins ;
+
+- dans la commune fusionnée de Wiltz, pendant la période transitoire telle que définie à l'article 9 (1) de la loi du 19 décembre 2014 portant fusion des communes d'Eschweiler et de Wiltz: 211,20 EUR pour le bourgmestre et 126,50 EUR pour chacun des échevins;
+
+- dans la commune fusionnée de Groussbus-Wal, pendant la période transitoire telle que définie à l’article 9 de la loi du 3 mars 2023 portant fusion des communes de Grosbous et de Wahl : 191,40 EUR pour le bourgmestre et 115,20 EUR pour chacun des échevins.
+
 <a id="art-3"></a>
 ## Art. 3.
 

@@ -227,7 +227,9 @@ Le classement devient définitif si la personne publique propriétaire n'a pas r
 <a id="art-21"></a>
 ## Art. 21.
 
-Les objets mobiliers appartenant à toute personne autre que celles énumérées à l'article 20, peuvent être proposés au classement par arrêté du ministre, la commission des Sites et Monuments nationaux et le conseil communal de la commune sur le territoire de laquelle l'objet mobilier se trouve entendus en leurs avis, lesquels doivent être produits dans le délai de trois mois à partir de la notification de la proposition de classement Passé ce délai, la proposition est censée être agréée. L'arrêté détermine les conditions du classement.
+Les objets mobiliers appartenant à toute personne autre que celles énumérées à l'article 20, peuvent être proposés au classement par arrêté du ministre, la commission des Sites et Monuments nationaux et le conseil communal de la commune sur le territoire de laquelle l'objet mobilier se trouve entendus en leurs avis, lesquels doivent être produits dans le délai de trois mois à partir de la notification de la proposition de classement Passé ce délai, la proposition est censée être agréée.
+
+L'arrêté détermine les conditions du classement.
 
 La proposition de classement est notifiée au propriétaire, l'acte de notification énumérant les conditions du classement et informant le propriétaire de son droit au paiement éventuel d'une indemnité représentative du préjudice pouvant résulter pour lui des servitudes et obligations du classement La réponse du propriétaire, accompagnée, le cas échéant, de la demande en indemnisation, doit parvenir au Ministre dans les six mois à dater de la notification de l'arrêté proposant le classement.
 
@@ -361,6 +363,10 @@ Pendant la période comprise entre la délimitation du secteur sauvegardé et la
 ## Art. 36.
 
 Peuvent être réalisées dans les secteurs sauvegardés:
+
+- des opérations de conservation, de restauration et de mise en valeur;
+
+- des opérations de restauration immobilière comportant des travaux de remise en état, d'assainissement, de modernisation ou de démolition ayant pour conséquence l'amélioration des conditions d'habitabilité d'un ensemble d'immeubles.
 
 Ces opérations peuvent être décidées et exécutées à l'initiative d'un ou de plusieurs propriétaires groupés ou non. Ce ou ces propriétaires ne peuvent entreprendre leurs travaux qu'à condition d'être munis d'une autorisation spéciale.
 

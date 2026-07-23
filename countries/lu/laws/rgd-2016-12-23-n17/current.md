@@ -28,15 +28,27 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le crédit d'impôt pour pensionnés (ci-après dénommé « CIP » ) et un crédit d’impôt CO2 pour pensionnés (ci-après dénommé « CI-CO2 pensionné ») sont bonifiés par la caisse de pension ou tout autre débiteur de la pension à ses pensionnés qui disposent d'une fiche de retenue d'impôt sur laquelle se trouve l'inscription CIP. La caisse de pension ou tout autre débiteur de la pension détermine le montant du CIP et du CI-CO2 pensionné à accorder en fonction du montant de la pension brute versée en application de l'article 154quinquies.
+Le crédit d'impôt pour pensionnés ( ci-après dénommé « CIP » ) et un crédit d’impôt CO2 pour pensionnés (ci-après dénommé « CI-CO2 pensionné ») sont bonifiés par la caisse de pension ou tout autre débiteur de la pension à ses pensionnés qui disposent d'une fiche de retenue d'impôt sur laquelle se trouve l'inscription CIP. La caisse de pension ou tout autre débiteur de la pension détermine le montant du CIP et du CI-CO2 pensionné à accorder en fonction du montant de la pension brute versée en application de l'article 154quinquies.
 
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Dans une première étape, la caisse de pension ou tout autre débiteur de la pension détermine la retenue d'impôt d'après les barèmes de retenue ou d'après le taux de retenue inscrit sur la fiche de retenue d'impôt.
+
+(2)
+
+La fraction du CIP et du CI-CO2 pensionné correspondant à la période de pension prévue à l'article 154quinquies, alinéa 2 est ensuite imputée sur la retenue d'impôt correspondant à la même période de pension. L'impôt à retenir à charge du pensionné correspond au montant de la retenue, diminué des crédits d’impôt imputés .
+
+(3)
+
+Si la retenue d'impôt visée à l'alinéa 1er est inférieure au montant des fractions de crédits d'impôt imputés, l'excédent des crédits d'impôt est restitué au pensionné par la caisse de pension ou tout autre débiteur de la pension (impôt négatif).
+
 <a id="art-3"></a>
 ## Art. 3.
 
-Lorsque la période de pension correspond au mois ou à la journée, mais que pour une raison ou une autre la caisse de pension ou tout autre débiteur de la pension verse l'ensemble de la pension relative à plusieurs périodes en une seule fois, le CIP, inscrit sur la fiche de retenue d’impôt, et le CI-CO2 pensionné, relatifs à chaque période de pension et inscrit sur la fiche de retenue d'impôt est à bonifier au pensionné.
+Lorsque la période de pension correspond au mois ou à la journée, mais que pour une raison ou une autre la caisse de pension ou tout autre débiteur de la pension verse l'ensemble de la pension relative à plusieurs périodes en une seule fois, le CIP , inscrit sur la fiche de retenue d’impôt, et le CI-CO2 pensionné, relatifs à chaque période de pension et inscrit sur la fiche de retenue d'impôt est à bonifier au pensionné.
 
 <a id="art-4"></a>
 ## Art. 4.

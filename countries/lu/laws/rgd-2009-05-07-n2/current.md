@@ -83,7 +83,9 @@ Chaque règlement d'ordre intérieur complémentaire est soumis à l'approbation
 <a id="art-7"></a>
 ## Art. 7.
 
-Le règlement d'ordre intérieur en vigueur doit être affiché à un endroit visible de l'école. Un exemplaire doit être communiqué au personnel de l'école ainsi qu'aux parents lors de l'entrée à l'école de leur enfant. Il en est de même, le cas échéant, du règlement d'ordre intérieur complémentaire ainsi que de toute modification apportée ultérieurement à l'un ou l'autre règlement.
+Le règlement d'ordre intérieur en vigueur doit être affiché à un endroit visible de l'école. Un exemplaire doit
+
+être communiqué au personnel de l'école ainsi qu'aux parents lors de l'entrée à l'école de leur enfant. Il en est de même, le cas échéant, du règlement d'ordre intérieur complémentaire ainsi que de toute modification apportée ultérieurement à l'un ou l'autre règlement.
 
 <a id="art-8"></a>
 ## Art. 8.

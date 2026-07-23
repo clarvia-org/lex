@@ -29,7 +29,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Du 8 décembre 2021 jusqu’au 9 mai 2022, est déclassée du statut de zone délimitée au statut de zone publique, une surface située dans les locaux de Luxembourg Air Rescue ASBL.
+Du 8 décembre 2021 jusqu’au 9 mai 2022 , est déclassée du statut de zone délimitée au statut de zone publique, une surface située dans les locaux de Luxembourg Air Rescue ASBL.
 
 Les surfaces à déclasser sont représentées sur les plans joints en annexe.
 

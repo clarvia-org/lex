@@ -27,10 +27,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Le régime et sa finalité
+
 Il est instauré un régime fiscal temporaire spécial sur la base de certificats d’investissement audiovisuel, désigné ci-après par le «régime», destiné à favoriser les investissements de capitaux à risque dans la production d’œuvres audiovisuelles à réaliser au Grand-Duché de Luxembourg.
 
 <a id="art-2"></a>
 ## Art. 2.
+
+Les bénéficiaires
 
 Le Gouvernement peut émettre, au titre des exercices 1999 à 2013, des certificats d’investissement audiovisuel à des sociétés de capitaux agréées, résidentes et pleinement imposables, qui ont pour objet social principal la production audiovisuelle et qui produisent effectivement des œuvres audiovisuelles dans des conditions déterminées à l’article 4 de la présente loi.
 
@@ -40,6 +44,8 @@ Les sociétés de production qui désirent bénéficier du régime des certifica
 
 <a id="art-3"></a>
 ## Art. 3.
+
+Les certificats d’investissement audiovisuel
 
 Les certificats d’investissement audiovisuel sont délivrés par les ministres compétents procédant par décision commune, sur avis préalable du Fonds.
 
@@ -58,8 +64,34 @@ Le bénéficiaire principal, les bénéficiaires substitutifs et les endossatair
 <a id="art-4"></a>
 ## Art. 4.
 
+Conditions d’éligibilité des œuvres
+
+1.
+
+Les œuvres audiovisuelles susceptibles de bénéficier du régime des certificats d’investissement audiovisuel doivent répondre aux critères ci-après énumérés:
+
+- contribuer au développement du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, compte tenu d’une proportionnalité raisonnable entre les avantages consentis et les retombées économiques, culturelles et sociales à long terme de la production de ces œuvres;
+
+- être conçues pour être réalisées au sein de l’Union européenne et en particulier sur le territoire du Grand-Duché de Luxembourg;
+
+- être exploitées ou co-exploitées par la société de production, notamment par le biais de la détention effective et durable d’une part significative des droits;
+
+- offrir des perspectives de retour sur investissement raisonnables.
+
+2.
+
+Sont exclus d’office du bénéfice du régime instauré par la présente loi:
+
+- les œuvres pornographiques, incitatrices à la violence ou à la haine raciale, apologétique de crimes contre l’humanité et, de manière générale, contrevenant à l’ordre public et aux bonnes mœurs;
+
+- les œuvres destinées ou utilisées à des fins de publicité;
+
+- les programmes d’information, débats d’actualité ou les émissions sportives.
+
 <a id="art-5"></a>
 ## Art. 5.
+
+Détermination du montant des certificats
 
 Le montant des certificats d’investissement audiovisuel à émettre est fixé en fonction des critères d’éligibilité définis à l’article 4 ci-avant en tenant compte des coûts de production effectivement exposés et des dépenses y relatives effectuées au Grand-Duché de Luxembourg.
 
@@ -81,14 +113,20 @@ La bonification d’impôt pour investissement audiovisuel ne peut être cumulé
 <a id="art-7"></a>
 ## Art. 7.
 
+Gestion administrative du régime
+
 Le Fonds national de soutien à la production audiovisuelle est chargé d’assumer la gestion administrative, la surveillance et le contrôle du régime.
 
 <a id="art-8"></a>
 ## Art. 8.
 
+Remise de matériel audiovisuel
+
 Dans l’intérêt de la promotion du secteur de la production audiovisuelle au Grand-Duché de Luxembourg, et sans préjudice des dispositions de l’article 2 alinéa 1 de la loi du 18 mai 1989 portant création du Centre national de l’audiovisuel, les bénéficiaires principaux des certificats d’investissement audiovisuel ont l’obligation de remettre au Fonds, sans frais pour celui-ci, une copie de l’œuvre audiovisuelle produite ayant bénéficié du régime instauré par la présente loi, ainsi qu’une copie de tout matériel de promotion disponible et un extrait d’au moins trente (30) secondes de cette œuvre, libres de droits, le tout sur des supports matériels à définir par le Fonds.
 
 <a id="art-9"></a>
 ## Art. 9.
+
+Recours
 
 Les décisions administratives prises en application de la présente loi sont susceptibles d’un recours en annulation devant le tribunal administratif.

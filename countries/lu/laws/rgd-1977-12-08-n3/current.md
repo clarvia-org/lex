@@ -45,6 +45,14 @@ Les examens périnatals ont lieu le premier dans les 48 heures qui suivent la na
 
 Les quatre examens subséquents ont lieu:
 
+- le premier à l'âge de 3 à 8 semaines
+
+- le deuxième à l'âge de 4 à 6 mois
+
+- le troisième à l'âge de 9 à 12 mois
+
+- le quatrième à l'âge de 21 à 24 mois.
+
 <a id="art-4"></a>
 ## Art. 4.
 

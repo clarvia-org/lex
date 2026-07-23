@@ -25,6 +25,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 02/07/2007 : Règlement grand-ducal du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil National pour Etrangers, ainsi que leur répartition par nationalités.
 
+I- Répartition des représentants des étrangers au conseil national pour étrangers par nationalités
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -42,6 +44,12 @@ Pour l’ensemble des autres pays de l’Union européenne il y a deux membres e
 
 Les 2 membres effectifs et les 2 membres suppléants représentant les pays qui ne font pas partie de l’Union européenne se répartissent comme suit, dans l’ordre du nombre de voix obtenues, étant entendu que les 2 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs:
 
+- 1 ressortissant de la République de Bosnie-Herzégovine
+
+- 1 ressortissant du Cap Vert
+
+- 2 ressortissants d’autres pays non membres de l’Union européenne
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -53,10 +61,16 @@ En cas de décès ou de démission d’un membre du conseil, son suppléant le r
 
 Le mandat individuel d’un représentant des étrangers prend fin, hormis le cas de décès ou de démission, dès qu’il acquiert la nationalité luxembourgeoise. Il en est de même en cas de transfert du domicile en dehors du territoire du Grand-Duché. Dans ces cas le membre suppléant est remplacé, suivant les dispositions prévues aux articles 29 et suivants, de façcon à respecter les modalités de représentation fixées aux articles précédents.
 
+II. Associations admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille.
+
 <a id="art-5"></a>
 ## Art. 5.
 
 Sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille, d’après les modalités ci-après désignées:
+
+- les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;
+
+- les associations oeuvrant, à titre principal, en faveur des étrangers.
 
 Les associations visées à l’alinéa qui précède doivent être inscrites au Commissariat du Gouvernement aux étrangers au plus tard le quinzième jour avant le jour du scrutin défini à l’article 15.
 
@@ -71,6 +85,12 @@ Pour les premières élections il suffit que les statuts de l’association aien
 ## Art. 7.
 
 La demande d’inscription se fait sur papier libre, adressée au Commissariat du Gouvernement aux étrangers en joignant:
+
+- une copie conforme de l’acte de constitution
+
+- une copie conforme attestant la publication des statuts au Mémorial C, recueil spécial des sociétés et associations. Pour les premières élections une copie conforme attestant le dépôt des statuts aux fins de publication suffit.
+
+- la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.
 
 Afin d’examiner la conformité de l’association aux articles 5 et 6, le Commissariat du Gouvernement aux étrangers peut exiger la production de la liste des membres, établie conformément à l’article 10 de la loi du 21 avril 1928 précitée.
 
@@ -88,15 +108,29 @@ La liste des inscriptions est révisée annuellement avec effet au 1er juillet.
 
 Toutes les associations inscrites auprès du Commissariat du Gouvernement aux étrangers sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille.
 
+III. Modalités de désignation des candidats parmi lesquels sont élus les représentants des étrangers à proposer au ministre compétant.
+
 <a id="art-10"></a>
 ## Art. 10.
 
 Les représentants des étrangers à proposer au ministre compétent sont élus parmi les personnes figurant sur la liste des candidats déclarés, sauf ce qui est prévu aux articles 30 et suivants.
 
+A. Les candidatures
+
 <a id="art-11"></a>
 ## Art. 11.
 
 Pour être candidat, il faut:
+
+- être d’une nationalité autre que luxembourgeoise
+
+- être âgée de 18 ans accomplis le jour du scrutin
+
+- être domicilié au Grand-Duché de Luxembourg
+
+- ne pas être placé sous un régime de tutelle des majeurs
+
+- ne pas avoir subi de condamnation à une peine criminelle ou une condamnation en matière correctionnelle emportant privation du droit de vote.
 
 La candidature peut être posée par la personne concernée elle-même ou par une ou plusieurs associations inscrites auprès du Commissariat du Gouvernement aux étrangers avec l’accord écrit du concerné.
 
@@ -112,6 +146,12 @@ Les candidats doivent se déclarer ou être déclarés auprès du Commissariat d
 
 La déclaration de candidature est accompagnée:
 
+- d’un acte de naissance
+
+- d’une pièce documentant la nationalité du candidat
+
+- d’un extrait du casier judiciaire.
+
 La liste des candidats déclarés est affichée au Commissariat du Gouvernement aux étrangers du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections, où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.
 
 <a id="art-14"></a>
@@ -120,6 +160,8 @@ La liste des candidats déclarés est affichée au Commissariat du Gouvernement 
 Celui qui ne remplit pas les conditions des articles 11 et 13 ci-dessus n’est pas éligible. Il ne peut se porter candidat et peut retirer sa candidature.
 
 Si l’éligibilité d’un candidat, du point de vue des condamnations encourues, paraît être douteuse, le Commissaire du Gouvernement aux étrangers fait réviser d’urgence les conditions d’éligibilité par le Parquet et invite le candidat à présenter ses observations. Lorsque sur le vu des extraits de casier judiciaire ou de tous autres renseignements produits par le Parquet, l’inéligibilité est constatée, le Commissaire doit rayer le candidat en question.
+
+B. Le scrutin
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -134,6 +176,10 @@ Le premier scrutin se déroule dans les deux mois suivant l’entrée en vigueur
 Le bureau de vote est nommé par le ministre ayant dans ses attributions la famille.
 
 Il est composé de cinq membres, à savoir:
+
+- trois fonctionnaires ou employés du Commissariat du Gouvernement aux étrangers
+
+- deux représentants des étrangers à proposer par les membres sortants du conseil national pour étrangers.
 
 Pour les premières élections ces représentants sont proposés par les membres sortants du conseil national de l’immigration.
 
@@ -198,6 +244,12 @@ Chaque candidat ne peut obtenir qu’une seule voix.
 ## Art. 26.
 
 Sont nuls:
+
+- les bulletins comportant plus de 14 votes exprimés
+
+- les bulletins comportant plus d’un vote exprimé pour le même candidat
+
+- les bulletins rendus manifestement reconnaissables par leur auteur.
 
 <a id="art-27"></a>
 ## Art. 27.

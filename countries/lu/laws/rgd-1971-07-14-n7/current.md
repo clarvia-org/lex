@@ -60,6 +60,22 @@ En cas d'empêchement du président, il est remplacé par un membre du comité �
 
 Le comité est composé des représentants suivants choisis selon leur compétence administrative:
 
+- de deux fonctionnaires du Ministère des Travaux Publics dont le commissaire au fonds des routes;
+
+- de quatre fonctionnaires du Ministère des Finances;
+
+- de trois fonctionnaires de l'Administration des Ponts et Chaussées;
+
+- d'un fonctionnaire de l'Administration de l'Enregistrement et des Domaines;
+
+- d'un fonctionnaire-géomêtre de l'Administration du Cadastre et de la Topographie;
+
+- d'un fonctionnaire de l'Administration des Services Techniques de l'Agriculture;
+
+- d'un fonctionnaire de l'Administration des Bâtiments Publics;
+
+- d'un fonctionnaire de l'Administration des Eaux et Forêts.
+
 <a id="art-7"></a>
 ## Art. 7.
 

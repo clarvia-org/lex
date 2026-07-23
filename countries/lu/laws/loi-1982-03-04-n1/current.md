@@ -39,6 +39,10 @@ Le siège du Fonds est à Luxembourg.
 
 Le Fonds a pour mission de recevoir, de gérer et d'employer les allocations et dons émanant de sources publiques et privées en vue:
 
+- de la promotion des arts et sciences;
+
+- de la conservation, de là restauration et de l'affectation appropriée du patrimoine historique et culturel national, immobilier et mobilier;
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -107,17 +111,52 @@ La valeur retenue par cette commission est censée constituer la valeur estimée
 <a id="art-12"></a>
 ## Art. 12.
 
-L'article 109, alinéa premier, numéro 3, de la loi du 4 décembre 1967 concernant l'impôt sur le revenu est modifié comme suit: «3. les libéralités visées à l'article 112 dans la mesure où elles ne dépassent pas dix pour cent du total des revenus nets, ni 247 894 euros». «3. les libéralités visées à l'article 112 dans la mesure où elles ne dépassent pas dix pour cent du total des revenus nets, ni 247 894 euros».
+L'article 109, alinéa premier, numéro 3, de la loi du 4 décembre 1967 concernant l'impôt sur le revenu est modifié comme suit:
+
+«3. les libéralités visées à l'article 112 dans la mesure où elles ne dépassent pas dix pour cent du total des revenus nets, ni 247 894 euros».
 
 <a id="art-13"></a>
 ## Art. 13.
 
-L'article 112 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu est abrogé et remplacé par les dispositions suivantes: Art. 112. (1) Sont à considérer comme dépenses spéciales au sens de l'alinéa 1er, numéro 3, de l'article 109: 1. les dons en espèces à des organismes reconnus d'utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d'utilité publique pour autant qu'ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg; 2. les dons en espèces ou en nature au Fonds culturel national ainsi que les dons par l'intermédiaire du Fonds aux institutions et organismes culturels visés à l'article 8 de la loi du 4 mars 1982 portant création d'un Fonds culturel national; modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie; 3. les sommes affectées à la fondation de bourses d'études et à la dotation de bourses existantes à la condition que l'acte de fondation ne contienne aucune clause de parenté. L'absence de toute clause de parenté doit être certifiée par l'administrateurreceveur des bourses d'études; 4. dans les conditions à fixer par règlement d'administration publique, les sommes affectées à la fondation de bourses de recherches scientifiques. (2) Les dons en nature alloués au Fonds culturel national sont à mettre en compte par leur valeur estimée de réalisation conformément à l'article 11, alinéas 2 et suivants de la loi du 4 mars 1982 portant création d'un Fonds culturel national; modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie; (3) Un règlement d'administration publique peut fixer un minimum en dessous duquel les dons ne sont pas à prendre en considération. Sont à considérer comme dépenses spéciales au sens de l'alinéa 1er, numéro 3, de l'article 109: 1. les dons en espèces à des organismes reconnus d'utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d'utilité publique pour autant qu'ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg; 2. les dons en espèces ou en nature au Fonds culturel national ainsi que les dons par l'intermédiaire du Fonds aux institutions et organismes culturels visés à l'article 8 de la loi du 4 mars 1982 3. les sommes affectées à la fondation de bourses d'études et à la dotation de bourses existantes à la condition que l'acte de fondation ne contienne aucune clause de parenté. L'absence de toute clause de parenté doit être certifiée par l'administrateurreceveur des bourses d'études; 4. dans les conditions à fixer par règlement d'administration publique, les sommes affectées à la fondation de bourses de recherches scientifiques. Les dons en nature alloués au Fonds culturel national sont à mettre en compte par leur valeur estimée de réalisation conformément à l'article 11, alinéas 2 et suivants de la loi du 4 mars 1982 Un règlement d'administration publique peut fixer un minimum en dessous duquel les dons ne sont pas à prendre en considération.
+L'article 112 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu est abrogé et remplacé par les dispositions suivantes:
+
+<a id="art-112"></a>
+## Art. 112.
+
+(1)
+
+Sont à considérer comme dépenses spéciales au sens de l'alinéa 1er, numéro 3, de l'article 109:
+
+1. les dons en espèces à des organismes reconnus d'utilité publique par une loi spéciale ou en vertu des articles 27 et suivants de la loi du 21 avril 1928 concernant les associations sans but lucratif et les établissements d'utilité publique pour autant qu'ils seront désignés par règlement grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg;
+
+2. les dons en espèces ou en nature au Fonds culturel national ainsi que les dons par l'intermédiaire du Fonds aux institutions et organismes culturels visés à l'article 8 de la loi du 4 mars 1982
+
+- portant création d'un Fonds culturel national;
+
+- modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie;
+
+3. les sommes affectées à la fondation de bourses d'études et à la dotation de bourses existantes à la condition que l'acte de fondation ne contienne aucune clause de parenté. L'absence de toute clause de parenté doit être certifiée par l'administrateurreceveur des bourses d'études;
+
+4. dans les conditions à fixer par règlement d'administration publique, les sommes affectées à la fondation de bourses de recherches scientifiques.
+
+(2)
+
+Les dons en nature alloués au Fonds culturel national sont à mettre en compte par leur valeur estimée de réalisation conformément à l'article 11, alinéas 2 et suivants de la loi du 4 mars 1982
+
+- portant création d'un Fonds culturel national;
+
+- modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie;
+
+(3)
+
+Un règlement d'administration publique peut fixer un minimum en dessous duquel les dons ne sont pas à prendre en considération.
 
 <a id="art-14"></a>
 ## Art. 14.
 
-L'article 150 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu est abrogé et remplacé par les dispositions suivantes: Peuvent demander la restitution de la retenue d'impôt sur les revenus de capitaux, la caisse d'épargne et le crédit foncier de l'Etat, le service des habitations à bon marché et des logements populaires, les établissements de bienfaisance et les oeuvres philanthropiques reconnus, les fondations faites dans l'intérêt de l'enseignement, les caisses de maladie, l'établissement des assurances sociales et les autres caisses publiques de pension, les sociétés de secours mutuels et d'épargne reconnues, les caisses de crédit agricole et professionnel, la société nationale de crédit et d'investissement ainsi que le fonds culturel national. Peuvent demander la restitution de la retenue d'impôt sur les revenus de capitaux, la caisse d'épargne et le crédit foncier de l'Etat, le service des habitations à bon marché et des logements populaires, les établissements de bienfaisance et les oeuvres philanthropiques reconnus, les fondations faites dans l'intérêt de l'enseignement, les caisses de maladie, l'établissement des assurances sociales et les autres caisses publiques de pension, les sociétés de secours mutuels et d'épargne reconnues, les caisses de crédit agricole et professionnel, la société nationale de crédit et d'investissement ainsi que le fonds culturel national.
+L'article 150 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu est abrogé et remplacé par les dispositions suivantes:
+
+Peuvent demander la restitution de la retenue d'impôt sur les revenus de capitaux, la caisse d'épargne et le crédit foncier de l'Etat, le service des habitations à bon marché et des logements populaires, les établissements de bienfaisance et les oeuvres philanthropiques reconnus, les fondations faites dans l'intérêt de l'enseignement, les caisses de maladie, l'établissement des assurances sociales et les autres caisses publiques de pension, les sociétés de secours mutuels et d'épargne reconnues, les caisses de crédit agricole et professionnel, la société nationale de crédit et d'investissement ainsi que le fonds culturel national.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -157,6 +196,10 @@ A titre transitoire, les projets en cours de réalisation au moment de l'entrée
 Les fonds spéciaux institués par l'article 18 de la loi du 29 décembre 1970 concernant le budget des recettes et des dépenses de l'Etat pour l'exercice 1971 sont supprimés.
 
 Les avoirs de ces fonds spéciaux qui restent disponibles au moment de l'entrée en vigueur de la présente loi sont affectés comme suit:
+
+- les avoirs du Fonds de la bibliothèque nationale pour acquisitions nouvelles et du Fonds pour l'acquisition d'oeuvres d'art, pour le financement de fouilles archéologiques et pour l'équipement scientifique des musées de l'Etat sont ordonnancés au profit du Fonds culturel national;
+
+- l'avoir du Fonds pour l'acquisition, la restauration et la reconstruction de monuments historiques est transféré au Fonds pour les monuments historiques.
 
 ### Titre IV Entrée en vigueur des dispositions fiscales
 

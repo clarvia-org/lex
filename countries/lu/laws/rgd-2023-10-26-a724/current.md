@@ -34,14 +34,34 @@ warning: 'Official consolidation: Version rectifiée applicable au 15/09/2023 : 
 
 Les métiers et les professions organisés sous forme de formation professionnelle en cours d’emploi sont :
 
+- l’aide-soignant (menant au diplôme d’aptitude professionnelle) ;
+
+- l’assistant d’accompagnement au quotidien (menant au certificat de capacité professionnelle).
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Pour être admissible à l’une des formations professionnelles visées à l’article précédent, les conditions suivantes doivent être remplies :
 
+- être âgé de 18 ans au moins au 1er septembre de l’année de l’inscription ;
+
+- disposer d’un contrat de travail dans le secteur du métier concerné d’au moins 16 heures par semaine ;
+
+- disposer de l’accord écrit de l’employeur à suivre la formation visée ;
+
+- ne plus être sous le régime scolaire initial ou plus sous contrat d’apprentissage en formation initiale depuis au moins 12 mois ;
+
+- se prévaloir d’une affiliation au Centre commun de la sécurité sociale d’au moins 12 mois continus ou non et à titre d’au moins 16 heures par semaine.
+
 Sur demande écrite de la personne visée à l’alinéa précédent, le directeur à la formation professionnelle, ci-après « directeur », peut accorder une dérogation à la condition de l’affiliation au Centre commun de la sécurité sociale.
 
 Une dérogation à la période de carence de 12 mois prévue à l’alinéa 1er du présent article est accordée par le directeur aux candidats détenteurs :
+
+- d’un CCP qui désirent acquérir un DAP dans la même spécialité ;
+
+- d’un DAP qui désirent acquérir un DT dans la même spécialité ;
+
+- d’un CCP, DAP ou DT qui désirent acquérir un DAP ou un DT d’une qualification complémentaire.
 
 Ces dérogations sont également applicables à tout diplôme et certificat, assimilés au certificat de capacité professionnelle ou au diplôme d’aptitude professionnelle, tel que fixé aux articles 65 et 66, de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.
 
@@ -59,6 +79,12 @@ Le nombre de candidats pouvant être admis à une des formations visées à l’
 
 Si le nombre de candidats à l’admission dépasse le nombre de places disponibles, le directeur établit un classement des candidats sur base des critères suivants :
 
+- des performances scolaires antérieures ;
+
+- de l’expérience professionnelle du candidat dans des associations et institutions en relation avec la formation visée ;
+
+- d’une lettre de recommandation en lien avec l’expérience professionnelle antérieure ou une lettre de motivation.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -66,6 +92,34 @@ Les formations visées à l’article 1er sont dispensées suivant le système d
 
 <a id="art-6"></a>
 ## Art. 6.
+
+(1)
+
+Le volet scolaire des formations professionnelles en cours d’emploi est dispensé dans les lycées publics et privés, ainsi que dans les centres de formation publics et privés prévus à l’article 16 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, désignés ci-après « établissements de formation ».
+
+(2)
+
+La formation patronale a lieu dans les institutions du secteur concerné, ci-après « organismes de formation ».
+
+L’organisme de formation doit satisfaire aux dispositions des articles L.111-1, L.111-4 et L.111-5 du Code du travail.
+
+Les modalités de collaboration entre les établissements de formation et les différents organismes de formation sont définis dans des conventions de pratique professionnelle à conclure entre le directeur, le représentant légal de l’organisme de formation concerné, le directeur ou le chargé de direction de l’établissement de formation concerné et l’apprenant.
+
+(3)
+
+La convention est conclue conformément au modèle figurant en annexe du présent règlement.
+
+(4)
+
+Tout au long de la formation patronale, l’apprenant inscrit en formation professionnelle en cours d’emploi est pris en charge par une personne de référence et un tuteur.
+
+La personne de référence est un membre du personnel enseignant de l’établissement de formation. La supervision est effectuée individuellement ou en groupe.
+
+Le tuteur est un membre du personnel de l’organisme de formation concerné.
+
+Le tuteur a pour mission de guider et d’orienter l’apprenant pendant la pratique professionnelle.
+
+En concertation avec la personne de référence, le tuteur garantit l’application, en milieu professionnel, du programme de formation du module patronal et évalue l’apprenant, toujours en concertation avec la personne de référence, conformément au référentiel d’évaluation du module patronal.
 
 <a id="art-7"></a>
 ## Art. 7.

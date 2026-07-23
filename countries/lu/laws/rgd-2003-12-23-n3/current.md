@@ -31,6 +31,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Sont considérés comme moyen agréé au sens de l’article 8 sous 1 d) de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie la distribution d’une seringue avec aiguille montée ainsi que l’échange d’une seringue nouvelle contre une seringue utilisée effectués à un toxicomane par
 
+- un pharmacien tenant officine ouverte au public dans les locaux de sa pharmacie
+
+- un médecin agréé par le Ministre de la Santé conformément à l’article 2 du règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution
+
+- un préposé de la «Fondation Jugend- an Drogenhëllef» dans ses locaux sis 25, rue du Fort Wedell à Luxembourg et 4, rue des Charbons à Esch-sur-Alzette
+
+- un préposé de l’association sans but lucratif «Comité National de Défense Sociale» dans sa structure d’accueil située 8, rue de Thionville à Luxembourg et en milieu ouvert dans le quartier de la Gare à Luxembourg
+
+- un préposé de l’association sans but lucratif «Réseau Psy - Psychesch Hëllef Dobaussen» dans ses locaux sis 3, rue de la Montagne, à Esch-sur-Alzette
+
+- un préposé de la Croix-Rouge Luxembourgeoise dans les locaux de son service «Dispensaire pour Sexworkers - Dropin» sis 31, rue de Bonnevoie, à Luxembourg.
+
 <a id="art-2"></a>
 ## Art. 2.
 

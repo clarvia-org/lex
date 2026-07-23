@@ -28,7 +28,31 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité est modifié comme suit : « Est également à inclure dans les coûts évités de l’électricité du mécanisme de compensation toute contribution de l’État issue du Fonds climat et énergie, tel qu’institué par le chapitre 3 de la loi modifiée du 15 décembre 2020 relative au climat. » ; Au cas où le calcul des coûts nets en vertu de l’article 5, paragraphe 2, rend un résultat négatif en termes de coûts et donc un surplus, les contributions des différentes catégories de clients se présentent comme suit :
+Le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité est modifié comme suit :
+
+- L’article 6, paragraphe 3, est complété par un deuxième alinéa libellé comme suit :
+
+« Est également à inclure dans les coûts évités de l’électricité du mécanisme de compensation toute contribution de l’État issue du Fonds climat et énergie, tel qu’institué par le chapitre 3 de la loi modifiée du 15 décembre 2020 relative au climat. » ;
+
+- L’article 7 est modifié comme suit :
+
+  - le paragraphe 1er est abrogé ;
+
+  - au paragraphe 7, le mot La est remplacé par les termes Au cas où le calcul des coûts nets en vertu de l’article 5, paragraphe 2, rend un résultat positif ou nul en termes de coûts, la ;
+
+  - au paragraphe 8, le mot La est remplacé par les termes Au cas où le calcul des coûts nets en vertu de l’article 5, paragraphe 2, rend un résultat positif ou nul en termes de coûts, la ;
+
+  - après le paragraphe 8 est inséré un paragraphe 8bis nouveau libellé comme suit :
+
+« (8bis)
+
+Au cas où le calcul des coûts nets en vertu de l’article 5, paragraphe 2, rend un résultat négatif en termes de coûts et donc un surplus, les contributions des différentes catégories de clients se présentent comme suit :
+
+- la contribution applicable aux points de fourniture de la catégorie C telle que prévue au paragraphe 6 reste inchangée ;
+
+- la contribution applicable aux points de fourniture de la catégorie B telle que prévue au paragraphe 4, point c), est fixée à 1,50 euro par MWh ;
+
+- la contribution applicable aux points de fourniture de la catégorie A telle que prévue au paragraphe 4, point a) devient négative et est calculée en fonction du surplus. ».
 
 <a id="art-2"></a>
 ## Art. 2.

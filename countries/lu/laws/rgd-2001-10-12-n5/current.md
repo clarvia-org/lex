@@ -66,6 +66,16 @@ Pour le calcul de la subvention, le ou les prêts sont pris en considération ju
 
 La subvention est attribuée et calculée annuellement par la prise en considération des facteurs suivants:
 
+- du solde du prêt au 1er janvier de l'année de référence
+
+- du taux annuel effectif accordé au demandeur au 1er janvier de l'année de référence
+
+- du taux de référence
+
+- des pourcentages tels qu'ils sont fixés à l'article 5
+
+- du plan d'amortissement annexé au présent règlement.
+
 Aucune subvention n’est allouée si le montant total calculé est inférieur à 25 euros.
 
 <a id="art-5"></a>
@@ -73,7 +83,7 @@ Aucune subvention n’est allouée si le montant total calculé est inférieur �
 
 Pour les bénéficiaires n'ayant aucun enfant à charge, la subvention est de 0,50% calculés sur le solde du prêt multiplié par le taux défini au plan d'amortissement en annexe du présent règlement.
 
-La subvention est majorée de 0,50% pour chaque enfant à charge, au sens de l’article 30 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux . Sont considérés comme enfants à charge les enfants pour lesquels l'un des partenaires touche des allocations familiales.
+La subvention est majorée de 0,50% pour chaque enfant à charge , au sens de l’article 30 du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux . Sont considérés comme enfants à charge les enfants pour lesquels l'un des partenaires touche des allocations familiales.
 
 <a id="art-6"></a>
 ## Art. 6.

@@ -48,7 +48,19 @@ La qualification des entraîneurs exigée dans le présent règlement se réfèr
 
 Un club sportif affilié auprès d’une fédération sportive agréée par le ministre peut prétendre à un subside de base sous condition
 
+- de régir un sport de compétition;
+
+- de se prévaloir d’une activité sportive d’au moins une saison complète et
+
+- d’avoir un effectif comprenant au moins un jeune licencié de moins de 16 ans ainsi qu’au moins un entraîneur disposant d’une qualification du niveau EQF3 ou supérieur.
+
 Les 3 facteurs suivants sont pris en compte pour le calcul du subside de base:
+
+- le nombre de licenciés tous âges confondus;
+
+- la qualification des entraîneurs;
+
+- le bénévolat.
 
 Une pondération en fonction d’un système de pointage de ces trois critères est fixée annuellement par le ministre sur avis du Conseil supérieur des sports .
 
@@ -67,6 +79,18 @@ Dans le cadre du présent chapitre on entend par jeune, les enfants âgés de mo
 ## Art. 5.
 
 Afin de profiter du subside qualité+, le club sportif doit disposer d’un personnel qualifié pour encadrer les jeunes tels que définis au deuxième alinéa de l’article 4 du présent règlement. Cette qualification est définie de la façon suivante:
+
+- au moins la moitié des personnes assurant l’encadrement des enfants définis à l’article 4, alinéa 2 sont détenteurs soit d’un diplôme d’entraîneur du niveau EQF3 (ce qui correspond au niveau national à la formation C) ou supérieur, soit d’un diplôme ou d’une formation reconnus équivalents par l’ENEPS. Est assimilée au diplôme de formation EQF3, la préformation à ce niveau si une telle formation est organisée par la fédération concernée. La même assimilation vaut pour les personnes titulaires d’un diplôme de master en sciences du sport;
+
+- toutes les autres personnes assurant l’encadrement de ces jeunes doivent:
+
+  - soit avoir suivi une formation fédérale préliminaire à la formation pour entraîneur C correspondant aux niveaux EQF1 ou EQF2 et reconnue comme équivalente par l’ENEPS,
+
+  - soit avoir obtenu une validation de l’acquis de l’expérience sur le vu du dossier pour les personnes qui ont exercé la fonction d’entraîneur sans diplôme pendant au moins 10 ans,
+
+  - soit avoir suivi une formation de 8 heures en pédagogie pour les sportifs qui ont un passé actif d’au moins 10 ans (module apprentissage et enseignement),
+
+  - soit avoir suivi une formation de 8 heures relative à la spécificité du sport pour les personnes qui exercent la fonction d’enseignant ou d’éducateur de tous niveaux (module planification d’une séance).
 
 Les dossiers en vue de l’acquis de l’expérience sont analysés par une commission dont la composition et son fonctionnement sont déterminés par le ministre.
 
@@ -106,6 +130,24 @@ Toute aide obtenue sur base d’informations frauduleuses peut être demandée e
 En vue de la gestion et du suivi administratif des demandes de subside, il est créé un fichier de données à caractère personnel, sous l’autorité du ministre, qui est établi conformément aux dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel.
 
 Le fichier contient les données suivantes:
+
+- dénomination, adresse, compte bancaire, matricule, noms des responsables du club demandeur;
+
+- fédération à laquelle le club est affilié;
+
+- nombre des licences de compétition par catégorie d’âge;
+
+- nombre des licences de loisir;
+
+- nombre des licences d’arbitres et de dirigeants;
+
+- nombre des licences d’entraîneurs;
+
+- nom, prénom et diplôme des entraîneurs ainsi que la catégorie entraînée;
+
+- nombre des jeunes encadrés;
+
+- nom, prénom, numéro d’identification et numéro de licence du jeune éligible au sens de l’article 4 ci-avant.
 
 Ces données sont communiquées au ministre par les clubs demandeurs via une ligne sécurisée. La sécurisation de la banque de données en question se fait conformément aux exigences légales et réglementaires en vigueur.
 

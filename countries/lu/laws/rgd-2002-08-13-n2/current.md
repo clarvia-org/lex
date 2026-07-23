@@ -44,7 +44,27 @@ La formation spéciale est assurée par l’administration communale, le syndica
 
 En outre le Ministre de l’Intérieur organise les cours de formation spéciale suivants, qui doivent être terminés au plus tard deux mois avant la date de l’examen de fin de formation spéciale :
 
-Carrières de l’attaché administratif, du secrétaire général et du secrétaire général adjoint : Organisation personnelle du travail. Durée du cours : 10 heures. Carrière du rédacteur : Matière: L’organisation personnelle du travail du rédacteur et son rôle au sein de l’administration communale. Durée du cours: 10 heures. Carrière du receveur communal : Matière : Les fonctions légales du receveur communal. Durée du cours : 10 heures Carrière de l’expéditionnaire administratif : Matière : L’organisation personnelle du travail de l’expéditionnaire administratif. Durée du cours : 10 heures Carrière de l’ingénieur-technicien : Matière : L’organisation personnelle du travail de l’ingénieur-technicien et son rôle au sein d’un service technique de l’administration communale. Durée du cours : 10 heures
+Carrières de l’attaché administratif, du secrétaire général et du secrétaire général adjoint :
+
+Organisation personnelle du travail. Durée du cours : 10 heures.
+
+Carrière du rédacteur :
+
+| Matière: | L’organisation personnelle du travail du rédacteur et son rôle au sein de l’administration communale. |
+| --- | --- |
+| Durée du cours: | 10 heures. |
+
+Carrière du receveur communal :
+
+Matière : Les fonctions légales du receveur communal. Durée du cours : 10 heures
+
+Carrière de l’expéditionnaire administratif :
+
+Matière : L’organisation personnelle du travail de l’expéditionnaire administratif. Durée du cours : 10 heures
+
+Carrière de l’ingénieur-technicien :
+
+Matière : L’organisation personnelle du travail de l’ingénieur-technicien et son rôle au sein d’un service technique de l’administration communale. Durée du cours : 10 heures
 
 #### Chapitre II L’examen de fin de formation spéciale-
 

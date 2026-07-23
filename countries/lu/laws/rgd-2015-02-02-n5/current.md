@@ -29,7 +29,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Tout fournisseur de service de média audiovisuel ou sonore établi au Luxembourg dont le service est soumis à la surveillance de l'Autorité luxembourgeoise indépendante de l'audiovisuel, ci-après désignée par «l'Autorité», est assujetti au paiement d'une taxe annuelle forfaitaire à hauteur du montant de 2 000 (deux mille) euros . La taxe est due pour chaque service de média audiovisuel qui est notifié conformément à l'article 23bis, 23ter, 23quater et 23quinquies de la loi modifiée du 27 juillet 1991 sur les médias électroniques ou pour chaque service de média audiovisuel ou sonore pour lequel une concession ou une permission a été accordée. Toutefois, par dérogation, les fournisseurs ayant la forme d'une association sans but lucratif sont exempts du paiement de la taxe. Les fournisseurs de services de médias audiovisuels ou sonores établis au Luxembourg qui ne sont pas soumis à l’impôt sur le revenu des collectivités ou qui sont exempts de l’impôt sur le revenu des collectivités sont également exempts du paiement de la taxe.
+Tout fournisseur de service de média audiovisuel ou sonore établi au Luxembourg dont le service est soumis à la surveillance de l'Autorité luxembourgeoise indépendante de l'audiovisuel, ci-après désignée par «l'Autorité», est assujetti au paiement d'une taxe annuelle forfaitaire à hauteur du montant de 2 000 (deux mille) euros .
+
+La taxe est due pour chaque service de média audiovisuel qui est notifié conformément à l'article 23bis, 23ter, 23quater et 23quinquies de la loi modifiée du 27 juillet 1991 sur les médias électroniques ou pour chaque service de média audiovisuel ou sonore pour lequel une concession ou une permission a été accordée. Toutefois, par dérogation, les fournisseurs ayant la forme d'une association sans but lucratif sont exempts du paiement de la taxe. Les fournisseurs de services de médias audiovisuels ou sonores établis au Luxembourg qui ne sont pas soumis à l’impôt sur le revenu des collectivités ou qui sont exempts de l’impôt sur le revenu des collectivités sont également exempts du paiement de la taxe.
 
 <a id="art-1bis"></a>
 ## Art. 1bis.
@@ -44,7 +46,9 @@ Lorsque le service de média audiovisuel ou sonore est diffusé dans une langue 
 <a id="art-3"></a>
 ## Art. 3.
 
-Les taxes sont payables au courant du mois de janvier de l'année civile pour laquelle elles sont dues. Les frais d'experts encourus sont payables après réception de la facture émise par l'Autorité. Les taxes et frais sont payables à l'Autorité moyennant règlement sur l'un des comptes indiqués à cet effet par l'Autorité.
+Les taxes sont payables au courant du mois de janvier de l'année civile pour laquelle elles sont dues. Les frais d'experts encourus sont payables après réception de la facture émise par l'Autorité.
+
+Les taxes et frais sont payables à l'Autorité moyennant règlement sur l'un des comptes indiqués à cet effet par l'Autorité.
 
 <a id="art-4"></a>
 ## Art. 4.

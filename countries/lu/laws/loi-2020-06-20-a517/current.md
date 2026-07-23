@@ -28,7 +28,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Par dérogation à l’article 3, paragraphe 5, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil, toute adaptation du loyer dans le sens d’une augmentation du loyer d’un logement à usage d’habitation visée au prédit article 3 est interdite jusqu’au 30 juin 2021.
+Par dérogation à l’article 3, paragraphe 5, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil, toute adaptation du loyer dans le sens d’une augmentation du loyer d’un logement à usage d’habitation visée au prédit article 3 est interdite jusqu’au 30 juin 2021 .
 
 <a id="art-2"></a>
 ## Art. 2.

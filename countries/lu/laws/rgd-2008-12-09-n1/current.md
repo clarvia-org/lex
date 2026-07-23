@@ -36,7 +36,15 @@ A cet effet, les chambres professionnelles s’assemblent en collèges électora
 
 Dans la Chambre des salariés:
 
+- un premier collège électoral est constitué par tous les groupes de la Chambre des salariés à l’exception du groupe des agents actifs et retraités des chemins de fer luxembourgeois;
+
+- un deuxième collège électoral est constitué par le groupe des agents actifs et retraités des chemins de fer luxembourgeois.
+
 Dans la Chambre des fonctionnaires et employés publics:
+
+- un premier collège électoral est constitué par tous les groupes de la Chambre des fonctionnaires et employés publics à l’exception du groupe des fonctionnaires et employés communaux;
+
+- un deuxième collège électoral est constitué par le groupe des fonctionnaires et employés communaux.
 
 La Chambre de commerce, la Chambre des métiers et la Chambre d’agriculture constituent chacune un seul collège électoral.
 
@@ -159,6 +167,14 @@ Les scrutateurs font le recensement et en tiennent note séparément. Ces notes 
 ## Art. 13.
 
 Est nul tout bulletin qui:
+
+- ne contient l'expression d'aucun suffrage;
+
+- contient plus de suffrages qu'il y a de membres à élire;
+
+- porte une marque quelconque;
+
+- fait connaître le votant.
 
 ##### Section 6 Attribution des sièges
 

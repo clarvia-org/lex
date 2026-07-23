@@ -36,6 +36,14 @@ Il existe un Collège médical, qui regroupe les représentants élus des médec
 
 Le Collège médical est chargé:
 
+- de veiller à la sauvegarde de l’honneur, de maintenir et de défendre les principes de dignité, de probité, de délicatesse et de compétence devant régir les professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute;
+
+- de veiller à l’observation des règles déontologiques s’appliquant aux médecins, aux médecins-dentistes, aux pharmaciens et aux psychothérapeutes;
+
+- d'étudier toutes les questions relatives à l'art de guérir et à la santé dont il sera saisi par le ministre de la Santé, ou dont il jugera utile de se saisir;
+
+- d’émettre un avis sur tous les projets de loi et de règlement concernant les professions de médecin, de médecin-dentiste, de pharmacien, de psychothérapeute ou d’autres professions de santé, ou encore relatifs au secteur hospitalier.
+
 ##### Chapitre 2. Composition du Collège médical.
 
 <a id="art-3"></a>
@@ -44,6 +52,14 @@ Le Collège médical est chargé:
 Le Collège médical est composé de membres effectifs et de membres suppléants.
 
 Les membres effectifs sont au nombre de quatorze, à savoir:
+
+- huit médecins,
+
+- deux médecins-dentistes,
+
+- deux pharmaciens et
+
+- deux psychothérapeutes.
 
 Il y a autant de membres suppléants répartis par profession selon la même clef.
 
@@ -92,8 +108,34 @@ La liste des électeurs est arrêtée par le président du Collège médical tro
 
 Ne peuvent prendre part à l'élection des membres du Collège médical ni en faire partie:
 
+- les personnes exerçant une profession principale pour laquelle le diplôme respectivement de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute n’est pas exigé par la loi.
+
+- les personnes condamnées à l'interdiction totale ou partielle, perpétuelle ou temporaire des droits énumérés à l'article 11 du Code pénal;
+
+- les personnes contre lesquelles la suspension du droit d'exercer la profession a été prononcée, pendant la durée de la suspension et pendant une durée de trois ans après la fin de la période de suspension.
+
 <a id="art-9"></a>
 ## Art. 9.
+
+(1)
+
+Sont éligibles les médecins, médecins-dentistes, pharmaciens et psychothérapeutes qui se portent candidats, qui exercent leur profession au Luxembourg depuis au moins cinq ans à la date des élections et qui répondent aux conditions de l’article 7, ainsi qu’à la condition d’âge dont question à l’article 3.
+
+(2)
+
+Ne sont pas éligibles.
+
+- les médecins, médecins-dentistes, pharmaciens et psychothérapeutes assurant la direction d’un hôpital.
+
+- le médecin-directeur de l'administration du contrôle médical de la sécurité sociale.
+
+- les médecins, médecins-dentistes et pharmaciens de la direction de la santé.
+
+- les personnes énumérées à l'article 8 ci-dessus.
+
+- les membres effectifs et suppléants du Collège médical dont le mandat n'expire pas le 31 décembre qui suit la date des élections.
+
+Le Collège médical arrête la liste des candidats deux mois avant la date des élections.
 
 <a id="art-9bis"></a>
 ## Art. 9bis.
@@ -111,6 +153,16 @@ En cas d'égalité de voix, le candidat dont l'autorisation d'exercer au Luxembo
 
 <a id="art-11"></a>
 ## Art. 11.
+
+(1)
+
+Un règlement grand-ducal à prendre sur avis du Conseil d'Etat déterminera les modalités de la présentation des candidatures et du vote, qui se fera par correspondance.
+
+(2)
+
+Dans les quinze jours qui suivront le scrutin, tout électeur inscrit a le droit de réclamer contre l'élection. La réclamation doit être formulée par écrit, énoncer tous les moyens de réclamation et être remise au ministre de la Santé dans le délai ci-dessus. Dans le mois de l'élection, le Gouvernement statuera définitivement sur la validité de celle-ci.
+
+La décision sera notifiée aux élus. Lorsqu'une élection est déclarée nulle, le ministre compétent fixera un jour dans la huitaine à l'effet de procéder à un nouveau scrutin dans le mois au plus tard.
 
 ##### Chapitre 4. Organisation interne du Collège médical.
 
@@ -156,6 +208,32 @@ Il peut déléguer cette mission à un autre membre du Collège médical.
 <a id="art-17"></a>
 ## Art. 17.
 
+(1)
+
+Le conseil de discipline en matière disciplinaire se compose du président du tribunal d’arrondissement de Luxembourg ou du juge qui le remplace et de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
+
+(2)
+
+Les assesseurs, qui doivent tous être de nationalité luxembourgeoise, sont désignés tous les trois ans de la façon suivante:
+
+- deux pour chacune des trois professions précitées, par le président du conseil de discipline;
+
+- deux pour chacune des professions de médecin et de médecin-dentiste, par l'association la plus représentative des intérêts de ces professions;
+
+- deux par l'association la plus représentative des intérêts des pharmaciens.
+
+- deux par l’association la plus représentative des intérêts des psychothérapeutes.
+
+(3)
+
+Parmi ces assesseurs le président du conseil de discipline désignera pour chaque affaire les deux assesseurs qui siégeront.
+
+A cet effet il composera le conseil de discipline de façon à ce qu’il y ait deux assesseurs médecins, médecinsdentistes, pharmaciens ou psychothérapeutes suivant que l’affaire est dirigée contre un médecin, un médecindentiste, un pharmacien ou un psychothérapeute. Si une seule et même action est dirigée contre les membres de deux professions différentes, le conseil de discipline comprendra un assesseur de chaque profession concernée.
+
+(4)
+
+En cas d'empêchement des membres assesseurs désignés, le président les remplacera en respectant les règles de composition ci-dessus.
+
 <a id="art-18"></a>
 ## Art. 18.
 
@@ -168,10 +246,50 @@ Les membres du conseil qui veulent s'abstenir pour d'autres motifs sont tenus de
 
 Le conseil de discipline exerce le pouvoir de discipline sur toutes les personnes relevant de la présente loi pour:
 
+- violation des prescriptions légales, réglementaires et déontologiques concernant l'exercice de la profession;
+
+- fautes et négligences professionnelles graves;
+
+- faits contraires à l'honorabilité et à la dignité professionnelles; le tout sans préjudice de l'action judiciaire et de l'action disciplinaire prévue par le statut général des fonctionnaires de l'Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.
+
 L'action disciplinaire se prescrit par cinq ans à compter du jour où les faits ci-dessus visés se sont produits.
 
 <a id="art-20"></a>
 ## Art. 20.
+
+(1)
+
+Les peines disciplinaires sont dans l'ordre de leur gravité:
+
+- l'avertissement;
+
+- la réprimande;
+
+- l'amende d'ordre de 5.001 à 100.000.- frs;
+
+- la subordination de l'exercice de la profession à des conditions déterminées;
+
+- la suspension du droit d'exercer la profession pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans;
+
+- l'interdiction à vie d'exercer la profession.
+
+Les sanctions des catégories 5 et 6 ci-dessus comportent la privation, respectivement temporaire ou perpétuelle, du droit de vote et d'éligibilité pour le Collège médical.
+
+(2)
+
+La peine de la suspension temporaire du droit d'exercer la profession peut être assortie du sursis pour tout ou partie de sa durée. Le bénéfice du sursis est perdu si le condamné fait l'objet d'une nouvelle peine de suspension pour un fait se situant dans les cinq ans du fait qui a donné lieu à la première peine.
+
+(3)
+
+Le conseil de discipline peut ordonner la publication de sa décision dans la presse professionnelle et/ou dans un ou plusieurs journaux ou périodiques, ainsi que l'affichage aux lieux qu'il indique, le tout aux frais du condamné.
+
+(4)
+
+Les frais provoqués par la poursuite disciplinaire seront mis à charge du condamné; en cas d'acquittement de la personne poursuivie ou de classement de l'affaire ils seront supportés par l'Etat.
+
+(5)
+
+Les frais et, le cas échéant, l'amende sont rendus exécutoires par le président du tribunal d'arrondissement du ressort de la personne condamnée. L'amende est recouvrée par l'administration de l'enregistrement au profit de l'Etat.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -248,6 +366,14 @@ L'appel est porté devant le conseil supérieur de discipline.
 Le conseil supérieur de discipline se compose de six magistrats de la Cour d’Appel ainsi que de seize assesseurs, à savoir quatre pour chacune des professions de médecin, de médecin-dentiste, de pharmacien et de psychothérapeute.
 
 Un arrêté grand-ducal nomme pour une durée de trois ans le président du conseil supérieur de discipline, choisi parmi les membres magistrats, ainsi que les autres membres du conseil supérieur. Les membres non magistrats sont nommés sur proposition
+
+- du président du conseil supérieur de discipline qui en propose deux pour chacune des trois professions précitées;
+
+- de l'association la plus représentative des intérêts des médecins et médecins-dentistes, qui en propose deux pour chacune des professions de médecin et de médecin-dentiste;
+
+- de l'association la plus représentative des intérêts des pharmaciens, qui en propose deux pour la profession de pharmacien.
+
+- de l’association la plus représentative des intérêts des psychothérapeutes, qui en propose deux pour la profession de psychothérapeutes.
 
 Dans chaque affaire le conseil supérieur de discipline siège au nombre de cinq membres dont trois membres magistrats et deux membres non magistrats. Le président du conseil de discipline ou le membre magistrat le plus ancien en rang qui le remplace compose le conseil supérieur de façon à ce qu’il y ait deux assesseurs médecins, médecins-dentistes, pharmaciens ou psychothérapeutes, suivant que l’affaire est dirigée contre un médecin, un médecin-dentiste, un pharmacien ou un psychothérapeute.
 

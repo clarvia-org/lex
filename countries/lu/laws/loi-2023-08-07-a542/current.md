@@ -41,10 +41,62 @@ Le bâtonnier de l’ordre des avocats ou le membre délégué par le bâtonnier
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Les personnes physiques, dont les ressources sont insuffisantes, ont droit à une assistance judiciaire pour la défense de leurs intérêts au Grand-Duché de Luxembourg. Cette assistance est totale ou partielle.
+
+Aux fins de la présente loi, on entend par :
+
+- « assistance judiciaire » : l’assistance judiciaire totale et l’assistance judiciaire partielle ;
+
+- « assistance judiciaire totale » : la prise en charge par l’État de l’indemnisation de l’avocat désigné par le bâtonnier ainsi que du remboursement des frais exposés ;
+
+- « assistance judiciaire partielle » : la prise en charge par l’État du remboursement des frais exposés ainsi que de l’indemnisation de l’avocat désigné par le bâtonnier, le tout à concurrence de cinquante pour cent ou bien à concurrence de vingt-cinq pour cent.
+
+(2)
+
+Les personnes visées au paragraphe 1er peuvent bénéficier de l’assistance judiciaire à condition qu’il s’agisse :
+
+- de ressortissants luxembourgeois, ou ;
+
+- de ressortissants étrangers autorisés à s’établir au pays, ou ;
+
+- de ressortissants d’un État membre de l’Union européenne, ou ;
+
+- de ressortissants étrangers assimilés aux ressortissants luxembourgeois en matière d’assistance judiciaire par l’effet d’un traité international, ou ;
+
+- de ressortissants de pays tiers en séjour irrégulier en vue du recouvrement des rémunérations dues en application de l’article L. 572-7 du Code du travail.
+
+(3)
+
+Ont également droit à l’assistance judiciaire, pour toute procédure en matière civile et commerciale dans les affaires transfrontalières visées par la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l’accès à la justice dans les affaires transfrontalières par l’établissement de règles minimales communes relatives à l’aide judiciaire accordée dans le cadre de telles affaires, les ressortissants étrangers qui ont leur domicile ou leur résidence dans un autre État membre de l’Union européenne, à l’exception du Danemark.
+
+(4)
+
+A également droit à l’assistance judiciaire, en matière civile ou commerciale, toute personne visée au paragraphe 1er qui a son domicile ou sa résidence habituelle au Grand-Duché de Luxembourg, aux fins d’obtention de conseils juridiques d’un avocat au Grand-Duché de Luxembourg, y compris la préparation du dossier d’une demande d’aide judiciaire destinée à être présentée dans un autre État membre de l’Union européenne, jusqu’à ce que la demande d’aide judiciaire y ait été reçue, conformément aux dispositions de la directive 2003/8/CE précitée du Conseil du 27 janvier 2003.
+
+(5)
+
+Ont également droit à l’assistance judiciaire, sans condition de résidence et quelle que soit leur nationalité, les personnes visées à l’article 3-6, paragraphe 1er, du Code de procédure pénale, les personnes visées à l’article 18-1, paragraphe 3, de la loi modifiée du 20 juin 2001 sur l’extradition et les personnes visées aux articles 7-1, paragraphe 3, et 27-1, de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne et dont les ressources sont insuffisantes.
+
+(6)
+
+Les personnes ayant droit à l’assistance d’un avocat mais dont le droit n’est pas exercé en application de l’article 3-6, paragraphes 6 et 8, du Code de procédure pénale, de l’article 18- 1, paragraphes 3, alinéas 3 et 4, de la loi modifiée du 20 juin 2001 sur l’extradition et de l’article 7-1, paragraphe 3, alinéas 3 et 4, de la loi modifiée du 17 mars 2004 relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne, peuvent obtenir l’assistance judiciaire à partir du moment où la dérogation cesse d’exister ou à partir de la révocation de la renonciation.
+
+(7)
+
+Ont également droit à l’assistance judiciaire, sans condition de résidence et quelle que soit leur nationalité, les personnes ayant la qualité de victime suivant les dispositions de l’article 4-1 du Code de procédure pénale dans le cadre d’une procédure pénale se déroulant au Grand-Duché de Luxembourg qui entendent se constituer partie civile suivant les dispositions du Code de procédure pénale et dont les ressources sont insuffisantes.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 A droit à l’assistance judiciaire tout autre ressortissant étranger dont les ressources sont insuffisantes :
+
+- pour les procédures d’accès au territoire, de séjour, d’établissement et d’éloignement des étrangers ainsi qu’en matière de procédure disciplinaire s’il est détenu dans un centre pénitentiaire ;
+
+- pour les procédures relatives aux demandes de protection internationale ;
+
+- pour la procédure relative à la limitation ou au retrait des conditions matérielles d’accueil prévue à l’article 16 de la loi du 11 juin 2026 sur l’accueil des demandeurs de protection internationale et des bénéficiaires de la protection temporaire.
 
 Au cas où ces ressortissants étrangers se voient reconnaître par d’autres dispositions légales le droit de se faire désigner un avocat par le bâtonnier de l’Ordre des avocats, ils bénéficient de l’assistance judiciaire limitée à l’indemnité à allouer à l’avocat sur la seule justification de l’insuffisance de leurs ressources.
 
@@ -66,6 +118,126 @@ Les personnes physiques dont les ressources déterminées conformément à l’a
 
 <a id="art-6"></a>
 ## Art. 6.
+
+(1)
+
+La part contributive que l’État prend en charge vis-à-vis de l’avocat qui prête son concours au bénéficiaire de l’assistance judiciaire partielle équivaut à soit cinquante pour cent, soit vingt-cinq pour cent du montant total des prestations facturées conformément à l’article 33 et figurant dans le décompte final de l’avocat tel qu’il a été arrêté par le ministre de la Justice.
+
+(2)
+
+Afin de déterminer le pourcentage applicable au demandeur de l’assistance judiciaire partielle en fonction de ses ressources financières, le bâtonnier se réfère aux valeurs comprises dans les tableaux reproduits au paragraphe 4 selon la composition du ménage duquel fait partie le demandeur de l’assistance judiciaire, tout en tenant compte, pour vérifier le dépassement des seuils respectifs, des articles 9 et 10 de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale.
+
+(3)
+
+Dans les tableaux reproduits au paragraphe 4, les lettres « a », « b », « c », « d » et « e » correspondent aux valeurs forfaitaires suivantes :
+
+- La lettre « a » correspond à un montant forfaitaire de base par adulte s’élevant à quatre-vingt-quinze euros et cinquante cents ;
+
+- La lettre « b » correspond à un montant forfaitaire de base s’élevant à vingt-neuf euros et soixante-cinq cents pour chaque enfant pour lequel un membre de la communauté domestique bénéficie des allocations familiales ;
+
+- La lettre « c » correspond à un montant forfaitaire de base tel que défini à la lettre « b » majoré d’un montant de huit euros et soixante-seize cents pour chaque enfant vivant dans une communauté domestique composée d’un seul membre adulte et qui bénéficie des allocations familiales pour cet enfant ;
+
+- La lettre « d » correspond à un montant couvrant les frais communs du ménage s’élevant à quatre-vingt-quinze euros et cinquante cents par communauté domestique ;
+
+- La lettre « e » correspond à un montant couvrant les frais communs du ménage majoré d’un montant de quatorze euros et trente-trois cents au cas où un ou plusieurs enfants font partie de la communauté domestique pour lesquels un membre adulte bénéficie des allocations familiales.
+
+Les montants visés aux lettres « a » à « e » correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptés suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.
+
+(4)
+
+La part contributive de l’État visée au paragraphe 1er est déterminée selon les tableaux suivants, dans lesquels le signe « + » désigne une addition, le signe « x » désigne une multiplication, le signe « > » signifie « supérieur à » et le signe « ≤ » signifie « inférieur ou égal à » :
+
+| Composition du ménage | Part contributive de l’État à hauteur de 50% |  |
+| --- | --- | --- |
+| 1 adulte | De > a+d € | à ≤ (a+d) x 1.15 € |
+| 1 adulte 1 enfant | De > a + c + e € | à ≤ (a+c+e) x 1.15€ |
+| 1 adulte 2 enfants | De > a + (2 x c) + e € | à ≤ [a + (2xc) + e] x 1.15€ |
+| 1 adulte 3 enfants | De > a + (3 x c) + e € | à ≤ [a + (3 x c) + e] x 1.15€ |
+| 1 adulte 4 enfants | De > a + (4 x c) + e € | à ≤ [a + (4 x c) + e] x 1.15€ |
+| 1 adulte 5 enfants | De > a + (5 x c) + e € | à ≤ [a + (5 x c) + e] x 1.15€ |
+| 1 adulte 6 enfants | De > a + (6 x c) + e € | à ≤ [a + (6 x c) + e] x 1.15€ |
+| 2 adultes | De > (2xa + d) € | à ≤ [(2xa)+d] x 1.15€ |
+| 2 adultes 1 enfant | De > (2xa) + b + e € | à ≤ [(2xa) + b + e] x 1.15€ |
+| 2 adultes 2 enfants | De > (2xa) + (2xb) + e € | à ≤ [(2xa) + (2xb) + e] x 1.15€ |
+| 2 adultes 3 enfants | De > (2xa) + (3xb) + e € | à ≤ [(2xa) + (3xb) + e] x 1.15€ |
+| 2 adultes 4 enfants | De > (2xa) + (4xb) + e € | à ≤ [(2xa) + (4xb) + e] x 1.15€ |
+| 2 adultes 5 enfants | De > (2xa) + (5xb) + e € | à ≤ [(2xa) + (5xb) + e] x 1.15€ |
+| 2 adultes 6 enfants | De > (2xa) + (6xb) + e € | à ≤ [(2xa) + (6xb) + e] x 1.15€ |
+| 3 adultes | De > 3xa +d € | à ≤ [(3xa) +d] x 1.15€ |
+| 3 adultes 1 enfant | De > 3xa + b + e € | à ≤ [(3xa) + b + e] x 1.15€ |
+| 3 adultes 2 enfants | De > (3xa) + (2xb) + e € | à ≤ [(3xa) + (2xb) + e] x 1.15€ |
+| 3 adultes 3 enfants | De > (3xa) + (3xb) + e € | à ≤ [(3xa) + (3xb) + e] x 1.15€ |
+| 3 adultes 4 enfants | De > (3xa) + (4xb) + e € | à ≤ [(3xa) + (4xb) + e] x 1.15€ |
+| 3 adultes 5 enfants | De > (3xa) + (5xb) + e € | à ≤ [(3xa) + (5xb) + e] x 1.15€ |
+| 3 adultes 6 enfants | De > (3xa) + (6xb) + e € | à ≤ [(3xa) + (6xb) + e] x 1.15€ |
+| 4 adultes | De > 4xa + d € | à ≤ [(4xa) + d)] x 1.15€ |
+| 4 adultes 1 enfant | De > 4xa + b +e € | à ≤ [(4xa) + b +e] x 1.15 € |
+| 4 adultes 2 enfants | De > (4xa) + (2xb) +e € | à ≤ [(4xa) + (2xb) +e] x 1.15€ |
+| 4 adultes 3 enfants | De > (4xa) + (3xb) +e € | à ≤ [(4xa) + (3xb) +e] x 1.15€ |
+| 4 adultes 4 enfants | De > (4xa) + (4xb) +e € | à ≤ [(4xa) + (4xb) +e] x 1.15€ |
+| 4 adultes 5 enfants | De > (4xa) + (5xb) +e € | à ≤ [(4xa) + (5xb) +e] x 1.15€ |
+| 4 adultes 6 enfants | De > (4xa) + (6xb) +e € | à ≤ [(4xa) + (6xb) +e] x 1.15€ |
+| 5 adultes | De > (5xa) + d € | à ≤ [(5 x a) + d] x 1.15 € |
+| 5 adultes 1 enfant | De > (5xa) + b + e € | à ≤ [(5xa) + b +e] x 1.15€ |
+| 5 adultes 2 enfants | De > (5xa) + (2xb) + e € | à ≤ [(5xa) + (2xb) +e] x 1.15€ |
+| 5 adultes 3 enfants | De > (5xa) + (3xb) + e € | à ≤ [(5xa) + (3xb) +e] x 1.15€ |
+| 5 adultes 4 enfants | De > (5xa) + (4xb) + e € | à ≤ [(5xa) + (4xb) +e] x 1.15€ |
+| 5 adultes 5 enfants | De > (5xa) + (5xb) + e € | à ≤ [(5xa) + (5xb) +e] x 1.15€ |
+| 5 adultes 6 enfants | De > (5xa) + (6xb) + e € | à ≤ [(5xa) + (6xb) +e] x 1.15€ |
+| 6 adultes | De > (6xa) +d € | à ≤ [(6xa) + d] x 1.15€ |
+| 6 adultes 1 enfant | De > (6xa) + b +e € | à ≤ [(6xa) + b +e] x 1.15€ |
+| 6 adultes 2 enfants | De > (6xa) + (2xb) +e € | à ≤ [(6xa) + (2xb) +e] x 1.15 € |
+| 6 adultes 3 enfants | De > (6xa) + (3xb) +e € | à ≤ [(6xa) + (3xb) +e] x 1.15 € |
+| 6 adultes 4 enfants | De > (6xa) + (4xb) +e € | à ≤ [(6xa) + (4xb) +e] x 1.15 € |
+| 6 adultes 5 enfants | De > (6xa) + (5xb) +e € | à ≤ [(6xa) + (5xb) +e] x 1.15 € |
+| 6 adultes 6 enfants | De > (6xa) + (6xb) +e € | à ≤ [(6xa) + (6xb) +e] x 1.15 € |
+
+| Composition du ménage | Part contributive de l’État à hauteur de 25% |  |
+| --- | --- | --- |
+| 1 adulte | De > (a+d) x 1.15 € | à ≤ (a+d) x 1.30 € |
+| 1 adulte 1 enfant | De > (a+c+e) x 1.15€ | à ≤ (a+c+e) x 1.30€ |
+| 1 adulte 2 enfants | De > [a + (2xc) + e] x 1.15€ | à ≤ [a + (2xc) + e] x 1.30€ |
+| 1 adulte 3 enfants | De > [a + (3 x c) + e] x 1.15€ | à ≤ [a + (3 x c) + e] x 1.30€ |
+| 1 adulte 4 enfants | De > [a + (4 x c) + e] x 1.15€ | à ≤ [a + (4 x c) + e] x 1.30€ |
+| 1 adulte 5 enfants | De > [a + (5 x c) + e] x 1.15€ | à ≤ [a + (5 x c) + e] x 1.30€ |
+| 1 adulte 6 enfants | De > [a + (6 x c) + e] x 1.15€ | à ≤ [a + (6 x c) + e] x 1.30€ |
+| 2 adultes | De > [(2xa)+d] x 1.15€ | à ≤ [(2xa)+d] x 1.30€ |
+| 2 adultes 1 enfant | De > [(2xa) + b + e] x 1.15€ | à ≤ [(2xa) + b + e] x 1.30€ |
+| 2 adultes 2 enfants | De > [(2xa) + (2xb) + e] x 1.15€ | à ≤ [(2xa) + (2xb) + e] x 1.30€ |
+| 2 adultes 3 enfants | De > [(2xa) + (3xb) + e] x 1.15€ | à ≤ [(2xa) + (3xb) + e] x 1.30€ |
+| 2 adultes 4 enfants | De > [(2xa) + (4xb) + e] x 1.15€ | à ≤ [(2xa) + (4xb) + e] x 1.30€ |
+| 2 adultes 5 enfants | De > [(2xa) + 5xb + e] x 1.15€ | à ≤ [(2xa) + (5xb) + e] x 1.30€ |
+| 2 adultes 6 enfants | De > [(2xa) + (6xb) + e] x 1.15€ | à ≤ [(2xa) + (6xb) + e] x 1.30€ |
+| 3 adultes | De > [(3xa) +d] x 1.15€ | à ≤ [(3xa) +d] x 1.30€ |
+| 3 adultes 1 enfant | De > [(3xa) + b + e] x 1.15€ | à ≤ [(3xa) + b + e] x 1.30€ |
+| 3 adultes 2 enfants | De > [(3xa) + (2xb) + e] x 1.15€ | à ≤ [(3xa) + (2xb) + e] x 1.30€ |
+| 3 adultes 3 enfants | De > [(3xa) + (3xb) + e] x 1.15€ | à ≤ [(3xa) + (3xb) + e] x 1.30€ |
+| 3 adultes 4 enfants | De > [(3xa) + (4xb) + e] x 1.15€ | à ≤ [(3xa) + (4xb) + e] x 1.30€ |
+| 3 adultes 5 enfants | De > [(3xa) + (5xb) + e] x 1.15€ | à ≤ [(3xa) + (5xb) + e] x 1.30€ |
+| 3 adultes 6 enfants | De > [(3xa) + (6xb) + e] x 1.15€ | à ≤ [(3xa) + (6xb) + e] x 1.30€ |
+| 4 adultes | De > [(4xa) + d)] x 1.15€ | à ≤ [(4xa) + d)] x 1.30€ |
+| 4 adultes 1 enfant | De > [(4xa) + b +e] x 1.15 € | à ≤ [(4xa) + b +e] x 1.30 € |
+| 4 adultes 2 enfants | De > [(4xa) + (2xb) +e] x 1.15€ | à ≤ [(4xa) + (2xb) +e] x 1.30€ |
+| 4 adultes 3 enfants | De > [(4xa) + (3xb) +e] x 1.15€ | à ≤ [(4xa) + (3xb) +e] x 1.30€ |
+| 4 adultes 4 enfants | De > [(4xa) + (4xb) +e] x 1.15€ | à ≤ [(4xa) + (4xb) +e] x 1.30€ |
+| 4 adultes 5 enfants | De > [(4xa) + (5xb) +e] x 1.15€ | à ≤ [(4xa) + (5xb) +e] x 1.30€ |
+| 4 adultes 6 enfants | De > [(4xa) + (6xb) +e] x 1.15€ | à ≤ [(4xa) + (6xb) +e] x 1.30€ |
+| 5 adultes | De > [(5xa) + d] x 1.15€ | à ≤ [(5xa) + d] x 1.30€ |
+| 5 adultes 1 enfant | De > [(5xa) + b +e] x 1.15€ | à ≤ [(5xa) + b +e] x 1.30€ |
+| 5 adultes 2 enfants | De > [(5xa) + (2xb) +e] x 1.15€ | à ≤ [(5xa) + (2xb) +e] x 1.30€ |
+| 5 adultes 3 enfants | De > [(5xa) + (3xb) +e] x 1.15€ | à ≤ [(5xa) + (3xb) +e] x 1.30€ |
+| 5 adultes 4 enfants | De > [(5xa) + (4xb) +e] x 1.15€ | à ≤ [(5xa) + (4xb) +e] x 1.30€ |
+| 5 adultes 5 enfants | De > [(5xa) + (5xb) +e] x 1.15€ | à ≤ [(5xa) + (5xb) +e] x 1.30€ |
+| 5 adultes 6 enfants | De > [(5xa) + (6xb) +e] x 1.15€ | à ≤ [(5xa) + (6xb) +e] x 1.30€ |
+| 6 adultes | De > [(6xa) + d] x 1.15€ | à ≤ [(6xa) + d] x 1.30€ |
+| 6 adultes 1 enfant | De > [(6xa) + b +e] x 1.15€ | à ≤ [(6xa) + b +e] x 1.30€ |
+| 6 adultes 2 enfants | De > [(6xa) + (2xb) +e] x 1.15 € | à ≤ [(6xa) + (2xb) +e] x 1.30 € |
+| 6 adultes 3 enfants | De > [(6xa) + (3xb) +e] x 1.15 € | à ≤ [(6xa) + (3xb) +e] x 1.30€ |
+| 6 adultes 4 enfants | De > [(6xa) + (4xb) +e] x 1.15 € | à ≤ [(6xa) + (4xb) +e] x 1.30€ |
+| 6 adultes 5 enfants | De > [(6xa) + (5xb) +e] x 1.15 € | à ≤ [(6xa) + (5xb) +e] x 1.30€ |
+| 6 adultes 6 enfants | De > [(6xa) + (6xb) +e] x 1.15 € | à ≤ [(6xa) + (6xb) +e] x 1.30€ |
+
+Les tarifs visés par l’article 33 sont applicables à la part contributive de l’État visée par le présent article.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -116,6 +288,20 @@ En matière civile et commerciale, l’assistance judiciaire couvre les frais li
 <a id="art-13"></a>
 ## Art. 13.
 
+(1)
+
+Le ministre de la Justice est l’autorité compétente pour l’expédition, vers l’autorité réceptrice compétente d’un autre État membre de l’Union européenne, des demandes d’aide judiciaire, en matière civile ou commerciale, formulées par des personnes physiques qui ont leur domicile ou résidence habituelle au Grand-Duché de Luxembourg. Si ces personnes demandent à bénéficier d’une assistance judiciaire au Grand-Duché de Luxembourg pour bénéficier de conseils précontentieux en préparation du dossier de la demande d’aide judiciaire destinées à l’étranger, le bâtonnier de l’Ordre des avocats compétent est saisi de cette demande et procède conformément aux dispositions de la présente loi.
+
+Les frais de la traduction des demandes d’aide judiciaire destinées à être présentées dans un autre État membre de l’Union européenne ainsi que des documents connexes nécessaires à la présentation de cette demande sont pris en charge par l’État.
+
+Le ministre de la Justice peut refuser de traduire et de transmettre à l’autorité réceptrice compétente le dossier d’une demande d’aide judiciaire qui est manifestement non fondée ou ne vise pas une procédure en matière civile ou commerciale dans un autre État membre de l’Union européenne.
+
+(2)
+
+Le ministre de la Justice est l’autorité compétente pour la réception des demandes d’aide judiciaire visant une procédure en matière civile ou commerciale au Grand-Duché de Luxembourg, formulées par des personnes physiques qui sont en situation régulière de séjour dans un autre État membre de l’Union européenne. Le ministre de la Justice assure la transmission de ces demandes au bâtonnier de l’Ordre des avocats compétent qui procède conformément aux dispositions de la présente loi.
+
+Aucune légalisation ou formalité analogue ne sera demandée par l’autorité réceptrice pour les documents connexes à une demande d’aide judiciaire qui sont transmis par l’autorité expéditrice compétente conformément à la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l’accès à la justice dans les affaires transfrontalières par l’établissement de règles minimales communes relatives à l’aide judiciaire accordée dans le cadre de telles affaires.
+
 ##### Section 2. Domaines exclus de l’assistance judiciaire et cas de refus de l’assistance judiciaire
 
 <a id="art-14"></a>
@@ -149,6 +335,44 @@ L’assistance judiciaire est refusée si le requérant est en droit d’obtenir
 
 <a id="art-19"></a>
 ## Art. 19.
+
+(1)
+
+Pour bénéficier de l’assistance judiciaire, le requérant doit remplir et signer un formulaire intitulé « demande d’assistance judiciaire » disponible auprès du service central d’assistance sociale ainsi que sur les sites internet des Ordres des avocats des Barreaux de Luxembourg et de Diekirch. Il y joint les pièces justificatives nécessaires et l’adresse en original au bâtonnier de l’ordre des avocats territorialement compétent, tel que défini à l’article 1er.
+
+La réponse au formulaire indique obligatoirement :
+
+- les noms, prénoms, profession, lieu et date de naissance, numéro d’identification national, domicile, état civil, nationalité du requérant et, le cas échéant, de l’autre partie du litige. Une copie d’une pièce d’identité du requérant est à joindre ;
+
+- la nature du litige et l’exposé sommaire des faits ou, en cas de demande de consultation juridique, la nature du problème juridique, pièces justificatives à l’appui ;
+
+- les renseignements suivants sur la situation de famille du requérant :
+
+  - les noms, prénoms, âge et profession du conjoint et des enfants ;
+
+  - les noms, prénoms, âge et profession d’autres personnes vivant dans le cadre d’un foyer commun ;
+
+- la situation de fortune du requérant et des personnes vivant avec lui en communauté domestique, hormis le cas visé à l’article 5, alinéa 1er, deuxième phrase. Les éléments suivants sont à indiquer, pièces justificatives à l’appui :
+
+  - si la communauté domestique bénéficie du revenu d’inclusion sociale, le requérant doit joindre à sa demande un certificat justificatif délivré par le fonds national de solidarité comportant des détails de calcul pour l’évaluation du montant de l’allocation ;
+
+  - les revenus mensuels bruts de toute nature perçus au cours des trois mois précédant la demande d’assistance judiciaire. Un certificat d’affiliation du Centre commun de la sécurité sociale est à joindre ;
+
+  - la fortune immobilière et mobilière au Grand-Duché de Luxembourg ou à l’étranger. Un certificat de propriété de l’Administration des contributions directes est à joindre ;
+
+  - le loyer ;
+
+- le cas échéant, les nom et adresse de l’avocat et des officiers publics ou ministériels qui prêtent leurs concours au requérant ou qu’il entend choisir pour prêter leurs concours ;
+
+- la déclaration que le requérant n’est pas en droit d’obtenir d’un tiers le remboursement des frais à couvrir par l’assistance judiciaire ;
+
+- le cas échéant, tous renseignements et pièces justificatives de nature à établir un cas de rigueur susceptible de relever le requérant d’une exclusion du bénéfice de l’assistance judiciaire.
+
+Le bâtonnier ou l’un de ses délégués peut entendre le requérant en ses explications.
+
+(2)
+
+Si le requérant est dans l’impossibilité de fournir les pièces nécessaires, le bâtonnier peut demander au service central d’assistance sociale la production de tous documents de nature à justifier que l’intéressé satisfait aux conditions exigées pour bénéficier de l’assistance judiciaire.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -237,7 +461,33 @@ Les dispositions des alinéas 1er et 2 ne portent pas préjudice au droit évent
 <a id="art-32"></a>
 ## Art. 32.
 
-L’assistance judiciaire s’étend à tous les frais relatifs aux instances, procédures ou actes pour lesquels elle a été accordée, à savoir aux : le tout sous réserve, le cas échéant, du complément de frais à charge du bénéficiaire de l’assistance judiciaire partielle proportionnellement au pourcentage qui n’est pas pris en charge par l’assistance judiciaire partielle.
+L’assistance judiciaire s’étend à tous les frais relatifs aux instances, procédures ou actes pour lesquels elle a été accordée, à savoir aux :
+
+- droits de timbre et d’enregistrement ;
+
+- frais de greffe ;
+
+- émoluments des avocats ;
+
+- droits et frais d’huissiers de justice ;
+
+- frais et honoraires des notaires ;
+
+- frais et honoraires des techniciens ;
+
+- taxes de témoins ;
+
+- honoraires des traducteurs et interprètes ;
+
+- frais pour certificats de coutume ;
+
+- frais de déplacement ;
+
+- droits et frais des formalités d’inscriptions, d’hypothèques et de nantissement ;
+
+- frais d’insertion dans les journaux ;
+
+le tout sous réserve, le cas échéant, du complément de frais à charge du bénéficiaire de l’assistance judiciaire partielle proportionnellement au pourcentage qui n’est pas pris en charge par l’assistance judiciaire partielle.
 
 <a id="art-33"></a>
 ## Art. 33.
@@ -269,6 +519,14 @@ Il doit être fait mention de l’admission à l’assistance judiciaire dans to
 <a id="art-36"></a>
 ## Art. 36.
 
+(1)
+
+Les frais couverts par l’assistance judiciaire ainsi que l’indemnité visée à l’article 33 et les avances sur l’indemnité visée à l’article 34 sont à charge de l’État, sauf droit de recouvrement à exercer par l’Administration de l’enregistrement, des domaines et de la TVA contre le bénéficiaire de l’assistance après la décision de retrait de l’assistance judiciaire intervenue dans les hypothèses visées aux articles 30 et 42. Les dépenses afférentes sont engagées et ordonnancées par le ministre de la Justice.
+
+(2)
+
+Les frais de la procédure d’admission sont également à charge de l’État et les dépenses afférentes sont engagées et ordonnancées par le ministre de la Justice, sur présentation de l’état qui lui sera adressé tous les trois mois par le Bâtonnier.
+
 <a id="art-37"></a>
 ## Art. 37.
 
@@ -283,6 +541,60 @@ Lorsque le bénéficiaire de l’assistance judiciaire est condamné aux dépens
 
 <a id="art-39"></a>
 ## Art. 39.
+
+(1)
+
+Dans le cadre de l’établissement de son décompte final, l’avocat chargé de l’assistance judiciaire fait preuve de modération. Pendant la période pour laquelle l’assistance judiciaire a été accordée, l’avocat peut facturer les prestations juridiques utiles, nécessaires et effectivement réalisées pour la défense des intérêts du bénéficiaire de l’assistance judiciaire dans le cadre du litige pour lequel l’assistance judiciaire a été accordée ou étendue.
+
+(2)
+
+Dans son décompte final, l’avocat chargé de l’assistance judiciaire doit lister et indiquer la durée de chaque prestation dont il demande la prise en charge par unités de cinq minutes, en mentionnant pour chaque prestation la date exacte à laquelle elle a été effectuée. Dans le dossier accompagnant le décompte final de l’avocat doivent figurer les pièces corroborant chaque prestation dont l’avocat sollicite la prise en charge. Dans les pièces justificatives concernant les frais exposés par le bénéficiaire de l’assistance judiciaire doivent figurer pour chaque frais la facture ainsi que sa preuve de paiement.
+
+(3)
+
+Les prestations suivantes ne sont pas prises en charge par l’assistance judiciaire :
+
+- les lettres adressées au bâtonnier, à son délégué ou à l’ordre des avocats dans le cadre de l’assistance judiciaire pour les besoins du dossier ;
+
+- les courriers relatifs au mandat ;
+
+- les frais de secrétariat tels que les frais postaux y compris les frais de recommandés, les frais de copie et les frais d’ouverture de dossier ;
+
+- les explications de dossier données à un stagiaire, et celles reçues d’un patron de stage ;
+
+- le temps employé pour établir la demande d’assistance judiciaire, y compris la demande de certificat de détention ;
+
+- le temps employé pour établir l’état de frais et émoluments ;
+
+- le temps employé pour décompter le dossier ;
+
+- le temps employé pour faire des copies, fixer un rendez-vous, réceptionner un courrier indépendamment d’une analyse juridique, inscrire une date au calepin ;
+
+- le temps et les frais de déplacement dans les villes de Luxembourg et d’Esch-sur-Alzette, à l’exception des déplacements vers les juridictions administratives, vers le centre de rétention ainsi que des déplacements qui ont lieu la nuit, le week-end et les jours fériés, à condition qu’ils soient strictement nécessaires et que l’avocat précise la date, le lieu et l’heure du déplacement dans le décompte final ;
+
+- les prestations sans rapport avec la nature de l’affaire pour laquelle l’assistance judiciaire a été accordée ou étendue ;
+
+- les prestations effectuées en dehors de la période couverte par l’assistance judiciaire ;
+
+- les prestations ayant déjà fait l’objet d’une facturation dans le cadre d’un autre dossier d’assistance judiciaire ;
+
+- les prestations facturées vides de tout contenu juridique ;
+
+- les prestations facturées mais qui ne sont ni utiles ni nécessaires pour la défense des intérêts du bénéficiaire de l’assistance judiciaire ;
+
+- les prestations facturées mais non corroborées par les éléments du dossier.
+
+(4)
+
+L’assistance judiciaire accordée au Grand-Duché de Luxembourg englobe uniquement les prestations réalisées pour la défense des intérêts du bénéficiaire au Grand-Duché de Luxembourg, à l’exclusion de toute procédure se déroulant en dehors du territoire du Grand-Duché de Luxembourg et relevant de la compétence territoriale des juridictions non luxembourgeoises.
+
+Aucune prestation d’un avocat luxembourgeois ou d’un avocat étranger relative à une procédure en dehors du territoire du Grand-Duché de Luxembourg n’est prise en charge.
+
+(5)
+
+Si le temps facturé est excessif par rapport au contenu de la prestation ou si les prestations dépassant le temps normalement nécessaire n’ont pas été brièvement justifiées dans le mémoire d’honoraires, le temps facturé par l’avocat peut être réduit dans le cadre de la procédure visée à l’article 46 à de justes proportions.
+
+En cas d’assistance judiciaire partielle, l’avocat ne peut pas facturer les prestations exclues énumérées au paragraphe 3 dans la fraction des honoraires à charge du bénéficiaire de l’assistance judiciaire partielle.
 
 ##### Section 5. De la commission d’office des notaires et huissiers et du concours des administrations publiques
 
@@ -326,6 +638,14 @@ L’action de l’Administration de l’enregistrement, des domaines et de la TV
 
 <a id="art-44"></a>
 ## Art. 44.
+
+(1)
+
+En cas de refus ou de retrait total ou partiel du bénéfice de l’assistance judiciaire, en cas d’admission à l’assistance judiciaire partielle, en cas de modification du régime de l’assistance judiciaire applicable suite au changement de la situation financière de son bénéficiaire ainsi qu’en cas de décision de refus prise suite à une demande de changement d’avocat les motifs de la décision sont indiqués.
+
+(2)
+
+Contre les décisions de refus, de retrait du bénéfice de l’assistance judiciaire, d’admission à l’assistance judiciaire partielle, de modification du régime de l’assistance judiciaire applicable ou de refus de changement d’avocat prises par le bâtonnier, le requérant peut introduire une action devant le juge de paix qui statue en dernier ressort. Cette action doit être formée, à peine de déchéance, dans un délai d’un mois à partir de la notification de la décision du bâtonnier. Elle est introduite, instruite et jugée conformément à la procédure prévue à l’article 45.
 
 <a id="art-45"></a>
 ## Art. 45.

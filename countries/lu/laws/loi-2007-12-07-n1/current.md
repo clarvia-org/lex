@@ -33,7 +33,15 @@ Le Gouvernement est autorisé à participer pour le compte de l'Etat, pour le mo
 <a id="art-2"></a>
 ## Art. 2.
 
-Les travaux, installations et ouvrages nécessaires pour l'établissement, l'entretien et l'exploitation du réseau de chaleur à implanter sont déclarés d'utilité publique, conformément à la loi modifiée du 15 mars 1979 sur l'expropriation pour cause d'utilité publique. La société aura le droit:
+Les travaux, installations et ouvrages nécessaires pour l'établissement, l'entretien et l'exploitation du réseau de chaleur à implanter sont déclarés d'utilité publique, conformément à la loi modifiée du 15 mars 1979 sur l'expropriation pour cause d'utilité publique.
+
+La société aura le droit:
+
+- d'installer et d'exploiter un réseau de chaleur et tout équipement périphérique nécessaire;
+
+- d'assurer la surveillance du réseau de chaleur et de tout l'équipement périphérique nécessaire;
+
+- de procéder aux travaux d'entretien et de réfection de ces installations ainsi qu'à tous les travaux nécessaires afin de garantir leur bon fonctionnement.
 
 <a id="art-3"></a>
 ## Art. 3.

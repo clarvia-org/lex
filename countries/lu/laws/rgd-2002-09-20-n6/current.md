@@ -48,11 +48,39 @@ Durant leur séjour au centre, les retenus sont strictement séparés des autres
 
 Les retenus sont soumis à un régime spécial adapté à leur situation spécifique:
 
+- au plus tard le premier jour ouvrable après leur admission, les retenus sont informés sur leur situation administrative ainsi que sur leurs droits et devoirs;
+
+- les retenus sont examinés par un médecin dans les 24 heures de leur admission au centre et aussi souvent qu’un examen médical est nécessaire ultérieurement;
+
+- les retenus ne peuvent être soumis à aucune obligation de travail en prison;
+
+- sur demande écrite, le retenu peut être autorisé par le directeur à participer à des activités avec des détenus s’il est établi que ces activités sont dans l’intérêt du retenu;
+
+- les retenus bénéficient d’un droit de correspondance écrite illimité; ils ont le droit de suivre les émissions radiophoniques et télévisées; ils ont accès au téléphone dans les limites à déterminer par le Ministre de la Justice;
+
+- le droit de visite est réglé à l’instar de celui des prévenus, sauf que les permis de visite sont délivrés par le Ministre de la Justice;
+
+- à l’exception des couples mariés, les hommes et les femmes sont logés dans des quartiers séparés à l’intérieur du centre.
+
 <a id="art-5-20110915"></a>
 ## Art. 5.
 
 Pour toutes les questions non réglées par le présent règlement grand-ducal, le règlement grand-ducal modifié du 24 mars 1989 concernant l’administration et le régime interne des établissements pénitentiaires est applicable.
 
 ##### Article II. Les articles suivants du règlement grand-ducal modifié du 24 mars 1989 concernant l’administration et le régime interne des établissements pénitentiaires sont respectivement abrogés ou modifiés comme suit:
+
+- L’alinéa 3 de l’article 37 est abrogé.
+
+- L’article 62 est abrogé.
+
+- La deuxième phrase de l’alinéa 3 de l’article 68 est supprimée.
+
+- L’alinéa 2 de l’article 120 est modifié comme suit:
+
+«Les détenus ne peuvent être fouillés que par des personnes de leur sexe».
+
+- L’alinéa 2 de l’article 137 est abrogé.
+
+- L’alinéa 2 de l’article 289 est abrogé.
 
 ##### Article III. Notre Ministre de la Justice est chargé de l’exécution du présent règlement qui sera publié au Mémorial.

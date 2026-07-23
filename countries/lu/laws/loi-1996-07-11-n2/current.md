@@ -42,30 +42,82 @@ Le contrôle général de la formation menant au brevet de maîtrise et des exam
 <a id="art-3"></a>
 ## Art. 3.
 
-Les cours préparatoires au brevet de maîtrise, dénommés dans la suite «les cours», sont organisés sous forme modulaire par la Chambre des Métiers. Les cours portent sur les domaines suivants:
+Les cours préparatoires au brevet de maîtrise, dénommés dans la suite «les cours», sont organisés sous forme modulaire par la Chambre des Métiers.
+
+Les cours portent sur les domaines suivants:
+
+- l'organisation et la gestion d'entreprise;
+
+- la pédagogie appliquée;
+
+- la technologie;
+
+- la pratique professionnelle.
 
 Les cours de pratique professionnelle sont organisés à la demande d'un candidat.
 
 Chaque année, une liste des métiers dans lesquels des cours sont organisés est publiée par le ministre ayant la Formation professionnelle dans ses attributions, désigné dans la suite par le terme «le ministre».
 
-Les cours de l'organisation et de la gestion d'entreprise et les cours de la pédagogie appliquée sont communs à tous les métiers. Ils sont organisés soit au Centre de formation de la Chambre des Métiers, soit dans les lycées techniques, soit dans les centres de formation professionnelle continue. Les cours de technologie peuvent comprendre des modules communs à plusieurs métiers et des modules spécifiques à chaque métier. La participation aux cours est soumise à un droit d'inscription fixé par règlement grand-ducal sans pouvoir dépasser le montant de 1.250 € par an. Les modalités d'application technique du présent article sont fixées par règlement grand-ducal.
+Les cours de l'organisation et de la gestion d'entreprise et les cours de la pédagogie appliquée sont communs à tous les métiers.
+
+Ils sont organisés soit au Centre de formation de la Chambre des Métiers, soit dans les lycées techniques, soit dans les centres de formation professionnelle continue.
+
+Les cours de technologie peuvent comprendre des modules communs à plusieurs métiers et des modules spécifiques à chaque métier.
+
+La participation aux cours est soumise à un droit d'inscription fixé par règlement grand-ducal sans pouvoir dépasser le montant de 1.250 € par an.
+
+Les modalités d'application technique du présent article sont fixées par règlement grand-ducal.
 
 <a id="art-4"></a>
 ## Art. 4.
 
-Pour être inscrit aux cours relatifs à un métier, le candidat doit être détenteur du certificat d'aptitude technique et professionnelle (CATP) ou du diplôme d'aptitude professionnelle (DAP) du métier en question. Tout autre diplôme ou certificat doit être soumis au ministre qui décidera de l'inscription. La fréquentation des cours est obligatoire. Le candidat absent sans motivation à un cinquième des cours est écarté d'office des examens de maîtrise pour la session en cours par le directeur à la formation professionnelle. Toutefois des dispenses de fréquentation des cours peuvent être accordées par le directeur à la formation professionnelle sur présentation de pièces justificatives. Dans la mesure des places disponibles, les cours préparatoires au brevet de maîtrise sont accessibles également à des personnes qui désirent compléter leurs connaissances dans le cadre de la formation continue ou de perfectionnement professionnel et qui ne tombent pas sous la présente législation.
+Pour être inscrit aux cours relatifs à un métier, le candidat doit être détenteur du certificat d'aptitude technique et professionnelle (CATP) ou du diplôme d'aptitude professionnelle (DAP) du métier en question. Tout autre diplôme ou certificat doit être soumis au ministre qui décidera de l'inscription.
+
+La fréquentation des cours est obligatoire. Le candidat absent sans motivation à un cinquième des cours est écarté d'office des examens de maîtrise pour la session en cours par le directeur à la formation professionnelle.
+
+Toutefois des dispenses de fréquentation des cours peuvent être accordées par le directeur à la formation professionnelle sur présentation de pièces justificatives.
+
+Dans la mesure des places disponibles, les cours préparatoires au brevet de maîtrise sont accessibles également à des personnes qui désirent compléter leurs connaissances dans le cadre de la formation continue ou de perfectionnement professionnel et qui ne tombent pas sous la présente législation.
 
 ##### Chapitre III – De l'organisation des examens
 
 <a id="art-5"></a>
 ## Art. 5.
 
-Il y a deux sessions d'examen par an, l'une au printemps, l'autre en automne. Les examens sont organisés par la Chambre des Métiers. Ils portent sur: Le candidat définit les modules auxquels il veut se soumettre lors de la session dans laquelle il s'inscrit . Pour être admis aux épreuves de pratique professionnelle, le candidat doit être âgé de 21 ans, avoir exercé le métier en question pendant 3 ans après l'obtention du certificat d'aptitude technique et professionnelle (CATP) et avoir réussi aux modules de la théorie professionnelle. Pour pouvoir participer aux épreuves de la pratique professionnelle, le candidat doit avoir réussi les modules de la technologie. A la date des épreuves pratiques, il doit avoir exercé le métier en question pendant une année au moins après l'obtention du certificat ou du diplôme correspondant. Tout candidat qui ne répond pas à ces conditions peut adresser une demande d'inscription aux épreuves de pratique professionnelle dûment motivée accompagnée de pièces justificatives au directeur à la formation professionnelle, qui statuera. Des limitations quant à la durée pour passer l'ensemble des modules prévus ainsi qu'à la possibilité de répéter les différents modules sont introduites par règlement grand-ducal. Des dispenses relatives aux modules à examiner peuvent être accordées par le directeur à la formation professionnelle sur présentation de pièces jusitificatives. La participation aux épreuves d'examen est soumise à un droit d'inscription fixé par règlement grand-ducal sans pouvoir dépasser le montant de 1.250 € par session d'examen. Les modalités d'organisation des examens sont fixées par règlement grand-ducal.
+Il y a deux sessions d'examen par an, l'une au printemps, l'autre en automne.
+
+Les examens sont organisés par la Chambre des Métiers.
+
+Ils portent sur:
+
+- l'organisation et la gestion d'entreprise;
+
+- la pédagogie appliquée;
+
+- la technologie;
+
+- la pratique professionnelle.
+
+Le candidat définit les modules auxquels il veut se soumettre lors de la session dans laquelle il s'inscrit . Pour être admis aux épreuves de pratique professionnelle, le candidat doit être âgé de 21 ans, avoir exercé le métier en question pendant 3 ans après l'obtention du certificat d'aptitude technique et professionnelle (CATP) et avoir réussi aux modules de la théorie professionnelle.
+
+Pour pouvoir participer aux épreuves de la pratique professionnelle, le candidat doit avoir réussi les modules de la technologie. A la date des épreuves pratiques, il doit avoir exercé le métier en question pendant une année au moins après l'obtention du certificat ou du diplôme correspondant.
+
+Tout candidat qui ne répond pas à ces conditions peut adresser une demande d'inscription aux épreuves de pratique professionnelle dûment motivée accompagnée de pièces justificatives au directeur à la formation professionnelle, qui statuera.
+
+Des limitations quant à la durée pour passer l'ensemble des modules prévus ainsi qu'à la possibilité de répéter les différents modules sont introduites par règlement grand-ducal.
+
+Des dispenses relatives aux modules à examiner peuvent être accordées par le directeur à la formation professionnelle sur présentation de pièces jusitificatives.
+
+La participation aux épreuves d'examen est soumise à un droit d'inscription fixé par règlement grand-ducal sans pouvoir dépasser le montant de 1.250 € par session d'examen.
+
+Les modalités d'organisation des examens sont fixées par règlement grand-ducal.
 
 <a id="art-6"></a>
 ## Art. 6.
 
-Il est institué une commission d'examen pour les modules des cours de l'organisation et de la gestion d'entreprise et de la pédagogie appliquée composée d'un membre effectif et d'un membre suppléant différents par module examiné. Les membres de cette commission sont nommés par le ministre pour un terme de trois ans sur proposition de la Chambre des Métiers.
+Il est institué une commission d'examen pour les modules des cours de l'organisation et de la gestion d'entreprise et de la pédagogie appliquée composée d'un membre effectif et d'un membre suppléant différents par module examiné.
+
+Les membres de cette commission sont nommés par le ministre pour un terme de trois ans sur proposition de la Chambre des Métiers.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -85,7 +137,11 @@ Sur proposition conjointe de la Chambre des Métiers et du directeur à la forma
 <a id="art-8"></a>
 ## Art. 8.
 
-Le ministre délivre aux candidats ayant réussi aux épreuves de l'examen, le brevet de maîtrise qui sera contresigné par le président de la Chambre des Métiers. Le modèle du brevet est fixé par le ministre. Le détenteur du brevet de maîtrise porte le titre de maître-artisan dans son métier.
+Le ministre délivre aux candidats ayant réussi aux épreuves de l'examen, le brevet de maîtrise qui sera contresigné par le président de la Chambre des Métiers.
+
+Le modèle du brevet est fixé par le ministre.
+
+Le détenteur du brevet de maîtrise porte le titre de maître-artisan dans son métier.
 
 Des diplômes ou certificats étrangers correspondant au brevet de maîtrise peuvent être reconnus équivalents à celui-ci par le ministre, à charge de payer une taxe dont le montant est fixé à 75 euros.
 

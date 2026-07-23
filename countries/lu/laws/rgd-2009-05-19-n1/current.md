@@ -25,6 +25,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Règlement grand-ducal modifié du 19 mai 2009 déterminant les mesures de protection spéciale et les programmes de surveillance de l’état des eaux de baignade - TEXTE COORDONNÉ.
 
+Texte coordonné au 18 septembre 2012
+
+Version applicable à partir du 22 septembre 2012
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -57,6 +61,14 @@ A la fin de la saison balnéaire 2015, toutes les eaux de baignade doivent être
 
 Pour les eaux de baignade classées comme étant de qualité insuffisante, le membre du gouvernement qui a la gestion de l’eau dans ses attributions, ci-après «le ministre»
 
+- prononce une interdiction de baignade pour la saison suivante et ordonne l’avertissement des usagers par un avis affiché de manière visible sur le site, ainsi que par un signal clair;
+
+- charge l’Administration de la gestion de l’eau de rechercher les causes pour lesquelles une qualité suffisante n’a pas pu être atteinte;
+
+- veille à ce que les usagers soient informés sur les causes de la pollution et les mesures adoptées pour y remédier par un avis affiché de manière visible sur le site;
+
+- ordonne toute autre mesure adéquate pour éviter, réduire ou éliminer les sources de pollution ou pour prévenir l’exposition des usagers à la pollution.
+
 Lorsque l’eau a été classée comme étant de qualité insuffisante pendant cinq années consécutives, le ministre prononce une interdiction permanente de baignade.
 
 (Règl. g.-d. du 23 août 2012)
@@ -69,6 +81,12 @@ Lorsque l’eau a été classée comme étant de qualité insuffisante pendant c
 Pour chaque eau de baignade, l’Administration de la gestion de l’eau établit un profil des eaux de baignade selon les modalités prévues à l’annexe III.
 
 Il est réexaminé
+
+- tous les quatre ans pour les eaux de baignade classées comme étant de bonne qualité;
+
+- tous les trois ans pour les eaux de baignade classées comme étant de qualité suffisante;
+
+- tous les deux ans pour les eaux de baignade classées comme étant de qualité insuffisante.
 
 Le profil n’a pas à être réexaminé tant que l’eau de baignade est classée comme étant de qualité excellente.
 
@@ -107,7 +125,27 @@ La surveillance, l’évaluation de la qualité des eaux de baignade, ainsi que 
 
 Pendant la saison balnéaire, la commune sur le territoire de laquelle se situe le site de baignade met en place sur le site, à un endroit visible et d’accès facile, un panneau d’affichage avec les informations suivantes:
 
+- le classement actuel de l’eau de baignade et, le cas échéant, toute interdiction de baignade au moyen d’un signal clair;
+
+- une description en termes non techniques du profil de baignade;
+
+- le cas échéant, l’indication que l’eau de baignade est exposée à des pollutions à court terme au sens du point 2 de l’annexe I, le nombre de jours pendant lesquels la baignade a été interdite au cours de la saison précédente en raison d’une telle pollution et un avertissement chaque fois qu’une telle pollution est prévue ou se produit pendant la saison balnéaire;
+
+- le cas échéant, des informations sur la nature et la durée prévue de situations anormales au sens du point 3 de l’annexe I;
+
+- le cas échéant, la radiation d’un site précédemment recensé comme site de baignade;
+
+- les endroits où des informations plus complètes peuvent être consultées.
+
 Les informations énumérées au paragraphe 1er ainsi que les informations suivantes sont également rendues publiques sur le site internet de l’Administration de la gestion de l’eau:
+
+- la liste des sites de baignade, qui est disponible avant le début de la saison balnéaire;
+
+- le classement des eaux de baignade au cours des trois dernières années, leur profil et les résultats de la surveillance effectuée depuis le classement précédent, qui est disponible dès l’achèvement des analyses;
+
+- pour les eaux de baignade classées comme étant de qualité insuffisante, des informations sur les sources de pollution et les mesures prises pour y remédier et pour protéger les usagers;
+
+- pour les eaux de baignade présentant des pollutions à court terme, des informations concernant les conditions susceptibles de conduire à de telles pollutions, la probabilité de survenance d’une telle pollution et sa durée probable ainsi que les sources de pollution et les mesures prises pour y remédier et pour protéger les usagers.
 
 <a id="art-11"></a>
 ## Art. 11.

@@ -37,6 +37,14 @@ Le siège de la nouvelle commune se trouve fixé à Bavigne.
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Le conseil communal de la nouvelle commune se compose de neuf conseillers.
+
+(2)
+
+Chacune des anciennes communes constitue de plein droit une section électorale conformément à l'article 147 de la loi électorale.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -44,6 +52,18 @@ Les règlements communaux qui existent dans les communes au jour de la fusion so
 
 <a id="art-5"></a>
 ## Art. 5.
+
+(1)
+
+Les fonctionnaires, employés contractuels et ouvriers des communes qui remplissent leurs fonctions ou qui sont occupés dans les communes fusionnées sont pris en charge par la nouvelle commune à compter de l'entrée en vigueur de la présente loi.
+
+(2)
+
+Ils continuent d'être soumis aux dispositions de leurs statuts et contrats, et d'être rémunérés en les mêmes conditions que s'ils étaient dans leur commune d'origine. Ils conservent, dans la nouvelle commune, leurs droits acquis, et l'ensemble des avantages dont ils bénéficiaient et notamment les mêmes possibilités d'avancement, d'échelons et de grades, de durée de carrière ainsi que les mêmes modalités de rémunération que dans leur commune d'origine.
+
+(3)
+
+Le conseil de la nouvelle commune nomme un secrétaire communal parmi les secrétaires des communes fusionnées et un receveur communal parmi les receveurs des communes fusionnées.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -53,6 +73,14 @@ La nouvelle commune succède à tous les biens, droits, charges et obligations d
 <a id="art-7"></a>
 ## Art. 7.
 
+(1)
+
+Les bureaux de bienfaisance des communes fusionnées sont dissous au jour de l'installation du bureau de bienfaisance de la nouvelle commune.
+
+(2)
+
+Le nouveau bureau succède à tous les biens, droits, charges et obligations des bureaux dissous
+
 <a id="art-8"></a>
 ## Art. 8.
 
@@ -60,6 +88,16 @@ Les communes fusionnées ne forment qu'une seule section de comptabilité à par
 
 <a id="art-9"></a>
 ## Art. 9.
+
+(1)
+
+A titre de contribution au financement d'investissements découlant directement et nécessairement de la fusion, la nouvelle commune bénéficie d'une aide spéciale de l'Etat d'un montant global de trois millions de francs.
+
+Cette aide s'ajoute à celles qui sont normalement accordées par l'Etat pour des travaux similaires, susceptibles d'être subventionnés sur la base des réglementations concernant les subventions aux communes et compte tenu notamment de la situation financière de ces dernières.
+
+(2)
+
+L'aide spéciale prévue au paragraphe (1) est liquidée par tranches au cours d'une période de dix ans à partir de l'entrée en vigueur de la présente loi, ceci au fur et à mesure de la réalisation des travaux.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -86,8 +124,28 @@ La présente loi entre en vigueur le 1er janvier 1979.
 <a id="art-14"></a>
 ## Art. 14.
 
+(1)
+
+Le mandat des bourgmestres et échevins actuellement en fonctions dans les communes réunies expire le jour de l'entrée en vigueur de la présente loi.
+
+(2)
+
+II est pourvu à partir de cette date à la nomination d'un nouveau collège composé d'un bourgmestre et de deux échevins.
+
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+Pendant une période transitoire allant du 1er janvier 1979 au 31 décembre 1981, la nouvelle commune est administrée par un conseil formé par les membres en fonctions des conseils des communes fusionnées.
+
+(2)
+
+Si des sièges de conseillers deviennent vacants pendant cette période, il n'est pas pourvu à ces vacances.
+
+(3)
+
+En cas de dissolution, le conseil de la nouvelle commune se compose jusqu'au 31 décembre 1981 de la manière prévue à l'article 3 de la présente loi.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -96,3 +154,15 @@ L'élection et l'installation des membres du bureau de bienfaisance de la nouvel
 
 <a id="art-17"></a>
 ## Art. 17.
+
+(1)
+
+Pour les nominations prévues à l'article 5, paragraphe (3) de la présente loi, le conseil communal peut, sous l'approbation du Ministre de l'Intérieur, déroger aux conditions d'études, d'admissibilité, d'admission définitive et de stage normalement requises pour l'accession aux nouvelles fonctions.
+
+(2)
+
+Le conseil communal peut, sous l'approbation du Ministre de l'Intérieur, augmenter le degré d'occupation des secrétaire et receveur des anciennes communes fusionnées qui n'ont pas été nommés aux fonctions de secrétaire ou de receveur de la nouvelle commune.
+
+(3)
+
+Sous la même approbation, le conseil communal peut, pour les besoins internes du service, conférer à ces fonctionnaires un titre spécial restant sans influence sur leur rang et leur traitement.

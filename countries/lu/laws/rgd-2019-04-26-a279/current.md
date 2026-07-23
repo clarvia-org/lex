@@ -28,8 +28,36 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Le crédit d’impôt salaire social minimum, ci-après « CISSM » est bonifié par l’employeur à ses salariés qui disposent d’une fiche de retenue d’impôt. Si le salarié ne dispose pas d’une fiche de retenue d’impôt, le crédit d’impôt n’est pas bonifié par l’employeur, mais le crédit d’impôt est bonifié par l’Administration des contributions directes, aux conditions et suivant les modalités de l’alinéa 6 de l’article 139quater de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. L’employeur détermine mensuellement le montant du CISSM à accorder en fonction de respectivement le montant du salaire brut mensuel ou le salaire brut mensuel fictif déterminé en application de l’article 139quater de la loi précitée du 4 décembre 1967.
+
+(2)
+
+Lorsqu’au cours du mois concerné, le salarié n’a pas travaillé le mois entier et à temps plein, le salaire brut mensuel fictif est déterminé en divisant la rémunération brute touchée au cours du mois par les heures de travail du mois effectivement rémunérées et en multipliant ce quotient par les heures de travail pour lesquelles le même salarié aurait été rémunéré s’il avait été occupé le mois entier et à temps plein.
+
+(3)
+
+Lorsque le CISSM est déterminé sur base d’un salaire brut mensuel fictif tel que défini à l’alinéa 2, il n’est accordé qu’à hauteur de la fraction correspondant au rapport existant entre, d’une part, les heures de travail du mois effectivement rémunérées et, d’autre part, le nombre des heures de travail pour lesquelles le même salarié aurait été rémunéré s’il avait été occupé le mois entier et à temps plein.
+
+(4)
+
+Le CISSM, le cas échéant réduit conformément à l’alinéa 3, est, indépendamment de la période de paie, bonifié mensuellement. Il n’est pas accordé lorsque le salaire brut mensuel, ou, le cas échéant, le salaire brut mensuel fictif est inférieur à 1 800 euros , ni lorsqu’il est supérieur à 3 600 euros .
+
 <a id="art-2"></a>
 ## Art. 2.
+
+(1)
+
+Dans une première étape, l’employeur détermine la retenue d’impôt d’après les barèmes de retenue ou d’après le taux de retenue inscrit sur la fiche de retenue d’impôt.
+
+(2)
+
+Le CISSM déterminé suivant les dispositions de l’article 1er est ensuite imputé sur la retenue d’impôt correspondant à la dernière période de paie du mois concerné. L’impôt à retenir à charge du salarié correspond au montant de la retenue, diminué du crédit d’impôt imputé.
+
+(3)
+
+Si la retenue d’impôt visée à l’alinéa 1er est inférieure au montant du crédit d’impôt imputé, l’excédent du crédit d’impôt est restitué au salarié par l’employeur (impôt négatif).
 
 <a id="art-3"></a>
 ## Art. 3.

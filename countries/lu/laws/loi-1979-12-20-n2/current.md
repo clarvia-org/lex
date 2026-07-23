@@ -29,6 +29,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le droit de porter le titre professionnel de journaliste est subordonné aux conditions suivantes:
 
+- exercer, à titre de profession principale, une activité constituant une contribution rédactionnelle à une ou plusieurs publications, à une ou plusieurs agences de presse, émissions radiodiffusées ou télévisées ou encore, en tant que rédacteur ou correspondant attitré pour le Grand-Duché de Luxembourg, à un organe de presse étranger, pourvu que les publications et émissions soient consacrées à l´information générale du public, telle qu´elle est définie à l´article 2, alinéa f de la loi du 11 mars 1976;
+
+- avoir l´âge de la majorité;
+
+- ne pas être déchu, au Grand-Duché de Luxembourg, en tout ou en partie, des droits civils énumérés à l´article 31 du code pénal et, sans préjudice à ce qui est prévu à l´article 2 de la présente loi, n´avoir encouru à l´étranger une condamnation qui, si elle avait été prononcée au Grand-Duché de Luxembourg, aurait entraîné la déchéance de tout ou partie de ces droits;
+
+- justifier d´une pratique professionnelle de deux ans au moins;
+
+- n´exercer aucun commerce ni aucune activité ayant pour objet principal la publicité, si ce n´est en qualité de dirigeant d´un organe de presse.
+
 <a id="art-1bis-20040612"></a>
 ## Art. 1bis.
 
@@ -42,6 +52,10 @@ Il est institué un Conseil de Presse chargé de statuer sur l'existence ou la p
 Au cas où l´intéressé aurait été condamné à l´étranger à une peine entraînant les déchéances visées à l´article 1er , alinéa c de la présente loi, le Conseil de Presse appréciera si, dans les circonstances de la cause, la condamnation à l´étranger doit être prise en considération.
 
 Le Conseil de Presse comprend:
+
+- les éditeurs des publications, agences et émissions luxembourgeoises visées par l´article 1er, alinéa a de la présente loi;
+
+- un nombre égal de journalistes.
 
 Les membres du Conseil de Presse, proposés par les milieux professionnels, sont nommés par le Grand-Duc.
 

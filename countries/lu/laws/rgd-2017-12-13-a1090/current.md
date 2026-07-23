@@ -34,6 +34,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Les qualifications minimales requises pour la réalisation des actes essentiels de la vie correspondent aux qualifications de l’aide socio-familiale, de l’aide socio-familiale en formation, de l’assistant d’accompagnement au quotidien, de l’assistant d’accompagnement au quotidien en formation, de l’agent d’inclusion, de l‘agent socio-pédagogique, de l’aide-soignant, de l’aide-soignant en formation, de l’aide-soignant pendant le stage d’adaptation prévu à l’article 14 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, de l’auxiliaire de vie, de l’éducateur ou de l’infirmier à l’exception des actes essentiels de la vie suivants, pour lesquels des qualifications minimales requises correspondent :
 
+- à celle de l’infirmier, pour la réalisation de l’aide à la nutrition entérale ;
+
+- à celles de l’aide-soignant ou de l’infirmier, pour la dispensation d’actes essentiels de la vie aux bénéficiaires de soins palliatifs.
+
 <a id="art-2"></a>
 ## Art. 2.
 

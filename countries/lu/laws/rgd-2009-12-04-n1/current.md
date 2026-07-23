@@ -30,6 +30,14 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le nombre limite des emplois dans les différentes carrières du personnel de l'Institut Luxembourgeois de Régulation, telles que définies à l'article 13 de la loi modifiée du 30 mai 2005 portant: 1) organisation de l'Institut Luxembourgeois de Régulation 2) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, est fixé comme suit:
 
+- Dans la catégorie de traitement A, groupe de traitement A1, le nombre des emplois est fixé à soixante.
+
+- Dans la catégorie de traitement A, groupe de traitement A2, le nombre des emplois est fixé à vingt.
+
+- Dans la catégorie de traitement B, groupe de traitement B1, le nombre des emplois est fixé à seize.
+
+- Dans la catégorie de traitement C, groupe de traitement C1, le nombre des emplois est fixé à six.
+
 <a id="art-2"></a>
 ## Art. 2.
 

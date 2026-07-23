@@ -27,10 +27,24 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Pour être admis à la profession d’avocat l’accomplissement d’un stage professionnel, tel que prévu par le présent règlement, est une des conditions auxquelles les stagiaires et candidats doivent se soumettre sans préjudice des conditions prévues dans d’autres dispositions légales ou règlementaires.
+
+(2)
+
+Pour être admis à la fonction de notaire l’accomplissement d’un stage professionnel, tel que prévu par le présent règlement, est une des conditions auxquelles les stagiaires et candidats ressortissants d’un pays membre de l’Union européenne doivent se soumettre sans préjudice des conditions prévues dans d’autres dispositions légales ou règlementaires.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Le stage professionnel comprend:
+
+- une période de cours complémentaires pour tous les stagiaires,
+
+- le stage judiciaire pour l’accès au barreau,
+
+- le stage notarial pour l’accès à la fonction du notaire.
 
 #### Chapitre 1. De l’accès à la profession d’avocat:
 
@@ -39,15 +53,71 @@ Le stage professionnel comprend:
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Les cours complémentaires et le stage judiciaire sont placés sous la surveillance d’un Comité de pilotage dont les membres sont nommés par le Ministre de la Justice selon les modalités qui suivent:
+
+- les deux représentants des Barreaux luxembourgeois sont désignés par le Bâtonnier du Barreau de Luxembourg;
+
+- le représentant du Jeune Barreau est désigné par le Président du Jeune Barreau;
+
+- le représentant des notaires est désigné par le Président de la Chambre des notaires;
+
+- le représentant des huissiers de justice est désigné par le Président de la Chambre des huissiers de justice;
+
+- le représentant du personnel enseignant est élu par le collège des enseignants des cours complémentaires en droit;
+
+- le représentant du Ministère de la Justice est nommé par le Ministre de la Justice;
+
+- le Directeur des études est nommé par le Ministre de la Justice.
+
+(2)
+
+Le représentant des notaires, le représentant des huissiers de justice et le représentant du personnel élu par le collège des enseignants des cours complémentaires en droit disposent d’une voix consultative pour les questions relevant de la Section 3 du Chapitre I du présent règlement.
+
+Les membres du Comité de pilotage sont nommés pour une durée de trois ans. En cas de cessation de fonction en cours de mandat, le remplaçant désigné achève le mandat de son prédécesseur.
+
+Ils ont droit à un jeton de présence dont le montant est fixé par le Gouvernement en Conseil.
+
 <a id="art-4"></a>
 ## Art. 4.
 
 Le Comité de pilotage est notamment chargé:
 
+- de formuler des propositions d’orientations générales sur l’ensemble de la formation;
+
+- des missions qui lui sont déléguées par le Ministre de la Justice;
+
+- de proposer les enseignants;
+
+- de sanctionner les cas de fraude constatés lors d’un contrôle des connaissances;
+
+- d’autoriser les stagiaires à pouvoir effectuer une partie de leur stage judiciaire dans une étude d’avocat située dans un Etat membre de l’Union européenne.
+
 Il se réunit au moins quatre fois par an.
 
 <a id="art-5"></a>
 ## Art. 5.
+
+(1)
+
+Les cours complémentaires et le stage judiciaire sont placés sous la direction du Directeur des études, assisté du Comité de pilotage.
+
+Le Directeur des études a droit à une indemnité annuelle fixée par le Gouvernement en Conseil.
+
+(2)
+
+Il est chargé:
+
+- de l’organisation des cours complémentaires en droit luxembourgeois et du stage judiciaire sous l’autorité du Ministre de la Justice;
+
+- de mettre en oeuvre les décisions prises par le Ministre de la Justice;
+
+- de convoquer et de présider le Comité de pilotage;
+
+- de convoquer et de présider le jury d’examen pour les cours complémentaires en droit luxembourgeois ainsi que le jury d’examen pour l’examen de fin de stage judiciaire;
+
+- de formuler des propositions d’orientations générales sur l’ensemble de la formation.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -78,6 +148,10 @@ Les inscriptions se font auprès du ministère de la Justice.
 
 Pour accéder aux cours complémentaires, il faut:
 
+- soit avoir obtenu l’homologation du diplôme étranger en droit conformément au règlement grand-ducal du 10 septembre 2004 fixant les critères d’homologation des titres et grades étrangers en droit;
+
+- soit être détenteur d’un grade de master en droit émis par l’Université du Luxembourg.
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -89,6 +163,30 @@ Le stagiaire qui s’est vu refuser le certificat de formation complémentaire p
 
 <a id="art-10"></a>
 ## Art. 10.
+
+(1)
+
+Le contrôle des connaissances a lieu sous forme d’épreuves écrites. Chacune des épreuves est notée sur 20 points.
+
+Le contrôle des connaissances se fait en langues française et allemande.
+
+Il se déroule sous le couvert de l’anonymat.
+
+(2)
+
+Le certificat de formation complémentaire en droit luxembourgeois est délivré lors de la session ordinaire au stagiaire qui a obtenu dans chaque matière une note au moins égale à 10 points.
+
+Le stagiaire peut se présenter à la session de rattrapage dans les matières dans lesquelles il n’a pas obtenu une note au moins égale à 10 points.
+
+Le certificat de formation complémentaire en droit luxembourgeois est délivré lors de la session de rattrapage au stagiaire qui a obtenu dans chacune des matières interrogées au cours de cette session une note au moins égale à 10 points.
+
+Aucune compensation n’est possible ni lors de la session ordinaire ni lors de la session de rattrapage.
+
+(3)
+
+Le stagiaire ayant conservé une note inférieure à 10 points dans une ou plusieurs matières après la session de rattrapage est admis à se réinscrire aux cours complémentaires en droit luxembourgeois, auquel cas il conserve le bénéfice des matières validées par une note au moins égale à 10 points.
+
+En cas d’échecs successifs, il est admis à se réinscrire sans limites. Toutefois, il ne conserve le bénéfice des matières validées que pour une période maximale de deux années suivant son échec initial.
 
 <a id="art-11"></a>
 ## Art. 11.
@@ -122,6 +220,32 @@ Tout changement de patron de stage doit être communiqué par le stagiaire, dans
 <a id="art-14"></a>
 ## Art. 14.
 
+(1)
+
+Le stage judiciaire a une durée minimale de deux ans.
+
+Sur demande motivée et justifiée, le stagiaire peut être autorisé par le Comité de pilotage à effectuer au moins 3 mois et au maximum 6 mois de son stage judiciaire dans une étude d’avocat située dans un Etat membre de l’Union européenne. Cette période de stage dûment autorisée est prise en compte pour la durée du stage judiciaire déterminée dans l’alinéa premier.
+
+(2)
+
+Pendant le stage judiciaire, le stagiaire doit suivre des cours obligatoires et assister à des conférences à déterminer par le Ministre de la Justice.
+
+Les cours obligatoires font l’objet d’un contrôle des connaissances écrit dont la réussite conditionne l’accès à l’examen de fin de stage.
+
+(3)
+
+Chacune des épreuves est notée sur 20 points et le stagiaire doit avoir obtenu dans chaque matière une note au moins égale à 10 points.
+
+Le stagiaire peut se présenter à la session de rattrapage dans les matières dans lesquelles il n’a pas obtenu une note au moins égale à 10 points.
+
+Aucune compensation n’est possible ni lors de la session ordinaire ni lors de la session de rattrapage.
+
+Le stagiaire ayant conservé une note inférieure à 10 points dans une ou plusieurs épreuves après la session de rattrapage doit se réinscrire pour la totalité des épreuves lors de la prochaine session. En cas d’échecs successifs, il est admis à se réinscrire trois fois pour la totalité des épreuves.
+
+(4)
+
+Le programme des cours obligatoires est établi au plus tard le 1er avril précédant le début du stage judiciaire. Les conférences auxquelles les stagiaires doivent assister sont communiquées en cours de stage.
+
 <a id="art-15"></a>
 ## Art. 15.
 
@@ -134,10 +258,48 @@ La date de l’ouverture des sessions est fixée par le Ministre de la Justice e
 
 Pour être admis à l’examen de fin de stage judiciaire, le candidat adresse une demande au Ministre de la Justice dans le délai prescrit chaque année en y joignant:
 
+- un certificat du greffe attestant la prestation du serment d’avocat;
+
+- un certificat du ou des patron(s) de stage attestant que le stagiaire y a effectué son stage avec assiduité pendant la durée totale du stage;
+
+- une preuve de l’identité du candidat:
+
+  - lorsque le candidat est luxembourgeois ou ressortissant de l’Union européenne: une copie de la carte d’identité
+
+  - un candidat ressortissant d’un Etat non-membre de l’Union Européenne ou un candidat qui a le statut de réfugié reconnu au sens de la Convention de Genève du 28 juillet 1951 ou d’apatride au sens de la Convention de New York du 28 septembre 1954 se trouvant régulièrement au pays, peut être dispensé de cette condition; il verse une pièce officielle attestant la nationalité de l’Etat tiers ou à défaut une copie certifiée conforme du passeport ou du titre de séjour;
+
+- les certificats d’assistance aux conférences obligatoires délivrées par l’organisateur de ces conférences;
+
+- un certificat de réussite des cours obligatoires suivis pendant le stage judiciaire.
+
 Si un candidat n’a pas déposé dans le délai prescrit une demande complète, l’admissibilité à l’examen de fin de stage peut être refusée.
 
 <a id="art-17"></a>
 ## Art. 17.
+
+(1)
+
+L’examen de fin de stage comporte au moins deux épreuves écrites.
+
+Le programme et les modalités des épreuves sont établis au plus tard trois mois avant le début de l’examen de fin de stage.
+
+Chacune des épreuves est notée sur 20 points.
+
+(2)
+
+Le diplôme visé à l’article 19 du présent règlement, est délivré lors de la première inscription soit à la session de printemps soit à la session d’automne au candidat ayant reçu une note au moins égale à 10 points dans toutes les épreuves écrites.
+
+Dans les épreuves dans lesquelles le stagiaire n’a pas obtenu une note au moins égale à 10 points, il peut se présenter à la prochaine session.
+
+Le diplôme est délivré lors de la prochaine session au stagiaire qui a obtenu dans chacune des épreuves auxquelles il doit se soumettre au cours de cette session une note au moins égale à 10 points.
+
+Aucune compensation n’est possible ni lors de la session de printemps ni lors de la session d’automne.
+
+(3)
+
+Le stagiaire ayant conservé une note inférieure à 10 points dans une ou plusieurs épreuves après la deuxième session doit se réinscrire pour la totalité des épreuves lors de la prochaine session.
+
+En cas d’échecs successifs, il est admis à se réinscrire trois fois pour la totalité des épreuves.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -178,7 +340,15 @@ Les candidats sont dispensés des épreuves de langues luxembourgeoise, françai
 
 Les candidats sont dispensés de l’épreuve de langue française s’ils ont obtenu:
 
+- dans un pays ou une région de langue française, un diplôme leur permettant l’accès à des études d’enseignement supérieur;
+
+- un diplôme de baccalauréat européen de la section française d’une École Européenne, visée par la loi du 23 décembre 1998 portant approbation de la Convention portant statut des Écoles Européennes, leur permettant l’accès à des études d’enseignement supérieur.
+
 Les candidats sont dispensés de l’épreuve de langue allemande s’ils ont obtenu:
+
+- dans un pays ou une région de langue allemande, un diplôme leur permettant l’accès à des études d’enseignement supérieur;
+
+- un diplôme de baccalauréat européen de la section allemande d’une École Européenne, visée par la loi du 23 décembre 1998 portant approbation de la Convention portant statut des Écoles Européennes, leur permettant l’accès à des études d’enseignement supérieur.
 
 La commission du stage visée à l’article 20 peut accorder les dispenses.
 
@@ -235,6 +405,16 @@ Les dispositions des alinéas 2 et 3 de l’article 18 du règlement grand-ducal
 
 Les épreuves écrites portent principalement sur les matières suivantes:
 
+- la rédaction d’actes notariés en français et en allemand;
+
+- la rédaction d’une liquidation;
+
+- le droit fiscal pour autant qu’il intéresse le notariat;
+
+- les matières de droit civil intéressant plus particulièrement le notariat;
+
+- l’organisation du notariat.
+
 <a id="art-31"></a>
 ## Art. 31.
 
@@ -259,6 +439,12 @@ Le jury désigne parmi ses membres son président et son secrétaire.
 
 Pour être admis à l’examen, le candidat adresse une demande au Ministre de la Justice dans le délai prescrit chaque année en y joignant:
 
+- un certificat de stage de la commission du stage,
+
+- un certificat du patron du stage notarial,
+
+- une copie de la carte d’identité du candidat prouvant la nationalité luxembourgeoise ou la nationalité d’un autre Etat membre de l’Union européenne.
+
 <a id="art-35"></a>
 ## Art. 35.
 
@@ -267,7 +453,9 @@ Les dispositions des articles 15, 22, 24 et 25 du règlement grand-ducal du 21 j
 <a id="art-36"></a>
 ## Art. 36.
 
-Le diplôme à délivrer au candidat reçu est rédigé dans les termes suivants: Le jury d’examen pour le stage notarial, sur la production des pièces exigées et au vu du résultat des épreuves subies délivre à Madame/Monsieur … né(e) le … à … le diplôme de candidat notaire. Le jury d’examen pour le stage notarial, sur la production des pièces exigées et au vu du résultat des épreuves subies délivre à Madame/Monsieur … né(e) le … à … le diplôme de candidat notaire. Les diplômes sont signés par les membres du jury et visés par le Ministre de la Justice.
+Le diplôme à délivrer au candidat reçu est rédigé dans les termes suivants: Le jury d’examen pour le stage notarial, sur la production des pièces exigées et au vu du résultat des épreuves subies délivre à Madame/Monsieur … né(e) le … à … le diplôme de candidat notaire.
+
+Les diplômes sont signés par les membres du jury et visés par le Ministre de la Justice.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -285,6 +473,14 @@ Pendant la durée normale des cours complémentaires, du stage judiciaire et du 
 
 <a id="art-39"></a>
 ## Art. 39.
+
+(1)
+
+Le règlement grand-ducal modifié du 21 janvier 1978 portant organisation du stage judiciaire et réglementant l’accès au notariat est abrogé à l’exception des dispositions prévues aux articles 9, 15, 18 (alinéas 2 et 3), 22, 24 et 25 pour les besoins du stage notarial et des articles 9 à 26 pour les besoins du stage judiciaire pour l’exécution des dispositions transitoires prévues à l’article 39 (2) du présent règlement grand-ducal.
+
+(2)
+
+Le présent règlement grand-ducal est applicable aux stagiaires s’inscrivant aux cours complémentaires en droit luxembourgeois à partir de la rentrée 2009/2010 et aux stagiaires s’inscrivant pour la première fois à un des barreaux à partir du 1er mai 2010 peu importe la date d’obtention du certificat de formation complémentaire.
 
 <a id="art-40"></a>
 ## Art. 40.

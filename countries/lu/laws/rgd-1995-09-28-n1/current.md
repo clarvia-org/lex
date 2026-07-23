@@ -30,17 +30,25 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Les agents appartenant au pool défini au chapitre 4, article VII, de la loi du 31 juillet 1995 relative à l'emploi et à la formation professionnelle doivent être détenteurs soit d'un diplôme luxembourgeois de fin d'études secondaires ou d'un diplôme luxembourgeois de fin d'études secondaires techniques, soit d'un diplôme luxembourgeois de technicien, soit d'un diplôme reconnu équivalent par le Ministre de l'Education nationale et de la Formation professionnelle et avoir suivi avec succès des études supérieures ou universitaires d'au moins une année. Ils doivent avoir une bonne connaissance des trois langues officielles du pays, à savoir l'allemand, le français et le luxembourgeois. Les agents précités doivent être inscrits comme demandeurs d'emploi auprès de l'Administration de l'Emploi.
+Les agents appartenant au pool défini au chapitre 4, article VII, de la loi du 31 juillet 1995 relative à l'emploi et à la formation professionnelle doivent être détenteurs soit d'un diplôme luxembourgeois de fin d'études secondaires ou d'un diplôme luxembourgeois de fin d'études secondaires techniques, soit d'un diplôme luxembourgeois de technicien, soit d'un diplôme reconnu équivalent par le Ministre de l'Education nationale et de la Formation professionnelle et avoir suivi avec succès des études supérieures ou universitaires d'au moins une année. Ils doivent avoir une bonne connaissance des trois langues officielles du pays, à savoir l'allemand, le français et le luxembourgeois.
+
+Les agents précités doivent être inscrits comme demandeurs d'emploi auprès de l'Administration de l'Emploi.
 
 <a id="art-2"></a>
 ## Art. 2.
 
-L'engagement de ces agents porte sur une période de douze mois, susceptible d'être prorogée pour une nouvelle période de douze mois. Le contrat, conclu entre le Ministre de l'Education Nationale et de la formation Professionnelle ou son délégué et l'agent, est régi par les dispositions légales concernant le contrat de travail à durée déterminée. Il peut y être mis fin, d'un commun accord, lorsque l'agent a trouvé un autre emploi ou lorsqu'il est admis au stage dans la fonction publique.
+L'engagement de ces agents porte sur une période de douze mois, susceptible d'être prorogée pour une nouvelle période de douze mois.
+
+Le contrat, conclu entre le Ministre de l'Education Nationale et de la formation Professionnelle ou son délégué et l'agent, est régi par les dispositions légales concernant le contrat de travail à durée déterminée.
+
+Il peut y être mis fin, d'un commun accord, lorsque l'agent a trouvé un autre emploi ou lorsqu'il est admis au stage dans la fonction publique.
 
 <a id="art-3"></a>
 ## Art. 3.
 
-Le Ministre de l'Education nationale et de la Formation professionnelle détermine la répartition du nombre d'agents appartenant au pool entre les différents établissements de l'enseignement postprimaire. L'Administration de l'Emploi, en collaboration avec les chefs d'établissement, procède à la sélection des demandeurs d'emploi concernés et à leur affectation aux différents établissements.
+Le Ministre de l'Education nationale et de la Formation professionnelle détermine la répartition du nombre d'agents appartenant au pool entre les différents établissements de l'enseignement postprimaire.
+
+L'Administration de l'Emploi, en collaboration avec les chefs d'établissement, procède à la sélection des demandeurs d'emploi concernés et à leur affectation aux différents établissements.
 
 <a id="art-4"></a>
 ## Art. 4.

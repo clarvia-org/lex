@@ -55,6 +55,12 @@ Pour les personnes exerçant une activité agricole, les revenus sont portés en
 
 Pour vérifier si le bénéficiaire d’une pension d’invalidité ou d’une pension de survie justifie d’une diminution des revenus de plus de dix pour cent lui permettant de demander la révision au cours de la période de douze mois prenant cours le 1er avril, il est tenu compte:
 
+- du revenu annuel calculé sur base de la moyenne des revenus mensuels réalisés pendant les trois mois de calendrier suivant celui de la demande, en ce qui concerne les revenus provenant d’une activité salariée,
+
+- du revenu déterminé conformément à l’article 2 alinéas 1 et 2 du présent règlement, en ce qui concerne les revenus provenant d’une activité non salariée, autre qu’agricole,
+
+- dans la mesure où les revenus sont constatés par voie fiscale, du revenu net au sens de l’article 10 numéro 2 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu, communiqué par l’administration des contributions pour un exercice plus récent que celui qui sert ou qui servirait de base à la détermination de l’assiette cotisable, en ce qui concerne les revenus provenant d’une activité agricole. Lorsque les revenus sont déterminés forfaitairement sur base de la superficie de l’exploitation, il est tenu compte de la diminution de la superficie d’exploitation valablement déclarée par le bénéficiaire de pension.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -64,3 +70,5 @@ Pour la réduction prévue à l’article 44, paragraphe 8, les pensions et rent
 ## Art. 6.
 
 Notre Ministre de la Fonction publique est chargé de l’exécution du présent règlement qui est publié au Mémorial.
+
+Les dispositions du présent règlement s’appliquent à partir du 1er janvier 1988.

@@ -29,7 +29,19 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Toute personne qui à l’avenir voudra établir une auberge, un cabaret ou un débit quelconque de boissons fortes à consommer sur place, devra justifier d’au moins cinq années de résidence consécutive dans le pays et, avant d’en commencer l’exploitation, en faire la déclaration au bureau du receveur des contributions directes de la commune où le débit sera établi, et verser entre ses mains, outre la taxe annuelle dont il sera parlé ci-après, la somme de :
 
-200 fr. dans les sections électorales (population politique) de moins de 300 habitants ; 300 fr. dans les sections de 300 à moins de 500 habitants ; 400 fr. dans les sections de 500 à moins de 1000 habitants ; 500 fr. dans les sections de 1000 à moins de 2000 habitants ; 600 fr. dans les sections de 2000 à moins de 4000 habitants ; 800 fr. dans les sections de 4000 à moins de 8000 habitants ; 1000 fr. dans les sections de 8000 habitants et plus.
+200 fr. dans les sections électorales (population politique) de moins de 300 habitants ;
+
+300 fr. dans les sections de 300 à moins de 500 habitants ;
+
+400 fr. dans les sections de 500 à moins de 1000 habitants ;
+
+500 fr. dans les sections de 1000 à moins de 2000 habitants ;
+
+600 fr. dans les sections de 2000 à moins de 4000 habitants ;
+
+800 fr. dans les sections de 4000 à moins de 8000 habitants ;
+
+1000 fr. dans les sections de 8000 habitants et plus.
 
 Ces sommes seront portées au double dans les sections dans lesquelles le nombre des cabarets ou débits atteint la proportion de un pour deux cents habitants ou moins.
 
@@ -60,7 +72,8 @@ Le cabaretier exploitant un débit au jour de la promulgation de la présente lo
 
 Toute personne qui voudra continuer un pareil débit, devra en faire connaître cette intention et verser entre les mains du receveur, avant l’expiration du mois de janvier de chaque année, sous peine d’être astreinte au paiement d’une nouvelle taxe initiale, la somme de :
 
-30 40 50 65 80 100 125 fr. dans les sections de moins de 300 habitants ; fr. dans les sections de 300 à moins de 500 habitants ; fr. dans les sections de 500 à moins de 1000 habitants ; fr. dans les sections de 1000 à moins de 2000 habitants ; fr. dans les sections de 2000 à moins de 4000 habitants ; fr. dans les sections de 4000 habitants à moins de 8000 ; fr. dans les sections de 8000 habitants et plus.
+| 30 40 50 65 80 100 125 | fr. dans les sections de moins de 300 habitants ; fr. dans les sections de 300 à moins de 500 habitants ; fr. dans les sections de 500 à moins de 1000 habitants ; fr. dans les sections de 1000 à moins de 2000 habitants ; fr. dans les sections de 2000 à moins de 4000 habitants ; fr. dans les sections de 4000 habitants à moins de 8000 ; fr. dans les sections de 8000 habitants et plus. |
+| --- | --- |
 
 Les cercles et sociétés closes qui débitent ou dans lesquels il sera débité des boissons alcooliques, soit pour le compte de la société, soit par un économe, seront astreints à faire les déclaration et versement ordonnés aux art. 1er et 2 al. 1er. Les directeurs, gérants ou économes seront responsables de l’accomplissement de cette obligation.
 
@@ -434,6 +447,8 @@ Les lois des 2 mars 1885, 18 mars 1896, 18 juin 1898 et 26 décembre 1908, sur l
 ## Art. 37.
 
 Le texte de la présente loi, imprimé dans les langues française et allemande, sera affiché dans un endroit apparent de tout local mentionné à l’art. 1er de la présente loi, sous peine de douze francs d’amende contre le débitant.
+
+Dispositions transitoires.
 
 <a id="art-38"></a>
 ## Art. 38.

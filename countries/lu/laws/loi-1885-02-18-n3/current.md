@@ -96,6 +96,12 @@ Pour introduire son pourvoi, la partie demanderesse en cassation devra, sous pei
 
 Sous peine d'irrecevabilité, un moyen ou un élément de moyen ne doit mettre en œuvre qu'un seul cas d'ouverture. Chaque moyen ou chaque branche doit préciser, sous la même sanction:
 
+- le cas d'ouverture invoqué;
+
+- la partie critiquée de la décision;
+
+- ce en quoi celle-ci encourt le reproche allégué.
+
 L'énoncé du moyen peut être complété par des développements en droit qui sont pris en considération.
 
 Le mémoire indiquera, s'il y a lieu, les pièces déposées à l'appui du pourvoi. Les pièces non indiquées dans le mémoire ou produites après l'expiration des délais déterminés ci-avant seront écartées du débat.
@@ -125,6 +131,10 @@ La partie défenderesse pourra former un pourvoi incident dans le cadre du mémo
 L'enregistrement du mémoire se réglera d'après les dispositions de l'art. 68, § VI, n° 3 de la loi du 22 frimaire an VII.
 
 Il n'y aura d'exception à cette règle qu'en faveur :
+
+- de ceux qui pourront faire constater leur indigence par certificat dûment délivré par l'autorité compétente, conformément à l'art. 2 de la loi du 7 juillet 1845 , sur le pro deo ;
+
+- des établissements de bienfaisance ou d'instruction publique, des administrations des bourses d'études, de la Caisse d'épargne, des fabriques d'église et des communes.
 
 Dans ce cas, le mémoire et l'exploit de signification de l'huissier seront visés pour timbre et enregistrés en débet.
 
@@ -280,6 +290,14 @@ La cour de cassation qui cassera, soit un arrêt, soit un jugement, ordonnera qu
 
 Le greffier de la Cour supérieure de justice devra tenir, pour les demandes en cassation, un registre sur papier non timbré, sur lequel il consignera :
 
+- le jour du dépôt des mémoires respectifs et des actes y joints ;
+
+- l’attestation de l’exactitude de l’inventaire de ces actes qui sera compris dans les mémoires ;
+
+- le jour de la remise des pièces au président ;
+
+- les jours d’audience de la Cour de cassation pour les conclusions du ministère public et le prononcé de l’arrêt.
+
 <a id="art-39"></a>
 ## Art. 39.
 
@@ -377,6 +395,10 @@ En cas de jugement du fond par la Cour de cassation, l´arrêt ne peut plus êtr
 
 Dans les cas suivants, savoir:
 
+- lorsque les magistrats de l´ordre judiciaire seront poursuivis pour crime et
+
+- lorsqu´il s´agira de demandes en révision, il sera procédé devant la Cour de cassation composée de la manière prévue aux articles 37, 38 et 135 de la loi du 7 mars 1980 sur l´organisation judiciaire.
+
 Les demandes en révision seront instruites devant la Cour de cassation qui y statuera sans que son arrêt puisse être ultérieurement attaqué par aucun moyen de droit.
 
 <a id="art-54"></a>
@@ -401,6 +423,12 @@ Lorsque le procureur général demandera, dans les cas de l'art. 4 de la présen
 Il n'est pas dérogé au recours en cassation introduit et réglé par les art. 50 et suivants de la loi du 5 mars 1884, sur les élections législatives et communales.
 
 Seront observés pour la procédure du dit recours les art. 18, 19, 20, 21, 22, 24, 29, 33, 34 et 38 de la présente loi, avec les modifications suivantes :
+
+- l'arrêt qui prononcera la cassation statuera en même temps sur le fond, si la cause est en état ;
+
+- si l'affaire n'est pas en état, l'arrêt qui prononcera la cassation fixera la cause à une des prochaines audiences pour l'instruction du fond ;
+
+- celte instruction se fera comme en matière d'appel correctionnel, sans préjudice aux expertises à ordonner et aux enquêtes à recevoir par un conseiller-rapporteur.
 
 <a id="art-57"></a>
 ## Art. 57.

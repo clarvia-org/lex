@@ -99,6 +99,12 @@ Abrogé (L. 21 février 1985)
 
 Pour l'application du présent titre, il faut entendre par «entreprises»
 
+- les commerçants personnes physiques;
+
+- (L. 30 juillet 2013) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
+
+- (L. 12 juillet 2013) les sociétés en commandite spéciale.
+
 Les personnes physiques qui n'ont pas leur domicile au Luxembourg, les entreprises de droit étranger visées au point 2° de l’alinéa 1er ainsi que les groupements européens d'intérêt économique ayant leur siège à l'étranger, ne sont soumis aux dispositions du présent chapitre qu'en ce qui concerne les succursales et sièges d'opérations qu'ils ont établis au Luxembourg. L'ensemble de leurs succursales et sièges d'opérations dans le pays est considéré comme une entreprise. Les livres, comptes et pièces justificatives relatifs à ces sièges et succursales sont conservés au Luxembourg.
 
 <a id="art-9"></a>
@@ -304,9 +310,23 @@ La lettre de voiture doit être datée.
 
 Elle doit exprimer:
 
+- la nature et le poids ou la contenance des objets à transporter;
+
+- le délai dans lequel le transport doit être effectué.
+
 Elle indique:
 
+- le nom et le domicile du commissionnaire par l'entremise duquel le transport s'opère, s'il y en a un;
+
+- le nom de celui à qui la marchandise est adressée;
+
+- le nom et le domicile du voiturier.
+
 Elle énonce:
+
+- le prix de la voiture
+
+- l'indemnité due pour cause de retard.
 
 Elle est signée par l'expéditeur ou le commissionnaire.
 
@@ -365,6 +385,20 @@ Le délai pour intenter chaque action récursoire est d'un mois du jour de l'exe
 
 Les achats et ventes se constatent
 
+- par actes publics,
+
+- par actes sous signature privée,
+
+- par le bordereau ou arrêté d'un agent de change ou courtier, dûment signé par les parties,
+
+- par une facture acceptée,
+
+- par la correspondance,
+
+- par les livres des parties,
+
+- par la preuve testimoniale, dans le cas où le tribunal croira devoir l'admettre.
+
 ### TITRE VIII. Du gage commercial (L. 21 décembre 1994)
 
 <a id="art-110"></a>
@@ -390,6 +424,24 @@ Abrogé (L. 5 août 2005)
 <a id="art-114"></a>
 ## Art. 114.
 
+(L. 21 décembre 1994)
+
+(1)
+
+Dans tous les cas, le privilège ne subsiste sur le gage qu'autant que ce gage a été mis et est resté ou est réputé être en la possession du créancier ou d'un tiers convenu entre les parties.
+
+(2)
+
+Le créancier est réputé avoir les biens donnés en gage en sa possession lorsqu'ils sont à sa disposition, notamment dans ses magasins, à la douane ou dans un dépôt public, ou si, avant qu'ils soient arrivés, il en est saisi par un connaissement ou par une lettre de voiture.
+
+(3)
+
+(L. 5 août 2005) La dépossession se réalise également à l'égard de tous tiers lorsque la constitution du gage a été notifiée au débiteur ou au tiers-détenteur de gage, s'il y en a un, ou par l'acceptation du débiteur ou du tiers-détenteur.
+
+La notification et l'acceptation du gage s’effectuent soit par un acte authentique, soit par un acte sous seing privé. Dans ce dernier cas, si un tiers conteste la date de la notification ou de l'acceptation du gage, la preuve de cette date peut être rapportée par tous les moyens.
+
+Même avant la notification ou l'acceptation, le débiteur peut se voir opposer le gage, s'il est prouvé qu'il en a eu connaissance.
+
 <a id="art-115"></a>
 ## Art. 115.
 
@@ -397,6 +449,20 @@ Abrogé (L. 5 août 2005)
 
 <a id="art-116"></a>
 ## Art. 116.
+
+(L. 21 décembre 1994)
+
+(1)
+
+A défaut de paiement à l'échéance, le créancier peut, après mise en demeure notifiée, sauf convention contraire par lettre recommandée, au débiteur et, le cas échéant, au tiers-bailleur de gage, faire procéder à la vente publique des biens donnés en gage.
+
+(2)
+
+A défaut de stipulation contraire, le lieu, et, le cas échéant, le mode de vente et l'officier public ou l'agent qualifié qui y procéderont sont désignés par le magistrat présidant la chambre commerciale du tribunal d'arrondissement à la requête de l'un des intéressés, les autres entendus ou appelés par sommation notifiée par lettre recommandée au débiteur et, le cas échéant au tiers-bailleur de gage.
+
+(3)
+
+A défaut de stipulation contraire. le délai compris entre la mise en demeure et la réalisation du gage est de huit jours. Ce délai commence à courir le jour de la remise de la lettre recommandée à la poste.
 
 <a id="art-117"></a>
 ## Art. 117.
@@ -410,6 +476,14 @@ Abrogé (L. 5 août 2005)
 
 <a id="art-119"></a>
 ## Art. 119.
+
+(1)
+
+Abrogé (L. 5 août 2005)
+
+(2)
+
+(L. 21 décembre 1994) L'exercice des droits du créancier n’est suspendu ni par la faillite ou la liquidation, ni par l'état de sursis, ni par le décès de la personne qui a fourni le gage.
 
 <a id="art-120-188"></a>
 ## Art. 120 à 188.
@@ -489,6 +563,10 @@ Pour toutes sociétés, la déclaration doit indiquer les noms des administrateu
 
 Le failli joindra à son aveu:
 
+- le bilan de ses affaires ou une note indiquant les motifs qui l'empêcheraient de le déposer;
+
+- (L. 19 décembre 2002) les livres prescrits par les articles 9 à 11 du Code de commerce; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
+
 Le bilan contiendra l'énumération et l'évaluation de tous les biens mobiliers et immobiliers du débiteur, l'état des dettes actives et passives, le tableau des profits et des pertes, le tableau des dépenses; il devra être certifié véritable, daté et signé par le débiteur.
 
 Le greffier certifiera au bas de l'aveu du failli et des pièces y annexées la date de leur remise au greffe, et en délivrera récépissé, s'il en est requis.
@@ -524,6 +602,38 @@ Tous paiements, opérations et actes faits par le failli, et tous paiements fait
 
 <a id="art-444-1"></a>
 ## Art. 444-1.
+
+(L. 21 juillet 1992)
+
+(1)
+
+(L. 18 décembre 2009) Si le failli ou les dirigeants de droit ou de fait, associés ou non, apparents ou occultés, rémunérés ou non, d’une société déclarée en état de faillite, qu’ils soient en fonctions ou retirés de la société au moment de la déclaration en faillite, ont contribué à la faillite par une faute grave et caractérisée, le tribunal d’arrondissement siégeant en matière commerciale qui a prononcé la faillite ou, en cas de faillite prononcée à l’étranger, le tribunal d’arrondissement de Luxembourg siégeant en matière commerciale, peuvent prononcer à l’encontre de ces personnes l’interdiction d’exercer directement ou par personne interposée une activité commerciale ainsi qu’une fonction d’administrateur, de gérant, de commissaire, de réviseur d’entreprises, de d’entreprises agréé ou toute fonction conférant le pouvoir d’engager une société. L’interdiction est obligatoirement prononcée contre celui qui est condamné pour banqueroute simple ou banqueroute frauduleuse.
+
+(2)
+
+La demande doit être introduite par le curateur ou par le procureur d'Etat près du tribunal d'arrondissement compétent, dans les trois ans à partir du jugement déclaratif de faillite.
+
+(3)
+
+La durée de l'interdiction d'exercice ne peut être inférieure à un an ni supérieure à vingt ans.
+
+(4)
+
+L'affaire est introduite et instruite suivant la procédure commerciale.
+
+(5)
+
+L'interdiction cesse dans tous les cas si:
+
+- le jugement déclaratif de faillite est rapporté,
+
+- le failli obtient l'homologation du concordat,
+
+- le failli obtient sa réhabilitation.
+
+(6)
+
+L'interdiction prononcée par le tribunal est mentionnée au registre de commerce et des sociétés. Cette inscription est radiée lorsque l'interdiction a cessé ses effets.
 
 <a id="art-445"></a>
 ## Art. 445.
@@ -672,6 +782,16 @@ Tout jugement rendu en matière de faillite est exécutoire par provision; le d�
 
 Ne seront susceptibles d'opposition, ni d'appel, ni de requête civile:
 
+- les jugements relatifs à la nomination ou au remplacement du juge-commissaire, à la nomination ou à la révocation des curateurs;
+
+- (L. 21 juillet 1992) les jugements qui statuent sur les demandes de secours pour le failli et sa famille;
+
+- les jugements qui autorisent à vendre les effets ou marchandises appartenant à la faillite, ou, conformément à l'article 453, paragraphe 3, la remise de la vente d'objets saisis;
+
+- les jugements qui prononceront sursis au concordat;
+
+- les jugements statuant sur les recours formés contre les ordonnances du juge-commissaire rendues dans les limites de ses attributions.
+
 ##### Section II. Des formalités relatives à la déclaration de faillite et des premières dispositions à l'égard de la personne et des biens du failli
 
 <a id="art-466"></a>
@@ -717,6 +837,16 @@ En cas de faillite d'une société en nom collectif, ou en commandite, les scell
 ## Art. 471.
 
 Ne seront point placés sous les scelles, ou en seront extraits et remis aux curateurs:
+
+- (L. 29 mars 1979) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
+
+- les effets de portefeuille à courte échéance ou susceptibles d'acceptation, ou pour lesquels il faudra faire des actes conservatoires: le bordereau en sera remis au juge-commissaire;
+
+- les objets sujets à dépérissement prochain ou à dépréciation imminente;
+
+- les objets servant à l'exploitation du fonds de commerce dans le cas prévu par l'article 475;
+
+- les objets compris dans l'état mentionné à l'article 476.
 
 (L. 29 mars 1979) Les objets mentionnés au présent article seront de suite inventoriés par les curateurs en présence du greffier délégué par le juge-commissaire qui signera le procès-verbal.
 
@@ -870,6 +1000,12 @@ Le juge-commissaire transmettra immédiatement le mémoire avec ses observations
 
 (L. 21 juillet 1992) En cas de faillite d'une société, peut être déclaré personnellement en faillite tout dirigeant de droit ou de fait, apparent ou occulte, rémunéré ou non, qu'il s'agisse d'une personne physique ou d'une personne morale, qui a:
 
+- sous le couvert de la société masquant ses agissements, fait des actes de commerce dans un intérêt personnel ou
+
+- disposé des biens sociaux comme des siens propres ou
+
+- poursuivi abusivement, dans son intérêt personnel, une exploitation déficitaire qui ne pouvait conduire qu'à la cessation des paiements de la personne morale.
+
 Le passif de la faillite du dirigeant comprend, outre le passif personnel, celui de la société.
 
 La date de la cessation des paiements est celle fixée par le jugement prononçant la faillite de la société.
@@ -966,6 +1102,36 @@ Jusqu'au jugement à intervenir sur les contestations, toutes les déclarations 
 ## Art. 507.
 
 Il sera tenu au greffe, pour chaque faillite, un tableau divisé en colonnes et contenant, pour chaque créance déclarée, les énonciations suivantes:
+
+- le numéro d'ordre;
+
+- les nom, prénoms, profession et résidence du créancier qui aura déposé sa déclaration et ses titres;
+
+- la date de ce dépôt;
+
+- le montant de la créance déclarée;
+
+- la désignation sommaire des biens ou objets sur lesquels on prétend qu'elle serait hypothéquée ou privilégiée;
+
+- son admission au passif ou son rejet par les curateurs;
+
+- la date de cette admission ou de ce rejet;
+
+- les contredits;
+
+- les noms des opposants;
+
+- les dates des contredits;
+
+- le jour auquel le procès-verbal de vérification sera clos;
+
+- le jour ou s'ouvriront les débats sur les contestations;
+
+- le sommaire de la décision définitive;
+
+- la date de cette décision; et
+
+- les autres renseignements qu'il pourra être utile de porter à la connaissance des intéressés.
 
 Ce tableau sera dressé par le greffier; les énonciations exigées y seront faites successivement jour par jour, et au fur et à mesure que les faits et circonstances auxquels elles se rattachent se reproduiront. Il sera, à toute réquisition, communiqué aux intéressés.
 
@@ -1203,6 +1369,8 @@ Les frais et honoraires seront avancés par l'Administration de l'Enregistrement
 
 <a id="art-536-2"></a>
 ## Art. 536-2.
+
+(L. 28 octobre 2022)
 
 Le jugement de clôture des opérations de la faillite dissout la personne morale et emporte clôture immédiate de sa liquidation.
 
@@ -1453,15 +1621,45 @@ Les curateurs pourront, avec l'approbation du juge-commissaire, admettre les dem
 
 Sera déclaré banqueroutier simple, tout commerçant failli qui se trouvera dans l'un des cas suivants:
 
+- si les dépenses personnelles ou les dépenses de sa maison sont jugées excessives;
+
+- s'il a consommé de fortes sommes au jeu, à des opérations de pur hasard, ou à des opérations fictives de bourse ou sur marchandises;
+
+- si, dans l'intention de retarder sa faillite, il a fait des achats pour revendre au-dessous du cours; si, dans la même intention, il s'est livré à des emprunts, circulation d'effets, et autres moyens ruineux de se procurer des fonds;
+
+- s'il a supposé des dépenses ou des pertes ou s'il ne justifie pas de l'existence ou de l'emploi de l'actif de son dernier inventaire et des deniers, valeurs, meubles et effets, de quelque nature qu'ils soient, qui lui seraient avenus postérieurement;
+
+- si, après la cessation de ses paiements, il a payé ou favorisé un créancier au préjudice de la masse.
+
 <a id="art-574"></a>
 ## Art. 574.
 
 Pourra être déclaré banqueroutier simple, tout commerçant qui se trouvera dans l'un des cas suivants:
 
+- s'il a contracté pour le compte d'autrui, sans recevoir des valeurs en échange, des engagements jugés trop considérables, eu égard à sa situation lorsqu'il les a contractés;
+
+- s'il est de nouveau déclaré en faillite, sans avoir satisfait aux obligations d'un précédent concordat;
+
+- (L. 12 décembre 1972) si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s'est pas conformé à l'article 69;
+
+- s'il n'a pas fait l'aveu de la cessation de ses paiements dans le délai prescrit par l'article 440; si cet aveu ne contient pas les noms de tous les associés solidaires; si, en le faisant, il n'a pas fourni les renseignements et éclaircissements exigés par l'article 441, ou si ces renseignements ou éclaircissements sont inexacts;
+
+- s'il s'est absenté sans l'autorisation du juge-commissaire ou si, sans empêchement légitime, il ne s'est pas rendu en personne aux convocations qui lui ont été faites par le juge-commissaire ou par les curateurs;
+
+- (L. 19 décembre 2002) s'il n'a pas tenu les livres prescrits par l'article 9; s'il n'a pas fait l'inventaire exigé par l'article 15; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s'ils n'offrent pas sa véritable situation active et passive, sans néanmoins qu'il y ait fraude.
+
 <a id="art-575"></a>
 ## Art. 575.
 
 Seront condamnés aux peines de la banqueroute simple, sans préjudice, s'il y a lieu, à l'application de l'article 578:
+
+- ceux qui, dans l'intérêt du failli, auront soustrait, dissimulé ou recelé tout ou partie de ses biens meubles ou immeubles;
+
+- ceux qui auront frauduleusement présenté dans la faillite et affirmé, soit en leur nom, soit par interposition de personne, des créances supposées ou exagérées;
+
+- le créancier qui aura stipulé, soit avec le failli, soit avec toutes autres personnes, des avantages particuliers à raison de son vote dans les délibérations de la faillite, ou qui aura fait un traité particulier duquel résulterait, en sa faveur, un avantage à la charge de l'actif du failli;
+
+- le curateur qui se sera rendu coupable de malversation dans sa gestion.
 
 Les coupables seront, en outre, condamnés à une amende égale à la valeur des avantages illégalement stipulés ou aux restitutions et dommages et intérêts dus à la masse des créanciers, et qui ne pourra être moindre de 3 euros.
 
@@ -1479,6 +1677,12 @@ Il en sera de même de ceux qui, sans empêchement légitime, ne se seront pas r
 
 Sera déclaré banqueroutier frauduleux, tout commerçant failli qui se trouvera dans l'un des cas suivants:
 
+- (L. 19 décembre 2002) s'il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du Code de commerce, ou s'il en a frauduleusement enlevé, effacé ou altéré le contenu;
+
+- s'il a détourné ou dissimulé une partie de son actif;
+
+- si, dans ses écritures, soit par des actes publics ou des engagements sous signature privée, soit par son bilan, il s'est frauduleusement reconnu débiteur de sommes qu'il ne devait pas.
+
 <a id="art-578"></a>
 ## Art. 578.
 
@@ -1490,6 +1694,10 @@ Seront déclarés complices de banqueroutier frauduleux, ceux qui, par l'un des 
 ## Art. 579.
 
 Dans les cas prévus par les articles 575, 577 et 578, la Cour ou le tribunal saisi statueront, lors même qu'il y aurait acquittement:
+
+- d'office sur la réintégration à la masse des créanciers de tous biens, droits ou actions frauduleusement soustraits;
+
+- sur les dommages-intérêts qui seraient demandés et que le jugement ou l'arrêt arbitrera.
 
 Les conventions seront, en outre, déclarées nulles à l'égard de toutes personnes et même à l'égard du failli.
 
@@ -1593,6 +1801,12 @@ En cas de décès d'un commerçant, le sursis au paiement de ses dettes pourra �
 Le débiteur s'adressera, par requête, simultanément au tribunal d’arrondissement siégeant en matière commerciale dans l'arrondissement duquel il est domicilié et à la Cour supérieure de justice.
 
 Il joindra à sa requête:
+
+- l'exposé des événements sur lesquels il fonde sa demande;
+
+- l'état détaillé et estimatif de son actif et de son passif;
+
+- la liste nominative de ses créanciers, avec l'indication de leur domicile et du montant de leurs créances.
 
 La requête adressée à la Cour supérieure de justice sera communiquée par le président au procureur général; elle devra être signée par un avoué près de cette Cour.
 
@@ -1699,6 +1913,14 @@ Toutefois, il ne pourra être pris, pendant la durée du sursis provisoire et d�
 
 Le sursis ne s'applique qu'aux engagements contractés antérieurement à son obtention. Il ne profite point aux co-débiteurs, ni aux cautions qui ont renoncé au bénéfice de discussion. Il est sans effet relativement:
 
+- aux impôts et autres charges publiques;
+
+- aux créances garanties par des privilèges, hypothèques ou nantissements;
+
+- aux créances dues à titre d'aliments;
+
+- aux fournitures de subsistances faites au débiteur et à sa famille, pendant les six mois qui ont précédé le sursis.
+
 <a id="art-606"></a>
 ## Art. 606.
 
@@ -1741,6 +1963,10 @@ Seront enregistrés au droit fixe de 0,07 euros les jugements portant concession
 
 Le débiteur sera puni de la même peine que le banqueroutier simple:
 
+- si, pour déterminer ou faciliter la délivrance du sursis, il a, de quelque manière que ce soit, volontairement dissimulé une partie de son passif ou exagéré son actif;
+
+- s'il a fait ou laissé intervenir aux délibérations relatives à la demande de sursis un ou plusieurs créanciers supposés, ou dont les créances à raison desquelles ils ont pris part aux délibérations, ont été exagérées.
+
 <a id="art-612"></a>
 ## Art. 612.
 
@@ -1778,6 +2004,14 @@ Abrogés implicitement (L. 18 février 1885)
 
 (L. 16 avril 1879) Les tribunaux d’arrondissement siégeant en matière commerciale connaîtront:
 
+- des contestations relatives aux engagements de transactions entre négociants, marchands et banquiers;
+
+- des contestations entre associés ou entre administrateurs et associés pour raison d'une société de commerce;
+
+- de celles relatives aux actes de commerce entre toutes personnes;
+
+- (L. 25 mars 1991) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
+
 <a id="art-632-et-633"></a>
 ## Art. 632 et 633.
 
@@ -1787,6 +2021,10 @@ Abrogés (L. 21 juillet 1992)
 ## Art. 634.
 
 Les tribunaux d’arrondissement siégeant en matière commerciale connaîtront également:
+
+- des actions contre les facteurs, commis des marchands ou leurs serviteurs, pour le fait seulement du trafic du marchand auquel ils sont attachés;
+
+- des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics.
 
 <a id="art-635"></a>
 ## Art. 635.

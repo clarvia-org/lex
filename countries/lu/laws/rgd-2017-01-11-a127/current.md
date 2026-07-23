@@ -41,7 +41,7 @@ Par dérogation à l’alinéa précédent, les perspectives d’orientation de 
 
 Lors de l’entretien d’orientation, le titulaire de classe, en tant que représentant de l’équipe pédagogique, et les parents de l’élève décident de l’orientation de l’élève vers l’ordre d’enseignement secondaire qui correspond le mieux à ses aspirations et capacités.
 
-En cas d’accord, les deux parties arrêtent une décision d’orientation commune soit pour une des classes de 7e de l’enseignement secondaire classique , soit pour une des classes de 7e de la voie d’orientation de l’enseignement secondaire général , soit pour une des classes de 7e de la voie de préparation de l’enseignement secondaire général . Le cas échéant, elles s’expriment en faveur d’une filière particulière ou d’une école à caractère international. La décision d’orientation est consignée sur un formulaire signé par les deux parties, dont la forme est arrêtée par le ministre ayant l’Éducation nationale dans ses attributions, dénommé ci-après «le ministre». Les parents inscrivent leur enfant à un lycée de l’ordre d’enseignement correspondant à la décision d’orientation. Ils transmettent une copie de la décision d’orientation au directeur du lycée concerné.
+En cas d’accord, les deux parties arrêtent une décision d’orientation commune soit pour une des classes de 7e de l’ enseignement secondaire classique , soit pour une des classes de 7e de la voie d’orientation de l’ enseignement secondaire général , soit pour une des classes de 7e de la voie de préparation de l’enseignement secondaire général . Le cas échéant, elles s’expriment en faveur d’une filière particulière ou d’une école à caractère international. La décision d’orientation est consignée sur un formulaire signé par les deux parties, dont la forme est arrêtée par le ministre ayant l’Éducation nationale dans ses attributions, dénommé ci-après «le ministre». Les parents inscrivent leur enfant à un lycée de l’ordre d’enseignement correspondant à la décision d’orientation. Ils transmettent une copie de la décision d’orientation au directeur du lycée concerné.
 
 En cas de désaccord, la prise de décision est dévolue à la commission d’orientation de la région concernée , ci-après dénommée « la commission ». À cette fin, le titulaire de classe et les parents adressent conjointement au président de la commission concernée le formulaire actant le désaccord, dont la forme est arrêtée par le ministre. Le formulaire est obligatoirement accompagné des documents énumérés à l’article 26, paragraphe 2, de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental. Les documents doivent être consultés par les membres permanents de la commission concernée au bureau du président de la commission dans les délais fixés dans le calendrier prévu à l’alinéa 4.
 
@@ -52,7 +52,7 @@ Par dérogation à l’alinéa 4, pour l’année scolaire 2019/2020, le ministr
 <a id="art-3"></a>
 ## Art. 3.
 
-Le psychologue est chargé, au cas où les parents de l’élève optent pour son intervention, de recueillir des informations supplémentaires notamment par l’application de tests psychologiques visant à soutenir l’orientation au cours et à la fin du quatrième cycle de l’enseignement fondamental. Lors du deuxième échange individuel au cours de la deuxième année du quatrième cycle, il informe les parents sur les résultats des tests et il contribue à conseiller et informer les parents quant au choix d’une classe de 7e de l’enseignement secondaire classique , de l’enseignement secondaire général ou d’une école à caractère international.
+Le psychologue est chargé, au cas où les parents de l’élève optent pour son intervention, de recueillir des informations supplémentaires notamment par l’application de tests psychologiques visant à soutenir l’orientation au cours et à la fin du quatrième cycle de l’enseignement fondamental. Lors du deuxième échange individuel au cours de la deuxième année du quatrième cycle, il informe les parents sur les résultats des tests et il contribue à conseiller et informer les parents quant au choix d’une classe de 7e de l’ enseignement secondaire classique , de l’ enseignement secondaire général ou d’une école à caractère international.
 
 Les interventions des psychologues sont coordonnées par le Centre psycho-social et d’accompagnement scolaires .
 
@@ -63,10 +63,22 @@ Les interventions des psychologues sont coordonnées par le Centre psycho-social
 
 Le titulaire de classe prépare l’entretien d’orientation avec les parents de l’élève concerné ainsi que la décision d’orientation en rassemblant les pièces énumérées à l’article 26, paragraphe 2, de la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental et des productions montrant la progression de l’élève au cours du quatrième cycle, c’est-à-dire au moins:
 
+- quatre productions écrites en langue française dont deux productions écrites libres ;
+
+- quatre productions écrites en langue allemande dont deux productions écrites libres ;
+
+- quatre productions incluant tous les domaines de développement et d’apprentissage des mathématiques;
+
+- deux productions du domaine des sciences naturelles et humaines ;
+
+- deux créations artistiques dont un dessin ;
+
+- un autoportrait rédigé dans une des trois langues scolaires au choix de l’élève.
+
 <a id="art-5"></a>
 ## Art. 5.
 
-Les sujets des différentes parties des épreuves communes ainsi que leurs modalités d’évaluation et de passation sont élaborés par un ou des groupes de travail, composés d’instituteurs et de directeurs de région de l’enseignement fondamental et de membres du personnel enseignant de l’enseignement secondaire classique ou secondaire général .
+Les sujets des différentes parties des épreuves communes ainsi que leurs modalités d’évaluation et de passation sont élaborés par un ou des groupes de travail, composés d’instituteurs et de directeurs de région de l’enseignement fondamental et de membres du personnel enseignant de l’ enseignement secondaire classique ou secondaire général .
 
 Les membres du ou des groupes de travail ainsi que leurs suppléants sont nommés par le ministre pour un terme de cinq ans.
 

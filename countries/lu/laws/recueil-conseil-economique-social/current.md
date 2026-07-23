@@ -32,6 +32,50 @@ Il est institué un conseil économique et social dénommé ci-après «le conse
 <a id="art-n1006c"></a>
 ## Art. 2.
 
+(1)
+
+Le conseil est un organe consultatif qui étudie à la demande du Gouvernement ou de sa propre initiative les problèmes économiques, sociaux et financiers intéressant plusieurs secteurs économiques ou l’ensemble de l’économie nationale.
+
+Le conseil établit chaque année, au cours du premier trimestre, un avis sur l’évolution économique, sociale et financière du pays.
+
+Cet avis tient compte des données et documents rendus disponibles notamment par le Service central de la Statistique et des Etudes économiques, l’Inspection du Travail et des Mines, l’Administration de l’Emploi, l’Inspection générale de la Sécurité sociale et les organismes qu’elle contrôle, la Société nationale de Crédit et d’Investissement et les commissions instituées par les lois-cadres ainsi que par les autres administrations techniques de l’Etat, et des données et documents publiés par la Banque Centrale du Luxembourg ainsi que par les institutions supranationales et internationales.
+
+Sauf en cas d’urgence, le Gouvernement demande l’avis du conseil sur les mesures de portée générale qu’il est envisagé de prendre par la voie législative ou réglementaire dans les domaines intéressant plusieurs secteurs économiques ou groupes professionnels ou bien l’ensemble de l’économie nationale.
+
+L’avis du conseil peut être demandé par le Gouvernement sur toutes les affaires d’intérêt général et toutes les questions au sujet desquelles les chambres professionnelles ont présenté des avis fondamentalement divergents. Dans ce cas, le conseil émet, en principe, un avis unique et coordonné.
+
+L’avis du conseil peut également être demandé par le Gouvernement sur des questions spécifiques.
+
+Le conseil peut également étudier de sa propre initiative des problèmes économiques, sociaux et financiers d’ordre général ou spécifique dont l’examen lui paraît s’imposer.
+
+(2)
+
+Le conseil organise l’accompagnement du dialogue social national.
+
+(3)
+
+Le Gouvernement communique au conseil les avis arrêtés par le comité de coordination tripartite. Le conseil élabore un avis afférent au cas où le Gouvernement le demande expressément.
+
+(4)
+
+Dans le cadre de la coordination des politiques économiques des Etats membres de l’Union européenne, le conseil accompagne par ses avis les différents stades de l’élaboration, par le Conseil de l’Union européenne, des grandes orientations de politiques économiques.
+
+(5)
+
+Le conseil a pour mission de conseiller le Gouvernement en matière de politique supranationale dans les domaines économiques, sociaux et financiers.
+
+(6)
+
+Le conseil accompagne sur le plan national le dialogue social européen structuré.
+
+(7)
+
+Une concertation entre le conseil et les délégations luxembourgeoises du Comité économique et social de la Grande Région transfrontalière, du Conseil consultatif économique et social de l’Union économique Benelux et du Comité économique et social européen est instituée au sein du conseil.
+
+(8)
+
+Dans le cas où le conseil agit à la demande du Gouvernement ou sur saisine propre, les avis sont émis dans des délais fixés d’avance.
+
 <a id="art-n1014b"></a>
 ## Art. 3.
 
@@ -45,6 +89,12 @@ Le Gouvernement pourra être invité à déléguer des fonctionnaires aux réuni
 ## Art. 4.
 
 Le conseil se compose de trente neuf membres effectifs et d’autant de suppléants répartis en trois groupes, à savoir:
+
+- 18 représentants patronaux nommés par le Gouvernement en Conseil sur proposition des organisations professionnelles les plus représentatives;
+
+- 18 représentants salariaux nommés par le Gouvernement en Conseil sur proposition des organisations professionnelles les plus représentatives;
+
+- 3 représentants nommés directement par le Gouvernement en Conseil jouissant d’une compétence reconnue en matière économique, sociale et financière.
 
 La répartition des mandats à l’intérieur respectivement des groupes patronal et salarial se fait par règlement grand-ducal, sur avis du conseil. Cette répartition des mandats peut être reconsidérée à l’occasion du renouvellement intégral du conseil.
 
@@ -76,6 +126,22 @@ Ils sont désignés par le Conseil suivant le principe de la rotation entre les 
 <a id="art-n1029d"></a>
 ## Art. 8.
 
+(1)
+
+Le conseil dispose d’un secrétariat dirigé par le Secrétaire général.
+
+Le Secrétaire général assure l’encadrement des organes du conseil, l’administration et la gestion courante, conformément aux directives du conseil. La fonction de Secrétaire général est classée au grade 17.
+
+Le Secrétaire général assume également le secrétariat des délégations luxembourgeoises du Comité économique et social de la Grande Région transfrontalière, du Conseil consultatif économique et social de l’Union économique Benelux et du Comité économique et social européen.
+
+(2)
+
+Le cadre du personnel comprend un secrétaire général et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+Les nominations sont faites par le Grand-Duc, sur proposition du conseil.
+
+Ce cadre peut être complété par des stagiaires, des employés et des ouvriers selon les besoins du service et dans les limites des crédits budgétaires.
+
 <a id="art-n10310"></a>
 ## Art. 9.
 
@@ -97,10 +163,30 @@ L’arrêté grand-ducal du 10 novembre 1944 portant création d’une conféren
 <a id="art-n103bc"></a>
 ## Art. 1er.
 
+(1)
+
+Le groupe patronal se compose de 18 membres et d'autant de suppléants, à savoir:
+
+- 13 représentants des entreprises;
+
+- 2 représentants des professions libérales;
+
+- 3 représentants de l'agriculture et de la viticulture.
+
+(2)
+
+Le groupe salarial se compose de 18 membres et d'autant de suppléants, à savoir:
+
+- 14 représentants des salariés du secteur privé;
+
+- 4 représentants des fonctionnaires ou employés du secteur public.
+
 <a id="art-n103fd"></a>
 ## Art. 2.
 
-Les représentants du groupe patronal sont nommés par le Gouvernement en Conseil sur proposition des organisations professionnelles les plus représentatives. Les représentants du groupe salarial sont nommés par le Gouvernement en Conseil sur proposition des organisations professionnelles les plus représentatives sur le plan national.
+Les représentants du groupe patronal sont nommés par le Gouvernement en Conseil sur proposition des organisations professionnelles les plus représentatives.
+
+Les représentants du groupe salarial sont nommés par le Gouvernement en Conseil sur proposition des organisations professionnelles les plus représentatives sur le plan national.
 
 <a id="art-n10410"></a>
 ## Art. 3.
@@ -116,20 +202,39 @@ Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent
 
 Le Président, les Vice-Présidents et membres effectifs du Conseil économique et social touchent une indemnité annuelle fixée comme suit:
 
-Président: 62 points indiciaires Vice-Président: 32 points indiciaires Membre effectif: 20 points indiciaires
+| Président: | 62 points indiciaires |
+| --- | --- |
+| Vice-Président: | 32 points indiciaires |
+| Membre effectif: | 20 points indiciaires |
 
 <a id="art-n10490"></a>
 ## Art. 2.
 
 Les Président, Vice-Présidents, membres et experts du Conseil économique et social, des délégations luxembourgeoises du Conseil consultatif économique et social de l’Union économique Benelux et du Comité économique et social de la Grande Région transfrontalière, ainsi que les membres de la délégation luxembourgeoise du Comité économique et social européen, touchent à titre de jetons de présence une allocation par séance plénière ou une commission fixée comme suit:
 
-Président et Rapporteur des commissions: 0,70 points indiciaires Membre: 0,35 points indiciaires Expert: 0,35 points indiciaires
+- Conseil économique et social Luxembourg
 
-Membre: 0,35 points indiciaires
+| Président et Rapporteur des commissions: | 0,70 points indiciaires |
+| --- | --- |
+| Membre: | 0,35 points indiciaires |
+| Expert: | 0,35 points indiciaires |
 
-Membre: 0,35 points indiciaires Expert: 0,35 points indiciaires
+- Délégation luxembourgeoise du Comité économique et social européen
 
-Membre: 0,35 points indiciaires Expert: 0,35 points indiciaires
+| Membre: | 0,35 points indiciaires |
+| --- | --- |
+
+- Délégation luxembourgeoise du Conseil consultatif économique et social de l’Union économique Benelux
+
+| Membre: | 0,35 points indiciaires |
+| --- | --- |
+| Expert: | 0,35 points indiciaires |
+
+- Délégation luxembourgeoise du Comité économique et social de la Grande Région transfrontalière
+
+| Membre: | 0,35 points indiciaires |
+| --- | --- |
+| Expert: | 0,35 points indiciaires |
 
 Le montant annuel global des jetons de présence à allouer à l’ensemble des membres et experts relevés ci-avant est fixé, dans le cadre d’une enveloppe globale plafonnée à 755 points indiciaires.
 

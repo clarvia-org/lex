@@ -38,6 +38,16 @@ La création, la planification et la gestion d’un parc naturel doivent à la f
 
 Le parc naturel doit contribuer notamment à la réalisation des objectifs suivants:
 
+- la conservation et la restauration du caractère et de la diversité du milieu naturel, de la faune et de la flore indigènes;
+
+- la sauvegarde de la pureté de l’air et des eaux ainsi que de la qualité des sols;
+
+- la conservation et la restauration du patrimoine culturel;
+
+- la promotion et l’orientation d’un développement économique et socio-culturel intégrant les aspirations légitimes de la population en ce qui concerne leurs possibilités d’emploi, leur qualité de vie et d’habitat;
+
+- la promotion et l’orientation d’activités de tourisme et de loisirs s’inscrivant dans le cadre des objectifs du présent article.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -47,6 +57,10 @@ On entend par ministre au sens de la présente loi le ministre ayant dans ses at
 ## Art. 4.
 
 Peuvent prendre l’initiative de créer un parc naturel
+
+- l’Etat
+
+- une ou plusieurs communes, syndiquées ou non.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -60,7 +74,35 @@ Le projet de parc naturel se compose d’une étude préparatoire et d’une ét
 
 L’étude préparatoire comprend:
 
+- une note indiquant l’objet, les motifs et la portée de l’opération;
+
+- la liste des communes concernées par le parc naturel avec l’indication, par commune, des sections cadastrales correspondantes;
+
+- une carte topographique avec le tracé des limites du parc;
+
+- les objectifs fondamentaux du projet, définis en fonction de l’article 2 de la présente loi.
+
 L’étude détaillée comprend:
+
+- l’étude préparatoire complétée en fonction de la procédure prévue aux articles 7 et 8 de la présente loi.
+
+- les lignes directrices du projet détaillé intégrant:
+
+  - les objectifs poursuivis en ce qui concerne la protection de l’environnement, la conservation et la restauration du caractère et de la diversité du milieu naturel et du patrimoine culturel, l’aménagement du territoire, la sauvegarde des intérêts des acteurs économiques locaux, le développement rural, économique, socio-culturel et touristique du territoire concerné;
+
+  - les mesures à prendre pour atteindre les objectifs poursuivis;
+
+  - une description des moyens qui sont mis en oeuvre pour intéresser la population à la gestion du parc;
+
+  - une estimation des dépenses de personnel, de fonctionnement et d’investissement nécessaires à la gestion du parc;
+
+  - les modifications à apporter éventuellement aux plans d’aménagement communaux en rapport avec la création du parc naturel;
+
+  - le programme des investissements à mettre en oeuvre en vue de promouvoir les objectifs poursuivis;
+
+  - un plan de financement.
+
+- le statut, la composition, les missions et les règles de fonctionnement des organismes chargés de l’administration et de la gestion du parc.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -80,6 +122,18 @@ Le ministre transmet les avis avec ses propres directives au groupe de travail e
 Le ministre soumet le projet de parc naturel à l’avis du Conseil supérieur de l’aménagement du territoire . Il saisit ensuite le Conseil de Gouvernement du projet de parc accompagné du projet de règlement grand-ducal.
 
 Le projet de règlement grand-ducal comprend les éléments suivants:
+
+- L’indication de l’objet, des motifs et de la portée de l’opération.
+
+- La liste des communes concernées par le parc naturel avec indication, par commune, des sections cadastrales correspondantes.
+
+- Une carte topographique avec le tracé des limites du parc.
+
+- Le statut, la composition, les missions et les règles de fonctionnement des organismes chargés de l’administration et de la gestion du parc.
+
+- Les objectifs poursuivis en fonction de l’article 2 de la présente loi.
+
+- Le cas échéant, les modifications à apporter aux plans d’aménagement communaux en rapport avec la création du parc naturel.
 
 Le projet de règlement grand-ducal constitue, ensemble avec le projet de parc naturel, le dossier à soumettre à la procédure prévue aux articles 10 et 11 de la présente loi.
 
@@ -131,6 +185,22 @@ La moitié au moins des membres du comité du syndicat pour l’aménagement et 
 ## Art. 16.
 
 Le comité du syndicat a notamment pour mission:
+
+- d’arrêter les directives générales à appliquer en vue du déroulement des différentes activités du parc naturel;
+
+- d’arrêter le plan de gestion annuel comprenant notamment:
+
+  - l’engagement et le classement des agents à affecter, le cas échéant, au service du parc naturel prévu à l’article 17 de la présente loi;
+
+  - les acquisitions, aliénations, échanges d’immeubles et leur affectation ainsi que les travaux de construction et de grosses réparations;
+
+  - les budgets d’investissement et d’exploitation et les comptes de fin d’exercice;
+
+- d’accepter et de refuser des dons et legs;
+
+- d’établir le rapport général d’activités ainsi que le programme d’activités;
+
+- de représenter le syndicat dans les actions judiciaires.
 
 <a id="art-17"></a>
 ## Art. 17.

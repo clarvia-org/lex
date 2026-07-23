@@ -56,6 +56,14 @@ Les attributions et les tâches du directeur adjoint, qui pour un centre de form
 
 Le lycée technique peut comprendre les divisions suivantes:
 
+- division de l'apprentissage des professions de santé et des professions sociales du cycle moyen, régime professionnel;
+
+- division des professions de santé et des professions sociales du cycle moyen, régime de la formation de technicien;
+
+- division des professions de santé et des professions sociales du cycle supérieur, régime de la formation de technicien;
+
+- division des professions de santé et des professions sociales du cycle supérieur, régime technique.
+
 Chaque division peut comprendre plusieurs sections qui sont créées par règlement grand-ducal.
 
 Le lycée technique peut organiser des formations menant à l'obtention du brevet de technicien supérieur et à l'obtention du brevet de technicien supérieur spécialisé suivant les dispositions de la loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur
@@ -143,32 +151,78 @@ Un règlement grand-ducal fixe les modalités de nomination, d'organisation et d
 
 La commission est composée:
 
+- de deux représentants du ministre de l'Education nationale, dont le directeur du lycée technique
+
+- de deux représentants du ministre de la Santé
+
+- de deux représentants du ministre de la Famille
+
+- de trois représentants du conseil supérieur de certaines professions de santé. Cette représentation est constituée par un représentant de chaque niveau de formation tel que défini à l'article 24 du règlement grand-ducal du 24 avril 1993 relatif au conseil supérieur de certaines professions de santé
+
+- de trois représentants des employeurs du secteur de la santé
+
+- de trois représentants des enseignants du lycée technique dont deux au moins doivent être en charge des branches de formation professionnelle théorique, technique et pratique.
+
 #### CHAPITRE III. Modifications d'autres lois
 
 <a id="art-14"></a>
 ## Art. 14.
 
-L'article 2 de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé est modifié en son paragraphe (1) a): (1) Sous réserve des dispositions de l'article 5 ci-après, l'exercice d'une de ces professions est subordonné à une autorisation du ministre qui est délivrée aux conditions suivantes: a) le candidat doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu par le ministre de l’Education nationale. Sous réserve des dispositions de l'article 5 ci-après, l'exercice d'une de ces professions est subordonné à une autorisation du ministre qui est délivrée aux conditions suivantes: a) le candidat doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu par le ministre de l’Education nationale.
+L'article 2 de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé est modifié en son paragraphe (1) a): (1) Sous réserve des dispositions de l'article 5 ci-après, l'exercice d'une de ces professions est subordonné à une autorisation du ministre qui est délivrée aux conditions suivantes: a) le candidat doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu par le ministre de l’Education nationale.
 
 <a id="art-15"></a>
 ## Art. 15.
 
-La loi du 3 juin 1994 portant création du régime préparatoire de l'enseignement secondaire technique est modifiée comme suit: Il bénéficiera d'une reconstitution de carrière prenant en compte les nominations conférées par la Ville d'Esch-sur-Alzette. Les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne lui sont pas applicables. Pour l'application des dispositions de l'article 22, VII, b, dernier alinéa, de la loi du 22 juin 1963 précitée, il est considéré comme rentrant dans le contingent des 10% y défini.
+La loi du 3 juin 1994 portant création du régime préparatoire de l'enseignement secondaire technique est modifiée comme suit:
+
+- à l'article III, paragraphe 5, il est ajouté l'alinéa suivant:
+
+Il bénéficiera d'une reconstitution de carrière prenant en compte les nominations conférées par la Ville d'Esch-sur-Alzette.
+
+Les dispositions de l'article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat ne lui sont pas applicables.
+
+Pour l'application des dispositions de l'article 22, VII, b, dernier alinéa, de la loi du 22 juin 1963 précitée, il est considéré comme rentrant dans le contingent des 10% y défini.
 
 <a id="art-16"></a>
 ## Art. 16.
 
-La loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue est modifiée comme suit: à l'article 33 la deuxième phrase de l'alinéa 3 est remplacée comme suit: A cet effet, les commissions nationales de programme peuvent comprendre, outre des enseignants spécialisés, des représentants des ministres concernés, des chambres professionnelles concernées, du Conseil supérieur de certaines professions de santé et des représentants des employeurs du secteur de la santé et des institutions éducatives et sociales. A cet effet, les commissions nationales de programme peuvent comprendre, outre des enseignants spécialisés, des représentants des ministres concernés, des chambres professionnelles concernées, du Conseil supérieur de certaines professions de santé et des représentants des employeurs du secteur de la santé et des institutions éducatives et sociales. L'institut d'études éducatives et sociales créé par la loi du 6 août 1990 portant organisation des études éducatives et sociales assure, conformément aux dispositions de la loi précitée, la formation de l'éducateur, formation qui représente une section de la division des professions de santé et des professions sociales du cycle supérieur de l'enseignement secondaire technique, régime technique.
+La loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue est modifiée comme suit:
+
+- à l'article 9 point 7. la mention une division de l'apprentissage paramédical et social est remplacée par la mention une division de l'apprentissage des professions de santé et des professions sociales.
+
+- aux articles 15 et 18 A) l'énumération des divisions du régime de la formation des techniciens est complétée chaque fois par la mention 10. une division des professions de santé et des professions sociales.
+
+- à l'article 17 point 5. la mention une division paramédicale et sociale est remplacée par la mention une division des professions de santé et des professions sociales.
+
+- à l'article 18 point B)2. la mention une division paramédicale et sociale est remplacée par la mention une division des professions de santé et professions sociales.
+
+- à l'article 33 la deuxième phrase de l'alinéa 3 est remplacée comme suit:
+
+A cet effet, les commissions nationales de programme peuvent comprendre, outre des enseignants spécialisés, des représentants des ministres concernés, des chambres professionnelles concernées, du Conseil supérieur de certaines professions de santé et des représentants des employeurs du secteur de la santé et des institutions éducatives et sociales.
+
+- à l'article 38 l'alinéa 2 est remplacé comme suit: Cette commission est composée de représentants du ministre, de directeurs de l'enseignement secondaire technique, d'inspecteurs de l'enseignement primaire, d'enseignants des lycées techniques et du régime préparatoire de l'enseignement secondaire technique, de membres du Centre de psychologie et d'orientation scolaires, de représentants des chambres professionnelles, de représentants du Conseil supérieur de certaines professions de santé et de représentants des parents d'élèves.
+
+- à l'article 54 paragraphes 3, 4 et 5, la réussite à un examen de qualification est supprimée comme condition d'admission et de nomination pour les fonctions de professeur d'enseignement technique, de maître de cours spéciaux et de maître d'enseignement technique.
+
+- entre l'article 65 et l'article 66 est ajouté un article 65bis: Art. 65bis. L'institut d'études éducatives et sociales créé par la loi du 6 août 1990 portant organisation des études éducatives et sociales assure, conformément aux dispositions de la loi précitée, la formation de l'éducateur, formation qui représente une section de la division des professions de santé et des professions sociales du cycle supérieur de l'enseignement secondaire technique, régime technique.
 
 <a id="art-17"></a>
 ## Art. 17.
 
-Le point 4 de l'article 4 de la loi du 21 novembre 1980 portant organisation de la direction de la santé est modifié comme suit: 4) La division de la médecine curative a compétence pour toutes les questions concernant la planification et l'organisation des moyens et équipements de soins, la formation et l'exercice des professions médicales, l'exercice des professions de santé visées à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé. 4) La division de la médecine curative a compétence pour toutes les questions concernant la planification et l'organisation des moyens et équipements de soins, la formation et l'exercice des professions médicales, l'exercice des professions de santé visées à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé.
+Le point 4 de l'article 4 de la loi du 21 novembre 1980 portant organisation de la direction de la santé est modifié comme suit: 4) La division de la médecine curative a compétence pour toutes les questions concernant la planification et l'organisation des moyens et équipements de soins, la formation et l'exercice des professions médicales, l'exercice des professions de santé visées à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé.
 
 <a id="art-18"></a>
 ## Art. 18.
 
-La loi du 6 août 1990 portant organisation des études éducatives et sociales est modifiée comme suit: Par dérogation aux dispositions de l'article 4, les études préparatoires au diplôme d'éducateur gradué peuvent se faire à un institut d'enseignement supérieur à l'étranger. Ces études doivent être sanctionnées par un diplôme, certificat ou autre titre, délivré par une autorité compétente dans un Etat et dont il résulte que le titulaire possède les qualifications professionnelles requises pour accéder à une profession réglementée dans cet Etat. La reconnaissance du diplôme, certificat ou autre titre est de la compétence du ministre. Pour les ressortissants d'un Etat membre de l'Union européenne, la reconnaissance à un titulaire est accordée si son diplôme, certificat ou autre titre tombe sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, certificats ou autres titres. Pour les ressortissants d'un pays tiers la reconnaissance à un titulaire peut être accordée par le ministre si les études qui ont conduit à son diplôme, certificat ou autre titre, répondent au moins aux exigences minimales qui sont déterminées dans le règlement grand-ducal prévu à l'article 7. Le cas échéant, le titulaire peut être obligé à se soumettre à des modalités de contrôle. Aux candidats ayant réussi à cet examen, il est délivré un diplôme de fin d'études secondaires techniques spécifiant la division, le cas échéant la section, ainsi que les branches dans lesquelles les candidats ont été examinés et mentionnant que les candidats possèdent les connaissances requises pour aborder des études supérieures. Les modèles des diplômes sont fixés par le ministre. Par dérogation aux dispositions de l'article 13, les études préparatoires au diplôme d'éducateur peuvent se faire à un institut d'enseignement à l'étranger. Ces études doivent être sanctionnées par un diplôme, certificat ou autre titre, délivré par une autorité compétente dans un Etat et dont il résulte que le titulaire possède les qualifications professionnelles requises pour accéder à une profession réglementée dans cet Etat. La reconnaissance du diplôme, certificat ou autre titre est de la compétence du ministre. Pour les ressortissants d'un Etat membre de l'Union européenne, la reconnaissance à un titulaire est accordée si son diplôme, certificat ou autre titre tombe sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, certificats ou autres titres. Pour les ressortissants d'un pays tiers la reconnaissance à un titulaire peut être accordée par le ministre si les études qui ont conduit à son diplôme, certificat ou autre titre, répondent au moins aux exigences minimales qui sont déterminées dans le règlement grand-ducal prévu à l'article 16. Le cas échéant, le titulaire peut être obligé de se soumettre à des modalités de contrôle.
+La loi du 6 août 1990 portant organisation des études éducatives et sociales est modifiée comme suit:
+
+- le point a) de l'article 8 est modifié comme suit: être détenteur soit d'un diplôme de fin d'études secondaires ou d'un diplôme de fin d'études secondaires techniques, soit d'un diplôme reconnu équivalent par le ministre;
+
+- l'article 11 est abrogé et remplacé par un nouvel article 11: Art. 11. Par dérogation aux dispositions de l'article 4, les études préparatoires au diplôme d'éducateur gradué peuvent se faire à un institut d'enseignement supérieur à l'étranger. Ces études doivent être sanctionnées par un diplôme, certificat ou autre titre, délivré par une autorité compétente dans un Etat et dont il résulte que le titulaire possède les qualifications professionnelles requises pour accéder à une profession réglementée dans cet Etat. La reconnaissance du diplôme, certificat ou autre titre est de la compétence du ministre. Pour les ressortissants d'un Etat membre de l'Union européenne, la reconnaissance à un titulaire est accordée si son diplôme, certificat ou autre titre tombe sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, certificats ou autres titres. Pour les ressortissants d'un pays tiers la reconnaissance à un titulaire peut être accordée par le ministre si les études qui ont conduit à son diplôme, certificat ou autre titre, répondent au moins aux exigences minimales qui sont déterminées dans le règlement grand-ducal prévu à l'article 7. Le cas échéant, le titulaire peut être obligé à se soumettre à des modalités de contrôle.
+
+- le dernier alinéa de l'article 16 est remplacé par le libellé suivant: Aux candidats ayant réussi à cet examen, il est délivré un diplôme de fin d'études secondaires techniques spécifiant la division, le cas échéant la section, ainsi que les branches dans lesquelles les candidats ont été examinés et mentionnant que les candidats possèdent les connaissances requises pour aborder des études supérieures. Les modèles des diplômes sont fixés par le ministre.
+
+- entre l'article 18 et l'article 19 est ajouté un article 18bis: Art. 18bis. Par dérogation aux dispositions de l'article 13, les études préparatoires au diplôme d'éducateur peuvent se faire à un institut d'enseignement à l'étranger. Ces études doivent être sanctionnées par un diplôme, certificat ou autre titre, délivré par une autorité compétente dans un Etat et dont il résulte que le titulaire possède les qualifications professionnelles requises pour accéder à une profession réglementée dans cet Etat. La reconnaissance du diplôme, certificat ou autre titre est de la compétence du ministre. Pour les ressortissants d'un Etat membre de l'Union européenne, la reconnaissance à un titulaire est accordée si son diplôme, certificat ou autre titre tombe sous l'application d'une directive communautaire instituant un système général de reconnaissance des diplômes, certificats ou autres titres. Pour les ressortissants d'un pays tiers la reconnaissance à un titulaire peut être accordée par le ministre si les études qui ont conduit à son diplôme, certificat ou autre titre, répondent au moins aux exigences minimales qui sont déterminées dans le règlement grand-ducal prévu à l'article 16. Le cas échéant, le titulaire peut être obligé de se soumettre à des modalités de contrôle.
 
 #### CHAPITRE IV. Les dispositions transitoires et finales
 
@@ -179,12 +233,20 @@ Les fonctionnaires de l'Etat de la carrière de l'infirmier gradué ainsi que de
 
 Au plus tard dans un délai de six mois à partir de l'entrée en vigueur de la présente loi, ces fonctionnaires peuvent choisir d'être nommés aux fonctions de professeur d'enseignement technique.Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
 
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
+
 <a id="art-20"></a>
 ## Art. 20.
 
 Les fonctionnaires de l'Etat de la carrière de l'expert en sciences hospitalières de la direction de la Santé, détachés à l'Ecole de l'Etat pour Paramédicaux à l'entrée en vigueur de la présente loi, sont nommés aux fonctions de la carrière de l'expert en sciences hospitalières auprès du lycée technique, avec le droit de porter le titre d'expert en sciences hospitalières-enseignant ainsi que celui de conserver leurs traitement et carrière actuels.
 
 Au plus tard dans un délai de six mois à partir de l'entrée en vigueur de la présente loi, ces fonctionnaires peuvent choisir d'être nommés aux fonctions de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
+
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -196,21 +258,47 @@ Les articles 19 et 20 s'appliquent pareillement aux fonctionnaires qui bénéfic
 
 Les employés de l'Etat, occupés à l'entrée en vigueur de la présente loi auprès de la direction de la Santé ou auprès de l'Hôpital neuro-psychiatrique de l'Etat et détachés à l'Ecole de l'Etat pour Paramédicaux sont nommés respectivement aux fonctions d'infirmier gradué ou d'expert en sciences hospitalières auprès du lycée technique avec dispense de l'examen d'admission au stage, du stage et de l'examen de fin de stage, à condition
 
+- de pouvoir se prévaloir soit d'un diplôme luxembourgeois d'infirmier gradué, soit d'un diplôme de licencié en sciences médico-sociales et hospitalières, inscrit au registre prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur;
+
+- de remplir les conditions prévues à l'article 2 paragraphe 1. point a) à f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat;
+
+- de pouvoir se prévaloir d'au moins trois années de service en équivalent temps plein comme enseignant à l'Ecole de l'Etat pour Paramédicaux.
+
 Ils ont le droit de porter respectivement le titre d'infirmier gradué-enseignant ou d'expert en sciences hospitalières-enseignant.
 
 Au plus tard dans un délai de six mois à partir de cette nomination, ces fonctionnaires peuvent choisir d'être nommés respectivement aux fonctions de professeur d'enseignement technique ou de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
+
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-23"></a>
 ## Art. 23.
 
 Les employés privés, occupés à l'entrée en vigueur de la présente loi auprès de l'Ecole Paramédicale de la Clinique St. Louis d'Ettelbruck, de l'Ecole pour Paramédicaux annexée à l'Hôpital de la Ville d'Esch-sur-Alzette, de l'Ecole des Congrégations Hospitalières Catholiques du Grand-Duché de Luxembourg pour Professions Paramédicales, sont nommés respectivement aux fonctions d'infirmier gradué ou d'expert en sciences hospitalières auprès du lycée technique avec dispense de l'examen d'admission et de la période de stage à condition
 
+- de pouvoir se prévaloir soit d'un diplôme luxembourgeois d'infirmier gradué, soit d'un diplôme luxembourgeois d'infirmier gradué ou d'un diplôme de licencié en sciences médico-sociales et hospitalières, inscrit au registre prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur;
+
+- de remplir les conditions prévues à l'article 2 paragraphe 1. point a) à f) de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat;
+
+- de pouvoir se prévaloir d'au moins trois années de service en équivalent temps plein comme enseignant à l'une des écoles ci-dessus visées;
+
+- d'avoir subi avec succès un examen d'admission définitive dont les modalités sont fixées par règlement grand-ducal.
+
 Au plus tard dans un délai de six mois à partir de cette nomination, ces fonctionnaires peuvent choisir d'être nommés respectivement aux fonctions de professeur d'enseignement technique ou de professeur de sciences de l'enseignement secondaire technique. Toutefois, cette nomination ne peut être prononcée que si ces fonctionnaires remplissent l'une des conditions suivantes:
+
+- avoir accompli, à la mise en vigueur de la présente loi, au moins cinq années en équivalent temps plein comme enseignant dans une école du Luxembourg qui forme des professionnels de santé visés à l'article 1er de la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;
+
+- avoir subi avec succès, dans les trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés par règlement grand-ducal.
 
 <a id="art-24"></a>
 ## Art. 24.
 
 Peuvent également bénéficier des dispositions des articles 19 et 20 les agents suivants, à savoir:
+
+- l'expert en sciences hospitalières de la Direction de la Santé nommé à cette fonction le 1er décembre 1984 et détaché en qualité de chargé de direction à l'Ecole de l'Etat pour Paramédicaux;
+
+- l'infirmière hospitalière graduée de la Direction de la Santé nommée à cette fonction le 1er janvier 1991 et détachée à mi-temps à l'Ecole de l'Etat pour Paramédicaux en qualité d'infirmière graduée enseignante.
 
 Pour les agents ci-dessus le temps passé en équivalent temps plein dans leurs fonctions, est mis intégralement en compte pour l'application des délais définis aux articles 19,20 et 26 en vue de l'accès aux fonctions de professeur de sciences de l'enseignement secondaire technique, de professeur d'enseignement technique ou d'infirmier gradué-enseignant.
 
@@ -284,6 +372,10 @@ Le fonctionnaire de la carrière de l'expéditionnaire administratif de la Direc
 ## Art. 33.
 
 Sont assimilés au niveau d'un diplôme de fin d'études secondaires techniques:
+
+- les diplômes d'éducateur obtenus conformément aux dispositions de la loi du 6 août 1990 portant organisation des études éducatives et sociales,
+
+- les diplômes d'infirmier, d'infirmier psychiatrique voie de formation B, d'infirmier en pédiatrie voie de formation II, d'assistant technique médical de radiologie, d'assistant technique médical de laboratoire, délivrés conformément à la loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé, et ce sans préjudice des dispositions à prendre en vertu de l'article 5 de la présente loi.
 
 <a id="art-34"></a>
 ## Art. 34.

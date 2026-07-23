@@ -46,6 +46,22 @@ Die Hoheitsgewalt liegt bei der Nation, von der die Staatsgewalt ausgeht.
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Die Sprache des Großherzogtums Luxemburg ist Luxemburgisch. Die Verwendung der luxemburgischen, französischen und deutschen Sprache wird gesetzlich geregelt.
+
+(2)
+
+Das Symbol der Nation ist die dreifarbige rot-weiß-blaue Flagge.
+
+(3)
+
+Die Staatswappen werden per Gesetz festgelegt.
+
+(4)
+
+Die Nationalhymne ist „Ons Heemecht“.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -82,6 +98,14 @@ Der Erwerb, der Erhalt und der Verlust der luxemburgischen Staatsangehörigkeit 
 <a id="art-10"></a>
 ## Art. 10.
 
+(1)
+
+Die Luxemburger genießen alle politischen Rechte, die sie unter den durch die Verfassung und die Gesetze geregelten Bedingungen ausüben.
+
+(2)
+
+Unbeschadet des Artikels 64 kann Nichtluxemburgern per Gesetz die Ausübung von politischen Rechten gewährt werden.
+
 <a id="art-11"></a>
 ## Art. 11.
 
@@ -97,6 +121,16 @@ Die Würde des Menschen ist unantastbar.
 <a id="art-13"></a>
 ## Art. 13.
 
+(1)
+
+Jeder hat das Recht auf körperliche und geistige Unversehrtheit.
+
+(2)
+
+Niemand darf der Folter oder unmenschlichen oder erniedrigenden Strafen oder Behandlungen unterworfen werden.
+
+Die Todesstrafe darf nicht eingeführt werden.
+
 <a id="art-14"></a>
 ## Art. 14.
 
@@ -107,6 +141,40 @@ Jeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit.
 <a id="art-15"></a>
 ## Art. 15.
 
+(1)
+
+Die Luxemburger sind vor dem Gesetz gleich.
+
+Ungleichbehandlungen, die auf objektiven Merkmalen beruhen, rational begründet, angemessen und zu dem verfolgten Zweck verhältnismäßig sind, können gesetzlich vorgesehen werden.
+
+(2)
+
+Niemand darf aufgrund seiner Situation oder persönlicher Umstände diskriminiert werden.
+
+(3)
+
+Frauen und Männer haben die gleichen Rechte und Pflichten.
+
+Der Staat sorgt dafür, die Beseitigung von Hindernissen, die im Zusammenhang mit der Gleichstellung von Frauen und Männern bestehen können, aktiv zu fördern.
+
+(4)
+
+Jede Person hat das Recht, eine Familie zu gründen.
+
+Jede Person hat das Recht auf die Achtung ihres Familienlebens.
+
+(5)
+
+Das Wohl des Kindes ist in allen Entscheidungen, die es betreffen, vorrangig zu berücksichtigen.
+
+Jedes Kind kann seine Meinung in allen es betreffenden Fragen frei äußern. Seine Meinung wird unter Berücksichtigung seines Alters und seiner Urteilsfähigkeit berücksichtigt.
+
+Jedes Kind hat Anspruch auf den Schutz, die Maßnahmen und die Fürsorge, die für sein Wohlergehen und seine Entwicklung notwendig sind.
+
+(6)
+
+Jeder Mensch mit Behinderungen hat das Recht, alle Rechte gleichberechtigt zu genießen.
+
 <a id="art-16"></a>
 ## Art. 16.
 
@@ -114,6 +182,24 @@ Jeder Nichtluxemburger, der sich auf dem Gebiet des Großherzogtums befindet, ge
 
 <a id="art-17"></a>
 ## Art. 17.
+
+(1)
+
+Die Freiheit des Einzelnen wird garantiert.
+
+(2)
+
+Niemand darf verfolgt, festgenommen oder seiner Freiheit beraubt werden, es sei denn in den gesetzlich vorgesehenen Fällen und in der gesetzlich bestimmten Form.
+
+(3)
+
+Außer bei Ergreifung auf frischer Tat darf niemand festgenommen werden, es sei denn, es liegt eine begründete gerichtliche Entscheidung vor, die zum Zeitpunkt der Festnahme oder spätestens innerhalb von vierundzwanzig Stunden zugestellt werden muss.
+
+(4)
+
+Jede einer Straftat beschuldigte Person gilt bis zum gesetzmäßig erbrachten Beweis ihrer Schuld als unschuldig.
+
+Jede Person muss unverzüglich über die Gründe für ihre Festnahme oder den Freiheitsentzug, die gegen sie erhobenen Beschuldigungen und die ihr zur Verfügung stehenden rechtlichen Mittel zur Wiedererlangung ihrer Freiheit informiert werden.
 
 <a id="art-18"></a>
 ## Art. 18.
@@ -156,7 +242,9 @@ Die Zensur darf nicht eingeführt werden.
 <a id="art-24"></a>
 ## Art. 24.
 
-Die Freiheit, philosophische oder religiöse Überzeugungen zu bekunden, sowie die Freiheit, sich einer Religion anzuschließen oder nicht anzuschließen, wird garantiert, abgesehen von Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden. Die Religionsfreiheit und die Freiheit der Religionsausübung werden garantiert, außer bei Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.
+Die Freiheit, philosophische oder religiöse Überzeugungen zu bekunden, sowie die Freiheit, sich einer Religion anzuschließen oder nicht anzuschließen, wird garantiert, abgesehen von Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.
+
+Die Religionsfreiheit und die Freiheit der Religionsausübung werden garantiert, außer bei Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.
 
 Niemand darf gezwungen werden, auf irgendeine Weise an den Handlungen und Zeremonien einer Religion teilzunehmen oder sich an deren Ruhetage zu halten.
 
@@ -208,6 +296,28 @@ Das Recht auf Asyl wird unter den gesetzlich festgelegten Bedingungen garantiert
 
 <a id="art-33"></a>
 ## Art. 33.
+
+(1)
+
+Jeder Mensch hat das Recht auf Bildung.
+
+(2)
+
+Der Staat organisiert den Unterricht und garantiert den Zugang dazu.
+
+Die Dauer der Schulpflicht wird gesetzlich festgelegt.
+
+Der öffentliche Fundamental- und Sekundarschulunterricht ist kostenlos.
+
+(3)
+
+Die Freiheit der Bildung wird im Einklang mit den Werten einer demokratischen Gesellschaft ausgeübt, die auf den Grund- und Freiheitsrechten beruht.
+
+Der Eingriff des Staates in das private Bildungswesen wird per Gesetz geregelt.
+
+(4)
+
+Jedem steht es frei, seine Studien in Luxemburg oder im Ausland zu absolvieren und Universitäten seiner Wahl zu besuchen. Die Bedingungen für die Anerkennung von Diplomen werden per Gesetz festgelegt.
 
 <a id="art-34"></a>
 ## Art. 34.
@@ -274,8 +384,40 @@ Der Staat fördert die Freiheit der wissenschaftlichen Forschung, die im Einklan
 <a id="art-44"></a>
 ## Art. 44.
 
+(1)
+
+Der Großherzog ist das Staatsoberhaupt.
+
+Er repräsentiert den Staat. Er ist das Symbol der Einheit und Unabhängigkeit der Nation.
+
+Seine Person ist unantastbar.
+
+(2)
+
+Der Großherzog hat keine anderen Befugnisse als die, die ihm von der Verfassung und den Gesetzen zuerkannt werden.
+
+Er übt gemeinsam mit der Regierung die Exekutivgewalt aus.
+
+(3)
+
+Die Verfügungen des Großherzogs müssen von einem Mitglied der Regierung gegengezeichnet werden, das die Verantwortung für sie übernimmt.
+
 <a id="art-45"></a>
 ## Art. 45.
+
+(1)
+
+Der Großherzog erlässt die für die Ausführung der Gesetze erforderlichen Verordnungen und Beschlüsse.
+
+(2)
+
+In den Angelegenheiten, die die Verfassung dem Gesetz vorbehält, kann der Großherzog Verordnungen und Beschlüsse nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterworfen sind, festlegt.
+
+(3)
+
+Er erlässt die für die Anwendung der Rechtsakte der Europäischen Union notwendigen Verordnungen.
+
+In Angelegenheiten, die nach der Verfassung dem Gesetz vorbehalten sind, können diese Verordnungen nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, in der das Ziel der Durchführungsmaßnahmen und gegebenenfalls die Bedingungen, denen sie unterworfen sind, festgelegt werden. Unter den gesetzlich bestimmten Bedingungen können Verordnungen Ausnahmen zu bestehenden gesetzlichen Bestimmungen festlegen oder diese ersetzen.
 
 <a id="art-46"></a>
 ## Art. 46.
@@ -310,6 +452,20 @@ Der Großherzog verkündet die Gesetze innerhalb von drei Monaten nach ihrer Ver
 <a id="art-50"></a>
 ## Art. 50.
 
+(1)
+
+Der Großherzog ernennt die öffentlichen Bediensteten gemäß dem Gesetz, außer in den gesetzlich festgelegten Ausnahmen.
+
+(2)
+
+Eine vom Staat besoldete Stelle kann nur aufgrund eines Gesetzes geschaffen werden.
+
+(3)
+
+Er erlässt die für die Anwendung der Rechtsakte der Europäischen Union notwendigen Verordnungen.
+
+Das Statut der Staatsbeamten wird per Gesetz bestimmt.
+
 <a id="art-51"></a>
 ## Art. 51.
 
@@ -323,10 +479,20 @@ Der Großherzog hat das Recht, den Mitgliedern der großherzoglichen Familie Ade
 <a id="art-53"></a>
 ## Art. 53.
 
+(1)
+
+Der Großherzog trägt den Titel des Befehlshabers der Armee. Diese Befehlsgewalt wird unter der Verantwortung der Regierung ausgeübt.
+
+(2)
+
+Der Großherzog verleiht zivile und militärische Orden unter Beachtung der Gesetze.
+
 <a id="art-54"></a>
 ## Art. 54.
 
-Der Großherzog, das ehemalige Staatsoberhaupt, der Erbgroßherzog, der Regent und der Stellvertreter erhalten aus dem Staatshaushalt eine jährliche Dotation, deren Bestandteile und Höhe per Gesetz festgesetzt werden. Der Großherzog bestimmt und organisiert unter Berücksichtigung des öffentlichen Interesses seine Verwaltung, die Rechtspersönlichkeit besitzt.
+Der Großherzog, das ehemalige Staatsoberhaupt, der Erbgroßherzog, der Regent und der Stellvertreter erhalten aus dem Staatshaushalt eine jährliche Dotation, deren Bestandteile und Höhe per Gesetz festgesetzt werden.
+
+Der Großherzog bestimmt und organisiert unter Berücksichtigung des öffentlichen Interesses seine Verwaltung, die Rechtspersönlichkeit besitzt.
 
 <a id="art-55"></a>
 ## Art. 55.
@@ -338,13 +504,45 @@ Der großherzogliche Palast in Luxemburg und das Schloss Berg sind der Wohnung d
 <a id="art-56"></a>
 ## Art. 56.
 
+(1)
+
+Das Amt des Staatsoberhaupts ist in der direkten Nachkommenschaft Seiner Königlichen Hoheit Adolphe, Großherzog von Luxemburg, Herzog von Nassau, in der Reihenfolge der Primogenitur und der Repräsentation erblich. Nur eheliche Kinder haben Anspruch auf die Thronfolge.
+
+(2)
+
+Ein Thronfolger kann auf den Thron verzichten. Dieser Verzicht erfolgt in Form einer schriftlichen Urkunde, die unwiderruflich ist und deren Wirkungen nur für den Verfasser gelten.
+
+Wenn außergewöhnliche Umstände es erfordern, kann die Abgeordnetenkammer eine oder mehrere Personen durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz von der Thronfolge ausschließen.
+
+(3)
+
+Wenn es keinen Thronfolger gibt, tritt die Abgeordnetenkammer spätestens innerhalb von dreißig Tagen nach dem Tod oder der Abdankung des Großherzogs zusammen, um ein neues Staatsoberhaupt zu ernennen. Der Beschluss wird mit qualifizierter Mehrheit gefasst.
+
+(4)
+
+Die Abdankung des Großherzogs bedarf der Form eines schriftlichen Aktes, der unwiderruflich ist.
+
 <a id="art-57"></a>
 ## Art. 57.
+
+(1)
+
+Der Großherzog übt das Amt des Staatsoberhaupts ab dem Zeitpunkt aus, an dem er folgenden Eid vor der Abgeordnetenkammer geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Zuständigkeiten treu zu erfüllen.“
+
+(2)
+
+Der Eid wird spätestens am zehnten Tag nach dem Tod, der Abdankung oder der Ernennung des Großherzogs unter den Bedingungen des Artikel 56, Absatz 3 geleistet.
+
+(3)
+
+Die Weigerung, den Eid zu leisten, beinhaltet den Verzicht auf das Amt des Staatsoberhaupts.
 
 <a id="art-58"></a>
 ## Art. 58.
 
-Der Großherzog kann sich von einer Person vertreten lassen, die die Bedingungen von Artikel 56, Absatz 1 erfüllt und den Titel „Stellvertreter des Großherzogs“ trägt. Der Stellvertreter des Großherzogs tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“
+Der Großherzog kann sich von einer Person vertreten lassen, die die Bedingungen von Artikel 56, Absatz 1 erfüllt und den Titel „Stellvertreter des Großherzogs“ trägt.
+
+Der Stellvertreter des Großherzogs tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“
 
 <a id="art-59"></a>
 ## Art. 59.
@@ -357,7 +555,9 @@ Die Regentschaft kann nur an eine einzige Person übertragen werden, die volljä
 
 Der Regent tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“
 
-Die Regentschaft endet mit der Volljährigkeit des Thronfolgers oder dem Ende des vorübergehenden Unvermögens des Großherzogs, seine verfassungsrechtlichen Befugnisse zu erfüllen. Die Regierung setzt die Abgeordnetenkammer davon in Kenntnis, welche innerhalb von zehn Tagen zusammentritt, um die Regentschaft zu beenden.
+Die Regentschaft endet mit der Volljährigkeit des Thronfolgers oder dem Ende des vorübergehenden Unvermögens des Großherzogs, seine verfassungsrechtlichen Befugnisse zu erfüllen.
+
+Die Regierung setzt die Abgeordnetenkammer davon in Kenntnis, welche innerhalb von zehn Tagen zusammentritt, um die Regentschaft zu beenden.
 
 <a id="art-60"></a>
 ## Art. 60.
@@ -376,13 +576,55 @@ Nach dem Tod des Großherzogs, seiner Abdankung oder der Feststellung seines Unv
 <a id="art-62"></a>
 ## Art. 62.
 
-Die Abgeordnetenkammer repräsentiert das Land. Sie übt die gesetzgebende Gewalt aus. Sie kontrolliert das Handeln der Regierung. Die Abgeordneten stimmen ausschließlich im Interesse des Gemeinwohls ab, ohne Rücksprache mit ihren Bestellern zu halten.
+Die Abgeordnetenkammer repräsentiert das Land. Sie übt die gesetzgebende Gewalt aus. Sie kontrolliert das Handeln der Regierung.
+
+Die Abgeordneten stimmen ausschließlich im Interesse des Gemeinwohls ab, ohne Rücksprache mit ihren Bestellern zu halten.
 
 <a id="art-63"></a>
 ## Art. 63.
 
+(1)
+
+Die Abgeordnetenkammer setzt sich aus sechzig Abgeordneten zusammen.
+
+(2)
+
+Die Abgeordneten werden für fünf Jahre gewählt.
+
+(3)
+
+Die Wahl ist direkt. Sie erfolgt gemäß dem allgemeinen Wahlrecht, per Listenwahl, nach den Regeln der verhältnismäßigen Vertretung und dem Grundsatz des kleinsten Wahlquotienten.
+
+Es besteht Wahlpflicht. Die Wahlen sind geheim. Die Modalitäten werden per Gesetz geregelt.
+
+(4)
+
+Das Land ist in vier Wahlbezirke eingeteilt:
+
+- Süden mit den Kantonen Esch-an-der-Alzette und Capellen;
+
+- Zentrum mit den Kantonen Luxemburg und Mersch;
+
+- Norden mit den Kantonen Diekirch, Redingen, Wiltz, Clerf und Vianden;
+
+- Osten mit den Kantonen Grevenmacher, Remich und Echternach.
+
+Ein mit qualifizierter Mehrheit verabschiedetes Gesetz legt die Zahl der in jedem Wahlbezirk zu wählenden Abgeordneten fest.
+
 <a id="art-64"></a>
 ## Art. 64.
+
+(1)
+
+Um Wähler zu sein, muss man Luxemburger und achtzehn Jahre alt sein.
+
+(2)
+
+Um wählbar zu sein, muss man zudem seinen Wohnsitz im Großherzogtum Luxemburg haben.
+
+(3)
+
+Die Gerichte können in den gesetzlich vorgesehenen Fällen den Ausschluss vom aktiven und passiven Wahlrecht aussprechen.
 
 <a id="art-65"></a>
 ## Art. 65.
@@ -394,10 +636,46 @@ Die gleiche Unvereinbarkeit gilt für die öffentlichen Stellen und Funktionen, 
 <a id="art-66"></a>
 ## Art. 66.
 
+(1)
+
+Ein Abgeordneter, der von der Regierung für eine besoldete Stelle ernannt wird und diese annimmt, nimmt mit sofortiger Wirkung nicht mehr an den Sitzungen des Parlaments teil und nimmt sein Mandat nur aufgrund einer neuen Wahl wieder auf.
+
+(2)
+
+Ein Abgeordneter, der Regierungsmitglied wird, verliert sein Abgeordnetenmandat. Er wird auf der Liste, von der er als Nachrücker gewählt wurde, in der Reihenfolge der erhaltenen Stimmen wieder eingetragen.
+
+Das Gleiche gilt für Nachrücker, die nach Regierungseintritt auf das Abgeordnetenmandat verzichten müssen, das ihnen während der Ausübung dieses Mandates zufällt.
+
+Gibt es mehrere berechtigte Nachrücker, erfolgt die Wiedereintragung in der Reihenfolge der bei der Wahl erhaltenen Stimmen.
+
+(3)
+
+Personen, bei denen eine Unvereinbarkeit vorliegt, haben das Recht, zwischen dem Abgeordnetenmandat und ihrer Stelle oder ihrer Tätigkeit zu wählen.
+
 ##### Abschnitt 2. Die Organisation und Arbeitsweise der Abgeordnetenkammer
 
 <a id="art-67"></a>
 ## Art. 67.
+
+(1)
+
+Die Abgeordnetenkammer tritt von Rechts wegen am dritten Dienstag nach dem Wahltag in öffentlicher Sitzung zusammen, um die Berechtigung ihrer Mitglieder zu überprüfen.
+
+(2)
+
+Es obliegt der Abgeordnetenkammer festzustellen, dass eines ihrer Mitglieder die Abgeordneteneigenschaft während des Mandats verloren hat aufgrund einer Nichtwählbarkeit im Sinne von Artikel 64 oder weil eine Unvereinbarkeit im Sinne von Artikel 65 eingetreten ist.
+
+(3)
+
+Gegen eine solche Entscheidung kann vor dem Verfassungsgerichtshof Einspruch eingelegt werden. Die Modalitäten dieses Einspruchs werden per Gesetz geregelt.
+
+(4)
+
+Beim Antritt ihres Mandats leisten die Abgeordneten in öffentlicher Sitzung folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Mandat mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“
+
+(5)
+
+Mit dem ersten Zusammentreten der aus der Wahl hervorgehenden Abgeordnetenkammer in öffentlicher Sitzung im Sinne von Absatz 1 scheidet die aus der vorhergehenden Wahl hervorgegangene Abgeordnetenkammer aus dem Amt aus.
 
 <a id="art-68"></a>
 ## Art. 68.
@@ -451,6 +729,14 @@ Die Regierungsmitglieder haben Zutritt zur Abgeordnetenkammer. Auf ihre Anfrage 
 
 Zwecks Ausübung der in Artikel 62 vorgesehenen Aufgaben kann die Abgeordnetenkammer:
 
+- die Anwesenheit eines oder mehrerer Regierungsmitglieder verlangen;
+
+- Fragen und Anfragen an die Regierung stellen, zu deren Beantwortung die Regierung verpflichtet ist;
+
+- von der Regierung sämtliche Informationen und Dokumente verlangen;
+
+- gegenüber der Regierung einen Vertrauens- oder Misstrauensantrag annehmen.
+
 Die Ausübung dieser Befugnisse wird durch die Geschäftsordnung der Abgeordnetenkammer geregelt.
 
 ##### Abschnitt 3. Die Verabschiedung der Gesetze
@@ -467,6 +753,24 @@ Jeder Abgeordnete ist berechtigt, der Abgeordnetenkammer Gesetzesvorschläge vor
 
 <a id="art-78"></a>
 ## Art. 78.
+
+(1)
+
+Die Gesetze werden von der Abgeordnetenkammer verabschiedet.
+
+(2)
+
+Die Abgeordnetenkammer kann Änderungen an den Gesetzesentwürfen und Gesetzesvorschlägen vornehmen.
+
+(3)
+
+Die Abgeordnetenkammer stimmt über das gesamte Gesetz ab. Die Stimmabgabe ist immer namentlich.
+
+Auf Antrag von mindestens fünf Abgeordneten kann vor der Abstimmung über das gesamte Gesetz eine Abstimmung über einen oder mehrere Artikel des Gesetzes vorgenommen werden.
+
+(4)
+
+Alle Gesetze werden einer zweiten Abstimmung unterzogen, es sei denn, die Abgeordnetenkammer beschließt mit Zustimmung des Staatsrats, der in öffentlicher Sitzung tagt, etwas anderes. Zwischen den beiden Abstimmungen liegt ein Zeitraum von mindestens drei Monaten.
 
 ##### Abschnitt 4. Die weiteren Zuständigkeiten der Abgeordnetenkammer
 
@@ -534,7 +838,9 @@ Die Regierung leitet die allgemeine Politik des Staates.
 
 Die Regierung besteht aus einem Premierminister, einem oder mehreren Vizepremierministern, Ministern und gegebenenfalls einem oder mehreren beigeordneten Ministern und Staatssekretären.
 
-Der Großherzog ernennt den Premierminister und die anderen Regierungsmitglieder und entbindet sie von ihren Aufgaben. Vor Amtsantritt leisten die Regierungsmitglieder folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Amt mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“
+Der Großherzog ernennt den Premierminister und die anderen Regierungsmitglieder und entbindet sie von ihren Aufgaben.
+
+Vor Amtsantritt leisten die Regierungsmitglieder folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Amt mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“
 
 <a id="art-89"></a>
 ## Art. 89.
@@ -559,8 +865,46 @@ Die Regierung regelt ihre Organisation und Arbeitsweise, mit Ausnahme der nach d
 <a id="art-93"></a>
 ## Art. 93.
 
+(1)
+
+Anlässlich der Vorstellung des Regierungsprogramms vor der Abgeordnetenkammer stellt der Premierminister die Vertrauensfrage für die neue Regierung.
+
+(2)
+
+Anlässlich einer Abstimmung über einen Gesetzentwurf oder einer Regierungserklärung kann der Premierminister nach Beratung des Regierungsrats gegenüber der Abgeordnetenkammer die Vertrauensfrage stellen.
+
+(3)
+
+Die Abgeordnetenkammer kann die Regierung durch einen Misstrauensantrag zur Verantwortung ziehen.
+
+(4)
+
+Wenn die Abgeordnetenkammer der Regierung das Vertrauen entzieht, reicht der Premierminister beim Großherzog den Rücktritt der Regierung ein.
+
+(5)
+
+Die scheidende Regierung führt die allgemeinen politischen Geschäfte weiter.
+
 <a id="art-94"></a>
 ## Art. 94.
+
+(1)
+
+Die Regierung und ihre Mitglieder sind gegenüber der Abgeordnetenkammer verantwortlich.
+
+(2)
+
+Die Regierungsmitglieder können wegen ihrer Äußerungen im Rahmen der Ausübung ihres Amtes weder zivilrechtlich noch strafrechtlich zur Verantwortung gezogen werden.
+
+(3)
+
+Die Regierungsmitglieder sind für die von ihnen in Ausübung ihres Amtes begangenen Taten strafrechtlich verantwortlich.
+
+Nur die Staatsanwaltschaft kann gegen ein Mitglied der Regierung wegen dieser Handlungen ein Verfahren einleiten und führen, auch wenn es aus dem Amt ausgeschieden ist.
+
+(4)
+
+Außer bei Ergreifung auf frischer Tat bedarf die Verhaftung eines Regierungsmitglieds der vorherigen Genehmigung der Abgeordnetenkammer. Für den Vollzug der gegen ein Regierungsmitglied verkündeten Strafen – selbst der Freiheitsstrafen – bedarf es dieser Genehmigung nicht.
 
 #### Kapitel VI. Der Staatsrat
 
@@ -589,7 +933,9 @@ Die Organisation des Staatsrats und die Art und Weise der Ausübung seiner Aufga
 <a id="art-97"></a>
 ## Art. 97.
 
-Die rechtsprechende Gewalt wird von den Gerichtshöfen und Gerichten ausgeübt. Die Urteile und Gerichtsentscheidungen werden im Namen des Großherzogs vollstreckt.
+Die rechtsprechende Gewalt wird von den Gerichtshöfen und Gerichten ausgeübt.
+
+Die Urteile und Gerichtsentscheidungen werden im Namen des Großherzogs vollstreckt.
 
 <a id="art-98"></a>
 ## Art. 98.
@@ -619,15 +965,37 @@ Die Gerichte wenden die Gesetze und Verordnungen nur insoweit an, als sie mit de
 <a id="art-103"></a>
 ## Art. 103.
 
-Die Aufhebung einer Verordnung durch ein Verwaltungsgericht erlangt ab dem Tag, an dem die Gerichtsentscheidung oder das Urteil rechtskräftig wird, Rechtswirksamkeit, es sei denn, das Gericht, das die Aufhebung ausgesprochen hat, ordnet eine andere Frist an. Das Gericht, das die Rechtsunwirksamkeit ausspricht, bestimmt die Bedingungen und Grenzen, unter denen die Wirkungen, die die Verordnung hervorgerufen hat, wieder in Frage gestellt werden können.
+Die Aufhebung einer Verordnung durch ein Verwaltungsgericht erlangt ab dem Tag, an dem die Gerichtsentscheidung oder das Urteil rechtskräftig wird, Rechtswirksamkeit, es sei denn, das Gericht, das die Aufhebung ausgesprochen hat, ordnet eine andere Frist an.
+
+Das Gericht, das die Rechtsunwirksamkeit ausspricht, bestimmt die Bedingungen und Grenzen, unter denen die Wirkungen, die die Verordnung hervorgerufen hat, wieder in Frage gestellt werden können.
 
 ##### Abschnitt 2. Das Statut der Richter und Staatsanwälte
 
 <a id="art-104"></a>
 ## Art. 104.
 
+(1)
+
+Die Richter sind bei der Ausübung ihres richterlichen Amtes unabhängig.
+
+(2)
+
+Die Staatsanwaltschaft übernimmt die Anklageerhebung und verlangt die Durchsetzung des Rechts. Sie ist bei der Ermittlung und Verfolgung von Straftaten unabhängig, unbeschadet des Rechts der Regierung, Richtlinien für die Strafrechtspolitik zu erlassen.
+
 <a id="art-105"></a>
 ## Art. 105.
+
+(1)
+
+Das Statut der Richter und der Staatsanwälte wird gesetzlich festgelegt.
+
+(2)
+
+Die Richter können nicht abgesetzt werden.
+
+(3)
+
+Die Versetzung in den Ruhestand der Richter und Staatsanwälte aus Alters-, Krankheits- und Dienstuntauglichkeitsgründen werden gesetzlich geregelt.
 
 <a id="art-106"></a>
 ## Art. 106.
@@ -639,7 +1007,15 @@ Vor Amtsantritt leisten die Richter und die Staatsanwälte den vom Gesetz vorges
 <a id="art-107"></a>
 ## Art. 107.
 
-Der Nationale Justizrat wacht, unter Wahrung ihrer Unabhängigkeit, über das ordnungsgemäße Funktionieren der Justiz. Die Zusammensetzung und die Organisation des Nationalen Justizrats werden per Gesetz geregelt. Der Nationale Justizrat muss mehrheitlich aus Richtern und Staatsanwälten bestehen. Der Großherzog ernennt die vom Nationalen Justizrat vorgeschlagenen Richter und Staatsanwälte gemäß den gesetzlich geregelten Bedingungen. Die Zuständigkeiten des Nationalen Justizrats in Disziplinarverfahren gegen Richter und Staatsanwälte werden per Gesetz bestimmt. Die anderen Zuständigkeiten des Nationalen Justizrats werden per Gesetz festgelegt, das ebenfalls die Art ihrer Ausübung bestimmt.
+Der Nationale Justizrat wacht, unter Wahrung ihrer Unabhängigkeit, über das ordnungsgemäße Funktionieren der Justiz.
+
+Die Zusammensetzung und die Organisation des Nationalen Justizrats werden per Gesetz geregelt. Der Nationale Justizrat muss mehrheitlich aus Richtern und Staatsanwälten bestehen.
+
+Der Großherzog ernennt die vom Nationalen Justizrat vorgeschlagenen Richter und Staatsanwälte gemäß den gesetzlich geregelten Bedingungen.
+
+Die Zuständigkeiten des Nationalen Justizrats in Disziplinarverfahren gegen Richter und Staatsanwälte werden per Gesetz bestimmt.
+
+Die anderen Zuständigkeiten des Nationalen Justizrats werden per Gesetz festgelegt, das ebenfalls die Art ihrer Ausübung bestimmt.
 
 ##### Abschnitt 4. Die Garantien des Rechtsuchenden
 
@@ -668,6 +1044,46 @@ Die Bestimmungen der Verfassung stehen den Verpflichtungen, die sich aus dem Sta
 <a id="art-112"></a>
 ## Art. 112.
 
+(1)
+
+Der Verfassungsgerichtshof entscheidet durch Urteil über die Verfassungsmäßigkeit der Gesetze.
+
+(2)
+
+Der Verfassungsgerichtshof kann in einem Vorabentscheidungsverfahren gemäß den per Gesetz zu bestimmenden Modalitäten von allen Gerichten hinsichtlich der Verfassungsmäßigkeit der Gesetze, mit Ausnahme der Gesetze zur Billigung von völkerrechtlichen Verträgen, befasst werden.
+
+(3)
+
+Der Verfassungsgerichtshof urteilt über Zuständigkeitskonflikte nach den gesetzlich festgelegten Verfahren.
+
+(4)
+
+Die Zuständigkeiten des Verfassungsgerichtshofs können durch ein Gesetz erweitert werden, das mit einer qualifizierten Mehrheit von mindestens zwei Dritteln der Stimmen der Mitglieder der Abgeordnetenkammer verabschiedet wurde, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.
+
+(5)
+
+Der Verfassungsgerichtshof besteht aus:
+
+- neun ordentlichen Mitgliedern:
+
+  - dem Vorsitzenden des Obersten Gerichtshofs und dem Vorsitzenden des Verwaltungsgerichtshofs;
+
+  - zwei Richtern am Kassationsgerichtshof und fünf vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannten Richtern;
+
+- sieben stellvertretenden Mitgliedern, die vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannt werden.
+
+(6)
+
+Der Verfassungsgerichtshof tagt in Kammern mit fünf Mitgliedern. Wenn der Verfassungsgerichtshof der Ansicht ist, dass eine Rechtssache, mit der er befasst ist, von besonderer Bedeutung ist, tagt er im Plenum mit neun Mitgliedern.
+
+(7)
+
+Die Organisation des Verfassungsgerichtshofs und die Art und Weise der Ausübung seiner Befugnisse werden per Gesetz geregelt.
+
+(8)
+
+Die Bestimmungen der Gesetze, die durch ein Urteil des Verfassungsgerichtshofs für verfassungswidrig erklärt werden, verlieren ihre Rechtswirkung am Tag nach der Veröffentlichung des Urteils in der gesetzlich vorgesehen Form, es sei denn, der Verfassungsgerichtshof hat eine andere Frist angeordnet. Der Verfassungsgerichtshof legt die Bedingungen und Grenzen fest, unter denen die von der Bestimmung hervorgerufenen Wirkungen in Frage gestellt werden können.
+
 #### Kapitel VIII. Bestimmungen über die Staatsverwaltung
 
 ##### Abschnitt 1. Die allgemeinen Regeln der Verwaltung
@@ -694,8 +1110,40 @@ Jede Erklärung betreffend den Kriegszustand und jede Beteiligung der öffentlic
 <a id="art-116"></a>
 ## Art. 116.
 
+(1)
+
+Jede staatliche Steuer sowie jede Befreiung oder Ermäßigung von der Besteuerung werden per Gesetz festgelegt.
+
+(2)
+
+Über die Steuern zugunsten des Staates wird jährlich im Parlament abgestimmt. Die Gesetze, die sie festlegen, sind nur für ein Jahr gültig, wenn sie nicht erneuert werden.
+
+(3)
+
+Außer in den per Gesetz formell geregelten Ausnahmen können von den Bürgern oder den öffentlichen Einrichtungen nur Abgaben verlangt werden, wenn es sich um Steuern zugunsten des Staates oder der Gemeinde handelt.
+
 <a id="art-117"></a>
 ## Art. 117.
+
+(1)
+
+Jede Anleihe zulasten des Staates bedarf der Zustimmung der Abgeordnetenkammer.
+
+(2)
+
+Jede Veräußerung von unbeweglichem oder beweglichem Eigentum des Staates muss durch ein Sondergesetz genehmigt werden. Ein allgemeines Gesetz kann jedoch eine Grenze bestimmen, unterhalb derer eine Sondergenehmigung der Abgeordnetenkammer nicht erforderlich ist.
+
+(3)
+
+Jeder Erwerb durch den Staat von größerem unbeweglichem oder beweglichem Eigentum, jedes zugunsten des Staates durchgeführte große Infrastrukturprojekt oder bedeutende Bauprojekt sowie jede erhebliche finanzielle Verpflichtung des Staates müssen durch ein Sondergesetz genehmigt werden. Ein allgemeines Gesetz legt die Schwellenwerte fest, ab denen eine solche Genehmigung erforderlich ist, sowie die Bedingungen und Modalitäten für die Finanzierung der Vorbereitungsarbeiten.
+
+(4)
+
+Jede den Staatshaushalt für länger als ein Geschäftsjahr belastende Ausgabe muss durch ein Sondergesetz beschlossen werden.
+
+(5)
+
+Jedes Ruhegehalt, jedes Wartegeld sowie jede Sondervergütung zulasten des Staates werden durch ein Gesetz bewilligt.
 
 <a id="art-118"></a>
 ## Art. 118.
@@ -705,12 +1153,30 @@ Jedes Jahr erlässt die Abgeordnetenkammer das Haushaltsgesetz und verabschiedet
 <a id="art-119"></a>
 ## Art. 119.
 
+(1)
+
+Der Rechnungshof ist mit der Kontrolle der Finanzverwaltung der Organe, Verwaltungen und Dienststellen des Staates beauftragt. Weitere Aufgaben im Bereich der Kontrolle der Verwaltung der öffentlichen Gelder können ihm per Gesetz übertragen werden.
+
+(2)
+
+Der Rechnungshof übermittelt der Abgeordnetenkammer seine Beanstandungen und Empfehlungen zu den Staatskonten.
+
+(3)
+
+Die Zuständigkeiten und die Organisation des Rechnungshofs sowie die Modalitäten seiner Überwachungsmission und die Beziehungen zur Abgeordnetenkammer werden per Gesetz geregelt.
+
+(4)
+
+Die Mitglieder des Rechnungshofs werden durch den Großherzog auf Vorschlag der Abgeordnetenkammer ernannt.
+
 ##### Abschnitt 3. Die Beziehungen zwischen dem Staat und den Glaubensgemeinschaften
 
 <a id="art-120"></a>
 ## Art. 120.
 
-Die Kirchen und Glaubensgemeinschaften sind vom Staat getrennt. Die Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften werden gesetzlich geregelt.
+Die Kirchen und Glaubensgemeinschaften sind vom Staat getrennt.
+
+Die Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften werden gesetzlich geregelt.
 
 Innerhalb der gesetzlich bestimmten Grenzen und Formen können Vereinbarungen, die von der Abgeordnetenkammer zu verabschieden sind, die Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften näher bestimmen.
 
@@ -719,11 +1185,41 @@ Innerhalb der gesetzlich bestimmten Grenzen und Formen können Vereinbarungen, d
 <a id="art-121"></a>
 ## Art. 121.
 
+(1)
+
+Die Gemeinden bilden eigenständige Körperschaften auf territorialer Grundlage, besitzen Rechtspersönlichkeit und verwalten durch ihre Organe ihre eigenen Interessen und ihr eigenes Vermögen.
+
+(2)
+
+Die Zusammensetzung, die Organisation und die Kompetenzen der Gemeindeorgane werden gesetzlich bestimmt.
+
 <a id="art-122"></a>
 ## Art. 122.
 
+(1)
+
+Jede Gemeinde hat einen Gemeinderat, der gemäß dem allgemeinen Wahlrecht direkt und in geheimer Wahl gewählt wird.
+
+(2)
+
+Die Gemeinde wird von einem Kollegium bestehend aus dem Bürgermeister und den Schöffen, welche unter den Mitgliedern des Gemeinderats in der per Gesetz bestimmten Form gewählt werden, verwaltet.
+
 <a id="art-123"></a>
 ## Art. 123.
+
+(1)
+
+Die Steuern zugunsten der Gemeinden werden per Gesetz festgelegt.
+
+Unter Einhaltung seiner verfassungsrechtlichen und gesetzlichen Befugnisse kann der Gemeinderat die zur Umsetzung des Interesses der Gemeinde erforderlichen Steuern und Gebühren festsetzen. Die Gemeindesteuern und -gebühren werden von der Aufsichtsbehörde genehmigt.
+
+(2)
+
+Der Gemeinderat erstellt jährlich den Haushalt der Gemeinde und schließt die entsprechenden Haushaltskonten ab.
+
+(3)
+
+Die Gemeinden haben ein Anrecht auf finanzielle Mittel zur Erfüllung der ihnen gesetzlich übertragenen Aufgaben.
 
 <a id="art-124"></a>
 ## Art. 124.
@@ -736,6 +1232,14 @@ Die Gemeindeverordnungen müssen den in Anwendung von Artikel 45 verabschiedeten
 
 <a id="art-125"></a>
 ## Art. 125.
+
+(1)
+
+Für die Erstellung der Personenstandsurkunden und das Führen der Register dieser Urkunden sind ausschließlich die gesetzlich bestimmten Organe der Gemeinde zuständig.
+
+(2)
+
+Das Statut der Gemeindebeamten wird gesetzlich bestimmt.
 
 <a id="art-126"></a>
 ## Art. 126.
@@ -754,8 +1258,32 @@ Der Regierungsrat kann den Gemeinderat im Interesse der Verwaltung der Gemeinde 
 <a id="art-128"></a>
 ## Art. 128.
 
+(1)
+
+Per Gesetz können öffentlich-rechtliche Einrichtungen gegründet werden, die eine eigene Rechtspersönlichkeit besitzen und unter der Aufsicht des Staates stehen.
+
+(2)
+
+Per Gesetz können Berufskammern gegründet werden, die eine eigene Rechtspersönlichkeit besitzen.
+
+(3)
+
+Per Gesetz können repräsentative Organe der freien Berufe gegründet werden und ihnen kann eine eigene Rechtspersönlichkeit zugestanden werden.
+
 <a id="art-129"></a>
 ## Art. 129.
+
+(1)
+
+Der Zweck, die Organisation und die Befugnisse der öffentlich-rechtlichen Einrichtungen, der Berufskammern und der Organe der freien Berufe, die eine eigene Rechtspersönlichkeit besitzen, werden gesetzlich bestimmt.
+
+(2)
+
+Innerhalb der Grenzen ihres Aufgabengebiets kann ihnen per Gesetz die Befugnis erteilt werden, Verordnungen zu erlassen.
+
+In den Bereichen, die gemäß der Verfassung dem Gesetz vorbehalten sind, können diese Verordnungen nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterliegen, festlegt.
+
+Diese Verordnungen müssen den nach Artikel 45 verabschiedeten Gesetzen und Verordnungen entsprechen.
 
 #### Kapitel XI. Die Änderung der Verfassung
 

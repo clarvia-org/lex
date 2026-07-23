@@ -45,6 +45,12 @@ Dans le cadre du présent règlement, les termes «partenaire» et «partenariat
 <a id="art-3"></a>
 ## Art. 3.
 
+1.
+
+2.
+
+L’année de congé est l’année de calendrier.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -128,6 +134,10 @@ En outre son congé restant sera majoré d’un délai de route adéquat.
 
 Le décompte des congés pour raisons de santé est communiqué en copie:
 
+- à la commission des pensions en cas de demande visant à la mise à la retraite prématurée d’un agent pour cause d’infirmité;
+
+- au médecin de contrôle lors d’un examen de contrôle.
+
 La correspondance relative aux congés pour raisons de santé est confidentielle; seuls les fonctionnaires qui y sont appelés par leurs fonctions peuvent en prendre connaissance.
 
 <a id="art-20"></a>
@@ -141,8 +151,60 @@ L’agent porté malade est obligé de reprendre son service dès que son état 
 <a id="art-22"></a>
 ## Art. 22.
 
+1.
+
+Durant son congé pour raisons de santé, l’agent est soumis aux règles prévues aux paragraphes suivants.
+
+2.
+
+Par sortie de l’agent en congé pour raisons de santé, on entend l’éloignement de son domicile ou du lieu de séjour indiqué.
+
+Sauf les dérogations prévues par le présent article et nonobstant indication contraire figurant sur le certificat médical d’incapacité de travail, aucune sortie de l’agent en dehors de son domicile ou de son lieu de séjour indiqué n’est permise pendant le congé pour raisons de santé.
+
+3.
+
+Par dérogation au paragraphe 2, l’agent peut s’éloigner de son domicile ou du lieu de séjour indiqué dans les cas suivants :
+
+- à partir du premier jour d’incapacité de travail :
+
+  - pour les sorties indispensables pour donner suite aux convocations auprès du médecin de contrôle, pour l’obtention de soins, d’actes diagnostiques, de médicaments ou de dispositifs médicaux, à condition que l’agent concerné puisse en justifier, par tous les moyens de preuve, sur demande du chef d’administration ou de son délégué ;
+
+  - pour les sorties nécessaires pour la prise d’un repas ;
+
+- à partir du cinquième jour révolu du congé pour raisons de santé dépassant en continu cinq jours de service, pour les sorties non médicalement contre-indiquées d’après le certificat médical d’incapacité de travail, uniquement entre 10.00 et 12.00 heures et entre 14.00 et 18.00 heures.
+
+4.
+
+Sauf autorisation spécifique accordée par le médecin de contrôle et dans les conditions visées ci-après, le pays de séjour indiqué pendant le congé pour raisons de santé ne peut être différent de celui où l’agent concerné est domicilié.
+
+Cette règle ne vaut pas dans l’hypothèse où l’incapacité de travail pour raisons de santé survient pendant un séjour dans un pays différent de celui où l’agent concerné est domicilié.
+
+5.
+
+Les dispositions du présent article ne s’appliquent pas aux agents bénéficiant d’un congé de maternité, d’un congé d’accueil, d’une dispense de travail pour femmes enceintes ou allaitantes, d’un congé pour raisons familiales ou d’un congé d’accompagnement.
+
+6.
+
+Dans les cas où le congé pour raisons de santé se prolonge au-delà d’une période de six semaines consécutives, le médecin de contrôle peut, à partir du quarante-troisième jour, sur demande écrite de l’agent et avec l’accord du chef d’administration ou de son délégué, dispenser d’une ou de plusieurs restrictions de sortie prévues au présent article.
+
 <a id="art-23"></a>
 ## Art. 23.
+
+1.
+
+S’expose à une peine disciplinaire l’agent qui est convaincu
+
+- d’avoir simulé une incapacité de travail ou d’avoir fait prolonger son congé pour raisons de santé alors que sa santé était rétablie;
+
+- de ne pas avoir repris son service dès que son état de santé le lui permettait;
+
+- d’avoir enfreint les prescriptions édictées à l’article 22 ci-dessus;
+
+- de s’être soustrait à un contrôle ordonné par le chef d’administration ou son délégué.
+
+2.
+
+Les dispositions reprises à l’article 12 du statut général sont applicables dans les cas visés au paragraphe 1er du présent article.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -161,6 +223,18 @@ Si la cure n’est pas prise en charge par l’assurance maladie, la demande de 
 <a id="art-26"></a>
 ## Art. 26.
 
+1.
+
+2.
+
+3.
+
+Le congé de compensation est accordé à l’agent sur sa demande qui est à adresser au chef d’administration ou à son délégué.
+
+4.
+
+Le Conseil de Gouvernement peut fixer des jours de congé de compensation collectifs, en précisant les catégories d’agents auxquels ils s’appliquent.
+
 <a id="art-27"></a>
 ## Art. 27.
 
@@ -174,6 +248,34 @@ Si la cure n’est pas prise en charge par l’assurance maladie, la demande de 
 
 <a id="art-31"></a>
 ## Art. 31.
+
+1.
+
+Les congés sans traitement sont réglés par l’article 30 du statut général.
+
+2.
+
+Le congé sans traitement visé à l’article 30, paragraphe 1er du statut général est demandé et accordé par années entières ou par mois entiers, et en une seule fois pour toute la période pour laquelle il est désiré. La demande relative à ce congé doit parvenir au chef d’administration au moins un mois avant l’expiration du congé de maternité, du congé d’accueil ou du congé parental.
+
+Entre le congé de maternité, le congé d’accueil ou le congé parental, d’une part, et le congé sans traitement visé par le présent paragraphe d’autre part, ne peut être intercalée aucune période d’activité de service, à l’exception d’un congé de récréation.
+
+3.
+
+Le congé sans traitement visé à l’article 30, paragraphe 2 du statut général est demandé et accordé par années entières ou par mois entiers, et en une seule fois pour toute la période pour laquelle il est désiré. La demande relative au congé sans traitement visé par le présent paragraphe doit parvenir au chef d’administration au moins deux mois avant la date à partir de laquelle il est sollicité.
+
+La décision relative à l’octroi du congé doit être notifiée à l’agent par le chef d’administration au plus tard deux semaines avant la date à partir de laquelle le congé est sollicité. En cas de rejet total ou partiel de la demande, la décision doit être motivée, l’agent ayant le droit d’être entendu en ses explications.
+
+Lorsque la durée du congé sans traitement est supérieure à deux ans, le droit à la réintégration peut être subordonné à la participation, pendant le congé sans traitement, à des cours de formation continue organisés par l’Institut national d’administration publique en collaboration avec les administrations et services de l’État ou par un autre organisme de formation reconnu par le ministre ayant la Fonction publique dans ses attributions. Les cours visés peuvent revêtir un caractère de formation théorique ou d’initiation pratique auquel cas ils peuvent se dérouler dans l’administration dans laquelle sera réintégré l’agent. La durée de la formation que l’agent est tenu de suivre préalablement à sa réintégration est de quinze jours minimum. La détermination de la durée effective de la période de formation, qui varie en fonction de la durée du congé sans traitement dont bénéficie l’agent ainsi que des fonctions qu’il se propose de réintégrer, de même que le choix des cours auxquels il doit participer, incombe au chef de l’administration que va réintégrer l’agent.
+
+4.
+
+Les congés sans traitement visés par le présent article peuvent prendre fin avant leur terme ou être renouvelés, une fois au maximum, à la demande de l’agent et si l’intérêt du service le permet. La demande relative au renouvellement respectivement à la fin anticipée du congé sans traitement doit parvenir au chef d’administration au moins un mois avant la date initialement prévue pour la fin du congé respectivement avant la date souhaitée de l’interruption.
+
+Pour les agents de l’enseignement, les congés sans traitement visés par le présent article sont accordés de façon à ce que leur fin coïncide avec le début d’un trimestre scolaire, le cas échéant par prorogation au-delà de la limite fixée aux alinéas 1 des paragraphes 2 et 3 ci-dessus.
+
+5.
+
+Les décisions relatives à l’octroi, au renouvellement et à la fin anticipée des congés sans traitement sont prises par le ministre du ressort, sur avis du chef d’administration.
 
 #### Chapitre 10.
 
@@ -202,10 +304,96 @@ Tous les cinq ans, le Gouvernement en conseil fixe le volume des congés et disp
 <a id="art-39"></a>
 ## Art. 39.
 
+1.
+
+L’agent peut participer à des cours, préparer des examens et y participer, rédiger des mémoires ou accomplir tout autre travail en relation avec une formation professionnelle éligible d’après le paragraphe 2.
+
+2.
+
+Sont éligibles pour l’obtention du congé-formation, les formations dispensées ou organisées soit au Grand-Duché de Luxembourg, soit à l’étranger:
+
+- par le Ministère de l’Éducation nationale et de la Formation professionnelle, l’Institut national d’administration publique et par les administrations et établissements publics de l’État dans le cadre de la formation continue des agents de l’État,
+
+- par les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
+
+- par les chambres professionnelles.
+
+3.
+
+Le congé peut être fractionné, la durée minimale du congé-formation étant d’une demi-journée.
+
+La durée du congé-formation ne peut pas être imputée sur le congé annuel de récréation tel qu’il est prévu au chapitre 2 du présent règlement.
+
+Le nombre total de jours de congé-formation auquel peut prétendre le bénéficiaire est fonction du nombre d’heures investies dans la formation. Ce nombre d’heures est soit défini par l’organisme de formation, soit déterminé sur base des horaires de cours des écoles et instituts de formation. Le nombre d’heures investies est converti en nombre de journées de travail en divisant le nombre de ces heures par huit.
+
+4.
+
+Le congé-formation est sollicité par l’agent concerné et accordé par le chef d’administration ou son délégué, le cas échéant, sur avis du supérieur hiérarchique. Toutefois, le chef d’administration peut exiger la participation d’un agent à une formation à chaque fois qu’il estime que celle-ci est en relation étroite avec les missions de l’administration ou avec les attributions de l’agent.
+
+La demande en obtention du congé est à établir par l’agent et doit parvenir au chef d’administration ou à son délégué au moins six semaines avant la date à partir de laquelle il est sollicité.
+
+Cette demande doit indiquer
+
+- les motifs à la base de la demande,
+
+- les objectifs visés par la formation,
+
+- l’institution en charge de la formation,
+
+- la nature et le contenu de la formation à suivre,
+
+- la durée de la formation,
+
+- le nombre d’heures de formation prévues,
+
+- le lieu et la période du déroulement effectif de la formation ainsi que
+
+- la date de début et la date de la fin de la formation.
+
+La décision relative à l’octroi du congé doit être notifiée à l’agent par le chef d’administration ou son délégué au plus tard quatre semaines avant la date à partir de laquelle le congé est sollicité.
+
+Avant de prendre la décision, le chef d’administration ou son délégué apprécient si la demande répond aux critères du paragraphe 1er ci-dessus, si elle est conforme aux critères énumérés à l’alinéa 3 du présent paragraphe et si elle est compatible avec l’intérêt du service.
+
+En cas de rejet de la demande par le chef d’administration ou par son délégué, la décision doit être motivée. Dans ce cas, l’agent peut en référer au ministre du ressort qui prend position dans les huit jours qui suivent la réception de la demande.
+
+En cas de rejet de la demande par le ministre du ressort, la décision doit être motivée, l’agent ayant le droit d’être entendu en ses explications.
+
+5.
+
+Par dérogation au paragraphe 3 ci-dessus, et dans des cas exceptionnels dûment motivés, notamment dans des cas de formation de longue durée à effectuer dans l’intérêt du service, la durée totale du congé-formation peut être prolongée au-delà des quatre-vingts jours prévus par une décision du chef d’administration.
+
+Si la prolongation est due au fait que l’agent est susceptible de suivre un cycle de formation de longue durée à l’étranger dans l’intérêt du service, le congé-formation correspondant est accordé par le ministre du ressort dont relève l’agent concerné, sur avis conforme du ministre ayant la Fonction publique dans ses attributions. La décision du ministre du ressort fixe la durée exacte du congé-formation à mettre en compte.
+
+6.
+
+A la fin de la formation, l’agent est tenu de fournir au chef d’administration ou à son délégué la preuve qu’il a bien utilisé le congé à la finalité pour laquelle il a été sollicité en présentant notamment une certification établie par l’institution ayant assuré la formation dont il ressort que l’agent a effectivement suivi pendant sa période de congé-formation l’intégralité de la formation prévue et qu’il s’est soumis à toutes les conditions de formation et, le cas échéant, de contrôles des connaissances prescrites.
+
+7.
+
+L’agent qui bénéficie d’un congé-formation et qui pour des raisons personnelles ou indépendantes de sa volonté décide de mettre un terme à ce congé avant même le délai d’expiration normal est tenu d’en informer immédiatement son chef d’administration en lui fournissant les motifs à la base de sa décision.
+
+Dans ce cas, seul le nombre de journées de travail effectivement presté dans le cadre du congé-formation initialement accordé est imputé sur les quatre-vingts jours de congé-formation tels qu’ils sont définis au paragraphe 3 ci-dessus.
+
+8.
+
+L’agent qui bénéficie d’un congé-formation ne touche pas d’allocation de frais de route et de séjour du chef de sa participation à des formations nécessitant des déplacements de sa part et ceci pour toute la durée du congé visé.
+
+Toutefois si le congé individuel concerne une formation qui est suivie dans l’intérêt du service et que le déplacement hors du lieu de résidence officielle de l’agent a été ordonné par le chef d’administration ou par le ministre du ressort, les frais de route et de séjour sont dus conformément aux dispositions du règlement grand-ducal modifié du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
+
 #### Chapitre 17. Dispositions finales
 
 <a id="art-40"></a>
 ## Art. 40.
+
+1.
+
+2.
+
+Sauf les cas où la décision est réservée au ministre du ressort, tous les congés sont accordés par le chef d’administration ou son délégué dans le cadre des dispositions du présent règlement.
+
+3.
+
+Lorsque l’intérêt du service l’exige, les présentes dispositions peuvent être complétées par des instructions plus détaillées par décision du ministre du ressort sur avis conforme du ministre ayant la Fonction publique dans ses attributions.
 
 <a id="art-41"></a>
 ## Art. 41.

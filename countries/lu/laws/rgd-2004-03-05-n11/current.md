@@ -45,7 +45,21 @@ La dispense est accordée par décision ministérielle suite à la demande écri
 
 Toutefois, lorsque l’erreur matérielle constatée par l’administration affecte la rémunération de plusieurs fonctionnaires en même temps, le ministre peut accorder cette dispense d’office.
 
-Par erreur matérielle de l’administration, il y a lieu d’entendre notamment En cas d’erreur matérielle, l’agent a droit à une dispense de remboursement suivant les modalités prévues à l’alinéa 2 ci-dessus, lorsqu’un délai de plus d’un an s’est écoulé entre la date du virement de la somme indue et la date à laquelle elle a été réclamée.
+Par erreur matérielle de l’administration, il y a lieu d’entendre notamment
+
+- l’établissement erroné de la carrière
+
+- l’allocation d’échelons et de majorations de l’indice ou de primes non dues
+
+- l’application erronée de la valeur du point indiciaire
+
+- le calcul erroné d’indemnités ou d’accessoires de rémunération
+
+- l’attribution erronée de grades, d’allongements de grade ou de promotions
+
+- le calcul erroné de la retenue pour pension ou des autres prélèvements en matière de sécurité sociale.
+
+En cas d’erreur matérielle, l’agent a droit à une dispense de remboursement suivant les modalités prévues à l’alinéa 2 ci-dessus, lorsqu’un délai de plus d’un an s’est écoulé entre la date du virement de la somme indue et la date à laquelle elle a été réclamée.
 
 <a id="art-3"></a>
 ## Art. 3.

@@ -37,6 +37,14 @@ Le titulaire de classe, en collaboration avec les membres de l’équipe pédago
 
 Au cours d’un cycle d’apprentissage, l’évaluation est formative. L’évaluation formative répond aux principes suivants:
 
+- Elle donne à chaque élève l’occasion de montrer ce qu’il sait et ce qu’il est capable de faire.
+
+- Elle porte plutôt sur la mobilisation des compétences dans des situations concrètes que sur l’assimilation et la reproduction de connaissances isolées.
+
+- Elle tient compte des différentes manières d’apprendre des élèves et des différences qui existent entre les élèves par rapport à leur développement cognitif, langagier, moteur, affectif et social.
+
+- Elle permet aux élèves de se rendre compte de leur progrès: elle les encourage à se poser des questions sur leur progression, à expliquer et à documenter leur démarche d’apprentissage et leurs stratégies de réflexion.
+
 À la fin d’un cycle, l’évaluation est certificative. L’évaluation certificative se base sur une variété de travaux pour témoigner de l’atteinte du socle de compétences du cycle ou d’un niveau de compétence inférieur ou supérieur.
 
 #### Chapitre 2 L’évaluation formative
@@ -168,6 +176,16 @@ Le dossier d’évaluation qui à la fin de l’enseignement fondamental est rem
 ## Art. 14.
 
 Le dossier d’évaluation a pour but:
+
+- de promouvoir la communication entre les élèves, les parents et les enseignants;
+
+- d’assurer la continuité et le suivi des apprentissages au cours des quatre cycles d’apprentissage;
+
+- de documenter la progression des apprentissages au cours des quatre cycles d’apprentissage;
+
+- d’aider les équipes pédagogiques à prendre des décisions particulières en cours de cycle;
+
+- de certifier l’atteinte des compétences en vue d’une prise de décision liée à la promotion et à l’orientation.
 
 #### Chapitre 6 Disposition transitoire
 

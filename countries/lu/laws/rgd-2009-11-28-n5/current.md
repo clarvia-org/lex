@@ -41,6 +41,10 @@ Les témoins reçoivent à leur demande une indemnité fixée à 12,50 euros par
 
 En cas de réquisition de justice comportant obligation d’une prestation professionnelle immédiate, il est alloué aux médecins, médecins-dentistes et médecins-vétérinaires
 
+- 145 euros pour une consultation ou une visite, y compris la rédaction d’un rapport;
+
+- 46 euros pour une prise de sang.
+
 Ces montants constituent une indemnisation forfaitaire couvrant tous les frais liés au déplacement et à l’activité tant médicale qu’administrative du médecin, médecin-dentiste ou médecin-vétérinaire.
 
 Lorsque d'autres prestations médicales s'avèrent nécessaires, liées à une prestation professionnelle immédiate, celles-ci sont remboursées sur présentation d'une déclaration motivée.

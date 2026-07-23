@@ -35,8 +35,40 @@ Il est constitué pour chaque fonctionnaire et au bureau du personnel de chaque 
 
 Sont à verser à ce dossier toutes les pièces concernant la situation statutaire, la situation de carrière ainsi que la situation familiale du fonctionnaire et notamment:
 
+- l’autorisation d’engagement du Gouvernement en Conseil
+
+- le certificat de nationalité
+
+- l’extrait du casier judiciaire
+
+- le certificat médical
+
+- la correspondance relative aux congés pour raisons de santé
+
+- l’extrait de l’acte de naissance
+
+- les certificats d’études et les diplômes
+
+- l’arrêté d'admission au stage
+
+- les arrêtés de nomination et de promotion
+
+- les décisions relatives à l’affectation de l’agent
+
+- l’arrêté de démission
+
+- l’arrêté de l’allocation de la pension.
+
 <a id="art-3"></a>
 ## Art. 3.
+
+1.
+
+Sont à insérer de même dans le dossier personnel tous les documents relatifs à des ordres de justification, à des décisions infligeant une peine disciplinaire ainsi que les décisions émises par le Conseil de discipline.
+
+2.
+
+Pour les peines de l’avertissement, de la réprimande et de l’amende ne dépassant pas le cinquième d’une mensualité brute du traitement de base, les dispositions de l’article 54, paragraphe 5 de la loi modifiée du 16 avril 1979 précitée sont applicables.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -47,6 +79,26 @@ Le dossier personnel doit suivre le fonctionnaire pour tout changement d’admin
 ## Art. 5.
 
 En dehors du dossier personnel du fonctionnaire visé à l’article 1er du présent règlement un dossier est constitué au ministère de la Fonction Publique avec toutes les pièces nécessaires au calcul et à l’établissement de la rémunération et de la pension du fonctionnaire et notamment:
+
+- l’autorisation d’engagement du Gouvernement en Conseil
+
+- l’extrait de l’acte de naissance
+
+- le certificat de réussite à l’examen-concours, à l’examen de fin de stage, à l’examen de promotion
+
+- l’arrêté d’admission au stage
+
+- les arrêtés de nomination et de promotion
+
+- la feuille de renseignement
+
+- la déclaration d’entrée à la Caisse de maladie
+
+- la déclaration de sortie de la Caisse de maladie
+
+- les décisions relatives aux peines disciplinaires ayant une incidence sur la rémunération
+
+- l’arrêté de démission.
 
 <a id="art-6"></a>
 ## Art. 6.

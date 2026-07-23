@@ -28,6 +28,32 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+I.
+
+Pour la détermination des conditions et des modalités des avancements dans les carrières visées par la présente loi, il est créé pour chaque carrière un cadre ouvert et un cadre fermé.
+
+Par cadre ouvert il y a lieu d’entendre un cadre où le nombre des emplois dans les grades inférieurs n’est pas fixé limitativement et où l’avancement aux différents grades se fait de plein droit après un nombre déterminé d’années, sans préjudice des restrictions légales et réglementaires.
+
+Par cadre fermé il y a lieu d’entendre un cadre où le nombre des emplois dans les grades supérieurs est fixé en fonction de l’effectif total de la carrière suivant un pourcentage déterminé.
+
+II.
+
+Sans préjudice des conditions spéciales de promotion prévues pour les différentes carrières visées par la présente loi, nul ne peut être nommé à une fonction du cadre ouvert autre que celle de début de carrière s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli le nombre de jours de formation continue requis par le présent paragraphe, ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.
+
+Pour les carrières dont le cadre ouvert comprend deux grades de promotion, le fonctionnaire doit avoir accompli six jours de formation dans le premier grade de promotion et six jours de formation dans le deuxième grade de promotion.
+
+Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de formation dans le premier grade de promotion, quatre jours de formation dans le deuxième grade de promotion et quatre jours de formation dans le troisième grade de promotion.
+
+III. 1)
+
+Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut attester par des certificats de perfectionnement établis par l’Institut national d’administration publique qu’il a accompli au moins douze jours de formation continue ou qu’il en a été dispensé pour des raisons dûment motivées par le ministre ayant dans ses attributions la Fonction publique.
+
+2) Par dérogation aux dispositions du paragraphe qui précède, le fonctionnaire appartenant à l’une des carrières visées aux articles 10, 11 ,12 (1) et 12 (4) de la présente loi ne peut être nommé à une fonction du cadre fermé, s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a accompli un cycle de formation en management public.
+
+Le cycle de formation en management public est organisé par l’Institut national d’administration publique dans les conditions et suivant les modalités fixées par le règlement grand-ducal prévu à l’article 11 de la loi du 15 juin 1999 portant organisation de l’Institut national d’administration publique.
+
+3) L’accès au cadre fermé se fait sur la base du tableau d’avancement.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -46,6 +72,12 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
 
+- 30% pour les fonctions classées au grade 5
+
+- 17% pour les fonctions classées au grade 6
+
+- 13% pour les fonctions classées au grade 7.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -54,6 +86,10 @@ Pour la carrière de l’artisan, il est créé un cadre ouvert comprenant les g
 Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades 5 et 6 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 20% pour les fonctions classées au grade 7
+
+- 15% pour les fonctions classées au grade 7bis.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -64,6 +100,10 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
 
+- 20% pour les fonctions classées au grade 8
+
+- 15% pour les fonctions classées au grade 8bis.
+
 <a id="art-6"></a>
 ## Art. 6.
 
@@ -72,6 +112,10 @@ Pour la carrière de l’infirmier et de l’agent sanitaire, il est créé un c
 Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades 7 et 7bis se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 20% pour les fonctions classées au grade 8
+
+- 15% pour les fonctions classées au grade 8bis.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -82,6 +126,10 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
 
+- 20% pour les fonctions classées au grade 8
+
+- 15% pour les fonctions classées au grade 8bis.
+
 <a id="art-7bis"></a>
 ## Art. 7bis.
 
@@ -90,6 +138,12 @@ Pour la carrière du technicien, il est créé un cadre ouvert comprenant les gr
 Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades 7, 8 et 9 se fait respectivement après 3, 6 et 10 années de grade à partir de la première nomination.
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 15% pour les fonctions classées au grade 10
+
+- 15% pour les fonctions classées au grade 11
+
+- 11% pour les fonctions classées au grade 12.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -100,12 +154,22 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
 
+- 15% pour les fonctions classées au grade 11
+
+- 15% pour les fonctions classées au grade 12
+
+- 11% pour les fonctions classées au grade 13.
+
 <a id="art-8bis"></a>
 ## Art. 8bis.
 
 Pour la carrière de l’ingénieur-technicien, il est créé un cadre ouvert comprenant les grades 9, 10 et 11 et un cadre fermé comprenant les grades 12 et 13. Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades 10 et 11 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 20% pour les fonctions classées au grade 12
+
+- 15% pour les fonctions classées au grade 13.
 
 <a id="art-8ter"></a>
 ## Art. 8ter.
@@ -116,6 +180,12 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
 
+- 15% pour les fonctions classées au grade D12
+
+- 15% pour les fonctions classées au grade D13
+
+- 11% pour les fonctions classées au grade D14.
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -124,6 +194,10 @@ Pour la carrière du conducteur, il est créé un cadre ouvert comprenant les gr
 Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion au grade 11 se fait après 3 années de grade à partir de la première nomination.
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 32% pour les fonctions classées au grade 12
+
+- 27% pour les fonctions classées au grade 13.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -134,11 +208,107 @@ Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est 
 
 Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
 
+- 32% pour les fonctions classées au grade 15
+
+- 27% pour les fonctions classées au grade 16.
+
 <a id="art-11"></a>
 ## Art. 11.
 
+1.
+
+Pour les carrières de l’ingénieur, de l’architecte, du chargé d’études et du chargé d’études informaticien, il est créé un cadre ouvert comprenant les grades 12, 13 et 14 et un cadre fermé comprenant les grades 15 et 16.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades 13 et 14 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 32% pour les fonctions classées au grade 15
+
+- 27% pour les fonctions classées au grade 16.
+
+2.
+
+Pour la carrière de l’ingénieur-conducteur la promotion aux grades 13 et 14 se fait après respectivement 3 et 6 années de grade après la 1re nomination sans préjudice de l’application des dispositions de l’article 22 section VI 2) de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
+
 <a id="art-12"></a>
 ## Art. 12.
+
+1.
+
+Pour la carrière de l’officier de l’Armée proprement dite , il est créé un cadre ouvert comprenant les grades A8, A9 et A10 et un cadre fermé comprenant les grades A11 et A12.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades A9 et A10 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 32% pour les fonctions classées au grade A11
+
+- 27% pour les fonctions classées au grade A12.
+
+2.
+
+Pour la carrière du sous-officier de l’Armée , il est créé un cadre ouvert comprenant les grades A2, A3 et A4 et un cadre fermé comprenant les grades A5, A6 et A7.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades A3 et A4 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 30% pour les fonctions classées au grade A5
+
+- 17% pour les fonctions classées au grade A6
+
+- 13% pour les fonctions classées au grade A7.
+
+3.
+
+Pour la carrière du caporal de carrière de l’Armée, il est créé un cadre ouvert comprenant les grades A1 et A2 et un cadre fermé comprenant les grades A3 et A4.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion au grade A2 se fait après 3 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 25% pour les fonctions classées au grade A3
+
+- 15% pour les fonctions classées au grade A4.
+
+4.
+
+Pour le cadre supérieur de la Police, il est créé un cadre ouvert comprenant les grades P8, P9 et P10 et un cadre fermé comprenant les grades P11 et P12.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades P9 et P10 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 32% pour les fonctions classées au grade P11
+
+- 27% pour les fonctions classées au grade P12
+
+5.
+
+Pour la carrière de l’inspecteur de police il est créé un cadre ouvert comprenant les grades P2, P3 et P4 et un cadre fermé comprenant les grades P5, P6 et P7.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades P3 et P4 se fait respectivement après 3 et 6 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 30% pour les fonctions classées au grade P5
+
+- 17% pour les fonctions classées au grade P6
+
+- 13% pour les fonctions classées au grade P7
+
+6.
+
+Pour la carrière du brigadier de police, il est créé un cadre ouvert comprenant les grades P1 et P2 et un cadre fermé comprenant les grades P3 et P4.
+
+Pour le cadre ouvert, le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion au grade P2 se fait après 3 années de grade à partir de la première nomination.
+
+Pour le cadre fermé, le nombre des emplois dans les différents grades est déterminé par les pourcentages suivants de l’effectif total de la carrière:
+
+- 25% pour les fonctions classées au grade P3
+
+- 15% pour les fonctions classées au grade P4.
 
 <a id="art-12bis"></a>
 ## Art. 12bis.
@@ -148,12 +318,35 @@ Pour la carrière du concierge, la promotion aux grades 4 et 5 se fait respectiv
 <a id="art-13"></a>
 ## Art. 13.
 
-L’article 32 de la loi modifiée du 10 août 1912 concernant l’organisation de l’enseignement primaire est remplacé par les dispositions suivantes: Art. 32. L’instituteur est nommé aux fonctions d’instituteur principal après douze années de grade à partir de la première nomination. Selon les besoins, il peut être chargé d’attributions administratives qui sont à fixer par règlement grand-ducal. Lorsque dans une commune ou dans un syndicat de communes aucun instituteur ne peut être nommé aux fonctions d’instituteur principal en vertu des dispositions qui précèdent, l’instituteur le plus ancien en rang dans cette commune ou dans ce syndicat de communes pourra être chargé temporairement des attributions administratives visées au paragraphe 2. Les instituteurs chargés des attributions administratives visées au paragraphe 2 bénéficient d’une indemnité dont le montant est fixé par le Gouvernement en conseil.
+L’article 32 de la loi modifiée du 10 août 1912 concernant l’organisation de l’enseignement primaire est remplacé par les dispositions suivantes:
+
+<a id="art-32"></a>
+## Art. 32.
+
+- L’instituteur est nommé aux fonctions d’instituteur principal après douze années de grade à partir de la première nomination.
+
+- Selon les besoins, il peut être chargé d’attributions administratives qui sont à fixer par règlement grand-ducal.
+
+- Lorsque dans une commune ou dans un syndicat de communes aucun instituteur ne peut être nommé aux fonctions d’instituteur principal en vertu des dispositions qui précèdent, l’instituteur le plus ancien en rang dans cette commune ou dans ce syndicat de communes pourra être chargé temporairement des attributions administratives visées au paragraphe 2.
+
+- Les instituteurs chargés des attributions administratives visées au paragraphe 2 bénéficient d’une indemnité dont le montant est fixé par le Gouvernement en conseil.
 
 <a id="art-14"></a>
 ## Art. 14.
 
-Dans «l’effectif total» des carrières visées aux dispositions qui précèdent il faut comprendre: Toutefois, les agents bénéficiant d’un service à temps partiel sont pris en compte dans l’effectif total à raison de leur degré d’occupation.
+Dans «l’effectif total» des carrières visées aux dispositions qui précèdent il faut comprendre:
+
+- Les fonctionnaires de la carrière en activité de service dans l’administration dont leur cadre relève, y non compris les fonctionnaires mis hors cadre par dépassement des effectifs, à moins qu’ils n’aient pas été remplacés dans leur cadre d’origine. Toutefois, les agents bénéficiant d’un service à temps partiel sont pris en compte dans l’effectif total à raison de leur degré d’occupation.
+
+- Les stagiaires de cette carrière.
+
+- Les fonctionnaires ayant bénéficié d’un changement d’administration conformément à la loi du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l’Etat peut se faire changer d’administration.
+
+- Les fonctionnaires de cette carrière détachés à d’autres administrations, qui restent dans le cadre de leur administration d’origine, tant que l’administration d’origine n’a pas procédé à un nouvel engagement dans leur carrière comme suite à leur détachement.
+
+- Les fonctionnaires de cette carrière en congé sans traitement ou en service à temps partiel à durée déterminée tant que leur administration n’a pas procédé à un nouvel engagement dans leur carrière.
+
+- Les vacances de poste résultant du départ de fonctionnaires - ou de stagiaires - de cette carrière, tant qu’elles ne sont pas pourvues de nouveaux titulaires de cette carrière.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -225,9 +418,19 @@ Les fonctionnaires qui d’après l’ancienne législation avaient une perspect
 
 En vue des avancements ultérieurs, le rang du fonctionnaire réintégré sur base de l’article 2 de l’article VIII relatif aux dispositions abrogatoire et transitoire de la loi du 19 mai 2003, est fixé comme suit:
 
+- pour le fonctionnaire réintégré sans avoir réussi à l’examen de promotion, par référence, pour la première promotion, à l’examen de fin de stage auquel il a réussi;
+
+- pour le fonctionnaire réintégré après avoir réussi à l’examen de promotion, par référence à cet examen;
+
+- pour le fonctionnaire réintégré et dont la carrière ne prévoit pas d’examen de promotion, par référence à l’examen de fin de stage auquel il a réussi.
+
 La période se situant entre la date de cessation des fonctions et la réintégration ultérieure du fonctionnaire est à considérer comme période d’interruption de service.
 
 Pour fixer le nouveau rang du fonctionnaire, il y a dans tous les cas mentionnés ci-dessus lieu d’admettre:
+
+- en cas de pluralité de réussites à ces différents examens, que l’intéressé se soit classé entre le fonctionnaire classé dernier du premier tiers et le fonctionnaire classé premier du deuxième tiers de la nouvelle promotion de rang égal ou immédiatement inférieur
+
+- en cas de réussite unique à l’examen, qu’il se soit classé au même rang que ce fonctionnaire de la nouvelle promotion de rang égal ou immédiatement inférieur.
 
 <a id="art-28"></a>
 ## Art. 28.
@@ -243,3 +446,19 @@ Pour l’application de l’article 14 paragraphe 6 à la carrière du technicie
 ## Art. 29.
 
 Toutes les dispositions légales et réglementaires contraires à la présente loi sont abrogées, à l’exception:
+
+- de l’article 1er paragraphe 2 de la loi du 31 janvier 1979 concernant l’organisation d’une filière administrative de la carrière supérieure dans les administrations de l’Etat
+
+- de l’article 2 de la loi du 26 avril 1979 modifiant la loi du 25 juillet 1977 remplaçant la loi du 22 avril 1974 concernant les emplois des carrières moyennes du rédacteur et du technicien diplômé dans les administrations de l’Etat
+
+- de l’article 4 de la loi modifiée du 20 mars 1970 portant réorganisation de l’administration de l’Enregistrement et des Domaines
+
+- de l’article 3. - B - de la loi modifiée du 17 avril 1964 portant réorganisation de l’administration des Contributions directes et des Accises
+
+- de l’article 11 de la loi modifiée du 20 mars 1970 portant réorganisation de l’administration des Postes et Télécommunications
+
+- des dispositions concernant les postes à attribution particulière et les postes placés hors cadre figurant dans les lois organiques des différents services et administrations
+
+- de l’article 1, paragraphe 2 de la loi modifiée du 30 juin 1947 portant organisation du Corps diplomatique
+
+- de l’article VI, alinéa 4 de la loi modifiée du 23 juillet 1952 concernant l’organisation militaire.

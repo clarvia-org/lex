@@ -28,6 +28,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 27/01/1990 : Règlement grand-ducal du 29 octobre 1986 fixant les modalités d'application de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité et de la loi du 26 juillet 1986 portant\na) création du droit à un revenu minimum garanti;\nb) création d'un service national d'action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité.
 
+Disposition préliminaire
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -49,10 +51,38 @@ La demande est réputée être faite à la date du dépôt prévue à l´alinéa
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Pour chaque personne faisant partie de la communauté domestique et pour laquelle un complément est demandé, la condition de résidence prévue à l'article 2 (1) a) de la loi doit être certifiée par la ou les communes où la personne a résidé au Luxembourg. Pour les enfants, seule la condition de résidence au moment de la demande doit être certifiée par la commune.
+
+Pour chaque enfant est à joindre une attestation de la caisse nationale des prestations familiales certifiant que l'enfant a droit aux allocations familiales.
+
+(2)
+
+Pour les personnes âgées de moins de soixante ans, est à joindre à la demande en outre et selon le cas:
+
+- une attestation d'affiliation obligatoire à un régime de pension contributif ou non-contributif;
+
+- une attestation du régime de pension ou de l'association d'assurance contre les accidents que la personne bénéficie d'une pension d'invalidité ou d'une rente plénière;
+
+- une attestation de l'administration de l'emploi certifiant que la personne est inscrite comme demandeur d'emploi;
+
+- une attestation du service certifiant que la personne est disposée à répondre aux conditions de l'article 11 de la loi.
+
+En ce qui concerne les requérants inaptes au travail et âgés de moins de soixante ans, l'organisme compétent peut demander un rapport du contrôlemédical de la sécurité sociale attestant que les conditions prévues à l'article 2(2)a) de la loi sont remplies. Il en est de même des bénéficiaires du revenu minimum garanti qui demandent la majoration du complément en vertu du paragraphe (4) de l'article 3 de la loi.
+
 <a id="art-4"></a>
 ## Art. 4.
 
 La demande du requérant donne lieu à l'établissement, par l'organisme compétent, d'un dossier qui comporte:
+
+- un rapport établi à la suite d'une enquête sur la situation de revenu et de fortune du requérant et de toutes les personnes qui vivent avec lui en communauté domestique;
+
+- la décision notifiée au requérant concernant l'octroi ou le refus du complément;
+
+- une attestation, en cas d'octroi du complément, certifiant l'affiliation du bénéficiaire à une caisse de maladie;
+
+- le cas échéant, un rapport établi sur base d'une enquête sociale.
 
 Si, au moment de l'octroi du complément, le bénéficiaire n'est pas encore affilié à l'assurance maladie, le fonds présente immédiatement, le cas échéant à la demande de l'office compétent, une demande d'affiliation à la caisse nationale d'assurance maladie des ouvriers afin de régulariser la situation du bénéficiaire conformément à l'article 9 de la loi.
 
@@ -101,12 +131,32 @@ Sont à déclarer comme revenu tous les éléments de ressources annuelles, en f
 
 Sont notamment à déclarer:
 
+- les revenus d´un travail régulier ou occasionnel ou généralement d´une activité professionnelle quelconque;
+
+- les revenus de biens mobiliers et immobiliers;
+
+- les rentes ou pensions accordées à un titre quelconque;
+
+- les droits d´habitation, d´usufruit et d´entretien.
+
 <a id="art-10"></a>
 ## Art. 10.
 
 Sont à déclarer comme fortune tous les éléments considérés comme tels par la loi sur l´impôt sur la fortune, mais en faisant abstraction de tous abattements et exonérations et sans qu´il soit tenu compte de toute déduction.
 
 Sont notamment à déclarer:
+
+- les moyens de paiement selon la valeur nominale;
+
+- les prêts, les avoirs en compte et généralement les créances selon leur valeur recouvrable;
+
+- les actions, les parts de société, les obligations, selon leur valeur boursière ou, à défaut, selon leur valeur vénale réelle;
+
+- les immeubles de toute nature, bâtis ou non bâtis, suivant leur valeur vénale;
+
+- les métaux précieux, les bijoux, perles, pierres précieuses, les objets de luxe, d´art, les collections, suivant leur valeur vénale;
+
+- le gros bétail, suivant la valeur marchande.
 
 <a id="art-11"></a>
 ## Art. 11.

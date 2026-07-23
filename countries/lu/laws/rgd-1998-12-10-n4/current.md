@@ -29,7 +29,21 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-La Commission d'Harmonisation, ci-après appelée « la commission », prévue par les articles 14 et 15 de la loi du 8.9.1998 réglant les relations entre l'État et les organismes oeuvrant dans les domaines social, familial et thérapeutique et ayant pour mission se compose de 20 membres effectifs et de 20 membres suppléants, dont 10 membres représentant l'État et 10 membres représentant les personnes physiques et morales ayant signé une convention avec l'État conformément aux dispositions de l'article 11 de la loi du 8.9.1998 précitée.
+La Commission d'Harmonisation, ci-après appelée « la commission », prévue par les articles 14 et 15 de la loi du 8.9.1998 réglant les relations entre l'État et les organismes oeuvrant dans les domaines social, familial et thérapeutique et ayant pour mission
+
+- d'émettre un avis sur la convention-type, ainsi que sur toute proposition de modification y relative ;
+
+- de faire des propositions de mise en œuvre et, en général, de surveiller l'application des conventions ;
+
+- de faire, à la demande du ministre compétent, des propositions d'arbitrage en cas de litige entre parties ;
+
+- d'opérer une analyse et d'émettre un avis sur les décomptes annuels des frais de fonctionnement des services conventionnés ;
+
+- de faire des recommandations en vue d'une coordination et d'une planification des différentes activités pour lesquelles l'État accorde une participation financière ;
+
+- d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement toute question se rapportant aux activités visées à l'art. 1er de la loi du 8.9.1998 précitée ;
+
+se compose de 20 membres effectifs et de 20 membres suppléants, dont 10 membres représentant l'État et 10 membres représentant les personnes physiques et morales ayant signé une convention avec l'État conformément aux dispositions de l'article 11 de la loi du 8.9.1998 précitée.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -39,7 +53,45 @@ Les membres, dont 1 président et 1 vice-président, sont nommés par le Grand-D
 <a id="art-3"></a>
 ## Art. 3.
 
-Parmi les dix membres représentant l’État respectivement Parmi les dix membres représentant les personnes physiques et morales ayant signé une convention avec l’État et sur proposition des organismes représentant ces dernières au niveau national, sont nommés respectivement :
+Parmi les dix membres représentant l’État respectivement
+
+- 1 membre est nommé sur proposition du ministre ayant la Fonction publique dans ses attributions ;
+
+- 1 membre est nommé sur proposition du ministre ayant l’Égalité entre les femmes et les hommes dans ses attributions ;
+
+- 1 membre est nommé sur proposition du ministre ayant les Finances dans ses attributions ;
+
+- 1 membre est nommé sur proposition du ministre ayant la Santé dans ses attributions ;
+
+- 3 membres sont nommés sur proposition du ministre ayant la Famille et l’Intégration dans ses attributions ;
+
+- 3 membres sont nommés sur proposition du ministre ayant l’Enfance et la Jeunesse dans ses attributions.
+
+Parmi les dix membres représentant les personnes physiques et morales ayant signé une convention avec l’État et sur proposition des organismes représentant ces dernières au niveau national, sont nommés respectivement :
+
+- 1 membre représentant les services œuvrant dans le domaine de l’Égalité entre les femmes et les hommes, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+- 1 membre représentant les services œuvrant dans le domaine de la Santé, à proposer par l’entente des gestionnaires des structures complémentaires et extrahospitalières en psychiatrie (EGSP) ;
+
+- 3 membres représentant les services œuvrant dans le domaine de la Famille et de l’Intégration, dont
+
+  - 1 membre représentant les services œuvrant dans le domaine des personnes âgées, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+  - 1 membre représentant les services œuvrant dans le domaine des personnes handicapées, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+  - 1 membre représentant les services œuvrant dans les domaines des adultes et des services d’assistance, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+- 5 membres représentant les services œuvrant dans le domaine de l’Éducation nationale, de l’Enfance et de la Jeunesse, dont
+
+  - 1 membre représentant les services œuvrant dans les domaines des structures d’accueil pour jeunes, jeunes adultes avec hébergement et internats, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+  - 1 membre représentant les services œuvrant dans le domaine des structures d’accueil pour jeunes sans hébergement, à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+  - 1 membre représentant les services œuvrant dans les domaines de l’assistance parentale et des familles d’accueil à proposer par la Fédération des acteurs du secteur social au Luxembourg (FEDAS) ;
+
+  - 1 membre représentant les services œuvrant dans le domaine des maisons de jeunes, à proposer par le Daachverband vun de Lëtzebuerger Jugendstrukturen (DLJ) ;
+
+  - 1 membre représentant les services communaux œuvrant dans les domaines d’accueil des jeunes sans hébergement et des maisons de jeunes, à proposer par le syndicat des villes et communes luxembourgeoises (SYVICOL).
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -64,7 +116,11 @@ La commission se réunit sur convocation de son président ou de celui qui le re
 <a id="art-8"></a>
 ## Art. 8.
 
-La commission délibère valablement si la majorité de ses membres est présente. Les avis, propositions et recommandations de la commission sont adoptés à la majorité des voix des membres présents ou représentés. Le membre suppléant remplace le membre effectif empêché. Dans la mesure du possible la commission élabore des avis, propositions et recommandations uniques. Les avis minoritaires sont transmis avec les avis, propositions et recommandations majoritaires. Le secrétaire dresse un compte-rendu de chaque réunion qui est transmis à chaque membre effectif et suppléant.
+La commission délibère valablement si la majorité de ses membres est présente. Les avis, propositions et recommandations de la commission sont adoptés à la majorité des voix des membres présents ou représentés.
+
+Le membre suppléant remplace le membre effectif empêché.
+
+Dans la mesure du possible la commission élabore des avis, propositions et recommandations uniques. Les avis minoritaires sont transmis avec les avis, propositions et recommandations majoritaires. Le secrétaire dresse un compte-rendu de chaque réunion qui est transmis à chaque membre effectif et suppléant.
 
 <a id="art-9"></a>
 ## Art. 9.

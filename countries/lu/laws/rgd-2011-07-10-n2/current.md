@@ -28,12 +28,128 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Les disciplines reconnues comme spécialités en médecine sont les suivantes: 6bis. 26bis.
+Les disciplines reconnues comme spécialités en médecine sont les suivantes:
+
+- Anesthésiologie
+
+- Allergologie
+
+- Anatomie pathologique
+
+- Biologie clinique
+
+- Cardiologie
+
+- Chimie biologique
+
+- 6bis. Chirurgie cardiaque
+
+- Chirurgie dentaire, orale et maxillo-faciale (formation médicale de base et formation dentaire)
+
+- Chirurgie des vaisseaux
+
+- Chirurgie plastique
+
+- Chirurgie gastro-entérologique
+
+- Chirurgie générale
+
+- Chirurgie maxillo-faciale (formation de base de médecine)
+
+- Chirurgie pédiatrique
+
+- Chirurgie thoracique
+
+- Dermatologie
+
+- Dermato-vénérologie
+
+- Endocrinologie
+
+- Gastro-entérologie
+
+- Gériatrie
+
+- Gynécologie et obstétrique
+
+- Hématologie biologique
+
+- Hématologie générale
+
+- Immunologie
+
+- Maladies contagieuses
+
+- Médecine génétique
+
+- Médecine interne
+
+- 26bis. Médecine du sport
+
+- Médecine du travail
+
+- Médecine nucléaire
+
+- Médecine physique et de réadaptation
+
+- Médecine tropicale
+
+- Microbiologie-bactériologie
+
+- Néphrologie
+
+- Neurochirurgie
+
+- Neurologie
+
+- Neurophysiologie clinique
+
+- Neuropsychiatrie
+
+- Oncologie médicale
+
+- Ophtalmologie
+
+- Orthopédie
+
+- Oto-rhino-laryngologie
+
+- Pédiatrie
+
+- Pharmacologie
+
+- Pneumologie
+
+- Psychiatrie
+
+- Psychiatrie infantile
+
+- Radiodiagnostic
+
+- Radiologie
+
+- Radiothérapie
+
+- Rhumatologie
+
+- Santé publique et médecine sociale
+
+- Stomatologie
+
+- Médecine d’urgence
+
+- Urologie
+
+- Vénérologie.
 
 <a id="art-2"></a>
 ## Art. 2.
 
 Les disciplines reconnues comme spécialités en médecine dentaire sont les suivantes:
+
+- Orthodontie
+
+- Chirurgie buccale.
 
 <a id="art-3"></a>
 ## Art. 3.

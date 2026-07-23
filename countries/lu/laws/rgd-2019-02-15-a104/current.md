@@ -37,6 +37,10 @@ Les maladies sujettes à déclaration obligatoire par les médecins, médecins-d
 
 L’annexe B détermine les délais endéans desquels la souche ou le matériel biologique est à transférer par le laboratoire d’analyses médicales au laboratoire national de référence après établissement du diagnostic, ainsi que :
 
+- la liste des maladies à déclaration obligatoire pour lesquelles, la souche bactérienne, virale ou parasitaire isolée sur un patient, ou à défaut de souche, le matériel biologique, est à transférer d’emblée, après établissement du diagnostic, au laboratoire national de référence, sans demande spécifique de l’autorité sanitaire ;
+
+- les souches bactériennes, virales ou parasitaires pour lesquelles le ministre ayant la Santé dans ses attributions peut nommer un laboratoire national de référence.
+
 <a id="art-3"></a>
 ## Art. 3.
 

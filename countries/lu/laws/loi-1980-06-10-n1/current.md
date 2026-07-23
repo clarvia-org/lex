@@ -39,7 +39,21 @@ Les besoins en personnel enseignant sont établis conformément aux dispositions
 
 Le volume de la tâche hebdomadaire normale des enseignants est fixé par règlement grand-ducal.
 
-Peuvent être pris en considération pour le calcul d'une tâche les éléments suivants: les leçons d'enseignement, y compris celles assumées dans le cadre de la pédagogie de soutien ou de l'éducation des adultes; les activités de recherche pédagogique, scientifique ou culturelle; les activités concernant la formation pédagogique des aspirants-professeurs ainsi que les activités de formation continue des enseignants en service; les activités de guidance des élèves; les activités d'animation socio-culturelle et sportive; les activités administratives; les activités de surveillance et de remplacement.
+Peuvent être pris en considération pour le calcul d'une tâche les éléments suivants:
+
+- les leçons d'enseignement, y compris celles assumées dans le cadre de la pédagogie de soutien ou de l'éducation des adultes;
+
+- les activités de recherche pédagogique, scientifique ou culturelle;
+
+- les activités concernant la formation pédagogique des aspirants-professeurs ainsi que les activités de formation continue des enseignants en service;
+
+- les activités de guidance des élèves;
+
+- les activités d'animation socio-culturelle et sportive;
+
+- les activités administratives;
+
+- les activités de surveillance et de remplacement.
 
 Le mode de computation des différents éléments est fixé par le même règlement grand-ducal qui tient compte des années de service et d'âge de l'enseignant, du niveau de performance obtenu à l'occasion de l'appréciation de ses compétences professionnelles, de l'effectif et du niveau des classes, de la somme de travail à consacrer à la préparation du travail en classe, à la correction des devoirs, à la formation permanente, aux exigences de la collaboration pédagogique et aux réunions de service découlant de la fonction occupée.
 
@@ -57,6 +71,44 @@ Les enseignants participent sur une période de trois ans à quarante-huit heure
 
 <a id="art-6"></a>
 ## Art. 6.
+
+I.
+
+L’admission au stage pédagogique préparatoire aux fonctions enseignantes des différents ordres d’enseignement secondaire a lieu par décision du Ministre de l’Éducation Nationale.
+
+Pour chaque fonction et spécialité, le Ministre de l’Éducation Nationale arrête chaque année le nombre des candidats à admettre au stage dans la limite fixée au programme de recrutement prévu à l’article 16 de la présente loi.
+
+II.
+
+Sans préjudice des autres conditions légales et réglementaires, nul ne peut être admis au concours s’il n’a pas réussi aux épreuves préliminaires visant à vérifier qu’il a une connaissance suffisante des trois langues utilisées dans l’enseignement,à savoir le français, l’allemand et le luxembourgeois.
+
+La vérification des connaissances linguistiques tient compte des rôles respectifs joués par les trois langues dans l’enseignement.
+
+Une dispense peut être accordée notamment dans le cas où les titres de formation garantissent que le niveau requis des connaissances linguistiques est atteint. Les dispenses sont accordées par décision du Ministre de l’Éducation nationale suivant des conditions fixées par règlement grand-ducal.
+
+III.
+
+Le recrutement de stagiaires des différentes fonctions et spécialités se fait par voie de concours.
+
+Les modalités du concours de recrutement, la composition du jury et la notation des épreuves sont établies par règlement grand-ducal sous réserve des dispositions suivantes:
+
+- le concours comporte les épreuves de classement portant sur la matière dans laquelle le candidat a obtenu le diplôme requis pour l'admission au stage;
+
+- l'admissibilité aux épreuves de classement est subordonnée à l'obtention de résultats satisfaisants aux épreuves préliminaires;
+
+- dans chaque fonction et spécialité, le classement final des candidats est établi sur la base des résultats obtenus aux épreuves de classement.
+
+Dans la fonction et spécialité concernées, les candidats sont admis au stage dans l’ordre de leur classement jusqu’à concurrence du nombre des admissions au stage arrêté conformément au paragraphe Ier du présent article.
+
+IV.
+
+Les conditions légales et réglementaires fixant l’accès au stage ou à la fonction pour les fonctions enseignantes concernées sont applicables à l’admissibilité des candidatures au concours de recrutement, à l’exception des dispositions réglant le stage et l’examen de fin de stage.
+
+Un règlement grand-ducal peut requérir une expérience professionnelle et en déterminer la durée.
+
+L'admissibilité des candidatures au concours de recrutement est prononcée par le ministre de l'Éducation nationale. Les commissions consultatives prévues par la loi du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur et par la loi modifiée du 10 mai 1968 portant réforme de l'enseignement secondaire émettent un avis quant à la conformité des diplômes avec la réglementation. Le ministre peut instituer des commissions consultatives chargées d'examiner les études, les diplômes et, le cas échéant l'expérience professionnelle des candidats à une fonction enseignante de l'enseignement secondaire technique.
+
+La directive du Conseil du 21 décembre 1988, n° 89/48/CEE, relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, est applicable pour l'admissibilité des candidatures au concours de recrutement selon des modalités à fixer par règlement grand-ducal.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -76,7 +128,11 @@ Chaque année, les directeurs des établissements d'enseignement secondaire soum
 
 En collaboration avec les directeurs, le ministre prend toutes mesures de coordination visant à l'équilibrage des effectifs scolaires entre les établissements d'enseignement secondaire et à l'utilisation adéquate des bâtiments, installations et équipements scolaires.
 
-Le ministre pourra notamment transférer des élèves d'un établissement à un autre, dans le respect des projets d'études et des intérêts légitimes des élèves et de leurs parents; détacher partiellement ou totalement des enseignants à un ou plusieurs établissements différents de leur établissement de nomination selon les besoins du service. Un règlement grand-ducal fixe les modalités et les conditions suivant lesquelles des frais de route sont accordés en cas de détachement partiel.
+Le ministre pourra notamment
+
+- transférer des élèves d'un établissement à un autre, dans le respect des projets d'études et des intérêts légitimes des élèves et de leurs parents;
+
+- détacher partiellement ou totalement des enseignants à un ou plusieurs établissements différents de leur établissement de nomination selon les besoins du service. Un règlement grand-ducal fixe les modalités et les conditions suivant lesquelles des frais de route sont accordés en cas de détachement partiel.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -98,7 +154,19 @@ Chaque année, trois mois au plus tard avant le début de la période quinquenna
 <a id="art-12"></a>
 ## Art. 12.
 
-Pour la détermination des besoins actuels et l'évaluation des besoins futurs de la période sous examen, la commission tient compte notamment: des besoins spécifiques déclarés et justifiés par les directeurs des divers établissements d'enseignement; des normes pédagogiques communément admises en matière d'effectifs par classe ou cours; de l'évolution démographique générale et régionale et plus particulièrement de celle des effectifs scolaires globaux prévisibles; de la tâche des enseignants telle qu'elle aura été fixée en exécution des dispositions de la présente loi; de la réalisation progressive de la mission des établissements d'enseignement telle qu'elle est définie à l'art. 2 ci-avant, ainsi que par les dispositions légales et réglementaires spécifiques aux divers ordres d'enseignement; des besoins de la formation pédagogique initiale et des activités de formation pédagogique et scientifique continue des enseignants.
+Pour la détermination des besoins actuels et l'évaluation des besoins futurs de la période sous examen, la commission tient compte notamment:
+
+- des besoins spécifiques déclarés et justifiés par les directeurs des divers établissements d'enseignement;
+
+- des normes pédagogiques communément admises en matière d'effectifs par classe ou cours;
+
+- de l'évolution démographique générale et régionale et plus particulièrement de celle des effectifs scolaires globaux prévisibles;
+
+- de la tâche des enseignants telle qu'elle aura été fixée en exécution des dispositions de la présente loi;
+
+- de la réalisation progressive de la mission des établissements d'enseignement telle qu'elle est définie à l'art. 2 ci-avant, ainsi que par les dispositions légales et réglementaires spécifiques aux divers ordres d'enseignement;
+
+- des besoins de la formation pédagogique initiale et des activités de formation pédagogique et scientifique continue des enseignants.
 
 <a id="art-13"></a>
 ## Art. 13.

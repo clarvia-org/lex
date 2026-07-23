@@ -31,10 +31,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Seront indemnisés sous les conditions et modalités ci-après:
 
+- les Luxembourgeois qui depuis le 10 mai 1940 ont subi un dommage de guerre à leurs biens, tant mobiliers qu’immobiliers situés dans le Grand-Duché, ainsi que ceux qui, s’y trouvant domiciliés à cette date ou à celle du sinistre, ont éprouvé un dommage à leur personne;
+
+- les personnes, qui le 10 mai 1940 étaient de nationalité luxembourgeoise et ont accepté dans la suite la nationalité d’un pays allié, aux fins de s’enrôler dans les armées de ce pays et d’y combattre l’ennemi, si elles remplissent les autres conditions de dédommagement prévues sub a).
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Pourront être indemnisés en tout ou en partie de l’accord du ministre compétent:
+
+- les Luxembourgeois domiciliés à l’étranger devenus victimes politiques au sens des dispositions du titre II, exclusivement pour leur dommage politique et corporel;
+
+- les apatrides et les étrangers domiciliés depuis 1930 au Grand-Duché et qui ont rendu des services signalés au pays.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -61,6 +69,12 @@ Les dommages de guerre seront indemnisés dans les limites des crédits budgéta
 
 Le paiement se fera au fur et à mesure des liquidités mises à la disposition du Ministère des Dommages de Guerre. Ces liquidités seront utilisées suivant les principes édictés par un règlement d’administration publique à prendre sur avis obligatoire du Conseil d’État. Ce règlement établira pour l’octroi des indemnités un système de priorités tenant compte à la fois
 
+- de la priorité à accorder à la réparation des dommages subis par les victimes de la répression nazie,
+
+- de l’intérêt économique du pays,
+
+- de la situation et des besoins des sinistrés.
+
 Les sommes avancées, de l’accord des Ministres de la Reconstruction et des Dommages de Guerre, par le sinistré lui-même pour la reconstruction ou la réparation de ses immeubles seront remboursées par le Ministère des Dommages de Guerre aux conditions et d’après les modalités à fixer par arrêté ministériel.
 
 Ces avances porteront intérêts, dont le taux sera déterminé par arrêté ministériel, à partir du premier janvier de la troisième année suivant leur déboursement.
@@ -81,6 +95,12 @@ Les conditions d’émission, d’attribution, de négociabilité et de rembours
 ## Art. 8.
 
 Seront défalquées:
+
+- les sommes déjà versées à titre de dédommagement des sinistrés de la guerre et des victimes politiques notamment par l’État, les communes, l’Office de récupération économique, les oeuvres sociales ou par des tiers reconnus responsables;
+
+- les sommes, primes correspondantes déduites, qui auraient été payées aux intéressés en exécution d’un contrat d’assurance contre les suites préjudiciables des actes de guerre;
+
+- les sommes allouées par des pays étrangers au titre des dommages de guerre pour des causes donnant lieu à indemnisation en vertu de la présente loi.
 
 Les assurances-vie ne sont pas défalquées.
 
@@ -107,6 +127,10 @@ Si le dommage a été causé en tout ou en partie par la faute du sinistré ou d
 Sont exclues du bénéfice de la présente loi les personnes qui, du chef d’une des infractions prévues par les articles 113 à 123octies du Code pénal ou du chef du délit prévu par l’art. 4 de l’arrêté grand-ducal du 22 avril 1941, relatif aux mesures de dépossession effectuées par l’ennemi, auront été condamnées par une décision coulée en force de chose jugée.
 
 L’indemnisation pourra être refusée en tout ou en partie.
+
+- aux personnes physiques ou morales dont le comportement ou l’activité durant l’occupation a donné lieu à une réprobation telle qu’un acte de solidarité et de secours de la communauté ne se justifierait pas à leur égard;
+
+- à celui qui, du chef de l’une des infractions prévues par l’art. 16 ci-après, aura été condamné par une décision coulée en force de chose jugée.
 
 Contre la décision de refus total ou partiel un recours est ouvert aux personnes visées à l’alinéa qui précède dans les formes et délais des articles 22 et suivants ci-après.
 
@@ -153,6 +177,10 @@ Les déclarations frauduleuses ne peuvent plus être rectifiées si l’intéres
 ## Art. 16.
 
 Sera puni d’un emprisonnement de 8 jours à 3 ans et d’une amende de 251 euros à 125.000 euros ou d’une de ces peines seulement:
+
+- quiconque aura sciemment fourni des déclarations fausses sur un fait décisif quant au fondement ou quant au montant de ses prétentions au dédommagement;
+
+- quiconque, dans le but de faire agréer une demande injustifiée ou exagérée, aura influencé ou tenté d’influencer des témoins, experts ou toutes autres personnes.
 
 Les juges pourront ordonner la publication de leur décision dans un ou plusieurs quotidiens aux frais de la personne condamnée.
 
@@ -302,6 +330,22 @@ Les personnes visées à l’article 1er et domiciliées au Grand-Duché le 10 m
 
 Peuvent se prévaloir de la disposition qui précède:
 
+- Les ayants droit des personnes exécutées ou mises à mort par l’ennemi en raison de leur attitude patriotique ou tombées en combattant l’ennemi.
+
+- Les personnes qui ont été emprisonnées ou internées dans un camp de concentration en raison de leur attitude patriotique.
+
+- Les déportés politiques, si leur attitude patriotique a été le motif principal de leur déportation.
+
+- Les personnes destituées de leurs fonctions, celles auxquelles l’exercice de leur profession a été interdit, par les autorités ennemies, exclusivement en raison de leur attitude patriotique ainsi que celles qui, par un acte de pure résistance et afin de se désolidariser de l’occupant, ont intentionnellement renoncé à leurs fonctions ou à l’exercice de leur profession.
+
+- Les personnes qui ont été déclassées quant à leur traitement ou salaire exclusivement en raison de leur attitude patriotique.
+
+- Les personnes auxquelles les autorités ennemies ont soustrait leurs rentes ou pensions exclusivement en raison de leur attitude patriotique.
+
+- Les personnes qui volontairement ont combattu dans les armées alliées ou dans les armées clandestines alliées.
+
+- Les personnes qui, pour se soustraire aux mesures de rigueur de l’occupant, auxquelles elles étaient exposées en raison de leur activité patriotique dans une organisation de résistance ou d’actes de résistance individuelle caractérisés, même antérieurement au 10 mai 1940, se sont évadées ou cachées, si elles n’avaient pas d’autre moyen d’éviter un danger imminent pour leur vie ou leur liberté.
+
 Le preuve de l’attitude patriotique incombe à l’impétrant.
 
 <a id="art-36bis"></a>
@@ -327,6 +371,12 @@ Le dommage politique sera indemnisé suivant les dispositions ci-après.
 Ce dommage consiste, après conversion, aux taux de 1 RM = 0,25 euros, s’il échet, dans la différence entre le revenu normal que le sinistré aurait eu s’il avait pu librement vaquer à son occupation ordinaire et les revenus qu’il a effectivement eux. Il sera majoré des frais exceptionnels qui ont été une suite directe de la sanction.
 
 Le calcul de cette différence sera fait:
+
+- sur la base du traitement salaire ou revenu normal que le sinistré a gagné pendant la période de l’occupation avant le fait dommageable;
+
+- si le sinistré pendant le temps de l’occupation n’avait pas de traitement, salaire ou revenu normal, son revenu moyen des années 1936, 1937, 1938, 1939 majoré de 50% en raison de l’augmentation du coût de la vie pendant la guerre sera mis à la base du calcul;
+
+- si le sinistré âgé de plus de 18 ans n’avait pas de traitement, salaire ou revenu normal, ni avant le temps de l’occupation, ni pendant ce temps, le salaire qui servira de base au calcul ne pourra pas être inférieur à 37,18 euros par mois.
 
 <a id="art-40"></a>
 ## Art. 40.
@@ -366,7 +416,41 @@ Les personnes visées à l’article 1er et domiciliées au Grand-Duché le 10 m
 <a id="art-45"></a>
 ## Art. 45.
 
-Sont à considérer comme actes de guerre: Tombent notamment sous cette catégorie:
+Sont à considérer comme actes de guerre:
+
+- Les opérations de combat, sans distinction de la nationalité des belligérants, et les explosions d’engins de guerre, même celles qui se sont produites, en territoire luxembourgeois seulement, après la cessation des hostilités, mais au plus tard jusqu’au 10 septembre 1954;
+
+- Les mesures ordonnées par les autorités militaires ou civiles et qui sont en relation directe avec les actes de guerre;
+
+- Les actes de l’ennemi ou de ses organisations contre les personnes visées aux articles 1er et 2. Tombent notamment sous cette catégorie:
+
+  - les personnes qui, en raison de leur attitude patriotique, ont été exécutées par l’ennemi ou qui sont mortes soit dans des camps de concentration et des prisons, soit des suites de l’incarcération;
+
+  - les personnes emprisonnées ou internées dans un camp de concentration pour des raisons politiques;
+
+  - les déportés politiques;
+
+  - les personnes destituées de leurs fonctions ou celles auxquelles l’exercice de leur profession a été interdit par les autorités ennemies pour des raisons politiques;
+
+- Le fait de personnes qui, pour se soustraire aux mesures de rigueur de l’occupant, auxquelles elles étaient exposées en raison de leur activité patriotique dans une organisation de résistance ou d’actes de résistance individuelle caractérises, se sont évadées ou cachées, si elles n’avaient pas d’autre moyen d’éviter un danger imminent pour leur vie ou leur liberté;
+
+- les actes exécutés pour la défense ou la libération de la patrie, notamment par:
+
+  - l’enrôlement dans les armées et formations paramilitaires alliées;
+
+  - la collaboration pour des motifs patriotiques à un service de renseignement et d’action luxembourgeois ou allié;
+
+  - la collaboration à une organisation de résistance;
+
+  - la tentative de rejoindre les armées alliées;
+
+  - la désertion de l’armée allemande ou d’une formation paramilitaire allemande par un non-volontaire;
+
+  - l’insoumission à l’armée allemande, à l’S.H.D., à l’R.A.D. ou K.H.D., ainsi qu’aux formations paramilitaires allemandes;
+
+- Les mutilations volontaires pour échapper au service militaire dans l’armée allemande ainsi qu’aux formations énumérées sub 5 f).
+
+- L’enrôlement forcé dans l’armée allemande ainsi qu’aux formations énumérées sub 5 f).
 
 <a id="art-46"></a>
 ## Art. 46.
@@ -393,12 +477,68 @@ Pour l’application des alinéas 3 et 5 du présent article, il n’est pas ten
 <a id="art-48"></a>
 ## Art. 48.
 
-En cas de décès des personnes devenues victimes en raison de leur attitude patriotique, l’indemnisation des ayants droit se fera d’après les règles suivantes, sans préjudice des dispositions légales, réglementaires ou statutaires sur les pensions: Chaque enfant à sa charge aura droit à 10% du même traitement jusqu’à l’âge de 18 ans accomplis. En cas de remariage de la veuve la rente de chaque orphelin sera portée à 15% du traitement susvisé, sans pouvoir être inférieure au montant de la pension se dégageant de l’application des dispositions légales, réglementaires ou statutaires sur les pensions. Dans ces cas, la rente ne pourra pas dépasser le montant de la pension alimentaire. Il sera loisible au Ministre des Dommages de Guerre de convertir cette rente en un capital unique. La même moyenne, établie en considération de la profession ou de la formation professionnelle de la victime, servira de base à l’indemnisation des ayants droit de ceux qui, bien que n’ayant pas exécuté de travail lucratif pendant ces trois années, ont cependant exercé leur profession pendant la guerre ou auraient pu l’exercer après la libération, s’ils n’avaient pas succombé à la suite de faits de guerre. Les modalités de fixation et de calcul du traitement, salaire ou revenu moyen feront l’objet d’un règlement d’administration publique qui fixera en outre pour chaque année un coefficient adaptant les salaires, traitements et revenus prévus à l’alinéa précédent aux rémunérations de l’époque afférente et tenant compte des conditions d’âge, de profession ou de formation professionnelle de la victime. Les salaires, traitements et revenus à fixer ne peuvent être inférieurs au salaire minimum ou au salaire social minimum, augmenté de 20%. Le coefficient est fixé à 84,0 pour l’année 2022. Pour les années suivantes, le coefficient représente pour une année de calendrier le produit de la multiplication du coefficient de l’année précédente par le facteur de réajustement de l’année considérée au titre de l’article 225bis du Code de la sécurité sociale et par la somme de l’unité et du taux de variation de la cote d’application au titre de l’article 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État au 1er septembre entre l’avant-dernière année et la dernière année.
+En cas de décès des personnes devenues victimes en raison de leur attitude patriotique, l’indemnisation des ayants droit se fera d’après les règles suivantes, sans préjudice des dispositions légales, réglementaires ou statutaires sur les pensions:
+
+- – S’il s’agit d’ayants droit d’un fonctionnaire de l’État, des communes, des établissements publics ou des employés aux chemins de fer:
+
+  - La veuve touchera une rente équivalente à 80% du traitement intégral – y compris les allocations familiales, l’indemnité de foyer et les triennales – qu’aurait touché le mari d’après la législation luxembourgeoise; à partir de la limite d’âge telle qu’elle était fixée pour le mari, la veuve touchera 80% de la pension intégrale à laquelle son mari aurait eu droit. Chaque enfant à sa charge aura droit à 10% du même traitement jusqu’à l’âge de 18 ans accomplis. En cas de remariage de la veuve la rente de chaque orphelin sera portée à 15% du traitement susvisé, sans pouvoir être inférieure au montant de la pension se dégageant de l’application des dispositions légales, réglementaires ou statutaires sur les pensions.
+
+  - L’orphelin de père et de mère touchera jusqu’à l’âge de 18 ans accomplis une rente équivalente à 30% du traitement susénoncé.
+
+  - Même après l’accomplissement de la dix-huitième année l’allocation de la rente visée sub 1. et 2. sera continuée:
+
+    - en faveur de tout orphelin atteint d’une infirmité qui le met dans l’impossibilité de subvenir par son travail aux nécessités de l’existence;
+
+    - en faveur de tout orphelin s’adonnant à des études scientifiques ou professionnelles, et ce pendant la durée normalement admise pour l’achèvement de celles-ci.
+
+  - Dans les cas où le divorce a été prononcé aux torts exclusifs du mari, la rente de veuve est allouée à l’épouse divorcée à la condition qu’un jugement ait alloué à l’épouse une pension alimentaire et qu’il n’y ait pas eu remariage. Dans ces cas, la rente ne pourra pas dépasser le montant de la pension alimentaire.
+
+  - Les dispositions concernant la pension de la veuve et des orphelins sont applicables au profit du veuf ainsi que des enfants manquant de ressources et laissés par une femme qui, en raison de l’incapacité de travail de son mari, a pourvu d’une façon essentielle à la subsistance de sa famille.
+
+  - Si la victime, âgée de seize ans au moins à la date du fait dommageable laisse des ascendants, ceux-ci touchent à titre de rente la différence entre leur revenu effectif et un revenu dont le montant sera déterminé par règlement grand-ducal. La rente ne pourra dépasser trente pour cent du salaire social minimum augmenté de vingt pour cent.
+
+  - Si la victime laisse des petits-enfants à l’entretien desquels elle a pourvu d’une façon prépondérante, ceux-ci en cas d’insuffisance de ressources touchent par personne 20% du traitement de la victime, au maximum 60% jusqu’à l’âge de 18 ans accomplis. Les dispositions de l’al. 3, a et b, seront également applicables.
+
+  - Les rentes réunies des survivants ne peuvent excéder le montant du traitement tel qu’il est établi sub A) 1. S’il y a plus de 2 enfants, la rente de chaque enfant devra être réduite proportionnellement.
+
+  - Les ascendants et les petits-enfants ne peuvent faire valoir leurs droits que lorsque le maximum susdit n’est pas absorbé par la rente de la veuve et des enfants.
+
+  - Il est alloué aux ayants droit de la victime une indemnité funéraire uniforme de 123,95 euros. Au cas où les frais d’enterrement auront été avancés par un tiers, celui-ci aura droit au remboursement des frais exposés jusqu’à concurrence du montant susmentionné.
+
+  - En cas de remariage de la veuve le paiement de la rente sera continué pendant 2 ans au maximum à condition que l’intéressée ait conservé la nationalité luxembourgeoise et qu’elle soit domiciliée au Grand-Duché. Il sera loisible au Ministre des Dommages de Guerre de convertir cette rente en un capital unique.
+
+- – Si la victime n’était pas fonctionnaire ou employé de l’État, des communes, des établissements publics ou des chemins de fer, les indemnités des ayants droit de la victime décédée seront calculées sur la base du traitement, salaire ou revenu moyen que la victime a réellement touché en 1937, 1938 et 1939. La même moyenne, établie en considération de la profession ou de la formation professionnelle de la victime, servira de base à l’indemnisation des ayants droit de ceux qui, bien que n’ayant pas exécuté de travail lucratif pendant ces trois années, ont cependant exercé leur profession pendant la guerre ou auraient pu l’exercer après la libération, s’ils n’avaient pas succombé à la suite de faits de guerre. Les modalités de fixation et de calcul du traitement, salaire ou revenu moyen feront l’objet d’un règlement d’administration publique qui fixera en outre pour chaque année un coefficient adaptant les salaires, traitements et revenus prévus à l’alinéa précédent aux rémunérations de l’époque afférente et tenant compte des conditions d’âge, de profession ou de formation professionnelle de la victime. Les salaires, traitements et revenus à fixer ne peuvent être inférieurs au salaire minimum ou au salaire social minimum, augmenté de 20%. Le coefficient est fixé à 84,0 pour l’année 2022. Pour les années suivantes, le coefficient représente pour une année de calendrier le produit de la multiplication du coefficient de l’année précédente par le facteur de réajustement de l’année considérée au titre de l’article 225bis du Code de la sécurité sociale et par la somme de l’unité et du taux de variation de la cote d’application au titre de l’article 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État au 1er septembre entre l’avant-dernière année et la dernière année.
 
 <a id="art-49"></a>
 ## Art. 49.
 
-Tous les dommages corporels non visés par l’article 48 seront indemnisés d’après les dispositions du Code de la sécurité sociale traitant des prestations en cas d’accident du travail et de maladie professionnelle, sauf les dérogations suivantes: Au cas où les infirmités ont entraîné un déclassement professionnel, la victime aura droit en outre à une indemnité correspondant à la différence entre l’ancien et le nouveau traitement. Elle sera cumulée avec le traitement. Si les mutilations, blessures ou maladies ont entraîné la mise à la retraite prématurée de la victime, celle-ci aura droit à une rente supplémentaire qui ne pourra dépasser 37,18 euros par mois, ni être inférieure à 7,44 euros par mois. Cette rente supplémentaire sera cumulée avec la pension. Les montants prévus correspondent au nombre indice cent et seront adaptés suivant les modes applicables aux traitements et pensions des fonctionnaires de l’État. La veuve et les orphelins d’une victime qui était fonctionnaire ou employé de l’État, des communes, des établissements publics ou des chemins de fer auront droit, en dehors de la pension due en vertu des dispositions légales ou statutaires, à une rente supplémentaire de 7,44 euros à 37,18 euros par mois, rente fixée en proportion de la part que l’événement de guerre a eue au décès prématuré de la victime. Cette rente supplémentaire sera cumulée avec la pension prémentionnée. Les montants prévus correspondent au nombre-indice cent et seront adaptés suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État. Le taux des autres rentes de veuve est fixé à 42,8% de la rémunération annuelle. Il sera porté à 53,5% de celleci, tant que la capacité de travail de la veuve est diminuée de 50% au moins par suite d’une maladie ou de toute autre infirmité; il en sera de même à partir du jour où la veuve aura atteint l’âge de 55 ans, ainsi que dans les cas où l’intéressée aura à sa charge un orphelin au-dessous de 6 ans accomplis. Les dispositions de l’article 164 de la loi du 17 décembre 1925 concernant le Code de la sécurité sociale ne sont pas applicables.
+Tous les dommages corporels non visés par l’article 48 seront indemnisés d’après les dispositions du Code de la sécurité sociale traitant des prestations en cas d’accident du travail et de maladie professionnelle, sauf les dérogations suivantes:
+
+- Le salaire, traitement ou revenu servant de base aux rentes à allouer est calculé d’après les dispositions de l’article 48 B, alinéas 1er à 3, sans préjudice des dispositions d et f qui suivent;
+
+- les incapacités de travail inférieures à 10% ne sont pas indemnisés;
+
+- le salaire usité local tel qu’il est prévu par l’article 100 du Code de la sécurité sociale sera remplacé par le salaire minimum gradué;
+
+- jusqu’à l’âge de 14 ans accomplis il ne sera pas accordé de rente aux victimes, sauf dans les cas de mutilations graves ou de blessures très douloureuses ou essentiellement défigurantes. Le salaire servant de base au calcul des indemnités sera dans ces cas de 25% du salaire minimum jusqu’à 14 ans accomplis et de 40% du salaire minimum de 14 à 16 ans accomplis;
+
+- si une infirmité ou une maladie a été aggravée par un fait de guerre, l’aggravation seule donnera lieu à une indemnité;
+
+- pour les personnes qui, antérieurement au dommage de guerre subi, étaient déjà frappées d’incapacité de travail, la fraction du salaire ou du traitement minimum correspondant au degré de capacité qui leur restait, servira de base au calcul de l’indemnité, à moins que le salaire ou le traitement réel ne dépasse ce taux;
+
+- pour les fonctionnaires ou employés de l’État, des communes, des établissements publics ou des chemins de fer, jouissant d’un droit à une pension de retraite, le traitement annuel servant de base au calcul de la rente ne pourra dépasser le montant fixé en application de l’article 93 alinéa 1er No 2 du Code de la sécurité sociale. Au cas où les infirmités ont entraîné un déclassement professionnel, la victime aura droit en outre à une indemnité correspondant à la différence entre l’ancien et le nouveau traitement. Elle sera cumulée avec le traitement. Si les mutilations, blessures ou maladies ont entraîné la mise à la retraite prématurée de la victime, celle-ci aura droit à une rente supplémentaire qui ne pourra dépasser 37,18 euros par mois, ni être inférieure à 7,44 euros par mois. Cette rente supplémentaire sera cumulée avec la pension. Les montants prévus correspondent au nombre indice cent et seront adaptés suivant les modes applicables aux traitements et pensions des fonctionnaires de l’État. La veuve et les orphelins d’une victime qui était fonctionnaire ou employé de l’État, des communes, des établissements publics ou des chemins de fer auront droit, en dehors de la pension due en vertu des dispositions légales ou statutaires, à une rente supplémentaire de 7,44 euros à 37,18 euros par mois, rente fixée en proportion de la part que l’événement de guerre a eue au décès prématuré de la victime. Cette rente supplémentaire sera cumulée avec la pension prémentionnée. Les montants prévus correspondent au nombre-indice cent et seront adaptés suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.
+
+- si la victime suivait encore des cours d’instruction ou de formation professionnelle, le salaire servant de base au calcul de l’indemnité sera fixée par une décision du Ministre des Dommages de Guerre, sans qu’il puisse être inférieur au salaire minimum gradué mentionné sub c;
+
+- si la victime, âgée de seize ans au moins à la date du fait dommageable laisse des ascendants, ceux-ci touchent à titre de rente la différence entre leur revenu effectif et un revenu dont le montant sera déterminé par règlement grand-ducal. La rente ne pourra dépasser trente pour cent du salaire social minimum augmenté de vingt pour cent.
+
+- il est alloué aux ayants droit de la victime une indemnité funéraire uniforme de 123,95 euros. Au cas où les frais funéraires auront été avancés par un tiers, celui-ci aura droit au remboursement des frais exposés jusqu’à concurrence du montant susmentionné;
+
+- le taux de la rente de la veuve des enrôlés de force est fixé à 50% de la rémunération annuelle. Le taux des autres rentes de veuve est fixé à 42,8% de la rémunération annuelle. Il sera porté à 53,5% de celleci, tant que la capacité de travail de la veuve est diminuée de 50% au moins par suite d’une maladie ou de toute autre infirmité; il en sera de même à partir du jour où la veuve aura atteint l’âge de 55 ans, ainsi que dans les cas où l’intéressée aura à sa charge un orphelin au-dessous de 6 ans accomplis.
+
+- les rentes des personnes soumises à l’assurance-accident, section agricole et forestière, seront calculées sur base d’un salaire annuel équivalant au salaire établi pour les travailleurs du Commerce et de l’Industrie. Les dispositions de l’article 164 de la loi du 17 décembre 1925 concernant le Code de la sécurité sociale ne sont pas applicables.
+
+- le Ministre des Dommages de Guerre peut accorder aux grands blessés, aux victimes hospitalisées ainsi qu’à leurs ayants droit un secours spécial; de même il peut accorder un secours approprié aux invalides de guerre pendant la durée de leur rééducation professionnelle;
 
 <a id="art-50"></a>
 ## Art. 50.

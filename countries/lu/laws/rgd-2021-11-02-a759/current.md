@@ -30,6 +30,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le Grand-Duché de Luxembourg reconnaît, conformément aux dispositions de l’article 3bis, paragraphes 1ter et 1quater, de la loi modifiée du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19 :
 
+- les certificats de vaccination Covid-19 des « Centers for Disease Control and Prevention (« CDC ») », qui constituent ensemble l’agence fédérale des États-Unis en matière de protection de la santé publique ;
+
+- les certificats de vaccination « Covid-19 Proof of Vaccination- Preuve de vaccination contre la Covid-19 » établis par le gouvernement du Canada ;
+
+- les certificats de vaccination établis par les Centres de contrôle et de prévention coréens (« Korean Centers for Disease, Control and Prevention »), organisations sous la responsabilité du ministre ayant la Santé dans ses attributions du gouvernement de Corée du Sud ;
+
+- les certificats de vaccination Covid-19 « Vaccination Certificate of Covid-19 » émis par les autorisés communales de la résidence de la personne vaccinée titulaire du certificat et comportant une référence au ministre ayant la Santé dans ses attributions du gouvernement du Japon ;
+
+- les certificats de vaccination Covid-19 émis par le « Sistema Único de Saúde - SUS » du gouvernement du Brésil ;
+
+- les certificats de vaccination Covid-19 émis par « Ministry of Health & Family Welfare, Government of India » du gouvernement de l’Inde.
+
 <a id="art-2"></a>
 ## Art. 2.
 

@@ -36,6 +36,12 @@ L'huissier immatriculé près du tribunal d'arrondissement porte le titre d'huis
 
 Pour pouvoir être nommé huissier de justice, il faut :
 
+- être Luxembourgeois et avoir la jouissance des droits civils et l’exercice des droits politiques ;
+
+- avoir accompli un stage dont les conditions et modalités sont fixées à l’article 3 ;
+
+- présenter le certificat de candidat-huissier de justice.
+
 <a id="art-3"></a>
 ## Art. 3.
 
@@ -60,6 +66,12 @@ Un règlement grand-ducal fixe les modalités d'organisation du stage, les condi
 Le candidat à un poste d’huissier de justice adresse sa demande au ministre de la Justice. Il est nommé par le Grand-Duc sur avis du procureur général d’État et de la Chambre des huissiers de justice. L’arrêt de nomination est publié au Journal officiel du Grand-Duché de Luxembourg.
 
 L’avis du procureur général d’État a pour objet de vérifier si le candidat dispose de l’honorabilité nécessaire à l’exercice des fonctions et missions d’huissier de justice. À cette fin, le procureur général d’État peut faire état :
+
+- des inscriptions au bulletin N°2 du casier judiciaire. Si le requérant possède également la nationalité d’un pays étranger, le procureur général d’État peut lui demander la remise d’un extrait du casier judiciaire ou d’un document similaire délivré par l’autorité publique compétente du ou des pays dont il a la nationalité ;
+
+- des informations issues des décisions judiciaires constatant des faits relatifs à une condamnation pénale pour crime ou délit et pour laquelle la réhabilitation n’est pas déjà atteinte au moment de l’introduction de la demande de candidature ;
+
+- des informations issues de tout acte de procédure constatant des faits susceptibles de constituer un crime ou délit, si ces faits font l’objet d’une procédure pénale en cours, à l’exclusion des faits ayant abouti à une décision d’acquittement, de non-lieu ou de classement sans suites.
 
 Pendant toute la durée où les faits en cause sont couverts par le secret de l’instruction prévu par l’article 8 du Code de procédure pénale, l’avis du procureur général d’État comporte uniquement le nom, le prénom et le numéro d’identification au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques ou, à défaut de ce numéro, la date de naissance et l’adresse ou la dernière adresse connue du candidat concerné, ainsi que la qualification juridique des faits reprochés.
 
@@ -125,6 +137,10 @@ Seules des associations entre huissiers de justice d'un même arrondissement jud
 ## Art. 13.
 
 L'huissier de justice est un officier ministériel qui a seul qualité
+
+- pour signifier les actes et les exploits et faire les notifications prévues par les lois et règlements lorsque le mode de notifications n'a pas été réglé par la loi;
+
+- pour procéder à l'exécution des décisions de justice ainsi que des actes ou titres en forme exécutoire.
 
 L’huissier de justice ayant sa résidence au lieu où siège un tribunal d’arrondissement peut signifier les actes du palais.
 
@@ -199,6 +215,12 @@ L'huissier de justice est obligé d'indiquer en marge de tous ces actes l'heure 
 
 Il est interdit à l'huissier de justice de mettre en compte:
 
+- des droits ou des frais non prévus aux tarifs des actes et des vacations;
+
+- des droits ou des frais plus élevés ou moindres que ceux indiqués aux tarifs des actes et des vacations;
+
+- des frais de bureau autres que ceux mentionnés aux tarifs.
+
 <a id="art-20"></a>
 ## Art. 20.
 
@@ -249,12 +271,16 @@ Si l’huissier de justice, qui est empêché temporairement d’exercer ses fon
 
 Sans pouvoir se faire remplacer pour une période inférieure à un jour, l'huissier de justice doit se faire remplacer par un remplaçant si son absence dépasse trois jours.
 
-Sans préjudice des articles 10 et 11, si la durée de remplacement dépasse trois mois, elle doit être autorisée par le tribunal d'arrondissement, chambre civile, sur requête du procureur d'État et sur avis versé au dossier de la Chambre des huissiers de justice. Dans ce cas, l'huissier de justice remplacé doit être remplacé par un huissier de justice suppléant ou par un huissier de justice.
+Sans préjudice des articles 10 et 11, si la durée de remplacement dépasse trois mois, elle doit être autorisée par le tribunal d'arrondissement, chambre civile, sur requête du procureur d'État et sur avis versé au dossier de la Chambre des huissiers de justice. Dans ce cas, l'huissier de justice remplacé doit être remplacé par un huissier de justice suppléant ou par un huissier de justice .
 
 <a id="art-25-1"></a>
 ## Art. 25-1.
 
 Le remplacement prend fin
+
+- soit à la date indiquée dans la communication visée à l'article 24 alinéa 2,
+
+- soit à la demande de l'huissier de justice remplacé ou du remplaçant.
 
 Dans l'hypothèse de l'alinéa 1er, point 2, une communication préalable doit être faite au procureur d'Etat avec copie transmise au président de la Chambre des huissiers de justice, au bâtonnier de l'Ordre des avocats et à l'Administration de l'enregistrement et des domaines.
 
@@ -308,7 +334,15 @@ Avant de saisir le tribunal d'arrondissement, le procureur d'Etat dresse un proc
 <a id="art-31"></a>
 ## Art. 31.
 
-Le tribunal d'arrondissement, chambre civile, exerce le pouvoir de discipline sur les huissiers de justice de l'arrondissement pour: 1bis.
+Le tribunal d'arrondissement, chambre civile, exerce le pouvoir de discipline sur les huissiers de justice de l'arrondissement pour:
+
+- violation des prescriptions légales et réglementaires concernant la profession;
+
+- 1bis. violation des obligations découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ;
+
+- fautes et négligences professionnelles;
+
+- faits contraires à la délicatesse et à la dignité professionnelle ainsi qu'à l'honneur et à la probité, le tout sans préjudice de l'action judiciaire pouvant résulter des mêmes faits.
 
 L'action disciplinaire résultant du manquement à la présente loi, à d'autres lois, arrêtés et règlements en la matière, se prescrit par trois ans. Au cas où la faute disciplinaire constitue en même temps une infraction à la loi pénale, la prescription de l'action disciplinaire n'est en aucun cas acquise avant la prescription de l'action publique.
 
@@ -318,6 +352,18 @@ Le délai de prescription prend cours à partir du jour où le manquement a ét�
 ## Art. 32.
 
 Les peines disciplinaires sont dans l'ordre de leur gravité:
+
+- l'avertissement;
+
+- la réprimande;
+
+- la privation du droit de vote dans l'assemblée générale avec interdiction de faire partie du conseil de la Chambre des huissiers de justice pendant six ans au maximum;
+
+- l’amende de 500 à 5.000 euros. En cas de non-respect des obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ou en cas d’obstacle à l’exercice des pouvoirs du Conseil de la Chambre des huissiers de justice en matière de lutte contre le blanchiment et contre le financement du terrorisme, le maximum de l’amende est porté à 250.000 euros ;
+
+- la suspension de l'exercice de la fonction pour un terme qui ne peut être inférieur à quinze jours, ni excéder trois ans;
+
+- la destitution.
 
 Au cas où une sanction est prononcée, les frais provoqués par la poursuite disciplinaire sont mis à charge du condamné; dans le cas contraire, ils restent à charge de l'Etat.
 
@@ -447,6 +493,8 @@ La Chambre des huissiers couvre les dépenses nécessaires à son fonctionnement
 
 Le Conseil de la Chambre des huissiers de justice peut arrêter des règlements qui déterminent les règles professionnelles relatives aux obligations professionnelles découlant de la législation en matière de lutte contre le blanchiment et contre le financement du terrorisme ainsi qu’aux procédures de contrôle, notamment de contrôle sur place auprès des huissiers de justice.
 
+Dispositions transitoires
+
 <a id="art-47"></a>
 ## Art. 47.
 
@@ -470,7 +518,15 @@ Les candidats-huissiers actuellement en stage restent soumis aux dispositions de
 
 Il en est de même pour les candidats qui ont accompli leur stage et qui n’ont pas encore été nommés huissier. L’examen passé avec succès avant l’entrée en vigueur de la présente loi reste valable.
 
+Dispositions abrogatoires
+
 <a id="art-50"></a>
 ## Art. 50.
 
 Sont abrogés:
+
+- la loi du 19 mars 1971 portant organisation du service des huissiers de justice. Elle reste cependant applicable aux infractions commisses sous son empire. Restent de même applicables les règlements grand-ducaux pris en son exécution;
+
+- l’article 67 du décret du 18 juin 1811 contenant le règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police et tarif général des frais;
+
+- Les articles 62 et 67du code de procédure civile.

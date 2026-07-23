@@ -33,9 +33,13 @@ Le salaire annuel brut résultant du salaire mensuel ou annuel indiqué dans le 
 
 Pour l’emploi dans des professions appartenant aux groupes 1 et 2 de la CITP (Classification Internationale Type de Professions), pour lesquelles un besoin particulier de travailleurs ressortissants de pays tiers est constaté par le Gouvernement, le seuil de rémunération est fixé par dérogation à l’alinéa qui précède, à 1,2 fois le salaire annuel brut moyen.
 
-Les professions en question, arrêtées par l’OCDE sont les suivantes: Groupe 1. Directeurs, cadres de direction et gérants Directeurs généraux, cadres supérieurs Directeurs de services administratifs et commerciaux Directeurs et cadres de direction, production et services spécialisés Directeurs et gérants de l’hôtellerie, la restauration, le commerce et autres services
+Les professions en question, arrêtées par l’OCDE sont les suivantes:
 
-Groupe 2. Professions intellectuelles et scientifiques Spécialistes des sciences et techniques Spécialistes de la santé Spécialistes de l’enseignement Spécialistes en administration d’entreprises Spécialistes des technologies de l’information et des communications Spécialistes de la justice, des sciences sociales et de la culture.
+| Groupe 1. | Directeurs, cadres de direction et gérants Directeurs généraux, cadres supérieurs Directeurs de services administratifs et commerciaux Directeurs et cadres de direction, production et services spécialisés Directeurs et gérants de l’hôtellerie, la restauration, le commerce et autres services |
+| --- | --- |
+
+| Groupe 2. | Professions intellectuelles et scientifiques Spécialistes des sciences et techniques Spécialistes de la santé Spécialistes de l’enseignement Spécialistes en administration d’entreprises Spécialistes des technologies de l’information et des communications Spécialistes de la justice, des sciences sociales et de la culture. |
+| --- | --- |
 
 La liste des professions pour lesquelles une dérogation est prévue est annuellement arrêtée par un règlement du Gouvernement en conseil et communiquée à la Commission.
 

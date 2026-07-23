@@ -27,7 +27,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Pendant la durée de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et confirmé par la loi du 24 mars 2020 portant prorogation de l’état de crise, le point 5 de l’article L. 585-6 du Code du travail est suspendu en cas d’accord de reprise d’une activité de travail conclu entre un employeur actif dans un ou plusieurs des domaines économiques énumérés à l’annexe du présent règlement grand-ducal, et un de ses salariés indemnisés en préretraite sur base de l’article L. 585-1 du Code du travail.
+Pendant la durée de l’état de crise déclaré par le règlement grand-ducal du 18 mars 2020 portant introduction d’une série de mesures dans le cadre de la lutte contre le Covid-19 et confirmé par la loi du 24 mars 2020 portant prorogation de l’état de crise, le point 5 de l’article L. 585-6 du Code du travail est suspendu en cas d’accord de reprise d’une activité de travail conclu entre un employeur actif dans un ou plusieurs des domaines économiques énumérés à l’annexe du présent règlement grand-ducal , et un de ses salariés indemnisés en préretraite sur base de l’article L. 585-1 du Code du travail.
 
 Le salaire versé dans ce contexte est neutralisé par rapport au calcul du revenu accessoire annuel du salarié en préretraite.
 

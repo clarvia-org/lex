@@ -27,12 +27,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Objet et mission
+
 Il est institué un comité à la formation professionnelle qui a pour mission d’accompagner la planification et la mise en œuvre de la loi du 19 décembre 2008 portant réforme de la formation professionnelle.
 
 Il a notamment comme objet de conseiller le gouvernement en matière de formation professionnelle en s’orientant aux plans définis à l’article 3 de la loi précitée, de favoriser une meilleure adéquation entre les objectifs de la formation professionnelle et les besoins des différents secteurs de l’économie et d’assurer la coordination des actions des départements ministériels et des chambres professionnelles concernés.
 
 <a id="art-2"></a>
 ## Art. 2.
+
+Fonctionnement
 
 Le comité se réunit soit à l’initiative de son président, soit à la demande écrite d’au moins sept membres.
 
@@ -52,6 +56,8 @@ L’approbation définitive du rapport se fait lors de la prochaine réunion du 
 
 <a id="art-3"></a>
 ## Art. 3.
+
+Frais de fonctionnement
 
 Les frais de fonctionnement sont supportés par le ministère ayant la formation professionnelle dans ses attributions.
 

@@ -27,7 +27,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Aux fins du présent règlement, on entend par: La loi: Loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé. Le Conseil: Le Conseil supérieur de certaines professions de santé. Le ministre: Le ministre de la Santé.
+Aux fins du présent règlement, on entend par:
+
+La loi: Loi du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé.
+
+Le Conseil: Le Conseil supérieur de certaines professions de santé.
+
+Le ministre: Le ministre de la Santé.
 
 ##### Chapitre Ier: Des commissions professionnelles.
 
@@ -51,12 +57,20 @@ Les membres des commissions professionnelles et leurs suppléants sont élus tou
 <a id="art-5"></a>
 ## Art. 5.
 
-Pour pouvoir participer à l'élection des membres d'une commission professionnelle déterminée, il faut exercer au Luxembourg la profession concernée. Sont censées remplir les conditions à l'alinéa qui précède les personnes
+Pour pouvoir participer à l'élection des membres d'une commission professionnelle déterminée, il faut exercer au Luxembourg la profession concernée.
+
+Sont censées remplir les conditions à l'alinéa qui précède les personnes
+
+- qui figurent dûment sur la liste des électeurs dont question à l'article 6 suivant,
+
+- qui travaillent au moins 13 heures par semaine si elles sont employées, ou sont inscrites au registre des prestataires de soins de santé établi auprès de l'inspection générale de la sécurité sociale si elles sont indépendantes.
 
 <a id="art-6"></a>
 ## Art. 6.
 
-La liste des électeurs est établie par le ministre séparément pour chaque commission professionnelle. La liste renseigne obligatoirement pour chaque électeur au moins les données suivantes: nom, prénom(s), profession exercée au moment de l'arrêt provisoire de la liste ainsi que la date de délivrance du diplôme respectivement de autorisation d'exercer au Grand-Duché la profession dont question ci-dessus.
+La liste des électeurs est établie par le ministre séparément pour chaque commission professionnelle.
+
+La liste renseigne obligatoirement pour chaque électeur au moins les données suivantes: nom, prénom(s), profession exercée au moment de l'arrêt provisoire de la liste ainsi que la date de délivrance du diplôme respectivement de autorisation d'exercer au Grand-Duché la profession dont question ci-dessus.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -66,12 +80,38 @@ Tous les cinq ans, après avoir arrêté la liste des électeurs et au plus tard
 <a id="art-8"></a>
 ## Art. 8.
 
-Pour être éligible, il faut au moins avoir 21 ans à la date des élections et avoir exercé effectivement au moins à mi-temps la profession concernée pendant 3 années durant les 5 dernières années qui précèdent les élections. En vue d'établir qu'il satisfait aux conditions susmentionnées, le candidat verse à l'appui de sa candidature un certificat dûment établi par: l'autorité compétente de son lieu de résidence et qui mentionne les dates de résidence. Lorsque le candidat réside au Grand-Duché depuis moins de 3 ans, il doit en outre produire les documents équivalents émanant de l'autorité compétente de l'Etat de résidence antérieur. Lorsque le candidat réside à l'étranger, seuls les documents équivalents émanant de l'autorité compétente de l'Etat de résidence sont à produire. Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
+Pour être éligible, il faut au moins avoir 21 ans à la date des élections et avoir exercé effectivement au moins à mi-temps la profession concernée pendant 3 années durant les 5 dernières années qui précèdent les élections.
+
+En vue d'établir qu'il satisfait aux conditions susmentionnées, le candidat verse à l'appui de sa candidature un certificat dûment établi par:
+
+- le ou les employeur(s) au cas où le candidat est salarié,
+
+- l'union des caisses de maladie attestant que le candidat a effectué une ou des prestations relevant de sa profession pendant au moins 750 jours sur les 5 dernières années qui précèdent les élections au cas où le candidat est indépendant.
+
+- le ou les employeur(s) et l'union des caisses dé maladie, pour chacun en ce qui le concerne, au cas où le candidat a exercé sa profession alternativement au titre d'indépendant et au titre de salarié.
+
+- l'autorité compétente de son lieu de résidence et qui mentionne les dates de résidence. Lorsque le candidat réside au Grand-Duché depuis moins de 3 ans, il doit en outre produire les documents équivalents émanant de l'autorité compétente de l'Etat de résidence antérieur. Lorsque le candidat réside à l'étranger, seuls les documents équivalents émanant de l'autorité compétente de l'Etat de résidence sont à produire.
+
+- l'autorité compétente et établissant qu'il n'est pas
+
+  - condamné à des peines criminelles,
+
+  - privé du droit de vote par condamnation,
+
+  - placé sous tutelle.
+
+Les preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.
 
 <a id="art-9"></a>
 ## Art. 9.
 
 Sont exclus de l'éligibilité en dehors des candidats qui ne fournissent pas la ou les preuves énoncées à l'article 8 ci-dessus:
+
+- les personnes qui ne répondent pas aux stipulations de l'article 5 ci-devant,
+
+- pour la durée de la sanction définitive, les personnes qui se trouvent sous le coup de la privation du droit de vote dont question à l'article 26 alinéa 3 de la loi,
+
+- les personnes, contre lesquelles a été prononcé l'une des sanctions disciplinaires définitives prévues à l'article 26, alinéa 4 et 5, de la loi.
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -88,12 +128,36 @@ Au cas où le nombre de candidatures à un mandat électoral, reconnues valables
 <a id="art-12-20050920"></a>
 ## Art. 12.
 
-L'élection a lieu endéans les derniers 6 mois qui précèdent l'expiration des mandats en cours. Un règlement ministériel fixe: Un arrêté ministériel à prendre au moins 6 mois avant chaque élection fixe Les indemnités des membres du bureau électoral sont fixées par le Gouvernement en Conseil.
+L'élection a lieu endéans les derniers 6 mois qui précèdent l'expiration des mandats en cours.
+
+Un règlement ministériel fixe:
+
+- les dispositions relatives aux candidatures,
+
+- les modalités des opérations de vote et du dépouillement des bulletins,
+
+- la composition du bureau électoral,
+
+- les voies de recours et les modalités de contestation.
+
+Un arrêté ministériel à prendre au moins 6 mois avant chaque élection fixe
+
+- la date des élections,
+
+- la date limite de présentation des candidatures,
+
+- les endroits d'ouverture de la liste des électeurs à l'inspection du public,
+
+- les noms, prénoms et fonctions des membres du bureau électoral.
+
+Les indemnités des membres du bureau électoral sont fixées par le Gouvernement en Conseil.
 
 <a id="art-13"></a>
 ## Art. 13.
 
-Les élections se font par correspondance, au scrutin secret et à la majorité relative. Sont élus les candidats qui ont obtenu le plus de voix par ordre décroissant et en fonction du nombre de mandats effectifs et suppléants par commission professionnelle.
+Les élections se font par correspondance, au scrutin secret et à la majorité relative.
+
+Sont élus les candidats qui ont obtenu le plus de voix par ordre décroissant et en fonction du nombre de mandats effectifs et suppléants par commission professionnelle.
 
 En cas d'égalité des voix pour le dernier siège à pourvoir, le candidat, dont l'autorisation d'exercer la profession au Grand-Duché est la plus ancienne, l'emporte.
 
@@ -177,6 +241,16 @@ Si une enveloppe contient plusieurs bulletins, ceux-ci seront nuls.
 
 Seront nuls, outre les bulletins mentionnés à l'article 13-9. alinéa 3:
 
+- les bulletins autres que ceux envoyés aux électeurs;
+
+- les bulletins ne contenant l'expression d'aucun suffrage;
+
+- les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;
+
+- les bulletins sur lesquels le votant se sera fait connaître, et notamment ceux portant une marque, une rature ou un signe distinctif quelconque, ceux dont les formes et les dimensions ont été altérées, ceux qui contiennent à l'intérieur un papier ou un objet quelconque, ou ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président du bureau électoral; les bulletins dont l'enveloppe de renvoi ne porte pas de signature;
+
+- les bulletins non renfermés dans deux enveloppes.
+
 <a id="art-13-11"></a>
 ## Art. 13-11.
 
@@ -204,7 +278,9 @@ Dans les dix jours qui suivront la publication visée à l'article 13-13, le cac
 <a id="art-15"></a>
 ## Art. 15.
 
-Chaque commission comprend au moins 3 membres et au plus 17 membres. II y a autant de membres suppléants qu'il y a de membres effectifs.
+Chaque commission comprend au moins 3 membres et au plus 17 membres.
+
+II y a autant de membres suppléants qu'il y a de membres effectifs.
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -214,14 +290,58 @@ Il y a autant de commissions professionnelles que de professions prévues à la 
 <a id="art-17"></a>
 ## Art. 17.
 
-Les membres effectifs des commissions professionnelles sont au nombre: En cas de changement important du nombre de membres faisant partie des différentes professions, le ministre procède aux adaptations de la composition numérique des commissions professionnelles par règlement ministériel qui prend effet pour les prochaines élections.
+Les membres effectifs des commissions professionnelles sont au nombre:
+
+- de 11 pour les aides-soignants,
+
+- de 3 pour les assistants senior,
+
+- de 9 pour les assistants technique médicaux,
+
+- de 17 pour les infirmiers,
+
+- de 9 pour les infirmiers en anesthésie et réanimation,
+
+- de 7 pour les infirmiers en pédiatrie,
+
+- de 9 pour les infirmiers psychiatriques,
+
+- de 3 pour les masseurs,
+
+- de 3 pour les sage-femmes,
+
+- de 9 pour les assistants d'hygiène sociale,
+
+- de 9 pour les assistants sociaux,
+
+- de 3 pour les diététiciens,
+
+- de 3 pour les ergothérapeutes,
+
+- de 5 pour les infirmiers gradués,
+
+- de 5 pour les laborantins,
+
+- de 5 pour les masseur-kinésithérapeutes,
+
+- de 3 pour les orthophonistes,
+
+- de 3 pour les orthoptistes,
+
+- de 3 pour les pédagogues curatifs,
+
+- de 3 pour les rééducateurs en psychomotricité.
+
+En cas de changement important du nombre de membres faisant partie des différentes professions, le ministre procède aux adaptations de la composition numérique des commissions professionnelles par règlement ministériel qui prend effet pour les prochaines élections.
 
 ##### Section 3: Des attributions des commissions professionnelles.
 
 <a id="art-18"></a>
 ## Art. 18.
 
-Sous l'autorité du Conseil, les commissions professionnelles délibèrent des problèmes spécifiques des professions qu'elles représentent. Elles s'expriment plus particulièrement sur tout problème intéressant l'exercice, la formation, la déontologie et la réglementation des professions de santé, lorsqu'il a trait à leur profession.
+Sous l'autorité du Conseil, les commissions professionnelles délibèrent des problèmes spécifiques des professions qu'elles représentent.
+
+Elles s'expriment plus particulièrement sur tout problème intéressant l'exercice, la formation, la déontologie et la réglementation des professions de santé, lorsqu'il a trait à leur profession.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -252,20 +372,44 @@ En ce qui concerne les membres proposés par les commissions professionnelles, l
 
 Pour les besoins de l'article 25 ci-dessous, on distingue trois secteurs d'activité:
 
+- le secteur de l'hospitalisation aiguë et de l'enseignement pour ces professions,
+
+- le secteur du moyen et long séjour et de la psychiatrie institutionnelle fermée,
+
+- le secteur extra-hospitalier.
+
 <a id="art-24"></a>
 ## Art. 24.
 
-Pour les besoins de l'article 25 ci-dessous on distingue trois niveaux de formation: Par diplôme de fin d'études postprimaires au sens du présent article, il y a lieu d'entendre le diplôme de fin d'études secondaires, le diplôme de fin d'études secondaires techniques ou tout autre diplôme étranger reconnu équivalent par le Ministre de l'Education Nationale.
+Pour les besoins de l'article 25 ci-dessous on distingue trois niveaux de formation:
+
+- le niveau 1: toute formation inférieure au diplôme de fin d'études postprimaires,
+
+- le niveau 2: toute formation au moins égale au diplôme de fin d'études postprimaires sans dépasser le niveau du diplôme de fin d'études postprimaires suivi de deux années de formation postsecondaire,
+
+- le niveau 3: toute formation égale ou supérieure au diplôme de fin d'études postprimaires suivi de plus de deux années de formation postsecondaire.
+
+Par diplôme de fin d'études postprimaires au sens du présent article, il y a lieu d'entendre le diplôme de fin d'études secondaires, le diplôme de fin d'études secondaires techniques ou tout autre diplôme étranger reconnu équivalent par le Ministre de l'Education Nationale.
 
 <a id="art-25"></a>
 ## Art. 25.
 
-Les membres effectifs de toutes les commissions professionnelles faisant partie du niveau 1 se réunissent dans une assemblée commune pour procéder à la proposition de 4 délégués effectifs, et d'autant de suppléants, dont 3 pour le secteur de l'hospitalisation aiguë et de l'enseignement pour ces professions et 1 pour le secteur du moyen et long séjour et de la psychiatrie institutionnelle fermée. Toutefois au cas où, lors d'une ou des assemblées précitées, le(s) mandat(s) à pourvoir pour un ou des secteur(s) d'activité prévu(s), restai(en)t vacant(s), faute de candidat(s) à proposer par l'assemblée dont il s'agit, le(s) mandat(s) resté(s) ainsi vacant(s) est(sont) attribué(s), séance tenante, a un autre secteur d'activité, choisi, le cas échéant,par tirage au sort entre les secteurs d'activité prévus pour le niveau de formation dont il s'agit.
+Les membres effectifs de toutes les commissions professionnelles faisant partie du niveau 1 se réunissent dans une assemblée commune pour procéder à la proposition de 4 délégués effectifs, et d'autant de suppléants, dont 3 pour le secteur de l'hospitalisation aiguë et de l'enseignement pour ces professions et 1 pour le secteur du moyen et long séjour et de la psychiatrie institutionnelle fermée.
+
+- Les membres effectifs de toutes les commissions professionnelles faisant partie du niveau 2 se réunissent dans une assemblée commune pour procéder à la proposition de 12 délégués effectifs, et d'autant de suppléants, dont 8 pour le secteur de l'hospitalisation aiguë et de l'enseignement pour ces professions, 3 pour le secteur du moyen et long séjour et de la psychiatrie institutionnelle fermée et 1 pour le secteur extra-hospitalier.
+
+- Les membres effectifs de toutes les commissions professionnelles faisant partie du niveau 3 se réunissent dans une assemblée commune pour procéder à la proposition de 3 délégués effectifs, et d'autant de suppléants, dont 1 pour le secteur de l'hospitalisation aiguë et de l'enseignement pour ces professions et 2 pour le secteur extra-hospitalier.
+
+Toutefois au cas où, lors d'une ou des assemblées précitées, le(s) mandat(s) à pourvoir pour un ou des secteur(s) d'activité prévu(s), restai(en)t vacant(s), faute de candidat(s) à proposer par l'assemblée dont il s'agit, le(s) mandat(s) resté(s) ainsi vacant(s) est(sont) attribué(s), séance tenante, a un autre secteur d'activité, choisi, le cas échéant,par tirage au sort entre les secteurs d'activité prévus pour le niveau de formation dont il s'agit.
 
 <a id="art-26"></a>
 ## Art. 26.
 
-Les organisations professionnelles qui veulent présenter des membres pour le conseil doivent répondre aux caractéristiques suivantes: en ce qui concerne les organisations professionnelles qui ont une vocation essentiellement non syndicale, documentée pour les besoins de cet article par le fait qu'elles ne participent pas en tant qu'organisation directement ou par délégation aux négociations salariales dans le secteur, celles-ci doivent être essentiellement représentées dans le secteur des professions de soins visées par la loi, leurs membres doivent oeuvrer dans 2 au moins des trois secteurs définis à l'article 23 ou comprendre des membres de 2 au moins des 3 niveaux visés à l'article 24. Chaque organisation propose un membre effectif et un membre suppléant.
+Les organisations professionnelles qui veulent présenter des membres pour le conseil doivent répondre aux caractéristiques suivantes:
+
+- en ce qui concerne les organisations professionnelles qui ont une vocation essentiellement syndicale, documentée pour les besoins de cet article par le fait qu'elles participent en tant qu'organisation directement ou par délégation aux négociations salariales dans le secteur, celles-ci doivent être représentatives sur le plan national et représentées dans le secteur des professions de soins visées par la loi;
+
+- en ce qui concerne les organisations professionnelles qui ont une vocation essentiellement non syndicale, documentée pour les besoins de cet article par le fait qu'elles ne participent pas en tant qu'organisation directement ou par délégation aux négociations salariales dans le secteur, celles-ci doivent être essentiellement représentées dans le secteur des professions de soins visées par la loi, leurs membres doivent oeuvrer dans 2 au moins des trois secteurs définis à l'article 23 ou comprendre des membres de 2 au moins des 3 niveaux visés à l'article 24. Chaque organisation propose un membre effectif et un membre suppléant.
 
 <a id="art-27"></a>
 ## Art. 27.
@@ -306,10 +450,24 @@ Le Conseil ainsi que chaque commission professionnelle choisissent le président
 
 Le mandat de membre du Conseil respectivement d'une commission professionnelle expire par suite
 
+- de renonciation écrite au mandat,
+
+- d'une sanction disciplinaire définitive autre que l'avertissement et la réprimande,
+
+- de condamnation définitive à une peine criminelle ou à une peine d'emprisonnement d'au moins six mois sans sursis.
+
 <a id="art-34"></a>
 ## Art. 34.
 
-Lorsque le mandat d'un membre effectif devient vacant, il sera occupé: Le nouveau membre remplit le mandat jusqu'au prochain renouvellement de la commission professionnelle respectivement celui du Conseil. En cas d'empêchement d'un membre effectif pour participer à une ou des réunions du Conseil respectivement de la commission professionnelle pour laquelle il a été élu, ce membre peut se faire remplacer par son suppléant désigné d'après des modalités prévues au règlement de fonctionnement interne du Conseil dont question à l'article 29 du présent règlement.
+Lorsque le mandat d'un membre effectif devient vacant, il sera occupé:
+
+- pour une commission professionnelle, selon les dispositions prévues à l'article 13 du présent règlement,
+
+- pour le Conseil, par cooptation d'un nouveau membre choisi sur la liste des suppléants et en fonction des paramètres dont question à l'article 22 du présent règlement.
+
+Le nouveau membre remplit le mandat jusqu'au prochain renouvellement de la commission professionnelle respectivement celui du Conseil.
+
+En cas d'empêchement d'un membre effectif pour participer à une ou des réunions du Conseil respectivement de la commission professionnelle pour laquelle il a été élu, ce membre peut se faire remplacer par son suppléant désigné d'après des modalités prévues au règlement de fonctionnement interne du Conseil dont question à l'article 29 du présent règlement.
 
 <a id="art-35"></a>
 ## Art. 35.
@@ -319,7 +477,11 @@ Le Conseil et les commissions professionnelles ne prennent de résolution que si
 <a id="art-36"></a>
 ## Art. 36.
 
-Les résolutions du Conseil et des commissions professionnelles sont arrêtées à la majorité des voix et consignés dans les rapports dont question à l'article suivant. En cas d'égalité de voix, celle du président est prépondérante. Un avis minoritaire et l'avis de la ou des commission(s) professionnelle(s) peut être joint aux résolutions.
+Les résolutions du Conseil et des commissions professionnelles sont arrêtées à la majorité des voix et consignés dans les rapports dont question à l'article suivant.
+
+En cas d'égalité de voix, celle du président est prépondérante.
+
+Un avis minoritaire et l'avis de la ou des commission(s) professionnelle(s) peut être joint aux résolutions.
 
 <a id="art-37"></a>
 ## Art. 37.
@@ -358,10 +520,26 @@ Le Conseil se fait assister dans ses travaux par un secrétaire administratif à
 
 Pour les lères élections des commissions professionnelles:
 
+- la liste des électeurs est arrêtée provisoirement sur base des données du régistre au 1er mars 1993,
+
+- la date des élections est fixée par arrêté ministériel à publier au Mémorial au moins 70 jours avant les élections,
+
+- l'arrêté ministériel dont question ci-dessus fixe également:
+
+  - la date limite de présentation des candidatures,
+
+  - les endroits d'ouverture de la liste des électeurs à l'inspection du public,
+
+  - les noms, prénoms et fonctions des membres du bureau électoral.
+
+- les preuves d'éligibilité exigées en vertu des dispositions de l'article S sous (2) et (3) du présent règlement sont remplacées par un certificat établi par l'inspection générale de la sécurité sociale attestant que le candidat en question est inscrit au registre des prestataires de soins de santé auprès de cette administration.
+
 <a id="art-44-20050920"></a>
 ## Art. 44.
 
-Le présent règlement ne sera applicable aux professions d'assistant senior, de diététicien, d'ergothérapeute, d'orthoptiste, de pédagogue curatif et de rééducateur en psychomotricité qu'à la date fixée à cet effet au règlement grand-ducal à intervenir pour ces professions en exécution de l'article 7 de la loi. A titre transitoire et jusqu'à entrée en vigueur des dispositions susmentionnées, le ministre nomme une commission professionnelle pour chacune des professions dont question ci-dessus. Les membres effectifs et les membres suppléants sont proposés au ministre par le conseil supérieur. La majorité des membres effectifs des commissions professionnelles visées à l'article doit avoir exercé la profession au Grand-Duché depuis au moins 6 mois.
+Le présent règlement ne sera applicable aux professions d'assistant senior, de diététicien, d'ergothérapeute, d'orthoptiste, de pédagogue curatif et de rééducateur en psychomotricité qu'à la date fixée à cet effet au règlement grand-ducal à intervenir pour ces professions en exécution de l'article 7 de la loi.
+
+A titre transitoire et jusqu'à entrée en vigueur des dispositions susmentionnées, le ministre nomme une commission professionnelle pour chacune des professions dont question ci-dessus. Les membres effectifs et les membres suppléants sont proposés au ministre par le conseil supérieur. La majorité des membres effectifs des commissions professionnelles visées à l'article doit avoir exercé la profession au Grand-Duché depuis au moins 6 mois.
 
 <a id="art-45"></a>
 ## Art. 45.

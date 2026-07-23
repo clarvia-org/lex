@@ -32,7 +32,31 @@ Les matières explosives auxquelles se rapportent les dispositions qui vont suiv
 
 Classe A. - Substances explosives.
 
+- 1re catégorie : poudre noire ;
+
+- 2e catégorie : dynamites et explosifs y assimilés ;
+
+- 3e catégorie : poudre sans fumée ;
+
+- 4e catégorie : explosifs difficilement inflammables et explosifs y assimilés ;
+
+- 5e catégorie : nitrocelluloses humectées à taux d'azote dépassant 12,6 p.c. ;
+
+- 6e catégorie : nitrocelluloses humectées à taux d'azote inférieur ou égal à 12,6 p.c.
+
 Classe B. - Munitions.
+
+- 1re catégorie : détonateurs, objets et munitions y assimilés ;
+
+- 2e catégorie : munitions amorcées ;
+
+- 3e catégorie : munitions non amorcées ;
+
+- 4e catégorie : munitions au phosphore ;
+
+- 5e catégorie : cordeaux détonants ;
+
+- 6e catégorie : munitions de sûreté.
 
 Classe C. - Artifices.
 

@@ -31,12 +31,36 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Les candidats briguant une autorisation d’enseigner comme instituteur aux deuxième, troisième et quatrième cycles de l’enseignement fondamental, détenteurs soit du brevet d’aptitude pédagogique, option préscolaire, ou du certificat d’études pédagogiques, option éducation préscolaire, soit d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur habilitant à enseigner au premier cycle d’apprentissage de l’enseignement fondamental, suivent une formation théorique de 100 heures de cours sur la pédagogie, la didactique et l’évaluation des domaines de développement et d’apprentissage des deuxième, troisième et quatrième cycles de l’enseignement fondamental, à savoir sur: le langage, la langue luxembourgeoise et l’éveil aux langues, la langue allemande et l’alphabétisation, la langue française (36 heures); les mathématiques (16 heures); l’éveil aux sciences et les sciences humaines et naturelles (12 heures); l’expression créatrice, l’éveil à l’esthétique et à la culture dans les domaines des arts plastiques et de la musique (12 heures); l’expression corporelle, la psychomotricité, les sports et la santé (12 heures); la vie en commun et les valeurs (12 heures).
+Les candidats briguant une autorisation d’enseigner comme instituteur aux deuxième, troisième et quatrième cycles de l’enseignement fondamental, détenteurs soit du brevet d’aptitude pédagogique, option préscolaire, ou du certificat d’études pédagogiques, option éducation préscolaire, soit d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur habilitant à enseigner au premier cycle d’apprentissage de l’enseignement fondamental, suivent une formation théorique de 100 heures de cours sur la pédagogie, la didactique et l’évaluation des domaines de développement et d’apprentissage des deuxième, troisième et quatrième cycles de l’enseignement fondamental, à savoir sur:
+
+- le langage, la langue luxembourgeoise et l’éveil aux langues, la langue allemande et l’alphabétisation, la langue française (36 heures);
+
+- les mathématiques (16 heures);
+
+- l’éveil aux sciences et les sciences humaines et naturelles (12 heures);
+
+- l’expression créatrice, l’éveil à l’esthétique et à la culture dans les domaines des arts plastiques et de la musique (12 heures);
+
+- l’expression corporelle, la psychomotricité, les sports et la santé (12 heures);
+
+- la vie en commun et les valeurs (12 heures).
 
 <a id="art-2"></a>
 ## Art. 2.
 
-Les candidats briguant une autorisation d’enseigner comme instituteur au premier cycle de l’enseignement fondamental, détenteurs soit du brevet d’aptitude pédagogique, option primaire, ou du certificat d’études pédagogiques, option primaire, soit d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur habilitant à enseigner aux deuxième, troisième et quatrième cycles d’apprentissage de l’enseignement fondamental, suivent une formation théorique de 100 heures dont 20 heures de cours portent sur la psychologie du développement de l’enfant de 3 à 6 ans et 20 heures de cours sur l’identification et la prise en charge de troubles particuliers du langage. 60 heures de cours portent sur la pédagogie, la didactique et l’évaluation des domaines de développement et d’apprentissage du premier cycle de l’enseignement fondamental, à savoir sur: le langage, la langue luxembourgeoise et l’éveil aux langues (20 heures); le raisonnement logique et mathématique (8 heures); la découverte du monde et l’éveil aux sciences (8 heures); la psychomotricité, l’expression corporelle et la santé (8 heures); l’expression créatrice, l’éveil à l’esthétique et à la culture dans les domaines des arts plastiques et de la musique (8 heures); la vie en commun et les valeurs (8 heures).
+Les candidats briguant une autorisation d’enseigner comme instituteur au premier cycle de l’enseignement fondamental, détenteurs soit du brevet d’aptitude pédagogique, option primaire, ou du certificat d’études pédagogiques, option primaire, soit d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur habilitant à enseigner aux deuxième, troisième et quatrième cycles d’apprentissage de l’enseignement fondamental, suivent une formation théorique de 100 heures dont 20 heures de cours portent sur la psychologie du développement de l’enfant de 3 à 6 ans et 20 heures de cours sur l’identification et la prise en charge de troubles particuliers du langage. 60 heures de cours portent sur la pédagogie, la didactique et l’évaluation des domaines de développement et d’apprentissage du premier cycle de l’enseignement fondamental, à savoir sur:
+
+- le langage, la langue luxembourgeoise et l’éveil aux langues (20 heures);
+
+- le raisonnement logique et mathématique (8 heures);
+
+- la découverte du monde et l’éveil aux sciences (8 heures);
+
+- la psychomotricité, l’expression corporelle et la santé (8 heures);
+
+- l’expression créatrice, l’éveil à l’esthétique et à la culture dans les domaines des arts plastiques et de la musique (8 heures);
+
+- la vie en commun et les valeurs (8 heures).
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -79,7 +103,13 @@ Le candidat soumet la proposition d’organisation de la formation pratique pour
 
 La formation théorique prévue aux articles 1er et 2 est sanctionnée par quatre épreuves.
 
-Ces épreuves prennent la forme de productions écrites qui documentent la préparation, la mise en œuvre, l’évaluation et l’analyse réflexive des leçons d’enseignement suivantes : deux leçons en lien avec le domaine visé à l’article 1er, point 1er respectivement à l’article 2, point 1er ; une leçon en lien avec le domaine visé à l’article 1er, point 2., respectivement à l’article 2, point 2. ; une leçon au choix du candidat en lien avec un des domaines visés à l’article 1er, points 3 à 6, respectivement à l’article 2, points 3 à 6.
+Ces épreuves prennent la forme de productions écrites qui documentent la préparation, la mise en œuvre, l’évaluation et l’analyse réflexive des leçons d’enseignement suivantes :
+
+- deux leçons en lien avec le domaine visé à l’article 1er, point 1er respectivement à l’article 2, point 1er ;
+
+- une leçon en lien avec le domaine visé à l’article 1er, point 2., respectivement à l’article 2, point 2. ;
+
+- une leçon au choix du candidat en lien avec un des domaines visés à l’article 1er, points 3 à 6, respectivement à l’article 2, points 3 à 6.
 
 Pour le candidat qui brigue l’autorisation d’enseigner comme instituteur aux deuxième, troisième et quatrième cycles d’apprentissage de l’enseignement fondamental, les épreuves de la formation théorique portent sur au moins deux cycles d’apprentissage différents de l’enseignement fondamental.
 
@@ -94,7 +124,13 @@ Pour le candidat qui brigue l’autorisation d’enseigner comme instituteur aux
 
 Pour le candidat qui brigue l’autorisation d’enseigner comme instituteur au premier cycle d’apprentissage de l’enseignement fondamental, l’inspection a lieu dans une classe du premier cycle d’apprentissage de l’enseignement fondamental.
 
-L’inspection est cotée sur 30 points et se compose : d’une observation de classe assurée par un directeur de région et le tuteur du candidat ; de l’évaluation d’une préparation de leçon par un directeur de région et le tuteur du candidat ; d’un entretien à l’issue de l’observation de classe entre le directeur de région, le tuteur du candidat et le candidat.
+L’inspection est cotée sur 30 points et se compose :
+
+- d’une observation de classe assurée par un directeur de région et le tuteur du candidat ;
+
+- de l’évaluation d’une préparation de leçon par un directeur de région et le tuteur du candidat ;
+
+- d’un entretien à l’issue de l’observation de classe entre le directeur de région, le tuteur du candidat et le candidat.
 
 <a id="art-14"></a>
 ## Art. 14.
@@ -105,6 +141,48 @@ Les sujets des épreuves des activités d’apprentissage sont communiqués au c
 
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+La formation est évaluée lors d’une première session. En cas d’échec, le candidat peut se présenter à une seconde session.
+
+(2)
+
+Le candidat qui, lors de la première session, a obtenu au moins la moitié du total des points pouvant être obtenus aux épreuves de la formation théorique et au moins la moitié du total des points pouvant être obtenus à l’épreuve de la formation pratique a réussi la formation.
+
+(3)
+
+Le candidat qui, lors de la première session, n’a pas obtenu au moins la moitié du total des points pouvant être obtenus à l’ensemble des épreuves de la formation théorique présente, lors de la seconde session, une version remaniée des épreuves dans lesquelles il n’a pas obtenu au moins la moitié des points pouvant être obtenus.
+
+Les résultats obtenus, lors de cette seconde session, sont mis en compte avec les résultats des épreuves dans lesquelles le candidat a obtenu lors de la première session au moins la moitié des points pouvant être obtenus.
+
+(4)
+
+Le candidat qui, lors de la première session, n’a pas obtenu au moins la moitié du total des points pouvant être obtenus à l’épreuve de la formation pratique se présente à la seconde session de cette épreuve.
+
+(5)
+
+Le candidat qui, lors de la seconde session, a obtenu au moins la moitié du total des points pouvant être obtenus aux épreuves de la formation théorique et au moins la moitié du total des points pouvant être obtenus à l’épreuve de la formation pratique a réussi la formation.
+
+(6)
+
+Le candidat qui a échoué à la formation est autorisé à se présenter une nouvelle fois à la formation et aux épreuves sanctionnant la formation.
+
+(7)
+
+Dans le cas de l’octroi d’une dispense d’une épreuve, les résultats des autres épreuves sont ramenés de manière proportionnelle au nombre total des points pouvant être obtenus.
+
+(8)
+
+La commission de validation prévue à l’article 44, paragraphe 7, de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale valide les résultats à l’issue de la première et de la seconde session de la formation.
+
+(9)
+
+La décision de la commission de validation est transmise par voie écrite au candidat, au directeur de région et au ministre.
+
+(10)
+
+Le candidat qui a réussi à la formation théorique et à la formation pratique obtient l’autorisation d’enseigner en tant qu’instituteur soit au premier cycle, soit aux deuxième, troisième et quatrième cycles d’apprentissage de l’enseignement fondamental.
 
 #### Chapitre 5 Décharge accordée au candidat, tarifs horaires des formateurs et indemnités des évaluateurs
 

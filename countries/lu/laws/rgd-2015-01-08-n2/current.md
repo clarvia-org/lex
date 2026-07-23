@@ -29,7 +29,29 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Aux fins du présent règlement, on entend par: tout incident environnemental majeur résultant d'incidents visés aux points a), b) et c). Aux fins de déterminer si un incident constitue un accident majeur au sens des points a), b) ou d), une installation qui est, en règle générale, laissée sans surveillance est réputée faire l'objet d'une surveillance;
+Aux fins du présent règlement, on entend par:
+
+- «installation», un équipement fixe ou mobile, ou une combinaison d'équipements interconnectés en permanence par des passerelles ou par d'autres structures, utilisés pour des opérations pétrolières et gazières en mer ou en rapport avec ces opérations. Les installations comprennent les unités mobiles de forage au large lorsqu'elles sont positionnées dans les eaux situées au large des côtes aux fins du forage, de la production ou d'autres activités en rapport avec des opérations pétrolières et gazières en mer;
+
+- «infrastructures connectées», dans la zone de sécurité située dans un rayon de 500 mètres à partir de toute partie de l'installation:
+
+  - tout puits et toute structure, toute unité supplémentaire et tout dispositif associés connectés à l'installation;
+
+  - tout équipement ou mécanisme placé sur ou fixé à la structure principale de l'installation;
+
+  - tout équipement ou mécanisme de pipeline attaché;
+
+- «accident majeur», dans le cadre d'une installation ou d'infrastructures connectées:
+
+  - un incident impliquant une explosion, un incendie, la perte de contrôle d'un puits, ou une fuite de pétrole ou de gaz ou le rejet de substances dangereuses causant ou risquant très probablement de causer des décès ou des dommages corporels graves;
+
+  - un incident entraînant des dommages graves pour l'installation ou les infrastructures connectées, causant ou risquant très probablement de causer des décès ou des dommages corporels graves;
+
+  - tout autre incident entraînant le décès ou des blessures graves à l’égard de cinq personnes ou plus, ou causant des blessures graves à cinq personnes ou plus, qui sont présentes sur l’installation en mer où se situe la source du danger ou qui participent à une opération pétrolière ou gazière en mer en rapport avec l’installation ou les infrastructures connectées; ou
+
+  - tout incident environnemental majeur résultant d'incidents visés aux points a), b) et c). Aux fins de déterminer si un incident constitue un accident majeur au sens des points a), b) ou d), une installation qui est, en règle générale, laissée sans surveillance est réputée faire l'objet d'une surveillance;
+
+- «opérations pétrolières et gazières en mer», toutes les activités liées à une installation ou à des infrastructures connectées, y compris leur conception, planification, construction, exploitation et déclassement, relatives à l'exploration et la production de pétrole ou de gaz mais à l'exclusion du transport de pétrole et de gaz d'une côte à une autre.
 
 <a id="art-2"></a>
 ## Art. 2.

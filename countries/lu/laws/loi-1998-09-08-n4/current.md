@@ -34,6 +34,12 @@ Nul ne peut, à titre principal ou accessoire et contre rémunération, entrepre
 
 Sont soumises à un agrément, pour autant qu'elles ne font pas l'objet d'une autre disposition légale, les activités suivantes en faveur de toutes les catégories de personnes:
 
+- l'accueil et l'hébergement de jour et/ou de nuit de plus de trois personnes simultanément;
+
+- l'offre de services de consultation, d'aide, de prestation de soins, d'assistance, de guidance, de formation sociale, d'animation ou d'orientation professionnelle ;
+
+- l'offre de services en matière d'évaluation individuelle des ressources et des difficultés, ainsi qu'en matière d'orientation, de coordination et d'évaluation des mesures développées à la suite de cette évaluation individuelle.
+
 L'agrément est obligatoire tant pour les personnes physiques que pour les personnes morales, de droit privé et de droit public.
 
 Un règlement grand-ducal peut préciser les activités visées à l'alinéa 1er; il peut prévoir un agrément conjoint des ministres ci-avant visés pour les activités qui relèvent de la compétence de plus d'un ministre.
@@ -50,6 +56,18 @@ Ces prestataires peuvent toutefois se voir imposer des exigences concernant la p
 
 Pour obtenir l'agrément, les requérants doivent:
 
+- remplir les conditions d'honorabilité, tant dans le chef de la personne physique ou des membres des organes dirigeants de la personne morale responsables de la gestion des activités visées à l'article 1er que dans le chef du personnel dirigeant ou d'encadrement;
+
+- disposer d'immeubles, de locaux ou de toute autre infrastructure correspondant tant aux normes minima de salubrité et de sécurité qu'aux besoins des usagers;
+
+- disposer d'un personnel qualifié en nombre suffisant pour assurer la prise en charge ou l'accompagnement des usagers. Le niveau et le type de qualification professionnelle ou de formation équivalente ainsi que la dotation minimale en personnel sont fixés en considération des prestations offertes, des besoins des usagers et du fonctionnement du service;
+
+- présenter la situation financière et un budget prévisionnel, à l'exception des requérants de droit public qui y sont obligés par une autre disposition légale ou réglementaire;
+
+- garantir que les activités agréées soient accessibles aux usagers indépendamment de toutes considérations d'ordre idéologique, philosophique ou religieux et que l'usager de services ait droit à la protection de sa vie privée et au respect de ses convictions religieuses et philosophiques ;
+
+- en ce qui concerne les services pour personnes âgées, respecter les dispositions de la loi du 23 août 2023 portant sur la qualité des services pour personnes âgées.
+
 Les conditions ci-dessus ainsi que les modalités du contrôle des conditions sont précisées par règlement grand-ducal qui détermine les renseignements ou données à fournir et les pièces à joindre à la demande d'agrément.
 
 Le contrôle de ces conditions incombe au ministre compétent.
@@ -60,6 +78,14 @@ Le contrôle de ces conditions incombe au ministre compétent.
 Toute demande d'agrément fait l'objet d'un accusé de réception dans les dix jours ouvrables de son dépôt.
 
 L'accusé de réception indique:
+
+- la date à laquelle la demande a été reçue
+
+- le délai d'instruction administrative
+
+- les voies de recours
+
+- la mention qu'en l'absence de réponse dans le délai imparti, l'agrément est considéré comme octroyé.
 
 En cas de demande incomplète ou d'irrecevabilité de la demande, le requérant est informé dans les plus brefs délais du besoin de fournir des documents complémentaires qui sont nécessaires à l'examen de sa demande ainsi que des conséquences sur le délai d'instruction administrative.
 
@@ -112,6 +138,10 @@ Les décisions concernant l'octroi, le refus ou le retrait de l'agrément peuven
 
 Le recours doit être introduit, sous peine de forclusion:
 
+- s'il émane du demandeur ou du détenteur de l'autorisation dans le délai d'un mois à partir de la notification de la décision;
+
+- s'il émane d'un tiers, dans le délai d'un mois à partir de la publication de la décision au Mémorial.
+
 <a id="art-8"></a>
 ## Art. 8.
 
@@ -148,6 +178,20 @@ L'Etat est autorisé à accorder un soutien financier pour l'exercice des activi
 
 Le soutien financier peut prendre forme d'un subside ou d'une participation financière qui est accordée à condition:
 
+- que le bénéficiaire accepte de signer avec l'Etat une convention qui détermine:
+
+  - les prestations à fournir et les modalités de gestion financière à observer par le bénéficiaire;
+
+  - le type de participation financière de l'Etat;
+
+  - les moyens d'information, de contrôle et de sanction que possède l'Etat en relation avec les devoirs du bénéficiaire définis sous 1)
+
+  - les modalités de coopération entre les parties contractantes sans pour autant affecter la gestion qui est de la responsabilité du bénéficiaire;
+
+- que le bénéficiaire tienne une comptabilité régulière selon les exigences de l'Etat;
+
+- que les activités projetées répondent à des besoins effectifs constatés par le Gouvernement en conseil.
+
 Si le bénéficiaire est une personne morale de droit privé, celle-ci doit être constituée soit en vertu d'une disposition légale particulière, soit selon les dispositions de la loi modifiée du 28 avril 1928 sur les associations et les fondations, soit selon les dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.
 
 <a id="art-12"></a>
@@ -159,7 +203,21 @@ Selon le type de participation financière de l'Etat choisi, les recettes fixée
 
 Ne sont pas pris en considération comme recettes, les dons et legs versés à l'organisme.
 
-Peuvent être considérées les dépenses suivantes: La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Font partie du calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Sont également pris en considération: Les dépenses de personnel ainsi établies constituent une enveloppe financière qui est fixée par le budget de l'Etat, la commission paritaire, définie aux alinéas qui suivent, demandée en son avis, toutes les fois qu'une nouvelle disposition légale ou réglementaire ou une convention collective modifie les rémunérations, conditions de travail ou avantages sociaux des agents de l'Etat. L'avis de la commission paritaire comprend une évaluation de l'impact financier des modifications citées à l'alinéa précédent, ainsi qu'une proposition d'adaptation, suite à l'impact financier prédécrit, du montant de l'enveloppe financière. La commission se compose de respectivement un représentant du ministre des Finances, du ministre de la Fonction publique, de chaque ministre concerné par la présente loi, de chacun des syndicats les plus représentatifs au niveau national et de chacun des organismes regroupant au niveau national les employeurs signataires des conventions collectives du secteur social. La durée du mandat et les modalités de nomination et de fonctionnement de la commission sont réglées par règlement grand-ducal;
+Peuvent être considérées les dépenses suivantes:
+
+- les frais courants d'entretien et de gestion;
+
+- les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées pour la carrière, le grade et l'échelon de chaque employé ou ouvrier, sur base des salaires ou traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après les dispositions de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Font partie du calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Sont également pris en considération:
+
+- les dépenses engendrées par les mesures spécifiques ou générales concernant les rémunérations, les conditions de travail, les avantages sociaux que l'Etat prend pour ses agents;
+
+- les frais résultant de compensations pouvant être allouées au personnel qui, en raison des exigences particulières de la prise en charge de leurs usagers, est obligé de répartir la durée de travail sur une année au maximum ou de travailler par équipes successives à cycle continu. Les dépenses de personnel ainsi établies constituent une enveloppe financière qui est fixée par le budget de l'Etat, la commission paritaire, définie aux alinéas qui suivent, demandée en son avis, toutes les fois qu'une nouvelle disposition légale ou réglementaire ou une convention collective modifie les rémunérations, conditions de travail ou avantages sociaux des agents de l'Etat. L'avis de la commission paritaire comprend une évaluation de l'impact financier des modifications citées à l'alinéa précédent, ainsi qu'une proposition d'adaptation, suite à l'impact financier prédécrit, du montant de l'enveloppe financière. La commission se compose de respectivement un représentant du ministre des Finances, du ministre de la Fonction publique, de chaque ministre concerné par la présente loi, de chacun des syndicats les plus représentatifs au niveau national et de chacun des organismes regroupant au niveau national les employeurs signataires des conventions collectives du secteur social. La durée du mandat et les modalités de nomination et de fonctionnement de la commission sont réglées par règlement grand-ducal;
+
+- les frais résultant de collaborateurs occasionnels ou bénévoles ;
+
+- les frais en relation avec le louage, l'entretien et la réparation des bâtiments et l'équipement mobilier ;
+
+- le cas échéant, les frais résultant des prestations spécifiques fournies par l'organisme concerné.
 
 L'Etat verse sa participation en totalité ou en partie sous forme d'avances semestrielles, trimestrielles ou mensuelles. L'organisme présente au ministre un décompte annuel. Les sommes indûment touchées sont restituées au Trésor.
 
@@ -185,6 +243,18 @@ Pour garantir la restitution de sa participation financière prévue par le pré
 
 Il est créée une Commission d'Harmonisation, appelée ci-après la commission, qui a pour mission:
 
+- d'émettre un avis sur la convention-type, ainsi que sur toute proposition de modification y relative;
+
+- de faire des propositions de mise en oeuvre et, en général, de surveiller l'application des conventions;
+
+- de faire, à la demande du ministre compétent, des propositions d'arbitrage en cas de litige entre parties;
+
+- d'opérer une analyse et d'émettre un avis sur les décomptes annuels des frais de fonctionnement des services conventionnés;
+
+- de faire des recommandations en vue d'une coordination et d'une planification des différentes activités pour lesquelles l'Etat accorde une participation financière;
+
+- d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement toute question se rapportant aux activités visées à l'article 1er.
+
 <a id="art-15"></a>
 ## Art. 15.
 
@@ -203,9 +273,21 @@ Le Gouvernement met à la disposition de la commission les moyens financiers pou
 
 Les ministres de la Famille et de la Santé convoquent annuellement un comité de concertation qui réunit:
 
+- les ministres de la Famille, de la Promotion féminine, de la Jeunesse ainsi que de la Santé ou leurs représentants;
+
+- quatre représentants des organismes gestionnaires ayant conclu pour leur(s) service(s) une convention avec l'Etat;
+
+- quatre représentants des organismes gestionnaires disposant pour leur(s) service(s) de l'agrément, sans toutefois avoir conclu une convention avec l'Etat;
+
+- quatre représentants des syndicats les plus représentatifs.
+
 Il y a autant de membres suppléants que de membres effectifs.
 
 Le comité de concertation examine et avise:
+
+- les modifications des conditions d'agrément fixées par le règlement grand-ducal prévu à l'article 2 ci-avant
+
+- le constat établi par le Gouvernement en conseil sur les besoins effectifs conformément à l'article 11 c).
 
 #### Chapitre 4 Dispositions pénales
 
@@ -221,8 +303,28 @@ La fermeture partielle ou totale d'institutions ou de services créés, transfor
 <a id="art-18"></a>
 ## Art. 18.
 
+1.
+
+L'employé de l'Etat affecté au ministère de la Famille, détenteur d'une maîtrise en psychologie et engagé le 01.10.1970, peut être nommé à la fonction de conseiller de direction première classe hors cadre à l'administration gouvernementale. En cas de nomination, sa carrière est reconstituée par la prise en considération des grades 12, 13, 14, 15 figurant à la rubrique I. «Administration générale» de l'annexe C de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, aux dates respectives des 01.10.1973, 01.10.1976, 01.10.1979 et 01.10.1985.
+
+2.
+
+L'employée de l'Etat affectée au ministère de la Famille, détentrice d'une licence en sciences médico-sociales et hospitalières et engagée le 01.12.1973, peut être nommée à la fonction de conseiller de direction première classe hors cadre à l'administration gouvernementale. En cas de nomination, sa carrière est reconstituée par la prise en considération des grades 12, 13, 14 et 15 figurant à la rubrique I. «Administration générale» de l'annexe C de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, aux dates respectives des 01.07.1981, 01.07.1984, 01.07.1987 et 01.07.1993.
+
+3.
+
+L'employée de l'Etat affectée au ministère de la Famille, détentrice d'une maîtrise en économie et engagée le 01.09.1990 peut être nommée à la fonction d'attaché de Gouvernement hors cadre à l'administration gouvernementale à condition de réussir à un examen de qualification dont les conditions et modalités sont fixées par règlement grand-ducal.
+
 <a id="art-19"></a>
 ## Art. 19.
+
+1.
+
+Le médecin engagé depuis le 01.04.1985 en qualité d'employé de l'Etat dans le cadre du service d'action médico-socio-thérapeutique est intégré dans le cadre de la direction de la Santé et obtient une nomination à la fonction de médecin chef de division. Il est dispensé du stage et de l'examen de fin de stage. Son traitement est fixé sur la base d'une nomination fictive se situant deux années après la date de son engagement. La carrière de l'intéressé est reconstituée par la prise en considération des grades 15 et 16 figurant à la rubrique I. «Administration générale» de l'annexe C de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, aux dates respectives des 01.04.1987 et 01.04.1993. Il est dispensé de la formation complémentaire prévue à l'article 16 paragraphe (3) de la loi modifiée du 21 novembre 1980 portant organisation de la direction de la Santé.
+
+2.
+
+L'employé de l'Etat, engagé le 01.01.1993 auprès de la direction de la Santé, qui est détenteur du diplôme de licencié en sciences médico-sociales et hospitalières, peut être nommé à la fonction d'attaché de Gouvernement hors cadre à l'administration gouvernementale à condition de réussir à un examen de qualification dont les conditions et modalités sont fixées par règlement grand-ducal.
 
 <a id="art-20"></a>
 ## Art. 20.
@@ -236,10 +338,16 @@ Les dispositions de l'article 6bis paragraphe III de la loi modifiée du 22 juin
 
 La loi modifiée du 21 novembre 1980 portant organisation de la direction de la Santé est modifiée comme suit:
 
+- le 3e tiret sous a) du paragraphe 1) de l'article 14 est remplacé par le texte suivant: six médecins chefs de division
+
+- le 2e paragraphe sous b) de l'article 14 est modifié comme suit: Le nombre total des emplois de la carrière supérieure ne pourra dépasser: vingt-et-une unités pour les médecins ...
+
 <a id="art-22"></a>
 ## Art. 22.
 
-L'alinéa b) de l'article 13 de la loi du 27 juillet 1993 concernant l'intégration des étrangers au Grand-Duché de Luxembourg ainsi que l'action sociale en faveur des étrangers est remplacé par le texte suivant: b) les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées sur base des salaires et traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Sont prises en considération également pour le calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Dans le cadre de l'enveloppe ainsi fixée, les modalités de travail et de rémunération du personnel peuvent être arrêtées par convention collective de travail entre les employeurs et les employés. b) les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées sur base des salaires et traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Sont prises en considération également pour le calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Dans le cadre de l'enveloppe ainsi fixée, les modalités de travail et de rémunération du personnel peuvent être arrêtées par convention collective de travail entre les employeurs et les employés.
+L'alinéa b) de l'article 13 de la loi du 27 juillet 1993 concernant l'intégration des étrangers au Grand-Duché de Luxembourg ainsi que l'action sociale en faveur des étrangers est remplacé par le texte suivant:
+
+b) les dépenses de personnel qui, pour les besoins de la fixation de la participation de l'Etat, sont chiffrées sur base des salaires et traitements calculés pour les ouvriers d'après les dispositions du contrat collectif des ouvriers de l'Etat, pour les employés/personnel d'encadrement d'après la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat et pour les employés/personnel administratif, d'après les dispositions du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat. La valeur du point indiciaire est fixée par référence à l'art. 1er B) de la loi du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat, ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, telle qu'elle a été modifiée. Sont prises en considération également pour le calcul de la participation de l'Etat, les dépenses encourues par le versement d'une biennale supplémentaire par les organismes aux employés de leurs services. Dans le cadre de l'enveloppe ainsi fixée, les modalités de travail et de rémunération du personnel peuvent être arrêtées par convention collective de travail entre les employeurs et les employés.
 
 #### Chapitre 6 Dispositions transitoires et finales
 

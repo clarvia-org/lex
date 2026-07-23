@@ -31,8 +31,30 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Sur base de l’importance proportionnelle des diverses nationalités présentes dans la population de résidence la plus récente du Grand-Duché de Luxembourg calculée par
+
+e service central de la statistique et des études économiques, le nombre de représentants de pays qui font partie de l’Union européenne est fixé à 15.
+
+(2)
+
+Le nombre des représentants de pays ne faisant pas partie de l’Union européenne est fixé à 7.
+
 <a id="art-2"></a>
 ## Art. 2.
+
+(1)
+
+Les représentants des Etats membres de l’Union européenne se répartissent comme suit:
+
+(2)
+
+Pour le Portugal, la France, l’Italie, la Belgique, l’Allemagne, le Royaume-Uni et les Pays-Bas, il y a autant de membres suppléants que de membres effectifs.
+
+(3)
+
+Pour l’ensemble des autres Etats membres de l’Union européenne, il y a 5 membres effectifs et 5 membres suppléants qui sont proposés dans l’ordre du nombre de voix obtenues, étant donné que les 5 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs, sans qu’il ne puisse y avoir plus d’un membre effectif ou suppléant proposé par Etat.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -42,12 +64,30 @@ Pour l’ensemble des Etats hors Union européenne, il y a 7 membres effectifs e
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Pour chaque membre du Conseil national pour étrangers, ci-après désigné «le conseil», il est nommé un suppléant. Le suppléant siège en lieu et place du membre effectif en cas d’empêchement de ce dernier. Des jetons de présence sont accordés aux membres effectifs et suppléants. Les membres suppléants ne touchent de jetons que pour les réunions auxquelles ils assistent en remplacement d’un membre effectif empêché. Une indemnité est versée au secrétaire du conseil.
+
+(2)
+
+Les membres effectifs du conseil peuvent décider de se réunir en présence des membres suppléants pour des questions qui revêtent une importance particulière. Dans ces réunions, seuls les membres effectifs ou les membres qui siègent en lieu et place d’un membre effectif ont le droit de vote.
+
+En cas de décès ou de démission d’un membre du conseil, son suppléant le remplace jusqu’au renouvellement du conseil.
+
+(3)
+
+Le mandat individuel d’un représentant des étrangers prend fin, hormis le cas de décès ou de démission, dès qu’il acquiert la nationalité luxembourgeoise. Il en est de même en cas de transfert du domicile en dehors du territoire du Grand-Duché de Luxembourg. Dans ces cas, un membre suppléant remplace d’office le membre effectif. Le membre suppléant est remplacé suivant les dispositions prévues aux articles 25 et suivants, de façon à respecter les modalités de représentation fixées aux articles précédents.
+
 #### Chapitre II. Associations admises à proposer les représentants des étrangersau ministre ayant dans ses attributions l’Intégration
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions l’Intégration, désigné par la suite «le ministre», d’après les modalités ci-après désignées:
+
+- les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;
+
+- les associations œuvrant, à titre principal, en faveur des étrangers.
 
 Les associations visées à l’alinéa qui précède doivent être inscrites auprès du département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région, ci-après « Ministère » au plus tard le quinzième jour avant le jour du scrutin et avoir produit le rapport d’activité annuel de l’exercice précédant le vote du nouveau conseil ainsi que la liste actuelle des membres.
 
@@ -57,6 +97,12 @@ Les associations visées à l’alinéa qui précède doivent être inscrites au
 Sont inscrites auprès du Ministère en vue d’exercer le droit de vote pour le conseil, les associations visées à l’article 5 ci-dessus, à condition qu’elles soient constituées conformément aux dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif et que les statuts aient été publiés selon les dispositions de la même loi.
 
 La demande d’inscription se fait sur papier libre, adressée au Ministère en joignant:
+
+- une copie de l’acte de constitution
+
+- une copie attestant la publication des statuts au Mémorial, Recueil des Sociétés et Associations
+
+- la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.
 
 Le Ministère donne acte à l’association de son inscription en cas de décision positive.
 
@@ -78,6 +124,16 @@ Les représentants des étrangers à proposer au ministre sont élus parmi les p
 
 Pour être candidat sur une liste électorale, il faut:
 
+- être d’une nationalité autre que luxembourgeoise
+
+- être âgé de 18 ans accomplis le jour du scrutin
+
+- être domicilié au Grand-Duché de Luxembourg
+
+- ne pas être placé sous un régime de tutelle des majeurs
+
+- ne pas avoir subi de condamnation à une peine criminelle ou une condamnation en matière correctionnelle emportant privation du droit de vote.
+
 La candidature peut être posée par la personne concernée elle-même ou par une ou plusieurs associations inscrites auprès du Ministère avec l’accord écrit du concerné.
 
 <a id="art-9"></a>
@@ -93,6 +149,12 @@ L’appel aux candidatures paraît également sur le site internet du Ministère
 Les candidats figurant sur les listes doivent se déclarer ou être déclarés auprès du Ministère au moins huit jours avant la date fixée pour le scrutin. La déclaration marque les nom, prénom, nationalité, date de naissance, domicile et profession du candidat. Elle porte engagement de sa part de ne pas retirer sa candidature. Elle est datée et signée.
 
 La déclaration de candidature est accompagnée:
+
+- d’un acte de naissance
+
+- d’une pièce documentant la nationalité du candidat
+
+- d’un extrait du casier judiciaire.
 
 La liste des candidats déclarés est affichée au Ministère du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.
 
@@ -111,6 +173,10 @@ Si l’éligibilité d’un candidat, du point de vue des condamnations encourue
 Le bureau de vote est nommé par le ministre.
 
 Il est composé de 5 membres, à savoir:
+
+- 3 fonctionnaires ou employés du Ministère
+
+- 2 représentants des étrangers à proposer par les membres sortants du conseil.
 
 Ni les candidats, ni leurs parents ou alliés jusqu’au deuxième degré inclusivement, ne peuvent siéger comme membre du bureau de vote.
 
@@ -180,6 +246,12 @@ Chaque candidat ne peut obtenir qu’une seule voix.
 ## Art. 23.
 
 Sont nuls:
+
+- les bulletins qui expriment plus de suffrages qu’il n’y a de représentants à élire
+
+- les bulletins qui ne contiennent l’expression d’aucun suffrage
+
+- les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.
 
 <a id="art-24"></a>
 ## Art. 24.

@@ -43,12 +43,22 @@ Le bureau centralisateur peut s'adjoindre des agents en nombre suffisant pour ga
 <a id="art-4"></a>
 ## Art. 4.
 
-La mission du bureau centralisateur gouvernemental consiste à se faire communiquer par les bureaux de vote principaux des communes les résultats des élections par commune dès la clôture des bureaux de vote. En cas d'élections législatives ou européennes, le bureau centralisateur détermine, sur base de ces résultats, par quelque moyen que ce soit, le résultat officieux des élections. Il assure la diffusion de résultats partiels et du résultat final officieux. En cas d'élections communales générales, le bureau centralisateur diffuse les résultats par commune, le cas échéant après les avoir lui-même déterminés sur base des informations reçues.
+La mission du bureau centralisateur gouvernemental consiste à se faire communiquer par les bureaux de vote principaux des communes les résultats des élections par commune dès la clôture des bureaux de vote.
+
+En cas d'élections législatives ou européennes, le bureau centralisateur détermine, sur base de ces résultats, par quelque moyen que ce soit, le résultat officieux des élections. Il assure la diffusion de résultats partiels et du résultat final officieux.
+
+En cas d'élections communales générales, le bureau centralisateur diffuse les résultats par commune, le cas échéant après les avoir lui-même déterminés sur base des informations reçues.
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Pour mener à bien cette mission, le bureau centralisateur:
+
+- se fera communiquer les résultats déterminés par le bureau de vote principal de chaque commune; en cas de besoin, il se fera communiquer les résultats déterminés par chaque bureau de vote d'une commune; à cet effet, les membres du bureau centralisateur sont autorisés à se faire remettre des copies des procès-verbaux des bureaux de vote;
+
+- donnera, avant le jour du scrutin, les instructions nécessaires aux présidents des bureaux principaux de vote et des bureaux de vote pour garantir le bon et le prompt déroulement des opérations de détermination du résultat officieux;
+
+- mettra en œuvre tous les dispositifs nécessaires pour garantir la transmission rapide et efficace des résultats réalisés dans chaque commune et pour déterminer, le cas échéant, des résultats partiels et le résultat final officieux des élections.
 
 <a id="art-6"></a>
 ## Art. 6.

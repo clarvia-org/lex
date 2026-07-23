@@ -39,6 +39,16 @@ Les prestataires de services doivent être préalablement agréés par le Minist
 
 Les aides couvrent les coûts suivants:
 
+- les coûts d'organisation des actions de formation professionnelle, d'acquisition de compétences y compris des cours de formation, des ateliers, des activités de démonstration et des actions d'information;
+
+- les frais de voyage et de logement et les indemnités journalières des conférenciers;
+
+- dans le cas de projets de démonstration liés à des investissements et dans la mesure où les coûts sont utilisés pour la réalisation des projets et pendant la durée de ceux-ci:
+
+  - la location de terrains;
+
+  - l'achat ou la location-vente de matériels et d'équipements, dans la mesure où ils sont utilisés pour le projet. Lorsque les instruments et le matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d'amortissement correspondant à la durée du projet sont pris en compte.
+
 Les recettes générées par l’organisation des actions, telles que les contributions payées par les participants, sont portées en diminution des coûts éligibles pour le montant qui dépasse le montant des coûts qui ne sont pas pris en charge par l’État.
 
 La prise en charge des coûts par l’Etat se fait conformément aux montants prévus à l’annexe.
@@ -53,12 +63,26 @@ Les actions qui bénéficient d’une aide sont publiées par la Chambre d’agr
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Les prestataires de services de transfert de connaissances et d’actions d’information présentent au ministre les relevés des dépenses engagées et des recettes générées. L'aide est payée après approbation par le ministre du décompte auquel sont à joindre toutes les pièces comptables, ainsi que pour chaque action de formation et d’acquisition de compétences les informations permettant leur évaluation.
+
+Sur demande des prestataires, une ou plusieurs avances peuvent être payées sans que le montant des avances puisse être supérieur à 80 pour cent du montant engagé.
+
+(2)
+
+Pour les activités de démonstration, telles que les champs d’essais, les résultats et les recommandations doivent être publiés sur le site internet de la Chambre d’agriculture.
+
 #### Chapitre 2 Bourses de stage à l’étranger
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Une bourse peut être accordée pour la participation à un stage à l’étranger des personnes qui:
+
+- sont âgées de seize ans au moins sans dépasser l'âge de quarante ans;
+
+- répondent aux conditions d’études visées à l’article 5 du règlement grand-ducal du 23 juillet 2016 portant exécution des titres I et II de la loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -108,6 +132,16 @@ Le prestataire désigne les personnes physiques possédant la qualification prof
 
 Les factures à établir par le prestataire de services de conseil indiquent:
 
+- le nom du bénéficiaire de la prestation de services et le numéro d’exploitation du bénéficiaire
+
+- le module de conseil
+
+- le nom des conseillers
+
+- le montant à payer par le bénéficiaire
+
+- le montant ou le taux d’aide.
+
 En cas d’indication du taux d’aide, la facture doit contenir une des phrases suivantes:
 
 « La présente facture/prestation de services tient compte d’une aide de x % de la part du ministère de l’Agriculture, de la Viticulture et de la Protection des consommateurs. »
@@ -120,6 +154,24 @@ ou
 ## Art. 12.
 
 Le prestataire de services de conseil établit un compte rendu signé par les participants et indiquant:
+
+- dans le cadre des prestations de conseil individuel:
+
+  - le nom du prestataire de services et le nom des conseillers
+
+  - le nom du bénéficiaire et son numéro d’exploitation
+
+  - la date et l’objet de la prestation de conseil
+
+  - les recommandations concrètes en matière de conseil
+
+- dans le cadre des prestations de conseil en groupe:
+
+  - le nom du prestataire de services ainsi que le nom des conseillers
+
+  - la liste des participants avec leur numéro d’exploitation
+
+  - la date et l’objet de la prestation de conseil.
 
 Les comptes rendus sont à présenter au ministre sur demande.
 
@@ -148,12 +200,36 @@ La Chambre d’agriculture élabore, coordonne et met en œuvre un système de f
 
 Avant la date du début des projets bénéficiant de l'aide visée aux articles 40 et 43 de la loi précitée du 27 juin 2016, les informations suivantes sont publiées sur les sites internet du ministère de l’Agriculture, de la Viticulture et de la Protection des consommateurs et de la Chambre d’agriculture:
 
+- la description du projet;
+
+- les objectifs du projet;
+
+- la date approximative de publication des résultats;
+
+- les sites internet où les résultats seront publiés;
+
+- une mention indiquant que les résultats du projet sont mis gratuitement à la disposition de toutes les entreprises qui exercent des activités dans le secteur ou le sous-secteur agricole concerné.
+
 Les résultats sont publiés sur les mêmes sites internet à partir de la date d’achèvement du projet où ils peuvent être consultés pendant une période d’au moins cinq ans.
 
 <a id="art-16"></a>
 ## Art. 16.
 
 L’aide couvre les coûts suivants:
+
+- les frais de personnel liés aux chercheurs, techniciens et personnel d'appui;
+
+-
+
+  - la location de terrains;
+
+  - l'achat ou la location-vente de matériels et d'équipements, dans la mesure où ils sont utilisés pour le projet. Lorsque les instruments et le matériel ne sont pas utilisés pendant toute leur durée de vie dans le cadre du projet, seuls les coûts d'amortissement correspondant à la durée du projet sont pris en compte;
+
+- les coûts de la recherche contractuelle, des connaissances et des brevets achetés ou pris sous licence auprès de sources extérieures à des conditions de pleine concurrence, ainsi que les coûts des services de conseil et des services équivalents utilisés exclusivement aux fins du projet;
+
+- les frais généraux additionnels et les autres frais d'exploitation, notamment les coûts des matériaux, fournitures et produits similaires en relation directe avec le projet;
+
+- les activités de promotion.
 
 Les aides sont fixées à 100 pour cent des coûts admissibles.
 
@@ -162,11 +238,25 @@ Les aides sont fixées à 100 pour cent des coûts admissibles.
 
 La commission pour la promotion de l’innovation, de la recherche et du développement du secteur agricole, visée à l’article 71, point 3 de la loi précitée du 27 juin 2016 est composée de six membres nommés par le ministre dont:
 
+- un représentant du ministre;
+
+- un représentant du ministre ayant l'Enseignement supérieur et la Recherche dans ses attributions;
+
+- un représentant de l’Administration des services techniques de l’agriculture;
+
+- un représentant du Service d’économie rurale;
+
+- un représentant de l’Institut viti-vinicole;
+
+- un représentant de l’Administration des services vétérinaires.
+
 Un suppléant est désigné pour chaque membre effectif de la commission. Il est appelé à remplacer celui-ci en cas d’empêchement.
 
 La commission est présidée par un des représentants désignés par le ministre. En cas d’empêchement, celui-ci est remplacé par son suppléant désigné à cet effet.
 
-Le secrétariat de la commission est assuré par un représentant désigné par le ministre. Avec l’accord du président, la commission peut se faire assister par des experts en vue de l’examen de questions particulières.
+Le secrétariat de la commission est assuré par un représentant désigné par le ministre.
+
+Avec l’accord du président, la commission peut se faire assister par des experts en vue de l’examen de questions particulières.
 
 La commission se réunit sur convocation de son président ou à la demande conjointe de quatre de ses membres. Pour délibérer valablement, quatre membres au moins doivent être présents. En cas de parité de voix, celle du président est prépondérante.
 

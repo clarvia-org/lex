@@ -31,6 +31,12 @@ Lorsque l’assemblée générale se prononce pour le principe de la location pa
 
 Sont annexées au procès-verbal de l’assemblée générale signée par le président et le secrétaire-trésorier:
 
+- une copie de la convocation à l’assemblée générale avec mention de la date exacte à laquelle elle a eu lieu;
+
+- les procurations dont il a été fait usage lors de l’assemblée générale;
+
+- toutes les déclarations de retrait écrites et motivées avec les annexes telles que prévues à l’article 24 de la loi du 25 mai 2011 relative à la chasse.
+
 Chaque intéressé pourra prendre inspection de ce dossier auprès du secrétaire-trésorier pendant la période commençant le quinzième jour avant la date d’adjudication jusqu’à la date d’envoi au ministre conformément à l’article 13 du présent règlement.
 
 <a id="art-2"></a>

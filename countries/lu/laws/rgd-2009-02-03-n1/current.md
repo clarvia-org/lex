@@ -34,7 +34,19 @@ Le présent règlement a pour objet de déterminer les modalités ainsi que le c
 
 L'examen médical auquel il est procédé conformément aux articles 28 et 41 de la loi comporte obligatoirement:
 
+- Un examen clinique général effectué par le médecin qui peut s'entourer d'avis de médecins spécialistes et demander des examens complémentaires.
+
+- Un test adéquat de dépistage de la tuberculose latente et une radiographie du thorax .
+
+- Une prise de sang tendant au dépistage de maladies sexuellement transmissibles en fonction de la symptomatologie clinique, à l'exclusion du test VIH/SIDA.
+
+- Une vérification du statut vaccinal.
+
 L'examen médical auquel il est procédé conformément à l'article 41 de la loi comporte encore:
+
+- Une mesure de la glycémie capillaire pour les personnes présentant du fait de leurs antécédents, leur âge ou leur état clinique un risque par rapport au diabète.
+
+- Un examen urinaire comprenant la recherche de protéines et de sang en fonction de la symptomatologie clinique.
 
 Le test de dépistage de la tuberculose latente prévu au point 2 de l’alinéa 1er est effectué dans un centre médico-social de la ligue luxembourgeoise de prévention et d’actions médico-sociales ou dans un laboratoire d’analyses médicales .
 
@@ -51,6 +63,16 @@ A la fin de l'examen médical, il adressera le certificat sous pli fermé dans l
 ## Art. 4.
 
 L'examen médical visé à l'article 2 du présent règlement portera sur les maladies ou affections suivantes:
+
+- Maladies mentionnées au Règlement Sanitaire International 2005 (RSI) adopté par la cinquante-huitième Assemblée mondiale de la santé respectivement toute maladie évaluée et notifiée en application du RSI;
+
+- Tuberculose contagieuse active ou à tendance évolutive;
+
+- Troubles mentaux nécessitant des soins et susceptibles de compromettre la sécurité d'autres personnes ou portant atteinte, de façon grave à l'ordre public. Ce diagnostic doit être étayé par un certificat médical établi par un médecin spécialiste en neuropsychiatrie à la demande du médecin délégué. Dans ce cas, le dossier de l'intéressé pourra être mis en suspens par le médecin délégué jusqu'à l'établissement d'un nouveau certificat médical indiquant que la personne n'est pas susceptible de compromettre la sécurité d'autres personnes ou de porter atteinte de façon grave à l'ordre public;
+
+- Toxicomanie avérée nécessitant un traitement médical prolongé;
+
+- Problème de santé en contradiction manifeste avec l'objet du séjour au Luxembourg dans le cas où le ressortissant de pays tiers ne remplit pas les conditions médicales autorisant son séjour sur le territoire, et notamment le fait d'y vouloir exercer une activité salariée.
 
 <a id="art-5"></a>
 ## Art. 5.

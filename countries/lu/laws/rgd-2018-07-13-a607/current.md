@@ -35,6 +35,12 @@ Le présent règlement s’applique au pompier volontaire du Corps grand-ducal d
 
 Le pompier volontaire est éligible à un remboursement annuel unique jusqu’à hauteur de cinquante pour cent du montant versé dans le cadre :
 
+- d’un contrat individuel de prévoyance-vieillesse visé par l’article 111bis de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, ou de cotisations personnelles sur les rémunérations des salariés en raison de l’existence d’un contrat sous un régime complémentaire de pension, instaurées conformément à la loi du 8 juin 1999 relative aux régimes complémentaires de pension, visées par l’article 110, alinéa 3, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+
+- d’un contrat d’assurance maladie privé complémentaire, visé par l’article 111, alinéa 1er, lettre a), de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu ;
+
+- d’un contrat d’assurance auprès des sociétés de secours mutuels reconnues, visées par l’article 111, alinéa 1er, lettre b), de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+
 Les trois régimes d’assurance seront appelés par la suite « contrat d'assurance ».
 
 <a id="art-3"></a>
@@ -48,6 +54,18 @@ Pour être éligible au remboursement prévu à l’article 2, le pompier volont
 La demande de remboursement est à envoyer annuellement au CGDIS au courant du premier trimestre de l’année qui suit les versements des primes sur base d’un formulaire prévu à cet effet. Les demandes tardives ne sont pas prises en compte.
 
 Le formulaire est accompagné par un certificat annuel établi par la compagnie d'assurance ou par une caisse mutualiste, stipulant au moins :
+
+- les coordonnées de la compagnie d’assurance ou de la caisse mutualiste avec laquelle le contrat d’assurance a été conclu ;
+
+- un numéro de contrat d’assurance ou de police d’assurance ;
+
+- la référence du type d’assurance ;
+
+- les noms et les prénoms du ou des bénéficiaires du contrat d’assurance ;
+
+- l’adresse ou la date de naissance du ou des bénéficiaire(s) du contrat d’assurance ;
+
+- le montant total des primes ou des cotisations versées au courant de l'année sur laquelle porte la demande de remboursement.
 
 Le conseil d’administration du CGDIS peut demander une copie du contrat d’assurance s’il juge que le certificat annuel ne comporte pas toutes les informations nécessaires afin de vérifier l’éligibilité au remboursement.
 

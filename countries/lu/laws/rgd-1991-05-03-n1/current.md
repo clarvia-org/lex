@@ -44,15 +44,59 @@ Par dérogation à l’alinéa qui précède ne sont pas à considérer comme he
 <a id="art-3"></a>
 ## Art. 3.
 
+1.
+
+Par cas d’urgence au sens du paragraphe premier, alinéa premier, de l’article 21 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux on comprend:
+
+- Les travaux découlant d’un cas de force majeure, dans la mesure nécessaire pour éviter une entrave sérieuse à la marche normale de l’administration ou du service.
+
+- Les travaux à entreprendre pour faire face aux suites d’un accident ou pour prévenir un accident imminent.
+
+- Les travaux qui s’imposent dans l’intérêt public à la suite d’événements exceptionnels et imprévisibles.
+
+2.
+
+Par surcroît exceptionnel de travail au sens du paragraphe premier, alinéa premier, précité, il faut comprendre des travaux extraordinaires prévisibles.
+
 #### Chapitre III. Modalités
 
 <a id="art-4"></a>
 ## Art. 4.
 
+1.
+
+Dans les cas prévus au paragraphe premier de l’article 3 du présent règlement l’autorisation d’effectuer les heures supplémentaires est accordée par le bourgmestre ou par celui qui le remplace.
+
+2.
+
+Dans les cas prévus par le paragraphe 2. de l’article 3 du présent règlement l’autorisation est accordée par le collège des bourgmestre et échevins pour une durée renouvelable de six mois.
+
+3.
+
+Toutefois pour les fonctionnaires classés aux grades 10 et supérieurs l’autorisation est accordée dans tous les cas par le collège des bourgmestre et échevins.
+
 #### Chapitre IV. Indemnisation des heures supplémentaires
 
 <a id="art-5"></a>
 ## Art. 5.
+
+1.
+
+Les heures supplémentaires sont indemnisées sur la base d’un taux horaire égal à un cent soixante treizième du traitement mensuel brut du fonctionnaire.
+
+Pour les heures supplémentaires prestées le dimanche il est versé un supplément de quarante pour-cent.
+
+Pour les heures supplémentaires prestées un jour férié légal ou un jour férié de rechange, le supplément est fixé à soixante-dix pour-cent.
+
+Si les heures supplémentaires sont prestées entre vingt-deux heures et six heures, les taux prévus aux trois alinéas qui précèdent sont augmentés de vingt pour-cent.
+
+2.
+
+Pour le fonctionnaire ayant accompli sa tâche hebdomadaire de travail et astreint à fournir des heures supplémentaires le samedi le supplément est celui prévu pour le dimanche.
+
+3.
+
+Si des heures supplémentaires sont compensées par un congé de compensation, seuls les suppléments éventuellement dus sont payés.
 
 #### Chapitre V. Astreinte à domicile
 
@@ -65,7 +109,15 @@ Si, pour des raisons de service, une compensation s’avère impossible, il est 
 
 A) Astreintes de nuit (entre dix-neuf et sept heures):
 
+- Les jours ouvrables: 0,62 euros au nombre-indice cent par astreinte;
+
+- Les samedis, les dimanches et les jours fériés: 1,24 euros au nombre indice cent par astreinte.
+
 B) Astreintes de jour (de sept à dix-neuf heures):
+
+- Les jours ouvrables: 0,62 euros au nombre-indice cent par astreinte;
+
+- Les samedis, les dimanches et les jours fériés: 1,24 euros au nombre-indice cent par astreinte.
 
 #### Chapitre VI. Dispositions transitoire et finale
 

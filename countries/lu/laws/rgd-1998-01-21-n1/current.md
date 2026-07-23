@@ -37,17 +37,53 @@ Les professionnels de santé dont question à l’article 1er ci-avant portent l
 <a id="art-3"></a>
 ## Art. 3.
 
-L’infirmier preste des soins infirmiers préventifs, curatifs ou palliatifs qui sont de nature relationnelle, technique ou éducative. En outre, dans le cadre de l’exercice de sa profession, il peut: Il exerce sa profession conformément aux règles de l’exercice de certaines professions de santé.
+L’infirmier preste des soins infirmiers préventifs, curatifs ou palliatifs qui sont de nature relationnelle, technique ou éducative.
+
+En outre, dans le cadre de l’exercice de sa profession, il peut:
+
+- prendre part à la planification, à la mise en oeuvre et à l’évaluation d’activités pour la santé tant sur le plan national que local;
+
+- organiser ou participer à des actions de promotion et d’évaluation de la santé;
+
+- assurer une mission d’encadrement et de formation;
+
+- entreprendre ou collaborer à des activités d’amélioration de la qualité des soins et de recherche dans son domaine d’activité.
+
+Il exerce sa profession conformément aux règles de l’exercice de certaines professions de santé.
 
 <a id="art-4"></a>
 ## Art. 4.
 
-Les soins infirmiers aux bénéficiaires tiennent compte d'une approche personnalisée, qui inclut notamment les composantes psychologique, sociale, économique et culturelle, les acquis de la science et une exécution conforme à l’évolution des techniques. Ces soins ont pour objet:
+Les soins infirmiers aux bénéficiaires tiennent compte d'une approche personnalisée, qui inclut notamment les composantes psychologique, sociale, économique et culturelle, les acquis de la science et une exécution conforme à l’évolution des techniques.
+
+Ces soins ont pour objet:
+
+- de protéger, de maintenir, de restaurer et de promouvoir la santé,
+
+- de sauvegarder les fonctions vitales, de prévenir la dépendance et de favoriser l’autonomie,
+
+- de contribuer aux méthodes de diagnostic et d’établir des diagnostics infirmiers,
+
+- de participer à la surveillance clinique de l’état de santé, d’en apprécier l’évolution et de participer au sein de l’équipe pluridisciplinaire des professions de santé à l’application des prescriptions et thérapeutiques mises en oeuvre;
+
+- de coordonner les interventions des différents professionels de la santé,
+
+- de favoriser le maintien, l’insertion ou la réinsertion notamment dans le cadre de vie familial et social;
+
+- de prévenir et d’évaluer la souffrance et la détresse et de participer à leur soulagement ainsi qu’à celui du deuil;
+
+- d’assurer l’accompagnement, notamment dans les derniers instants de la vie.
 
 <a id="art-5"></a>
 ## Art. 5.
 
-L’exercice de la profession d’infirmier est caractérisée par des attributions spécifiques que l’infirmier est autorisé à accomplir ou à faire accomplir sous certaines conditions. Les attributions dont question comportent des soins et actes techniques qui sont énumérés à l’annexe qui fait partie intégrante du présent règlement. L’exercice professionnel de ces attributions est réservé à la profession d’infirmier sans préjudice d’attributions conférées par la loi et ses règlements d’exécution à d’autres professionnels de santé. Les soins et actes énumérés à cette annexe sont mis en oeuvre par l’infirmier soit sur initiative propre, soit sur prescription médicale, soit dans le cadre d’interventions en situation d'urgence.
+L’exercice de la profession d’infirmier est caractérisée par des attributions spécifiques que l’infirmier est autorisé à accomplir ou à faire accomplir sous certaines conditions.
+
+Les attributions dont question comportent des soins et actes techniques qui sont énumérés à l’annexe qui fait partie intégrante du présent règlement.
+
+L’exercice professionnel de ces attributions est réservé à la profession d’infirmier sans préjudice d’attributions conférées par la loi et ses règlements d’exécution à d’autres professionnels de santé.
+
+Les soins et actes énumérés à cette annexe sont mis en oeuvre par l’infirmier soit sur initiative propre, soit sur prescription médicale, soit dans le cadre d’interventions en situation d'urgence.
 
 <a id="art-6"></a>
 ## Art. 6.

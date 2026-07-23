@@ -41,7 +41,9 @@ Elle peut être décernée à titre posthume.
 <a id="art-3"></a>
 ## Art. 3.
 
-La décoration comprend deux degrés : La croix et la médaille.
+La décoration comprend deux degrés :
+
+La croix et la médaille.
 
 La Croix ne peut être décernée qu'à titre posthume. La Médaille n'est plus conférée à partir de l'entrée en vigueur du présent règlement.
 

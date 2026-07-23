@@ -30,6 +30,12 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Les critères sportifs suivants sont retenus pour établir un classement des candidats qui veulent intégrer le Sportlycée:
 
+- la motricité;
+
+- les performances sportives;
+
+- le potentiel sportif disciplinaire.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -61,10 +67,22 @@ Une note sur 60 points est attribuée aux candidats, chaque critère comptant po
 
 Par dérogation aux articles 1er à 5, les mesures suivantes sont applicables pour l’année scolaire 2019-2020 :
 
+- pour les candidats qui veulent intégrer le Sportlycée, l’obligation d’évaluation de la motricité visée aux articles 1, 2 et 4 est suspendue. Les candidats sont évalués sur les performances sportives et le potentiel sportif disciplinaire, selon les modalités définies aux articles 3 et 4 ;
+
+- une note sur 40 points est attribuée aux candidats, chaque critère comptant pour 20 points. Une note globale inférieure à 20 points est éliminatoire. La note globale intervient dans le classement des candidats conformément aux dispositions du point 3 de l’article 6.
+
 <a id="art-6"></a>
 ## Art. 6.
 
 Le comité de coordination prend la décision d’admission des élèves au Sportlycée selon la procédure suivante:
+
+- Pour chaque année scolaire, le ministre ayant l’Éducation nationale dans ses attributions fixe le nombre de places disponibles par type de classe.
+
+- Si le nombre de candidatures est inférieur ou égal au nombre de places disponibles par type de classe, tous les élèves qui satisfont aux critères sont admis.
+
+- Si le nombre de candidatures dépasse le nombre de places disponibles par type de classe, le comité de coordination définit des quotas pour chaque fédération conventionnée ainsi qu’un quota pour candidats qui ne sont pas proposés par une fédération. Les candidats sont sélectionnés selon le classement établi conformément aux dispositions des articles 1 à 5. Les élèves candidats classés en rang utile sont admis.
+
+- Les candidats qui font partie d’un cadre du Comité olympique et sportif luxembourgeois sont admis prioritairement.
 
 <a id="art-7"></a>
 ## Art. 7.

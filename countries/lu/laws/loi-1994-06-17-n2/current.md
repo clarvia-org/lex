@@ -27,6 +27,60 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er-20060901"></a>
 ## Art. 1er.-
 
+(1)
+
+La présente loi a pour objet d'assurer la protection de la santé des travailleurs sur les lieux de travail et celle des tiers par l'organisation de la surveillance médicale et de la prévention des accidents et des maladies professionnelles.
+
+(2)
+
+La réalisation de cet objectif incombe:
+
+- aux services de santé au travail d'entreprise,
+
+- aux services de santé au travail interentreprises,
+
+- au service de santé au travail multisectoriel.
+
+(3)
+
+La présente loi n'est pas applicable:
+
+- aux travailleurs qui bénéficient de la protection visée à l'article 32 paragraphe 2 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat,
+
+- aux travailleurs bénéficiant de la protection visée à l'article 36 paragraphe 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux
+
+- aux travailleurs des institutions européennes établies à Luxembourg bénéficiant de la protection garantie par leur statut,
+
+- aux travailleurs bénéficiant de la protection visée à l'article 76 de la loi du 9 novembre 1990 ayant pour objet la création d'un registre public maritime luxembourgeois,
+
+- aux pilotes de ligne.
+
+(4)
+
+Sont considérés comme travailleurs au sens de la présente loi, outre les salariés tels que définis à l'article 1er de la loi modifiée du 24 mai 1989 sur le contrat de travail et ceux définis à la loi du 19 mai 1994 portant réglementation du travail intérimaire et du prêt temporaire de main-d’œuvre:
+
+- les stagiaires;
+
+- les apprentis;
+
+- les chômeurs indemnisés bénéficiant d'une mise au travail;
+
+- les demandeurs d'emploi bénéficiant d'une formation-placement;
+
+- les jeunes demandeurs d'emploi sous contrat d'auxiliaire temporaire auprès de l'Etat, des communes, des syndicats de communes, des établissements publics, des établissements d'utilité publique ou de tout autre organisme, institution, association ou groupement de personnes poursuivant un but lucratif;
+
+- les jeunes demandeurs d'emploi sous contrat d'auxiliaire temporaire auprès des employeurs du secteur privé;
+
+- les jeunes demandeurs d'emploi bénéficiant d'un stage d'insertion;
+
+- les demandeurs d'emploi bénéficiant d'un stage de réinsertion professionnelle;
+
+- les bénéficiaires de l'indemnité d'insertion soumis aux activités d'insertion professionnelle prévues à l'article 10 de la loi du 29 avril 1999 portant création d'un droit à un revenu minimum garanti.
+
+(5)
+
+Dans la suite les termes « les services » désignent les services de santé au travail visés au paragraphe (2).
+
 <a id="art-2-20060901"></a>
 ## Art. 2.
 
@@ -37,12 +91,38 @@ Tout poste de travail occupé par un travailleur visé à l'article 1er est soum
 <a id="art-3-20060901"></a>
 ## Art. 3.
 
-La santé au travail, la prévention des maladies professionnelles ainsi que la protection sanitaire sont organisées selon les modalités suivantes: Tout employeur occupant régulièrement plus de 5.000 travailleurs est tenu d'organiser à l'intérieur de son entreprise un service de santé au travail. Cette exigence est étendue à tout employeur occupant régulièrement plus de 3.000 travailleurs dont au moins 100 travailleurs occupés à un poste à risques visé à l'article 17-1 ci-après.
+La santé au travail, la prévention des maladies professionnelles ainsi que la protection sanitaire sont organisées selon les modalités suivantes:
+
+- Tout employeur occupant régulièrement plus de 5.000 travailleurs est tenu d'organiser à l'intérieur de son entreprise un service de santé au travail. Cette exigence est étendue à tout employeur occupant régulièrement plus de 3.000 travailleurs dont au moins 100 travailleurs occupés à un poste à risques visé à l'article 17-1 ci-après.
+
+- Tout employeur, non visé au paragraphe (1) qui précède, dispose des trois options suivantes, parmi lesquelles il doit choisir:
+
+  - soit d'organiser à l'intérieur de son entreprise un service de santé au travail,
+
+  - soit de se réunir avec d'autres employeurs en une association d'entreprises organisant un service interentreprises de santé au travail pour l'ensemble des membres de l'association,
+
+  - soit de recourir au service national de santé au travail.
 
 <a id="art-4-20060901"></a>
 ## Art. 4.
 
 Les services sont chargés, chacun auprès de l'employeur pour lequel il a compétence:
+
+- d'identifier les risques d'atteinte à la santé sur les lieux de travail, d'aider à éviter ces risques et notamment à les combattre à la source, d'évaluer les risques qui ne peuvent pas être évités;
+
+- de surveiller les facteurs du milieu de travail susceptibles d'affecter la santé du travailleur;
+
+- de donner des conseils sur la planification des postes de travail, notamment quant à l'aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l'utilisation de substances ou préparations chimiques pouvant constituer un risque pour la santé des travailleurs;
+
+- de promouvoir l'adaptation du travail à l'homme, en particulier en ce qui concerne la conception des postes de travail et le choix des méthodes de travail et de production, en vue notamment d'atténuer le travail monotone et le travail cadencé et d'en réduire les effets sur la santé;
+
+- de surveiller la santé des travailleurs en relation avec le travail et d'effectuer, à cet effet, les examens médicaux prévus par la présente loi;
+
+- de donner à l'employeur et au salarié des conseils dans les domaines de l'hygiène, de l'ergonomie, de l'éducation à la santé et de la réadaptation professionnelle;
+
+- de coopérer avec le comité mixte ou, à défaut, avec la délégation du personnel;
+
+- d'organiser les premiers secours.
 
 La mission des services est essentiellement de nature préventive.
 
@@ -66,12 +146,94 @@ Aucun service créé en vertu de la présente loi ne peut cesser ses activités 
 <a id="art-6-20060901"></a>
 ## Art. 6.
 
+(1)
+
+Il est créé un service de santé au travail multisectoriel qui a le caractère d’un établissement public, désigné ci-après le service multisectoriel.
+
+Le service multisectoriel possède la personnalité juridique et jouit de l’autonomie financière et administrative sous la tutelle du ministre de la santé. Il est géré dans les formes et d’après les méthodes du droit privé.
+
+Le service multisectoriel assume les missions dont question à l’article 4 ci-dessus auprès des employeurs qui n’organisent pas de service de santé au travail à l’intérieur de leur entreprise ni ne participent à un service interentreprises de santé au travail.
+
+Le siège de l'établissement est fixé à Luxembourg.
+
+(2)
+
+Le service multisectoriel est placé sous l’autorité d’un comité-directeur comprenant:
+
+un président désigné par le gouvernement en conseil,
+
+trois délégués des syndicats des salariés les plus représentatifs sur le plan national,
+
+trois délégués des organisations professionnelles des employeurs les plus représentatives sur le plan national.
+
+Les délégués visés à l’alinéa qui précède sont désignés par le ministre de la santé pour une période de cinq ans parmi les candidats à proposer en nombre double par les syndicats et les organisations professionnelles concernés. Les listes des candidats doivent parvenir au ministre de la santé au moins trois mois avant l’expiration des mandats. Le mandat du délégué en fonction est renouvelable. Il y a autant de membres suppléants que de membres effectifs. Ils sont désignés suivant la même procédure.
+
+Le comité-directeur désigne un vice-président qui assume les attributions du président en cas d’absence. La fonction de vice-président est assurée alternativement par un délégué des syndicats des salariés et un délégué des organisations professionnelles pour la durée d’une année.
+
+En cas de démission ou de décès d’un membre effectif ou suppléant, il est pourvu à son remplacement dans le délai de deux mois par la nomination d’un nouveau membre, désigné conformément à l’alinéa qui précède, qui achève le mandat de celui qu’il remplace.
+
+Le comité-directeur a la faculté de recourir à l’avis d’experts s’il le juge nécessaire. Les experts peuvent assister avec voix consultative aux réunions du comité-directeur, si celui-ci le leur demande.
+
+Le comité-directeur peut choisir un secrétaire administratif hors son sein.
+
+Le fonctionnement du comité-directeur fait l’objet d’un règlement d’ordre intérieur qui fixe également les indemnités à allouer aux membres, aux experts et au secrétaire administratif. Ce règlement est soumis à l’approbation du ministre de la santé.
+
+Le comité-directeur se réunit sur convocation du président aussi souvent que les intérêts du service l’exigent ou à la demande d'au moins un tiers de ses membres. Le délai de convocation est d’au moins cinq jours, sauf le cas d’urgence à apprécier par le président. La convocation indique l’ordre du jour.
+
+Le comité-directeur ne peut délibérer que si la majorité de ses membres sont présents.
+
+Dans les votes, la voix du président prévaut en cas d’égalité des voix.
+
+Le président du comité-directeur représente le service multisectoriel judiciairement et extrajudiciairement. Cette représentation s’étend aussi aux affaires et aux actes judiciaires pour lesquels les lois exigent une procuration spéciale. Les actes posés par le président ou le comité-directeur dans les limites de leurs pouvoirs engagent le service multisectoriel.
+
+(3)
+
+Le comité-directeur est assisté par un personnel qui a le statut d’employé privé.
+
+(4)
+
+Le service multisectoriel peut bénéficier des services généraux de l’office des assurances sociales à sa demande et de l’accord des ministres ayant dans leurs attributions la santé et la sécurité sociale.
+
+(5)
+
+Le coût du service multisectoriel est couvert par une cotisation à charge de tous les employeurs optant pour le recours à ce service.
+
+Au plus tard le 1er décembre de chaque année, le comité-directeur soumet à l’approbation du ministre de la santé le budget ainsi que le taux de cotisation pour l’exercice suivant. Le taux de cotisation est publié au Mémorial.
+
+Les comptes du service multisectoriel sont tenus selon les principes et les modalités de la comptabilité commerciale. L’exercice budgétaire coïncide avec l’année civile.
+
+A la clôture de chaque exercice, le comité-directeur soumet à l’approbation du ministre de la santé pour le 31 mai au plus tard le bilan et le compte d’exploitation. L’exercice coïncide avec l’année civile. Le ministre décide sur la décharge à donner aux organes du service multisectoriel. Si le ministre n’a pas pris de décision dans les deux mois à dater de la remise du bilan et des comptes, la décharge est acquise de plein droit.
+
+Un réviseur d’entreprise désigné par le comité-directeur est chargé de contrôler les comptes du service multisectoriel ainsi que la régularité des opérations effectuées et des écritures comptables. Le réviseur d’entreprise doit remplir les conditions requises par la loi du 28 juin 1984 portant organisation de la profession de réviseur d’entreprise.
+
+Son mandat a une durée de trois ans et est renouvelable. Sa rémunération est à charge du service multisectoriel. Il remet son rapport au comité-directeur pour le 15 avril de l’année qui suit l’exercice clôturé. Il peut être chargé par le comité-directeur de procéder à des vérifications spécifiques.
+
+(6)
+
+Les cotisations sont perçues par le centre commun de la sécurité sociale. L’assiette de cotisation est déterminée par référence au revenu professionnel déterminé dans le cadre de l’assurance pension.
+
+(7)
+
+Le service multisectoriel ne peut acquérir que les propriétés immobilières nécessaires au fonctionnement de ses services.
+
+(8)
+
+Le service multisectoriel procède aux examens médicaux prévus aux articles 15 à 19 ci-après sur les chômeurs, demandeurs d’emploi et les bénéficiaires de l'indemnité d'insertion, dont question à l’article 1er sous (4) c), e) et i). L’Etat dédommage annuellement le service multisectoriel du coût de ces examens. Si l’Etat et le service multisectoriel ne parviennent pas à se mettre d’accord sur ce coût, le litige est porté par la partie la plus diligente devant le conseil arbitral des assurances sociales. Les dispositions de l’article 24 ci-après sont applicables à ce litige.
+
+Toutes les autres missions dont question à l’article 4 ci-dessus sont assumées pour les postes occupés par des travailleurs dont question à l’alinéa 1er par le service de santé au travail compétent pour l’employeur dont relève le poste.
+
 ##### Direction de la Santé
 
 <a id="art-7"></a>
 ## Art. 7.
 
-Il est créé une division de la santé au travail auprès de la direction de la santé. A cet effet, les modifications suivantes sont apportées à la loi modifiée du 21 novembre 1980 portant organisation de la direction de la santé: La division de la santé au travail assure la coordination et le contrôle des services de santé au travail en ce qui concerne leur organisation et leur fonctionnement. La division de la santé au travail remplit sa mission en étroite collaboration avec l'inspection du travail et des mines qui peut requérir son avis dans le cadre de la loi du 9 mai 1990 relative aux établissements dangereux, insalubres ou incommodes, et la consulter en ce qui concerne la santé au travail. Elle examine, sur la base de données techniques recueillies par l'inspection du travail et des mines, l'impact des nuisances éventuelles sur la santé des travailleurs et informe les médecins du travail responsables de l'entreprise. Elle assure conjointement avec l'inspection du travail et des mines, chacune en ce qui la concerne, l'application des directives qui en découlent. Le 3e tiret sous a) du paragraphe 1) de l'article 14 est remplacé par le texte suivant: cinq médecins chefs de division. Le deuxième paragraphe sous b) de l'article 14 est modifié comme suit: Le nombre total des emplois de la carrière supérieure ne pourra dépasser: dix-huit unités pour les médecins . . . Le nombre total des emplois de la carrière supérieure ne pourra dépasser: dix-huit unités pour les médecins . . .
+Il est créé une division de la santé au travail auprès de la direction de la santé. A cet effet, les modifications suivantes sont apportées à la loi modifiée du 21 novembre 1980 portant organisation de la direction de la santé:
+
+- A l'article 3 il est ajouté un nouveau tiret rédigé comme suit: division de la santé au travail
+
+- A l'article 4 il est ajouté un nouveau paragraphe 8 rédigé comme suit: 8) La division de la santé au travail assure la coordination et le contrôle des services de santé au travail en ce qui concerne leur organisation et leur fonctionnement. La division de la santé au travail remplit sa mission en étroite collaboration avec l'inspection du travail et des mines qui peut requérir son avis dans le cadre de la loi du 9 mai 1990 relative aux établissements dangereux, insalubres ou incommodes, et la consulter en ce qui concerne la santé au travail. Elle examine, sur la base de données techniques recueillies par l'inspection du travail et des mines, l'impact des nuisances éventuelles sur la santé des travailleurs et informe les médecins du travail responsables de l'entreprise. Elle assure conjointement avec l'inspection du travail et des mines, chacune en ce qui la concerne, l'application des directives qui en découlent.
+
+- Le 3e tiret sous a) du paragraphe 1) de l'article 14 est remplacé par le texte suivant: cinq médecins chefs de division. Le deuxième paragraphe sous b) de l'article 14 est modifié comme suit: Le nombre total des emplois de la carrière supérieure ne pourra dépasser: dix-huit unités pour les médecins . . .
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -85,6 +247,14 @@ A la suite de la mise en vigueur de la présente loi, le gouvernement est autori
 
 Il est créé un conseil supérieur de la santé et de la sécurité au travail qui exerce les fonctions consultatives auprès des ministres de la santé, du travail et de la sécurité sociale. Ce conseil se compose:
 
+- du directeur de la santé et du médecin chef de division compétent,
+
+- du directeur de l'inspection du travail et des mines et du directeur du contrôle médical de la sécurité sociale ou de leurs délégués,
+
+- de trois médecins de travail avec une formation telle que prévue à l'article 11 de la présente loi, nommés par le ministre de la santé pour une durée de cinq ans,
+
+- de trois délégués des syndicats des salariés les plus représentatifs sur le plan national et de trois délégués des organisations professionnelles des employeurs les plus représentatives sur le plan national.
+
 La présidence est assurée par le directeur de la santé ou, en son absence, par le médecin chef de division compétent. Le conseil établit un règlement d'ordre intérieur à approuver par le ministre de la santé.
 
 <a id="art-10-20060901"></a>
@@ -94,6 +264,16 @@ Le conseil supérieur est appelé à donner, soit d'office, soit à la demande d
 
 Ces avis portent notamment sur:
 
+- les priorités d'intervention en matière de santé des travailleurs suivant les besoins spécifiques de différentes branches de l'économie et des particularités des postes de travail. Dans ce cadre il propose des règles de périodicité selon lesquelles les examens médicaux des travailleurs sont effectués;
+
+- l'efficacité des interventions dans le domaine de la santé au travail;
+
+- les programmes d'information et, le cas échéant, de formation dans le domaine de la santé et de l'hygiène au travail ainsi que de l'ergonomie propres aux différentes branches de l'économie, à l'intention des employeurs et des travailleurs;
+
+- la liste des normes d'exposition aux nuisances;
+
+- le projet de budget pour l'exercice à venir.
+
 Le conseil supérieur coopère avec tout organisme poursuivant des objectifs de sécurité, de santé et d'hygiène au travail.
 
 ##### Formation et fonctions du médecin du travail
@@ -102,6 +282,10 @@ Le conseil supérieur coopère avec tout organisme poursuivant des objectifs de 
 ## Art. 11.
 
 Le médecin d'un service de santé au travail doit remplir l'une des conditions de qualification suivantes:
+
+- soit être autorisé à exercer la profession de médecin en qualité de médecin-spécialiste en médecine du travail
+
+- soit être titulaire d’un des diplômes de médecin visés à l’article 1er sous b) de la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire et justifier en outre d’une formation spécifique en médecine du travail de deux ans au moins, sanctionnée par un diplôme, certificat ou titre. Un règlement grand-ducal détermine les exigences auxquelles cette formation devra répondre. Ce règlement pourra réduire la durée de la formation spécifique en médecine du travail jusqu'à un an pour des médecins autorisés à exercer leur profession dans une spécialité dont la formation comporte des cours en médecine du travail ou en pathologie professionnelle.
 
 Le médecin autorisé à exercer la médecine du travail en vertu du présent article et occupant l'un des postes de médecin prévus par la présente loi porte comme titre de ses fonctions celui de médecin du travail.
 
@@ -118,6 +302,12 @@ La fonction de médecin du travail est incompatible avec l'exercice libéral de 
 ## Art. 13.
 
 Le médecin du travail, pendant tout le temps qu'une activité professionnelle s'y exerce:
+
+- a libre accès à tous les lieux de travail et aux installations fournies par l'entreprise aux travailleurs;
+
+- a accès aux informations ayant trait aux procédés, normes de travail, produits, matières et substances qui sont utilisés ou que l'on envisage d'utiliser, sous réserve que soit préservé le secret de toute information confidentielle qu'il pourrait recueillir;
+
+- peut prélever, aux fins d'analyse, des échantillons de produits, de matières ou de substances qui sont utilisés.
 
 Le médecin du travail est consulté au sujet de tout changement envisagé concernant les procédés ou les conditions de travail susceptibles d'avoir des répercussions sur la santé ou la sécurité des travailleurs.
 
@@ -161,6 +351,16 @@ Si un travailleur change d'employeur, le médecin du travail compétent en vertu
 
 Sont soumis obligatoirement à des examens médicaux périodiques les travailleurs:
 
+- âgés de moins de 21 ans;
+
+- occupant un poste à risques visé à l'article 17-1 ci-après;
+
+- occupant un poste de sécurité;
+
+- pour lesquels, lors de l'examen d'embauchage, le médecin du travail a jugé utile de procéder régulièrement à un examen médical.
+
+- les travailleurs de nuit tels que définis dans la loi modifiée du 9 décembre 1970 portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie ainsi que dans la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de services des employés privés.
+
 En cas de besoin cette liste peut être complétée par règlement grand-ducal à prendre sur avis du Conseil d'Etat et après consultation de la Commission de travail de la Chambre des Députés.
 
 La périodicité des examens est fixée par règlement grand-ducal, sur avis du conseil supérieur.
@@ -169,6 +369,26 @@ Ni les examens médicaux auxquels il est procédé en vertu de la présente loi,
 
 <a id="article-17-1-20060901"></a>
 ## Article 17-1.
+
+(1)
+
+Est considéré comme poste à risques
+
+1. tout poste exposant le travailleur qui l'occupe à un risque de maladie professionnelle, à un risque spécifique d'accident professionnel sur le lieu de travail lui-même, à des agents physiques ou biologiques susceptibles de nuire à sa santé, ou à des agents cancérigènes.
+
+2. tout poste de travail comportant une activité susceptible de mettre gravement en danger la sécurité et la santé d'autres travailleurs ou de tiers ainsi que tout poste de travail comportant le contrôle d'une installation dont la défaillance peut mettre gravement en danger la sécurité et la santé de travailleurs ou de tiers.
+
+(2)
+
+Sont considérés comme postes dont le travail comporte des risques particuliers ou des tensions physiques ou mentales importantes:
+
+- les activités qui aggravent la diminution de vigilance du travailleur de nuit tels que les travaux qui impliquent la mise en œuvre de substances neurotoxiques, dans l’utilisation de substances organiques volatiles et des produits qui en contiennent, les tâches accomplies dans des conditions qui accroissent la monotonie et qui conduisent à l’hypovigilance, dans des tâches qui sollicitent une attention soutenue, ou qui sont répétitives ou peu variées;
+
+- les activités qui exigent une augmentation de l’activation biologique du travailleur de nuit tels que les travaux exigeant des efforts importants et provoquant une charge de travail importante et les travaux exécutés dans une ambiance de chaud ou froid excessif.
+
+(3)
+
+Chaque employeur, en collaboration avec le médecin du travail, fait l’inventaire des postes à risque prévus au paragraphe (1) ci-dessus et des postes dont le travail comporte des risques particuliers ou des tensions physiques ou mentales importantes prévus au paragraphe (2) ci-dessus dans son entreprise et le met à jour au moins tous les trois ans. L’inventaire et les mises à jour sont communiquées au médecin chef de la division de la santé au travail auprès de la direction de la santé, qui arrête pour chaque employeur la liste des postes à risques. A défaut de communication par l’employeur, le médecin-chef de division précité arrête cette liste d’office, après avoir pris l’avis de l’Inspection du travail et des Mines et du comité mixte d’entreprise s’il en existe.
 
 <a id="art-18-20060901"></a>
 ## Art. 18.
@@ -266,6 +486,18 @@ Les conclusions des examens d'embauchage ne sont pas sujettes à recours.
 
 Sont punis d'un emprisonnement de 8 jours à 6 mois et d'une amende de 2.501.- à 1.000.000.- francs ou d'une de ces peines seulement:
 
+- tout employeur qui occupe un travailleur qui ne s'est pas soumis à un des examens médicaux prévus aux articles 15 à 22 de la présente loi ou aux règlements grand-ducaux pris en leur exécution;
+
+- tout employeur qui occupe un travailleur visé sous l'article 22 malgré l'interdiction qui lui en est faite en vertu de cet article;
+
+- tout employeur dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi, et notamment tout employeur qui, bien qu'étant dans les conditions prévues à l'article 3, n'organise pas un service;
+
+- tout employeur, membre d'une association d'entreprises, dont le service n'est pas conforme aux exigences prévues à l'article 3 de la présente loi;
+
+- tout employeur qui refuse ou fait refuser au médecin du travail l'exécution des mesures inscrites à l'article 13;
+
+- tout employeur ou tout médecin du travail qui contrevient à l'article 17, dernier alinéa.
+
 Les dispositions du livre 1er du code pénal et celles de la loi modifiée du 18 juin 1879 portant attribution aux cours et tribunaux de l'appréciation des circonstances atténuantes, sont applicables.
 
 En cas de récidive endéans les deux ans ces peines peuvent être portées au double du maximum.
@@ -281,6 +513,10 @@ Les articles 22 et 25 de la loi du 28 octobre 1969 concernant la protection des 
 ## Art. 27.
 
 Par dérogation à l'article 11, peuvent également être admis à exercer les fonctions de médecin du travail auprès d'un service de santé au travail et à en porter le titre:
+
+- les médecins autorisés à exercer leur profession au Grand-Duché de Luxembourg, qui au moment de l'entrée en vigueur de la présente loi pratiquent la médecine du travail pendant au moins cinq ans à temps plein ou en équivalent temps plein. Les médecins qui entendent se prévaloir de la prédite disposition sont tenus d'en faire la demande au ministre de la santé, pièces à l'appui, dans les trois mois de l'entrée en vigueur de la présente loi. Toute formation qui, sans remplir les conditions de l'article 11, a été obtenue dans un des domaines de la médecine du travail, vaut pratique professionnelle au sens de l'alinéa qui précède pour sa durée en équivalent temps plein.
+
+- les titulaires d'un des diplômes de médecin visés à l'article 1er sous b) de la loi modifiée du 29 avril 1983 concernant l'exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire qui justifient en outre de la formation spécifique dont question au deuxième tiret de l'article 11. Les médecins qui entendent se prévaloir de la prédite disposition sont tenus d'en faire la demande au ministre de la santé, pièces à l'appui, dans les cinq ans de l'entrée en vigueur de la présente loi. En cas de pénurie persistante de médecins du travail un règlement grand-ducal peut porter à dix ans le délai dont question à la phrase qui précède.
 
 <a id="art-28-20060901"></a>
 ## Art. 28.

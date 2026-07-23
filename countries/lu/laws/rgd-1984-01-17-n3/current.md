@@ -25,6 +25,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Version consolidée applicable au 02/12/2019 : Règlement grand-ducal du 17 janvier 1984 portant réglementation de la procédure électorale pour la Chambre des Fonctionnaires et Employés publics.
 
+Disposition générale
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
@@ -98,6 +100,12 @@ Une copie des listes électorales définitivement arrêtées est transmise au pl
 
 Pour chaque catégorie d’électeurs les listes de candidats sont à présenter par dix électeurs inscrits dans cette catégorie. Les formules imprimées des listes, attestations et déclarations visées au présent article doivent être disponibles auprès du ministre au plus tard le 1er février qui précède les élections. Chaque liste de candidats doit être accompagnée:
 
+- d’un extrait du bulletin n° 3 du casier judiciaire et d’un extrait du répertoire civil qui datent de moins de trois mois ;
+
+- d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans cette catégorie;
+
+- d’une attestation délivrée à chaque candidat par son administration ou service certifant qu’il appartient ou a appartenu au cadre de son personnel. Pour les ressortissants de la catégorie D, cette attestation est délivrée par le ministre ayant l’Éducation nationale dans ses attributions .
+
 Chaque liste de candidats doit être déposée par un mandataire désigné par et parmi les électeurs qui la présentent et qui l’ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par le présent règlement grand-ducal.
 
 La liste indique la catégorie à laquelle les candidats appartiennent, les nom, prénoms, numéro matricule national, fonctions, administration ou service et domicile des candidats, ainsi que des électeurs qui la présentent.
@@ -137,7 +145,7 @@ Lors de la présentation des candidats, le mandataire de la liste peut désigner
 
 Le juge de paix directeur de Luxembourg transmet les noms des témoins et des témoins suppléants au président du bureau électoral.
 
-Le président désigne par voie de tirage au sort, pour chaque catégorie, le témoin qui aura à remplir ce mandat.
+Le président désigne par voie de tirage au sort , pour chaque catégorie, le témoin qui aura à remplir ce mandat.
 
 <a id="art-15"></a>
 ## Art. 15.
@@ -317,6 +325,16 @@ Est blanc le bulletin qui ne porte aucune inscription.
 
 Sont nuls:
 
+- tous les bulletins autres que ceux envoyés ou remis par le président aux électeurs;
+
+- ce bulletin même:
+
+  - s’il exprime plus de suffrages qu’il y a de membres à élire;
+
+  - s’il porte une marque ou un signe distinctif quelconque ou s’il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;
+
+  - si le votant s’y est fait connaître.
+
 Les bulletins blancs et nuls sont de suite écartés et leur nombre est inscrit au procès-verbal.
 
 <a id="art-37"></a>
@@ -354,6 +372,12 @@ A la reprise des travaux, ce local ne peut être ouvert par le président qu’a
 
 Le bureau arrête pour les différentes catégories:
 
+- le nombre des votants,
+
+- celui des bulletins nuls et des bulletins valables,
+
+- le nombre des suffrages de listes ainsi que celui des suffrages nominatifs.
+
 Il les fait inscrire au procès-verbal.
 
 <a id="art-42"></a>
@@ -384,6 +408,14 @@ Le procès-verbal est signé séance tenante par les membres et le secrétaire d
 ## Art. 44.
 
 Sont publiés par la voie du Mémorial pour les différentes catégories:
+
+- les nom et prénoms des membres effectift et des membres suppléants dans l’ordre des suffrages qu’ils ont obtenues,
+
+- le nombre des votants,
+
+- le nombre des bulletins nuls et des bulletins valables,
+
+- le nombre des suffrages de listes ainsi que des suffrages nominatifs.
 
 A l’expiration des délais prévus pour l’introduction des réclamations, tous les documents relatift à l’élection sont détruits.
 

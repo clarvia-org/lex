@@ -28,13 +28,43 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+1.
+
+Le titulaire d'une autorisation d'exercer visé par l'article 13(2) de la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé, désigné ci-après par «le titulaire», désirant reprendre l'exercice de la profession visée à l'article 13(2) précité, est tenu de notifier son intention au ministre de la Santé, désigné ci-après par «le ministre».
+
+2.
+
+La notification visée au paragraphe 1 doit comporter les renseignements suivants:
+
+- le nombre d'années de cessation de l'exercice de la profession de santé;
+
+- le service et le lieu de travail que la personne concernée entend réintégrer;
+
+- le cas échéant, la participation à des formations continues telle que prévue par l'article 13(1) de la loi modifiée du 26 mars 1992 précitée.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Si, à la suite de cette notification, le ministre, sur avis de la direction de la Santé, oblige le titulaire à poursuivre un enseignement théorique et pratique de réintégration, désigné ci-après par «l'enseignement», le ministre:
 
+- fournit au titulaire une liste indiquant les terrains de stage disponibles et notamment les terrains de stage agréés conjointement par lui et le ministre de l'Éducation nationale;
+
+- fixe le nombre d'heures d'enseignement pratique à suivre;
+
+- fournit au titulaire une liste des cours de formation continue organisés ou agréés par lui;
+
+- détermine le nombre d'heures de cours auxquels le titulaire devra participer.
+
 <a id="art-3"></a>
 ## Art. 3.
+
+1.
+
+Sur base de la décision du ministre, le titulaire lui soumet pour approbation un projet de stage, à effectuer dans un service en relation avec la profession que le titulaire souhaite réintégrer.
+
+2.
+
+Le projet de stage visé au paragraphe 1er comporte notamment la période, l'établissement, le lieu de stage, le nom et la profession, ainsi que le cas échéant, les coordonnées de l'employeur du maître de stage.
 
 <a id="art-4"></a>
 ## Art. 4.

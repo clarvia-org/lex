@@ -38,10 +38,32 @@ Un formulaire est mis à la disposition des demandeurs par l’Administration de
 
 La demande d’autorisation comprend:
 
+-
+
+  - pour les personnes physiques: l’indication des nom, prénom et domicile du demandeur, de l’entreprise responsable de la pulvérisation aérienne et de l’opérateur;
+
+  - pour les personnes morales: l’indication de la dénomination sociale, de la forme sociale et du siège social du demandeur et de l’entreprise responsable de la pulvérisation aérienne;
+
+- une copie du certificat prévu à l’article 9, paragraphe 1er, point 4, de la loi du 19 décembre 2014 relative aux produits phytopharmaceutiques;
+
+- une copie du certificat prévu à l’article 9, paragraphe 1er, point 3, de la loi précitée du 19 décembre 2014;
+
+- un extrait d’une carte topographique récente permettant d’identifier l’emplacement du terrain d’atterrissage de l’aéronef;
+
+- une carte topographique récente précisant les parcelles concernées;
+
+- les maladies fongiques principales à combattre par la pulvérisation aérienne;
+
+- une liste indiquant le nombre de pulvérisations aériennes prévues avec l’indication, pour chaque application, des produits phytopharmaceutiques utilisés, de leur numéro d’agrément, de la quantité et de la période d’application.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 La demande d’autorisation isolée comprend, outre les points 1 à 5 de l’article 2:
+
+- une description de la circonstance particulière relevant de l’urgence ou d’une situation exceptionnelle;
+
+- l’indication de la date prévisionnelle de l’application, le nom des produits phytopharmaceutiques appliqués, leur numéro d’agrément et la quantité.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -61,6 +83,36 @@ Le site de ravitaillement de l’aéronef doit être équipé d’une manche à 
 
 <a id="art-6"></a>
 ## Art. 6.
+
+(1)
+
+La réalisation de la pulvérisation aérienne est interdite si la vitesse du vent est supérieure à 5 mètres par seconde et si la température de l'air est supérieure à 25 degrés Celsius.
+
+(2)
+
+L’opérateur doit respecter une distance de sécurité de 20 mètres vis-à-vis des lieux suivants :
+
+- zones visées à l’article 9, paragraphe 1er, point 5 et à l’article 11, paragraphe 2, point 1, de la loi précitée du 19 décembre 2014 ;
+
+- parcs d'élevage de gibier ;
+
+- points d'eau et captages d'eau potable ;
+
+- bassins de pisciculture et d'aquaculture ;
+
+- surfaces cultivées conformément au règlement (CE) n° 834/2007 du Conseil du 28 juin 2007 relatif à la production biologique et à l’étiquetage des produits biologiques, si les produits épandus ne sont pas agréés selon ce règlement ;
+
+- surfaces agricoles, viticoles, arboricoles ou horticoles pour lesquelles l’exploitant a demandé le respect du maintien d’une distance de sécurité.
+
+Les exploitants des surfaces mentionnées aux points 5 et 6 communiquent l’emplacement exact de ces surfaces au ministre avant le 1er septembre de l’année précédant la saison de pulvérisation aérienne.
+
+(3)
+
+La distance de sécurité par rapport aux zones protégées en vertu de la loi modifiée du 19 janvier 2004 relative à la protection de la nature et des ressources naturelles et en vertu de la loi modifiée du 19 décembre 2008 relative à l’eau, ainsi que par rapport aux eaux de surface permanentes est indiquée sur les cartes annexées au présent règlement.
+
+(4)
+
+Une distance de sécurité n’est pas à observer vis-à-vis des voies publiques à l’intérieur des ou contiguës aux zones couvertes par la pulvérisation aérienne.
 
 <a id="art-7-20240929"></a>
 ## Art. 7.

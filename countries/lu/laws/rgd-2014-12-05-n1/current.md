@@ -30,21 +30,45 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+SERA 5001: Minimums VMC de visibilité et de distance par rapport aux nuages
+
 Pour les espaces aériens de classe F et G, à ou en dessous du plus élevé des deux niveaux suivants:
+
+- 900 mètres AMSL (3.000 feet) ou
+
+- 300 mètres AGL (1.000 feet),
 
 la Direction de l’Aviation Civile (DAC), autorité compétente, prescrit:
 
+- des visibilités en vol réduites, au plus, à 1.500 mètres pour des vols effectués:
+
+  - à des vitesses de 140 kts IAS, ou moins, pour laisser la possibilité de voir tout autre aéronef ou tout obstacle à temps afin d’éviter une collision; ou
+
+  - dans des circonstances où la probabilité de rencontrer d’autres aéronefs serait normalement faible, par exemple dans des zones à faible densité de circulation ainsi que pour des travaux aériens à basse altitude.
+
+- les hélicoptères sont autorisés à voler avec une visibilité en vol inférieure à 1.500 mètres mais supérieure à 800 mètres s’ils volent à une vitesse qui permet de voir tout autre aéronef ou tout obstacle à temps permettant d’éviter une collision. Les visibilités en vol inférieures à 800 mètres peuvent être autorisées dans des cas particuliers tels que les vols médicaux, les opérations de recherche et de sauvetage ainsi que les vols de lutte contre les incendies.
+
 <a id="art-2"></a>
 ## Art. 2.
+
+SERA 5010: Vols VFR spéciaux en zones de contrôle
 
 Dans des cas particuliers tels que définis dans l’article 4 du règlement européen SERA 923/2012, le contrôle de la circulation aérienne pourra de jour comme de nuit déroger pour les hélicoptères à la notion de plafond minimum telle qu’elle a été définie dans le règlement européen SERA sous SERA.5010 point b) numéro 3).
 
 <a id="art-3"></a>
 ## Art. 3.
 
+SERA 8005: Fonctionnement du service de contrôle de la circulation aérienne
+
 Lorsque le pilote d’un aéronef le demande et que le pilote de l’autre aéronef l’approuve, la DAC prescrit dans les cas énumérés dans le règlement européen SERA sous SERA 8005 point b) dans un espace aérien de classe D ou E, qu’un vol peut obtenir une autorisation sous réserve qu’il maintienne sa propre séparation dans une partie spécifique du vol en dessous de 3.050 mètres (10.000 feet) pendant la phase de montée ou de descente, de jour et dans les conditions météorologiques de vol à vue.
+
+(2)
+
+En application de la disposition SERA.8005 point b) numéro 5), les vols VFR spéciaux sont autorisés à maintenir leur propre séparation entre eux.
 
 <a id="art-4"></a>
 ## Art. 4.
+
+Disposition exécutoire
 
 Notre Ministre du Développement durable et des Infrastructures est chargé de l’exécution du présent règlement qui sera publié au Mémorial.

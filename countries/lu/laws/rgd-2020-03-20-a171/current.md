@@ -28,6 +28,46 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Tenue des réunions dans les sociétés et dans les autres personnes morales
+
+(1)
+
+Une société peut, nonobstant toute disposition contraire des statuts, quel que soit le nombre prévu de participants à son assemblée générale, tenir toute assemblée générale sans réunion physique, et imposer à ses actionnaires ou associés et aux autres participants à l’assemblée de participer à l’assemblée et d’exercer leurs droits exclusivement :
+
+- par un vote à distance par écrit ou sous forme électronique sous réserve que le texte intégral des résolutions ou décisions à prendre aura été publié ou leur aura été communiqué ;
+
+- par l’intermédiaire d’un mandataire désigné par la société ; ou
+
+- par visioconférence ou autre moyen de télécommunication permettant leur identification.
+
+Au cas où un actionnaire ou associé ou autre participant a désigné un mandataire autre que celui visé au point 2 ci-dessus conformément à l’article 8 de la loi modifiée du 24 mai 2011 concernant l’exercice de certains droits des actionnaires aux assemblées générales des sociétés cotées, ce mandataire pourra uniquement participer à l’assemblée dans les formes prévues aux points 1, 2 et 3, ci-dessus.
+
+Les actionnaires ou associés qui participent par un tel moyen sont réputés présents pour le calcul du quorum et de la majorité à cette assemblée.
+
+Ce paragraphe est applicable à l’assemblée des obligataires.
+
+(2)
+
+Nonobstant toute disposition contraire des statuts, les autres organes de toute société peuvent tenir leurs réunions sans réunion physique :
+
+- par résolutions circulaires écrites ; ou
+
+- par visioconférence ou autre moyen de télécommunication permettant l’identification des membres de l’organe participant à la réunion.
+
+Les membres de ces organes qui participent par un tel moyen sont réputés présents pour le calcul du quorum et de la majorité.
+
+(3)
+
+Nonobstant toute disposition contraire des statuts, toute société est autorisée à convoquer son assemblée générale annuelle pour la plus éloignée des dates suivantes : (i) une date qui se situe dans une période de six mois après la fin de son année sociale ou (ii) une date qui se situe dans une période allant jusqu’au 30 juin 2020.
+
+(4)
+
+La société est habilitée à prendre cette décision pour toute assemblée convoquée pour le 30 juin 2020 au plus tard. Toute société ayant déjà convoqué son assemblée et qui prendrait cette décision, devra la publier et le cas échéant la notifier à ses actionnaires ou associés ou autres participants dans la forme dans laquelle elle avait convoquée cette assemblée ou par publication sur son site internet au plus tard le troisième jour ouvrable jours avant l’assemblée.
+
+(5)
+
+Le présent article est applicable par analogie à toutes les autres personnes morales.
+
 <a id="art-2"></a>
 ## Art. 2.
 

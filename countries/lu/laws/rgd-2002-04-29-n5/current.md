@@ -49,6 +49,20 @@ Il est interdit à tout propriétaire ou détenteur d’une menue embarcation d�
 
 Sur la Moselle, la pratique du ski nautique est interdite à l'exception des sections comprises entre les points kilométriques suivants:
 
+- 206,30-207,20 sur une largeur de 70 m à partir de la rive gauche;
+
+- 213,50-214,80;
+
+- 216,80-218,20 sur une largeur de 50 m à partir de la rive gauche;
+
+- 223,90-225,00;
+
+- 230,60-231,50;
+
+- 233,65-235,05 ;
+
+- 236.00-237,00
+
 Ces endroits sont marqués par la signalisation prévue notamment au point E.17 de l'annexe 7 du règlement de police pour la navigation de la Moselle .
 
 Le Ministre des Transports peut cependant dans des cas exceptionnels et notamment pour des compétitions sportives délivrer une autorisation spéciale dans laquelle il fixera les conditions à observer et la délimitation de la section autorisée pour la pratique du ski nautique.
@@ -87,6 +101,14 @@ Une deuxième personne qualifiée doit se trouver à bord du bateau remorqueur; 
 La pratique de la moto aquatique est interdite sur la Moselle.
 
 Cette interdiction ne s’applique pas si les conditions suivantes sont remplies:
+
+- La pratique se fait exclusivement de 10 heures à 12 heures et de 14 heures à 16 heures et uniquement par un temps avec une visibilité de plus de 1000 m;
+
+- On doit suivre une route droite clairement reconnaissable. Les allers et retours et la pratique de figures de style sont interdits;
+
+- On doit s’assurer par un équipement technique adéquat/correspondant que lorsque le conducteur du bâtiment tombe à l’eau le moteur soit coupé automatiquement ou soit rétrogradé automatiquement à la plus petite vitesse et que la moto aquatique se retrouve en conduite circulaire;
+
+- Le conducteur du bâtiment et les personnes l’accompagnant doivent porter des aides à la flottaison correspondant au minimum à la norme EN 393 ou qui assurent d’une autre manière une flottaison d’au moins 50 N (Newton).
 
 ## E) Sanctions
 

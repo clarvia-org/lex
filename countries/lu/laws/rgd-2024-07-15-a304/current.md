@@ -35,6 +35,24 @@ La liste des professions et métiers organisés dans le cadre de la formation pr
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+Les indemnités d’apprentissage mensuelles minima à payer par les organismes de formation, aux apprentis des secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social, sont fixées selon le tableau figurant à l’annexe B. Les montants se réfèrent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.
+
+(2)
+
+Les apprentis engagés dans une formation organisée au Grand-Duché de Luxembourg et menant au diplôme de technicien ou au diplôme d’aptitude professionnelle ont droit à une indemnité d’apprentissage qui varie en fonction du métier ou de la profession choisis.
+
+La réussite du projet intégré intermédiaire donne droit à une indemnité plus élevée qui est due le premier jour du mois qui suit la notification de réussite à l’apprenti et à l’organisme de formation.
+
+(3)
+
+Les apprentis engagés dans une formation transfrontalière ont droit à une indemnité d’apprentissage, dont le montant varie, en fonction du métier ou de la profession choisis et de l’année d’apprentissage.
+
+(4)
+
+Les apprentis engagés dans une formation menant au certificat de capacité professionnelle ont droit à une indemnité d’apprentissage, dont le montant varie en fonction du métier ou de la profession choisis et de l’année d’apprentissage.
+
 <a id="art-3"></a>
 ## Art. 3.
 

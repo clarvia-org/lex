@@ -57,6 +57,28 @@ Les syndicats de communes sont des établissements publics investis de la person
 
 Les statuts du syndicat font partie intégrante de l'arrêté d'institution et doivent mentionner au moins:
 
+- la dénomination du syndicat;
+
+- la définition précise de son objet ou de ses objets;
+
+- son siège social, qui est établi dans une des communes membres;
+
+- sa durée;
+
+- la désignation des communes membres;
+
+- la composition des organes du syndicat;
+
+- le nombre des délégués des communes membres au sein des organes du syndicat, ainsi que la pondération éventuelle des votes de chaque commune membre;
+
+- la détermination des apports et des engagements;
+
+- les conditions de retrait du syndicat par une commune membre;
+
+- l'affectation des excédents d'exploitation éventuels réalisés par le syndicat;
+
+- l'affectation de l'actif et du passif en cas de dissolution du syndicat.
+
 Toute modification des statuts doit être approuvée par toutes les communes membres et suivre la même procédure que celle prévue à l'article 1er pour la création du syndicat de communes.
 
 ##### TITRE II Des organes des syndicats de communes
@@ -189,7 +211,9 @@ Deux ou trois syndicats de communes respectivement une commune et un ou deux syn
 
 Les décisions relatives aux nominations provisoire et définitive, à la démission, aux peines disciplinaires, sauf l'avertissement et la réprimande, à la réglementation du service, à la part de chaque commune dans la rémunération du secrétaire commun sont prises conformément aux articles 19 et 32 à 34 de la loi communale par le conseil communal de la commune et/ou par les comités des syndicats de communes concernés, réunis sous la présidence du fonctionnaire que le ministre de l’Intérieur a désigné à ces fins et votant séparément.
 
-Si le candidat est déjà en possession d'une nomination provisoire ou définitive dans l'un des syndicats concernés ou dans une commune, la nouvelle nomination lui sera conférée uniquement soit par le comité du ou des syndicats, soit par le conseil communal de la commune concernée. Dans les cas où les syndicats ou la commune sont situés dans des districts différents, la réunion est présidée par le commissaire du district dans lequel est situé le syndicat avec la population la plus nombreuse.
+Si le candidat est déjà en possession d'une nomination provisoire ou définitive dans l'un des syndicats concernés ou dans une commune, la nouvelle nomination lui sera conférée uniquement soit par le comité du ou des syndicats, soit par le conseil communal de la commune concernée.
+
+Dans les cas où les syndicats ou la commune sont situés dans des districts différents, la réunion est présidée par le commissaire du district dans lequel est situé le syndicat avec la population la plus nombreuse.
 
 Les décisions afférentes sont sujettes à l'approbation du ministre de l'Intérieur.
 
@@ -209,7 +233,9 @@ Les conditions d'admission, de promotion, de démission, de rémunération ainsi
 <a id="art-18"></a>
 ## Art. 18.
 
-Les lois et règlements concernant la tutelle des communes sont applicables aux syndicats de communes. Dans les cas où les communes membres sont situées dans des districts différents, le syndicat ressortit au commissariat du district auquel appartient la commune-siège du syndicat de communes.
+Les lois et règlements concernant la tutelle des communes sont applicables aux syndicats de communes.
+
+Dans les cas où les communes membres sont situées dans des districts différents, le syndicat ressortit au commissariat du district auquel appartient la commune-siège du syndicat de communes.
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -227,6 +253,18 @@ Le budget du syndicat pourvoit aux dépenses de création et de fonctionnement d
 
 Les recettes de ce budget comprennent:
 
+- la contribution des communes membres constituée par les apports et engagements fixés dans les délibérations initiales des conseils communaux telles qu'elles ont été le cas échéant modifiées par la suite. Cette contribution est obligatoire pour lesdites communes pendant la durée de l'association et dans la limite des nécessités du service commun, telle que les délibérations des conseils communaux l'ont déterminée;
+
+- le revenu des biens meubles et immeubles du syndicat;
+
+- les sommes qu'il reçoit en échange d'un service rendu ainsi que toute autre recette en rapport avec les activités du syndicat;
+
+- les subventions de l'Etat et des communes;
+
+- les produits des dons ou legs;
+
+- les produits des emprunts en ce qui concerne les syndicats de communes visés à l'article 23.
+
 <a id="art-21"></a>
 ## Art. 21.
 
@@ -237,7 +275,9 @@ Toute décision des organes du syndicat qui entraîne pour les communes des obli
 <a id="art-22"></a>
 ## Art. 22.
 
-Tout projet à réaliser par un syndicat de communes est à financer intégralement par le syndicat. Toutefois les syndicats de communes peuvent préfinancer par recours au crédit les subventions de l'Etat dont les conditions et modalités, notamment le montant, le terme et l'échéancier sont arrêtées par écrit par l'autorité allouant l'aide et le ministre ayant le budget dans ses attributions. Dans ce cas les montants ainsi versés sont à imputer sur le découvert. L'engagement du subside ne devient effectif qu'après acceptation de ces conditions et modalités par le comité du syndicat de communes.
+Tout projet à réaliser par un syndicat de communes est à financer intégralement par le syndicat. Toutefois les syndicats de communes peuvent préfinancer par recours au crédit les subventions de l'Etat dont les conditions et modalités, notamment le montant, le terme et l'échéancier sont arrêtées par écrit par l'autorité allouant l'aide et le ministre ayant le budget dans ses attributions. Dans ce cas les montants ainsi versés sont à imputer sur le découvert.
+
+L'engagement du subside ne devient effectif qu'après acceptation de ces conditions et modalités par le comité du syndicat de communes.
 
 <a id="art-23"></a>
 ## Art. 23.

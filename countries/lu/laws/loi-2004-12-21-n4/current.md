@@ -34,7 +34,19 @@ Est approuvé le Traité entre le Royaume de Belgique, le Royaume des Pays-Bas e
 <a id="art-2-20211227"></a>
 ## Art. 2.
 
-Les autorités compétentes au sens des articles ci-après énumérés du Traité sont: La désignation des autorités compétentes a lieu sans préjudice des attributions dévolues par le Code d'instruction criminelle au Procureur général d'Etat et aux procureurs d'Etat.
+Les autorités compétentes au sens des articles ci-après énumérés du Traité sont:
+
+- au sens de l'article 4, le ministre ayant la Police dans ses attributions, hormis les situations où le moindre retard pourrait occasionner des dangers ou des dommages aux habitants, auxquels cas l'autorité compétente est le directeur général de la Police grand-ducale ou, en cas d'empêchement, un des directeurs généraux adjoints, sinon le directeur de la circonscription régionale concernée, sinon le membre du cadre supérieur de la Police en charge du dispositif de maintien de l'ordre;
+
+- au sens des articles 7 et 9, le ministre ayant la Police dans ses attributions ou, en cas d'empêchement, le directeur général de la Police grand-ducale, sinon un des directeurs généraux adjoints, sinon le directeur de la circonscription régionale concernée, sinon le membre du cadre supérieur de la Police en charge du dispositif du maintien de l'ordre;
+
+- au sens de l'article 20, le directeur général de la Police grand-ducale, ou, en cas d'empêchement, un des directeurs généraux adjoints, sinon un membre du cadre supérieur de la Police administrant une direction de la Direction générale de la Police;
+
+- au sens des articles 29 et 33, le membre du cadre supérieur de la Police en charge du dispositif du maintien de l'ordre;
+
+- au sens des articles 35 et 36, le directeur général de la Police grand-ducale, ou, en cas d'empêchement un des directeurs généraux adjoints, sinon le directeur de la circonscription régionale concernée, sinon le membre du cadre supérieur de la Police en charge du dispositif du maintien de l'ordre.
+
+La désignation des autorités compétentes a lieu sans préjudice des attributions dévolues par le Code d'instruction criminelle au Procureur général d'Etat et aux procureurs d'Etat.
 
 <a id="art-3-20211227"></a>
 ## Art. 3.

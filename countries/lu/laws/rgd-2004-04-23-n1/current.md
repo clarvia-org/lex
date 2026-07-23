@@ -36,6 +36,12 @@ Le présent règlement grand-ducal a pour objet de déterminer les activités de
 
 Conformément à l’article 2 de la loi il a en outre pour objet de préciser :
 
+- les conditions pour l’obtention de l’agrément
+
+- les modalités du contrôle de ces conditions
+
+- les renseignements ou données à fournir et les pièces à joindre à la demande d’agrément.
+
 <a id="art-2"></a>
 ## Art. 2. -
 
@@ -67,7 +73,25 @@ Les types de service visés par le présent règlement sont les suivants :
 
 Est visé tout service qui offre une prise en charge précoce au jeune enfant à besoins spéciaux ainsi qu’un soutien à la famille concernée. L’objet est de limiter les effets d’une déficience voire de compenser un retard développemental par le biais d’une rééducation fonctionnelle, d’une stimulation pédagogique, d’une guidance socio-éducative et d’un accompagnement de la famille.
 
-Service d'assistance à domicile: Est visé tout service qui offre en milieu familial des soins et/ou une aide matérielle et psychologique aux personnes en situation de handicap et à leurs familles. L'objet est de promouvoir le maintien à domicile et de garantir une prise en charge des situations de fin de vie adaptée aux besoins et attentes individuels des personnes concernées. Service d'hébergement: Est visé tout service qui offre un hébergement et/ou un encadrement professionnel multidisciplinaire à plus de trois personnes en situation de handicap. L'objet est d'assurer un encadrement professionnel à la personne en situation de handicap suivant une approche globale et cohérente en lui fournissant d'une part les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance et d'autre part un accompagnement socio-pédagogique et une prise en charge des situations de fin de vie adaptés à ses besoins et attentes individuels. Service de formation: Est visé tout service qui offre une formation professionnelle à plus de trois personnes en situation de handicap ayant dépassé l'âge de l'obligation scolaire. L'objet est de leur procurer des connaissances de nature générale et/ou professionnelle visant une orientation ou une réorientation à la vie professionnelle. Service d'emploi ou «atelier protégé»: Est visé tout service, créé et géré par un organisme à vocation sociale et économique, qui permet aux personnes ayant la reconnaissance de travailleur handicapé au sens de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, et orientées par la Commission d'orientation et de reclassement professionnel vers le milieu de travail protégé, d'exercer une activité professionnelle salariée dans des conditions adaptées à leurs compétences. Le service d'emploi ou «atelier protégé» engage dans les liens d'un contrat de travail de droit commun des travailleurs handicapés qui sont orientés par la commission précitée vers le milieu de travail protégé et qui, en raison de leurs capacités de travail réduites, ne suffisent pas, ou pas encore, au moment de leur orientation ou réorientation professionnelle, aux exigences et contraintes du marché du travail ordinaire. L'objet du service d'emploi ou «atelier protégé» est le suivant: Service d'activités de jour: Est visé tout service qui offre des activités de jour à plus de trois personnes présentant un handicap moyen ou grave ou un polyhandicap. Outre les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance, le service assure un accompagnement socio-pédagogique et thérapeutique par le biais d'activités variées et adaptées aux besoins et attentes individuels de la personne en situation de handicap. Le service accueille pendant la journée des personnes en situation de handicap qui, en raison de leur déficience et/ou de leur âge, ne peuvent pas suivre de manière continue une formation professionnelle ou un emploi ainsi que, en dehors des périodes scolaires, des mineurs en situation de handicap en âge scolaire. L'objet est d'assurer un encadrement professionnel et multidisciplinaire à la personne en situation de handicap et de soutenir les familles ayant à charge une personne en situation de handicap.
+- Service d'assistance à domicile: Est visé tout service qui offre en milieu familial des soins et/ou une aide matérielle et psychologique aux personnes en situation de handicap et à leurs familles. L'objet est de promouvoir le maintien à domicile et de garantir une prise en charge des situations de fin de vie adaptée aux besoins et attentes individuels des personnes concernées.
+
+- Service d'hébergement: Est visé tout service qui offre un hébergement et/ou un encadrement professionnel multidisciplinaire à plus de trois personnes en situation de handicap. L'objet est d'assurer un encadrement professionnel à la personne en situation de handicap suivant une approche globale et cohérente en lui fournissant d'une part les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance et d'autre part un accompagnement socio-pédagogique et une prise en charge des situations de fin de vie adaptés à ses besoins et attentes individuels.
+
+- Service de formation: Est visé tout service qui offre une formation professionnelle à plus de trois personnes en situation de handicap ayant dépassé l'âge de l'obligation scolaire. L'objet est de leur procurer des connaissances de nature générale et/ou professionnelle visant une orientation ou une réorientation à la vie professionnelle.
+
+- Service d'emploi ou «atelier protégé»: Est visé tout service, créé et géré par un organisme à vocation sociale et économique, qui permet aux personnes ayant la reconnaissance de travailleur handicapé au sens de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, et orientées par la Commission d'orientation et de reclassement professionnel vers le milieu de travail protégé, d'exercer une activité professionnelle salariée dans des conditions adaptées à leurs compétences. Le service d'emploi ou «atelier protégé» engage dans les liens d'un contrat de travail de droit commun des travailleurs handicapés qui sont orientés par la commission précitée vers le milieu de travail protégé et qui, en raison de leurs capacités de travail réduites, ne suffisent pas, ou pas encore, au moment de leur orientation ou réorientation professionnelle, aux exigences et contraintes du marché du travail ordinaire. L'objet du service d'emploi ou «atelier protégé» est le suivant:
+
+  - mettre en place une unité économique de production de biens et/ou de services;
+
+  - mettre en place une production à valeur marchande et une démarche commerciale permettant le marketing de celle-ci;
+
+  - promouvoir dans ce contexte les mesures permettant l'emploi du travailleur handicapé dans des conditions adaptées à ses besoins et possibilités;
+
+  - promouvoir les mesures d'insertion professionnelle, d'accompagnement et de suivi du travailleur handicapé sur le marché du travail ordinaire;
+
+  - organiser des activités socio-pédagogiques et thérapeutiques en faveur des travailleurs handicapés qui, en raison de leur déficience et/ou de leur âge, requièrent une telle prise en charge particulière.
+
+- Service d'activités de jour: Est visé tout service qui offre des activités de jour à plus de trois personnes présentant un handicap moyen ou grave ou un polyhandicap. Outre les aides et soins au sens de la loi modifiée du 19 juin 1998 portant introduction de l'assurance-dépendance, le service assure un accompagnement socio-pédagogique et thérapeutique par le biais d'activités variées et adaptées aux besoins et attentes individuels de la personne en situation de handicap. Le service accueille pendant la journée des personnes en situation de handicap qui, en raison de leur déficience et/ou de leur âge, ne peuvent pas suivre de manière continue une formation professionnelle ou un emploi ainsi que, en dehors des périodes scolaires, des mineurs en situation de handicap en âge scolaire. L'objet est d'assurer un encadrement professionnel et multidisciplinaire à la personne en situation de handicap et de soutenir les familles ayant à charge une personne en situation de handicap.
 
 7. Service d’information, de consultation et de rencontre :
 
@@ -132,7 +156,9 @@ c) Le service d’hébergement (article 3 point 3)
 
 Entre 7.00 et 21.00 heures, le nombre maximal d'usagers par agent d'encadrement est déterminé en fonction de la capacité des usagers présents de gérer le quotidien de façon plus ou moins autonome. Entre 21.00 et 7.00 heures, le gestionnaire organise une permanence d'encadrement.
 
-Niveau d’autonomie Nombre maximal d’usagers par agent d’encadrement par période de travail journalière Élevé Moyen Minime 12 8 4
+| Niveau d’autonomie | Nombre maximal d’usagers par agent d’encadrement par période de travail journalière |  |
+| --- | --- | --- |
+| Élevé Moyen Minime | 12 8 4 |  |
 
 Dans un service d'hébergement, pendant une période ne pouvant dépasser 14 jours consécutifs, le nombre maximal d'usagers par agent d'encadrement par période de travail journalière, tel que défini ci-dessus, peut être dépassé d'une unité, sans que le total annuel de ces journées ne puisse dépasser 30 % des journées d'ouverture annuelles du service.
 
@@ -184,6 +210,32 @@ Elles doivent être conçues et équipées de façon à ce que les usagers ne so
 
 Pour tout service ne tombant pas sous la législation relative aux établissements dangereux, insalubres ou incommodes et/ou sous la législation relative à la sécurité dans les administrations et les services publics, le gestionnaire des infrastructures veille à ce que:
 
+- pour toute construction, acquisition, transformation substantielle ou location de bâtiments entamées ou effectuées après le 1er janvier 2009, toutes les cages d'escalier et autres chemins de fuite à l'intérieur du service soient compartimentés et désenfumés et que la qualité du compartimentage soit au minimum de 30 minutes coupe-feu et coupe-fumée,
+
+- pour toute construction, acquisition, transformation substantielle ou location de bâtiments entamées ou effectuées après le 1er janvier 2009, à partir de tout local servant à un séjour prolongé des usagers, au moins deux voies d'issue de secours réglementaires distinctes mènent indépendamment vers l'extérieur,
+
+- une procédure d'urgence soit établie, documentée, exercée et révisée annuellement,
+
+- une détection d'incendie soit disponible et susceptible de détecter et de signaler tout début d'incendie,
+
+- des moyens d'extinction de feu soient disponibles à chaque étage et dans tout compartiment,
+
+- les locaux techniques soient compartimentés et que la qualité du compartimentage soit au minimum de 30 minutes coupe-feu et coupe-fumée,
+
+- en cas d'alimentation au gaz, tous les locaux traversés par des conduites de gaz soient équipés de détecteurs de gaz,
+
+- la cuisine soit équipée d'une couverture permettant l'extinction d'un feu,
+
+- une trousse de premier secours par service, régulièrement mise à jour, soit à disposition,
+
+- tous les endroits donnant lieu à des risques de chute de hauteur soient protégés par des solides garde-corps ayant une hauteur minimale de 1 mètre qui ne présentent ni des traverses horizontales ni d'autres appuis intermédiaires,
+
+- des précautions garantissant un haut niveau de sécurité aux usagers soient prises lors de l'acquisition et de la disposition du mobilier et de l'acquisition des équipements et installations,
+
+- pour chaque immeuble soit tenu un livre d'entretien qui renseigne sur l'ensemble des installations soumises à un entretien régulier ainsi que sur tous les détails de la maintenance mise en oeuvre,
+
+- une signalisation des sorties de secours soit garantie.
+
 <a id="art-13"></a>
 ## Art. 13. -
 
@@ -192,6 +244,10 @@ Tous les locaux destinés au séjour prolongé des usagers doivent être éclair
 La hauteur finie des surfaces habitables, ne se situant pas sous les combles d'un immeuble, ne peut être inférieure à 2,50 mètres.
 
 Les surfaces exploitées sous les combles doivent avoir,
+
+- soit sur au moins deux tiers de leur étendue une hauteur libre sous plafond d'un minimum de 2,50 mètres. La hauteur ne peut toutefois pas être inférieure à 2,00 mètres,
+
+- soit disposer de superficies plus généreuses qui permettent d'atteindre, compte tenu des normes de surface définies à l'article 14, le même volume qu'avec une hauteur de 2,50 mètres. La hauteur ne peut toutefois pas être inférieure à 2,30 mètres.
 
 L'équipement des locaux doit répondre aux besoins spécifiques des usagers et aux prestations qui y sont délivrées.
 
@@ -217,6 +273,10 @@ La chambre de l'usager doit disposer au moins d'un lit, d'une table, d'une chais
 En cas d'accueil d'une population en situation de handicap grave et/ou en cas d'accueil de plus de 15 personnes en situation de handicap, un système d'appel d'urgence adapté aux capacités spécifiques des usagers doit être prévu.
 
 Au niveau des installations sanitaires les locaux doivent disposer:
+
+- d'au moins un lavabo par deux usagers, d'un WC par trois usagers et d'une douche ou d'une baignoire par trois usagers encadrés de jour et de nuit,
+
+- d'au moins un lavabo et d'au moins un WC par cinq usagers pour les services visés aux points 4, 5 et 6 de l'article 3 ci-dessus.
 
 Les installations sanitaires doivent tenir compte du handicap des usagers.
 
@@ -256,15 +316,85 @@ La demande d’agrément est adressée au ministre par la personne physique ou m
 <a id="art-18"></a>
 ## Art. 18. -
 
+(1)
+
+La demande est accompagnée des documents et renseignements suivants :
+
+- Une description détaillée de l’objet et du concept pédagogique de la prise en charge de la personne en situation de handicap ;
+
+- Une description détaillée du concept de fonctionnement de la structure, de la population cible et du nombre d’usagers que la structure est prête à accompagner. Dans le cas d’un service d’emploi ou « atelier protégé », il s’y ajoute une description détaillée des points suivants:
+
+  - concept pour la formation continue
+
+  - adaptation des postes et conditions de travail aux besoins spécifiques de la population cible
+
+  - concept de production et de commercialisation
+
+  - marchés obtenus et/ou envisagés
+
+  - mesures mises en place en faveur de l’insertion professionnelle, les mesures organisées en faveur de l’accompagnement et du suivi professionnels des travailleurs handicapés issus de l’atelier protégé sur le marché du travail ordinaire
+
+  - activités socio-pédagogiques et thérapeutiques organisées par le service ;
+
+- Le ou les noms du personnel dirigeant, les documents certifiant leur qualification et leur honorabilité ;
+
+- Sur support papier ou informatique, les documents relatifs aux noms, au nombre et à la qualification des collaborateurs, salariés et/ou bénévoles, ainsi qu'un plan de travail type;
+
+- Le règlement d’ordre intérieur ;
+
+- En cas d’accueil, le modèle du contrat prévu à l’article 10 de la loi ; en cas d’emploi protégé, le modèle du contrat de travail prévu par la législation en vigueur ;
+
+- Un engagement formel du gestionnaire que le service est ouvert à tout usager indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux ;
+
+- Un plan du bâtiment indiquant pour les différents niveaux les voies de communication interne, la destination des locaux et les équipements de sécurité prévus ;
+
+- Pour les services désignés à l'article 3.3, 3.4, 3.5 et 3.6, un certificat attestant que l'infrastructure est connue au corps des pompiers;
+
+- Une copie des statuts et d’éventuelles modifications publiés au Mémorial ;
+
+- Un budget prévisionnel et les pièces attestant la situation financière.
+
+Le ministre peut demander tout autre document ou renseignement indispensable à l’établissement du dossier de la demande d’agrément.
+
+(2)
+
+Le gestionnaire d’un service pour personnes en situation de handicap est tenu de communiquer annuellement au ministre tout changement concernant les données et les pièces visées à l’alinéa précédent. Par ailleurs, les gestionnaires des services désignés à l’article 3 points 1, 2, 3, 4, 5, 6 et 7 sont tenus à présenter annuellement au ministre un rapport d’activités et un bilan financier de l’année écoulée.
+
+(3)
+
+Une copie certifiée exacte de l’agrément doit être affichée à l’entrée du service pour personnes en situation de handicap . Toutes les communications écrites du gestionnaire d’un service pour personnes en situation de handicap doivent mentionner le numéro de l’agrément délivré par le ministre.
+
 <a id="art-19"></a>
 ## Art. 19. -
+
+Disposition abrogatoire
 
 Est abrogé le règlement grand-ducal du 18 décembre 1998 portant exécution des articles 1er et 2 de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique pour ce qui concerne l’agrément gouvernemental à accorder aux gestionnaires de services pour personnes en situation de handicap .
 
 <a id="art-20"></a>
 ## Art. 20.-
 
+Mesures transitoires
+
+(1)
+
+Les services bénéficiant d’un agrément comme « service de travail » en vertu du règlement grand-ducal du 18 décembre 1998 portant exécution des articles 1er et 2 de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique pour ce qui concerne l’agrément gouvernemental à accorder aux gestionnaires de services pour personnes en situation de handicap devront introduire une nouvelle demande d’agrément au moment de l’entrée en vigueur du présent règlement grand-ducal.
+
+(2)
+
+Sans préjudice du paragraphe qui précède, les services qui ont été agréés en vertu du règlement grand-ducal du 18 décembre 1998 disposent d’un délai ne pouvant excéder six ans pour se conformer aux dispositions des articles 3 et 10 à 15 du présent règlement grand-ducal.
+
+(3)
+
+Sans préjudice du paragraphe 2 ci-avant,
+
+- a dénomination « service d’accueil de jour » prévue par le règlement grand-ducal du 18 décembre 1998 est remplacée par celle de « service d’activités de jour » en vertu du présent règlement grand-ducal et
+
+- les services bénéficiant d’un agrément comme « service de communication » en vertu du règlement grand-ducal du 18 décembre 1998, obtiendront d’office de la part du ministre un nouvel agrément comme « service d’information, de consultation et de rencontre » sans que le gestionnaire ait à introduire une nouvelle demande d’agrément.
+
 <a id="art-21"></a>
 ## Art. 21.-
+
+Disposition exécutoire
 
 Notre Ministre ayant dans ses attributions la Famille est chargé de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le quatrième jour de sa publication au Mémorial.

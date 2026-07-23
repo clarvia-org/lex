@@ -38,42 +38,113 @@ Le montant minimum mensuel du coût des prestations fournies dans le cadre de l'
 <a id="art-2"></a>
 ## Art. 2.
 
+(1)
+
+La demande en obtention du complément visé par la loi est à introduire par écrit sur un formulaire établi par le Fonds national de solidarité, ci-après appelé «Fonds», et est accompagnée notamment des pièces justificatives suivantes:
+
+1° un certificat de résidence du requérant ou une attestation équivalente
+
+2° toute pièce portant déclaration et attestant l’intégralité des ressources du requérant et le cas échéant de son conjoint telles que définies aux articles 6 à 12 de la loi
+
+3° toute pièce établissant que le conjoint du requérant doit s’acquitter d’un loyer ou d’une dette en rapport avec l’acquisition de son logement avec l’indication du montant du loyer ou de la dette; dans l’hypothèse de l’article 12 alinéa 2 de la loi
+
+4° des pièces justifiant de la qualité d’administrateur légal ou de représentant légal si le requérant a besoin d’être représenté dans ses actes. Si le requérant est un majeur protégé au sens des dispositions légales du Titre XI du Livre 1er du Code civil, la demande sera accompagnée d’une copie du jugement ou d’un extrait du répertoire civil ou d’une attestation équivalente justifiant de la qualité de représentant légal du requérant.
+
+(2)
+
+La demande en obtention du complément visé par la loi doit être signée et datée par le requérant ou son représentant. Si le requérant a besoin d'être représenté dans ses actes, la demande sera signée par son représentant légal ou par l'administrateur légal.
+
+(3)
+
+La demande en obtention du complément est à adresser au Fonds. La demande est envoyée par simple lettre à la poste; elle peut également être déposée directement auprès du Fonds. Le dépôt est réputé fait au moment de la réception de la demande par le Fonds. La demande est réputée être faite à la date du dépôt, à condition qu'elle soit signée et qu'elle soit accompagnée de toutes les pièces justificatives. Au cas où toutes les pièces ne sont pas jointes, la demande est réputée être faite à la date où la dernière de ces pièces prévues parvient au Fonds.
+
+(4)
+
+Le complément visé par la loi est dû à partir du premier mois au cours duquel la demande est réputée être faite.
+
 <a id="art-3"></a>
 ## Art. 3.
 
 La qualité des prestations est évaluée en fonction de trois critères:
 
+- dimension et équipement sanitaire du logement
+
+- effectifs du personnel d'encadrement
+
+- les surplus de qualité d'encadrement.
+
 <a id="art-4"></a>
 ## Art. 4.
 
-Les surplus de qualité au niveau de la grandeur et de l'équipement sanitaire du logement sont comptabilisés par un maximum de six points de qualité attribués en fonction des critères suivants: a) pour la surface totale du logement par usager, cellule sanitaire non-comprise, variant respectivement: - entre au moins 16 m2 et moins de 23 m2: 1 point - entre au moins 23 m2 et moins de 30 m2: 2 points - plus de 30 m2: 3 points b) pour l'équipement sanitaire du logement: - WC: 2 points - Douche ou baignoire: 1 point
+Les surplus de qualité au niveau de la grandeur et de l'équipement sanitaire du logement sont comptabilisés par un maximum de six points de qualité attribués en fonction des critères suivants:
+
+a) pour la surface totale du logement par usager, cellule sanitaire non-comprise, variant respectivement:
+
+| - | entre au moins 16 m2 et moins de 23 m2: | 1 point |
+| --- | --- | --- |
+| - | entre au moins 23 m2 et moins de 30 m2: | 2 points |
+| - | plus de 30 m2: | 3 points |
+
+b) pour l'équipement sanitaire du logement:
+
+| - | WC: | 2 points |
+| --- | --- | --- |
+| - | Douche ou baignoire: | 1 point |
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Par personnel d'encadrement le présent règlement désigne tous les collaborateurs affectés directement au service et ayant pour mission:
 
+- soit à assurer la prise en charge directe des usagers
+
+- soit à assurer des missions de direction, d'organisation de contrôle, de formation, d'orientation, de conseil ou de supervision gérontologique.
+
 <a id="art-6"></a>
 ## Art. 6.
 
-Les surplus de qualité au niveau des effectifs du personnel d'encadrement sont comptabilisés par un maximum de huit points de qualité attribués en fonction du nombre de postes à plein temps par unité de cent usagers: - entre au moins 13 et moins de 16 postes: 1 point - entre au moins 16 et moins de 18 postes: 3 points - entre au moins 18 et moins de 21 postes: 5 points - entre au moins 21 et moins de 24 postes: 6 points - au moins 24 postes: 8 points
+Les surplus de qualité au niveau des effectifs du personnel d'encadrement sont comptabilisés par un maximum de huit points de qualité attribués en fonction du nombre de postes à plein temps par unité de cent usagers:
+
+| - | entre au moins 13 et moins de 16 postes: | 1 point |
+| --- | --- | --- |
+| - | entre au moins 16 et moins de 18 postes: | 3 points |
+| - | entre au moins 18 et moins de 21 postes: | 5 points |
+| - | entre au moins 21 et moins de 24 postes: | 6 points |
+| - | au moins 24 postes: | 8 points |
 
 <a id="art-7"></a>
 ## Art. 7.
 
 Les surplus de qualité par rapport à la qualité de l'encadrement sont comptabilisés par un maximum de six points attribués en fonction des critères suivants:
 
+- l’établissement d’un projet d’orientation: au plus 2 points
+
+- la définition et la documentation de mesures spécifiques développées au bénéfice des usagers en fin de vie: au plus 2 points
+
+- la définition et la documentation d’initiatives annuelles de formation continue au bénéfice du personnel de service: au plus 1 point
+
+- la définition et la documentation des mesures développées pour garantir aux usagers un droit d’information, de participation et de coopération: au plus 1 point.
+
 <a id="art-8"></a>
 ## Art. 8.
 
 Par dérogation aux dispositions des articles 1er et 4 ci-dessus, et dans une phase transitoire allant jusqu’au 31 décembre 2015, le Fonds peut participer aux prestations fournies à des usagers de centres intégrés et de maisons de soins, qui occupent des logements ayant une surface de moins de douze mètres carrés.
 
-Dans ces cas, la réduction de qualité au niveau de la dimension du logement est comptabilisée par un maximum de trois points de qualité négatifs attribués en fonction de la surface totale et des critères suivants: - entre au moins 9 m2 et moins de 10 m2: -3 points - entre au moins 10 m2 et moins de 11 m2: -2 points - entre au moins 11 m2 et moins de 12 m2: -1 point
+Dans ces cas, la réduction de qualité au niveau de la dimension du logement est comptabilisée par un maximum de trois points de qualité négatifs attribués en fonction de la surface totale et des critères suivants:
+
+| - | entre au moins 9 m2 et moins de 10 m2: | -3 points |
+| --- | --- | --- |
+| - | entre au moins 10 m2 et moins de 11 m2: | -2 points |
+| - | entre au moins 11 m2 et moins de 12 m2: | -1 point |
 
 <a id="art-9"></a>
 ## Art. 9.
 
 Le montant représentant le prix mensuel de base de l'accueil gérontologique pris en considération par le Fonds est fixé par usager:
+
+- en fonction du seuil minimum
+
+- en fonction du total des points de qualité dont le nombre considéré ne peut être supérieur à vingt; en vertu des dispositions de l'article 8 ci-dessus, les points de qualité négatifs sont comptabilisés négativement.
 
 La valeur de chaque point de qualité équivaut à un montant de 4,52 €.
 
@@ -90,6 +161,112 @@ Le montant mensuel immunisé sur les ressources du bénéficiaire est fixé à 5
 ## Art. 11.
 
 Les actes suivants, dont le coût est compris de manière forfaitaire dans le prix de base mensuel, sont à prester obligatoirement par le service dans le cadre de l'accueil gérontologique:
+
+- L'hôtellerie comportant:
+
+  - au minimum trois repas par jour, dont au moins un repas chaud
+
+  - la mise à disposition d'au moins deux collations supplémentaires
+
+  - l'adaptation des repas aux besoins spécifiques des personnes âgées
+
+  - de l'eau potable à volonté
+
+  - un service ponctuel des repas au logement pour des raisons de santé ou de dépendance en dehors des prestations prévues par l'assurance dépendance
+
+  - la mise à disposition d'un logement adapté aux besoins spécifiques de personnes âgées, malades ou handicapées, meublé selon les besoins de l'usager au moins d'un lit de soins et, à la demande de l'usager nécessiteux, d'une table, de trois sièges et d'une armoire
+
+  - le changement de la literie au moins une fois toutes les deux semaines
+
+  - la réfection du lit au moins une fois par jour
+
+  - l'entretien et le nettoyage du logement, y compris les meubles et rideaux
+
+  - le nettoyage supplémentaire ponctuel et exceptionnel suite à des problèmes de santé ou de dépendance non couverts par l'assurance dépendance
+
+  - l'équipement, l'entretien et le nettoyage des blocs sanitaires collectifs
+
+  - la gestion des déchets individuels et collectifs
+
+  - la mise à disposition de locaux communs équipés conformément aux besoins des usagers et régulièrement entretenus et nettoyés
+
+  - l'éclairage et le chauffage du logement de l'usager et des locaux communs
+
+- La sécurité et la santé comportant:
+
+  - la permanence d'assistance et de soins vingt-quatre heures sur vingt-quatre
+
+  - les aides et les soins requis pour des raisons de maladie ou de dépendance et non considérés par l'assurance dépendance
+
+  - l'assistance au moins une fois par semaine lors d'un bain selon les besoins de l'usager ou à sa demande
+
+  - la mise en place d'un système d'appel-assistance/secours
+
+  - la constitution au moment de l'admission d'un dossier individuel qui renseigne sur la situation psychosociale et médicale de l'usager et qui est régulièrement tenu à jour
+
+  - l'organisation régulière d'exercices d'évacuation en coopération avec le corps des sapeurs-pompiers compétent
+
+  - une documentation quotidienne des aides et des soins dont bénéficie l'usager
+
+  - le libre choix du médecin par l'usager et l'organisation de visites médicales répondant à ce principe
+
+  - la mise à disposition au profit des médecins en consultation d'un local d'examen
+
+  - la gestion des médicaments prescrits par un médecin selon les besoins de l'usager ou à sa demande
+
+  - la provision des médicaments prescrits par un médecin pour des raisons de maladie ou de dépendance non considérés par les prestations de la sécurité sociale
+
+  - la mise à disposition d'une salle de kinésithérapie équipée et l'organisation selon les besoins des usagers ou à leur demande de séances de kiné- et de physiothérapie
+
+  - l'organisation d'une unité d'assistance psycho-sociale et la prestation des services afférents requis selon les besoins de l'usager ou à sa demande
+
+  - la prestation de conseils et d'une assistance en matière
+
+    - de manipulation et d'entretien d'appareillages et de prothèses
+
+    - de soins et de thérapie éventuels au sein ou en dehors du service
+
+  - la gestion d'un stock de matériel d'intervention, de pansements et d'équipements sanitaires
+
+  - la connexion au niveau du logement à un réseau téléphonique et la mise à disposition d'une cabine téléphonique
+
+  - la mise à disposition d'infrastructures et d'équipements conformes aux dispositions légales et réglementaires en matière de salubrité, d'hygiène et d'agrément
+
+- L'assistance au niveau des gestes de la vie quotidienne comportant:
+
+  - l'établissement d'un contrat d'hébergement avec tout usager, rédigé dans au moins deux des langues administratives
+
+  - l'information et l'assistance de l'usager lors de l'établissement de sa demande en obtention du complément visé par la loi
+
+  - des conseils et une assistance au niveau de l'hygiène du corps, de la tenue vestimentaire, de la mobilité, des problèmes éventuels de continence ou d'insomnie, de la prévention d'esquarres de décubitus ou d'attitudes vicieuses selon les besoins de l'usager ou à sa demande
+
+  - la mise à disposition gratuite des compléments alimentaires pour des raisons de santé ou de dépendance de l'usager
+
+  - la mise à disposition et l'entretien régulier d'une infrastructure appropriée et d'aides techniques destinées à faciliter la mobilité des usagers
+
+  - l'organisation ponctuelle de déplacements collectifs
+
+  - l'assistance au niveau de l'organisation de déplacements individuels selon les besoins de l'usager ou à sa demande
+
+  - l'organisation d'un service de caféteria accessible aux usagers et aux visiteurs
+
+  - l'organisation de contacts réguliers selon les besoins de l'usager hospitalisé ou à sa demande
+
+- L'animation socioculturelle, la promotion des compétences individuelles et l'assistance philosophique et religieuse comportant:
+
+  - la mise à disposition dans des locaux communs, d'un appareil de télévision, d'une radio, de jeux de société, de quotidiens et de périodiques
+
+  - l'organisation d'un service gratuit de bibliothèque
+
+  - l'aménagement et l'équipement appropriés des alentours immédiats du service, y compris les travaux de nettoyage et d'entretien afférents
+
+  - l'organisation au sein du service, au moins une fois par semaine, d'activités dirigées de loisirs, accessibles également aux usagers à mobilité réduite
+
+  - l'organisation régulière de manifestations à caractère culturel, sportif ou touristique et de promenades, d'excursions, de visites, de séances de gymnastique, de danses, ou d'initiatives similaires
+
+  - la mise à disposition des usagers d'ateliers équipés en vue d'activités libres à caractère artistique, artisanal ou autre
+
+  - la mise à disposition d'un oratoire ou d'un lieu de méditation
 
 Les prestations énumérées sous a), chiffres 9, 11 et 13 de l’alinéa qui précède doivent obligatoirement faire l’objet d’un plan d’hygiène à établir par les dirigeants du service.
 

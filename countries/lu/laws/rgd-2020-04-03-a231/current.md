@@ -33,6 +33,38 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La pandémie Covid-19 a un impact dommageable sur les activités économiques énumérées à l’annexe I du règlement (CE) N° 1893/2006 du Parlement européen et du Conseil du 20 décembre 2006 établissant la nomenclature statistique des activités économiques NACE Rév. 2 et modifiant le règlement (CEE) N° 3037/90 du Conseil ainsi que certains règlements (CE) relatifs à des domaines statistiques spécifiques sous les sections suivantes :
 
+- section B « industries extractives »,
+
+- section C « industrie manufacturière » ;
+
+- section D « production et distribution d’électricité, de gaz, de vapeur et d’air conditionné » ;
+
+- section E « production et distribution d’eau, assainissement ; gestion des déchets et dépollution » ;
+
+- section F « construction » ;
+
+- section G « commerce, réparation d’automobiles et de motocycles » ;
+
+- section H « transports et entreposage » ;
+
+- section I « hébergement et restauration » ;
+
+- section J « information et communication » ;
+
+- section L « activités immobilières » ;
+
+- section M « activités spécialisées, scientifiques et techniques » ;
+
+- section N « activités de services administratifs et de soutien » ;
+
+- section P « enseignement » ;
+
+- section Q « santé humaine et action sociale » ;
+
+- section R « arts, spectacles et activités récréatives » ;
+
+- section S « autres activités de service ».
+
 <a id="art-2"></a>
 ## Art. 2.
 

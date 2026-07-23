@@ -29,6 +29,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L'administration des services techniques de l'agriculture, dénommée ci-après «l'administration», a, dans les limites fixées par les lois et règlements et sans préjudice des dispositions légales et réglementaires fixant les attributions d'autres organismes de l'Etat, notamment pour attributions:
 
+- de propager le progrès technique en agriculture, d'orienter et de développer les productions animales et végétales, d'encourager la productivité et de stimuler la coopération dans le secteur agricole;
+
+- de s'occuper de problèmes touchant le sol agricole, les bâtiments de ferme, la mécanisation des exploitations agricoles, l'aménagement foncier et rural, la voirie rurale, la météorologie et l'environnement dans le domaine agricole;
+
+- de promouvoir la qualité des produits agricoles et d'effectuer les analyses concernant la composition et la qualité de produits et de moyens de production agricole;
+
+- d'assurer l'application des dispositions législatives et réglementaires en matière de produits agricoles, de moyens de production agricole, de protection des végétaux et produits végétaux; de surveiller l'application de la législation en matière d'associations agricoles et syndicales;
+
+- de participer à l'élaboration et à l'application de la réglementation communautaire.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -37,6 +47,60 @@ L'administration, placée sous l'autorité du membre du gouvernement ayant dans 
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+L'administration comprend:
+
+- la direction;
+
+- la division du génie rural;
+
+- la division agronomique;
+
+- la division des laboratoires de contrôle et d'essais.
+
+(2)
+
+La direction a sous ses ordres toutes les divisions et tous les services de l'administration.
+
+Elle en dirige, coordonne et surveille les activités, établit les relations avec les autorités et le public et organise la formation continue du personnel.
+
+(3)
+
+La division du génie rural groupe les services chargés principalement de l'amélioration des facteurs de production et d'exploitation, tels que le sol et les bâtiments de ferme, et de travaux de voirie rurale pour le compte de l'Etat, des communes et des associations syndicales; ce sont:
+
+- à l'échelon central: le service de coordination, le service de la météorologie, le service des améliorations structurelles;
+
+- à l'échelon régional: quatre services régionaux.
+
+Un règlement grand-ducal détermine l'étendue et le siège des circonscriptions et peut en modifier le nombre.
+
+(4)
+
+La division agronomique groupe les services intervenant dans l'amélioration de la productivité agricole et de la qualité de produits; ce sont:
+
+le service de la production animale,
+
+le service de la production végétale,
+
+le service de la protection des végétaux,
+
+le service de l'horticulture,
+
+le service de la mutualité agricole.
+
+(5)
+
+La division des laboratoires de contrôle et d'essais groupe les services qui sont chargés du contrôle de produits et moyens de production agricole du point de vue quantitatif et qualitatif; ce sont:
+
+le service de chimie,
+
+le service de recherche des résidus,
+
+le service de biochimie et de microbiologie,
+
+le service de pédologie.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -44,6 +108,22 @@ Un règlement grand-ducal détermine les attributions des différents services p
 
 <a id="art-5"></a>
 ## Art. 5.
+
+(A)
+
+Le cadre du personnel comprend un directeur, un chef d’atelier et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+(B)
+
+(1) Les techniciens diplômés, les rédacteurs, les expéditionnaires administratifs et techniques, les artisans et les surveillants des travaux peuvent être nommés selon les besoins du service et dans les limites des crédits budgétaires.
+
+(2) Le cadre prévu sous (A) ci-dessus peut être complété par des stagiaires.
+
+L'administration peut en outre avoir recours au service d'ouvriers et d'employés de l'Etat.
+
+Les engagements opérés en vertu du présent paragraphe se font selon les besoins du service et dans les limites des crédits budgétaires.
+
+(3) En cas de difficultés de recrutement de candidats à la fonction de chef d'atelier, l'emploi afférent prévu par la présente loi peut être occupé, conformément à l'article 18 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, par un fonctionnaire qui, en raison de ses études et examens, appartient à la carrière de l'expéditionnaire ou de l'artisan.
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -57,6 +137,40 @@ Sans préjudice des conditions générales d'admission au service de l'Etat et p
 
 <a id="art-8"></a>
 ## Art. 8.
+
+(1)
+
+Les candidats aux fonctions d'ingénieur doivent être détenteurs:
+
+- du diplôme de fin d'études secondaires luxembourgeois ou du diplôme d'ingénieur technicien délivré par l'école technique de Luxembourg ou d'un certificat d'études équivalent dûment homologué par le ministre de l'éducation nationale et
+
+- d'un diplôme d'ingénieur ou de docteur en sciences agronomiques ou chimiques ou d'un diplôme équivalent portant sur la spécialité du service auquel le candidat se destine. Ces diplômes doivent être délivrés par une université ou une école d'enseignement supérieur à caractère universitaire, après un cycle d'études sur place d'au moins quatre années, et être inscrits au registre des diplômes prévu à l'article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+
+(2)
+
+Les candidats aux fonctions d'ingénieurs-conducteurs doivent être détenteurs d'un diplôme de fin d'études secondaires luxembourgeois, d'un diplômé d'ingénieur-technicien délivré par l'institut supérieur de technologie de Luxembourg (anciennement école technique) ou d'un certificat d'études équivalent dûment homologué par le ministre de l'éducation nationale, et d'un diplômé d'ingénieur des travaux urbains, ou d'un diplôme d'ingénieur dont l'équivalence est établie par arrêté grand-ducal, délivré par une université après un cycle d'études sur place d'au moins quatre années.
+
+Le diplôme d'ingénieur doit être inscrit au registre des diplômes prévu à l'article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+
+(3)
+
+Les candidats aux fonctions de conducteur doivent être détenteurs du diplôme de fin d'études secondaires luxembourgeois ou du diplôme d'ingénieur technicien délivré par l'école technique de Luxembourg ou d'un certificat d'études équivalent, dûment homologué par le ministre de l'éducation nationale, et d'un diplôme de conducteur civil ou d'un diplôme équivalent délivré par une université ou une école technique supérieure, reconnues par le ministre de l'éducation nationale, après un cycle d'études sur place de trois années. Ces diplômes doivent être inscrits au registre des diplômes prévu à l'article 1er de la loi du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur.
+
+(4)
+
+Les candidats à la fonction de chimiste doivent être détenteurs du diplôme de fin d'études secondaires luxembourgeois ou du diplôme d'ingénieur technicien délivré par l'école technique de Luxembourg ou d'un certificat d'études équivalent, dûment homologué par le ministre de l'éducation nationale, et d'un diplôme de chimiste ou d'assistant de laboratoire ou d'un diplôme équivalent délivré par une université ou une école technique supérieure, reconnues par le ministre de l'éducation nationale.
+
+La durée des études professionnelles de chimiste est de trois années au moins dont une année doit être consacrée à un stage à plein temps accompli soit au Grand-Duché soit à l'étranger dans un laboratoire ou établissement équivalent agréés par le ministre de l'agriculture.
+
+(5)
+
+Les candidats aux fonctions d'ingénieur, de conducteur et de chimiste sont admis sur concours qui peut être soit un concours sur titres, soit un concours sur titres et épreuves. Après l'accomplissement de leur stage légal, ils sont soumis à un examen d'admission définitive.
+
+Sur avis du jury d'examen de fin de stage, le ministre ayant dans ses attributions le département de l'agriculture, peut accorder une réduction de stage à des candidats occupés à l'administration ou provenant soit d'un service de l'Etat, parastatal ou communal, soit d'un bureau d'études ou d'une entreprise de construction, soit d'une entreprise ou industrie agricoles, soit d'un institut ou laboratoire luxembourgeois ou étrangers. Une période d'au moins une année de stage est à accomplir à l'administration des services techniques de l'agriculture.
+
+(6)
+
+Les candidats aux fonctions de surveillant des travaux, de concierge et de garçon de bureau sont dispensés de l'examen d'admission au stage. Après l'accomplissement de leur stage légal, ils sont soumis à un examen d'admission définitive.
 
 <a id="art-9"></a>
 ## Art. 9.
@@ -73,6 +187,22 @@ Le ministre ayant dans ses attributions l'administration des services techniques
 <a id="art-11"></a>
 ## Art. 11.
 
+(1)
+
+La fonction de chimiste est classée au grade 10 de la rubrique «Administration générale» de l'annexe A de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
+
+(2)
+
+Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
+
+- L'article 22 est modifié comme indiqué ci-après:
+
+  - A la section II, au numéro 9° est supprimée la mention des ponts et chaussées;
+
+  - A la section IV, au numéro 4° est supprimée la mention des ponts et chaussées;
+
+- L'Annexe A - Classification des fonctions - Rubrique I «Administration générale» est modifiée comme suit: au grade 10 est ajoutée la mention différentes administrations - ° chimiste est supprimée la mention ponts et chaussées - ° chimiste.
+
 <a id="art-12"></a>
 ## Art. 12.
 
@@ -84,6 +214,8 @@ Avant d'entrer en fonction, ils prêtent devant le tribunal d'arrondissement de 
 ## Art. 13.
 
 Le montant des taxes à percevoir notamment pour le contrôle officiel des semences, des pépinières d'arbres fruitiers, du miel luxembourgeois et pour des travaux de laboratoire ainsi que les modalités de perception de ces taxes sont fixés par règlement grand-ducal.
+
+Dispositions transitoires
 
 <a id="art-14"></a>
 ## Art. 14.

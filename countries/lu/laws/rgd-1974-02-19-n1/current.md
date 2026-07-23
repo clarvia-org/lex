@@ -43,6 +43,12 @@ L’importation et l’exportation des produits ci-dessus visés ne peuvent avoi
 
 Nul ne peut détenir, délivrer ou acquérir, à titre onéreux ou gratuit, les substances ou préparations visées à l’article précédent, s’il n’a obtenu l’autorisation préalable du Ministre de la Santé, excepté les catégories de personnes et établissements suivants:
 
+- Les pharmaciens tenant officine ouverte au public,
+
+- Les hôpitaux et établissements hospitaliers spécialisés visées par la loi du 28 août 1998 sur les établissements hospitaliers et disposant d’une pharmacie hospitalière.
+
+- les médecins et médecins-vétérinaires autorisés à détenir des médicaments dans la limite d’une provision pour les soins urgents en vertu de l’article 9 ci-après.
+
 A l’exception des personnes visées à l’alinéa 1er sous 1), nul ne peut vendre ou offrir en vente les substances ou préparations visées à l’article 1er, s’il n’en a pas reçu l’autorisation préalable du Ministre de la Santé.
 
 Nul ne peut fabriquer ces mêmes substances s’il n’a pas reçu l’autorisation préalable du Ministre de la Santé Publique.
@@ -138,6 +144,20 @@ La reconstitution du stock ne peut se frire qu’au moyen d’ordonnances indivi
 
 <a id="art-11"></a>
 ## Art. 11.
+
+(1)
+
+Les hôpitaux et établissements hospitaliers spécialisés visés à l’article 1er sous a) et b) de la loi du 28 août 1998 sur les établissements hospitaliers qui disposent d’un dépôt de médicaments, peuvent, sur demande écrite adressée au ministre de la Santé, être autorisés à détenir les substances et préparations visés à l’article 1er du présent règlement. L’acquisition de ces substances et préparations se fait à l’aide d’une ordonnance médicale hospitalière collective, extraite d’un carnet à souches, datée et signée par un médecin attaché à l’établissement. L’exécution des ordonnances ne peut être faite que par le pharmacien responsable du dépôt de médicaments.
+
+(2)
+
+Dans les établissements hospitaliers où il existe une pharmacie hospitalière, l’acquisition des substances et préparations visées à l’article 1er du présent règlement se fait par le pharmacien-gérant auprès des grossistes établis au Luxembourg, au moyen de bons de commande spéciaux dont le modèle est établi par le ministre de la Santé.
+
+(3)
+
+Ces substances et préparations doivent être conservées dans une armoire à part, avec système de fermeture de sécurité spéciale, et réservée uniquement à cet effet. Elles ne peuvent être administrées qu’aux patients de l’établissement, sur prescription individuelle, au moyen d’une fiche de dispensation spéciale devant comporter au moins les indications suivantes: nom du patient, date de la dispensation, nom et signature du médecin prescripteur, nom et signature de la personne ayant administré le médicament. Le modèle de cette fiche sera établi par le ministre de la Santé.
+
+Le pharmacien responsable du dépôt de médicaments, respectivement le pharmacien-gérant de la pharmacie hospitalière doit tenir le registre des entrées et sorties prévues à l’article 5 du présent règlement.
 
 <a id="art-12"></a>
 ## Art. 12.

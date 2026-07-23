@@ -28,6 +28,8 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Spécification techniques relatives au marquage des armes d’alarme et de signalisation
+
 Pour ne pas être considérés comme une arme à feu, les dispositifs équipés d’un chargeur qui sont conçus uniquement pour le tir à blanc, le tir de produits irritants ou d’autres substances actives ou encore de cartouches de signalisation pyrotechnique doivent être à tout moment conformes aux spécifications techniques figurant à l’annexe du présent règlement.
 
 Les dispositifs des types visés à l’alinéa 1er sont soumis à des contrôles visant à déterminer leur conformité avec les spécifications techniques énoncées en annexe, conformément à l’article 12 de la loi du 2 février 2022 sur les armes et munitions. Le Grand-Duché de Luxembourg coopère avec les autres États membres de l’Union européenne dans l’exercice de ces contrôles, conformément à l’article 15, paragraphe 5, de la même loi.
@@ -37,9 +39,13 @@ Sur demande, le Grand-Duché de Luxembourg fournit aux autres États membres de 
 <a id="art-2"></a>
 ## Art. 2.
 
+Entrée en vigueur
+
 Le présent règlement entre en vigueur le premier jour du troisième mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.
 
 <a id="art-3"></a>
 ## Art. 3.
+
+Exécution
 
 Notre ministre de la Justice est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.

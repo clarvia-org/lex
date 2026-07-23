@@ -28,7 +28,17 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Dans le présent texte on entend par: loi: la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’Etat, dans les établissements publics et dans les écoles; statuts: lois fixant les statuts généraux et régimes des fonctionnaires et employés de l’Etat, des fonctionnaires et employés communaux ainsi que des employés publics occupés auprès des établissements publics, auprès des communes et auprès des établissements et syndicats qui ressortent directement des communes; ministre: le ministre ayant la Fonction publique dans ses attributions; service: le service national de la sécurité dans la fonction publique créé par l’article 12 de la loi précitée du 19 mars 1988; responsable: la personne chargée de mettre en œuvre la sécurité au sens des articles 6, 7 et 8 de la loi; agent: le membre du personnel, fonctionnaire assujetti au statut et employé assujetti au régime de l’employé de l’Etat ou de l’employé communal, et susceptible de se soumettre aux examens prévus par le présent règlement; délégué: le délégué à la sécurité désigné par le responsable au sens de l’article 9 de la loi; médecin: le médecin du travail dans la fonction publique en ce qui concerne les dispositions prévues au chapitre I, et le médecin de contrôle dans la Fonction publique pour ce qui est des dispositions du chapitre II du présent règlement grand-ducal.
+Dans le présent texte on entend par:
+
+| loi: | la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’Etat, dans les établissements publics et dans les écoles; |
+| --- | --- |
+| statuts: | lois fixant les statuts généraux et régimes des fonctionnaires et employés de l’Etat, des fonctionnaires et employés communaux ainsi que des employés publics occupés auprès des établissements publics, auprès des communes et auprès des établissements et syndicats qui ressortent directement des communes; |
+| ministre: | le ministre ayant la Fonction publique dans ses attributions; |
+| service: | le service national de la sécurité dans la fonction publique créé par l’article 12 de la loi précitée du 19 mars 1988; |
+| responsable: | la personne chargée de mettre en œuvre la sécurité au sens des articles 6, 7 et 8 de la loi; |
+| agent: | le membre du personnel, fonctionnaire assujetti au statut et employé assujetti au régime de l’employé de l’Etat ou de l’employé communal, et susceptible de se soumettre aux examens prévus par le présent règlement; |
+| délégué: | le délégué à la sécurité désigné par le responsable au sens de l’article 9 de la loi; |
+| médecin: | le médecin du travail dans la fonction publique en ce qui concerne les dispositions prévues au chapitre I, et le médecin de contrôle dans la Fonction publique pour ce qui est des dispositions du chapitre II du présent règlement grand-ducal. |
 
 #### Chapitre I. Médecine du travail
 
@@ -36,6 +46,26 @@ Dans le présent texte on entend par: loi: la loi modifiée du 19 mars 1988 conc
 ## Art. 2.
 
 Le médecin est chargé en ce qui concerne les agents des institutions assujetties à la loi:
+
+- d’identifier et d’évaluer les risques d’atteinte à la santé sur les lieux de travail, d’aider à éviter ces risques et à les combattre à la source;
+
+- de surveiller les facteurs du milieu de travail susceptibles d’affecter la santé de l’agent;
+
+- de donner des conseils sur la planification des postes de travail, notamment quant à l’aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l’utilisation de substances ou de préparations chimiques pouvant constituer un risque pour la santé des agents;
+
+- de promouvoir l’adaptation du travail à l’homme, en particulier en ce qui concerne la conception des postes de travail;
+
+- de surveiller la santé des agents en relation avec l’exercice de leurs fonctions et d’effectuer à cet effet les examens médicaux prévus par le présent règlement grand-ducal; il en est de même des examens attribués au médecin du travail par toute autre disposition légale ou réglementaire dès lors qu’un agent est concerné;
+
+- de donner des conseils dans les domaines de l’hygiène, de l’ergonomie, de l’éducation à la santé et de la réadaptation professionnelle;
+
+- de coopérer avec le responsable, le délégué et avec la représentation du personnel;
+
+- d’organiser les premiers secours;
+
+- d’effectuer les examens médicaux des candidats à un emploi dans la fonction publique;
+
+- d’organiser et de mettre en vigueur un programme de prévention et d’aide contre l’abus de substances susceptibles de créer une dépendance sur le lieu de travail.
 
 En cas d’urgence dûment constatée par le ministre ayant la fonction publique dans ses attributions, l’examen médical des candidats à un emploi dans la fonction publique visé au point 9 ci-dessus peut être effectué, dans les conditions et suivant les modalités prévues au présent règlement, par un médecin-généraliste du secteur privé, à choisir par le candidat sur une liste fournie par le ministre. Les droits et obligations incombant aux médecins figurant sur cette liste sont consignés dans une convention établie entre le ministre et les médecins concernés.
 
@@ -52,12 +82,32 @@ Le médecin est chargé de l’examen médical des candidats qui se sont classé
 
 Le médecin transmet au service chargé du recrutement les résultats de l’examen médical. Cette information, revêtue de la signature et du cachet du médecin, contiendra les renseignements suivants:
 
+- nom et prénom du candidat
+
+- date de naissance
+
+- poste de travail brigué
+
+- résultat de l’examen médical.
+
 Par résultat d’examen, il y a lieu d’entendre l’information que le candidat est apte ou inapte au service du secteur public.
 
 La formule spéciale dénommée «certificat médical», dûment remplie par le médecin, sera conservée dans son service où elle pourra être consultée par le candidat ou par le médecin de contrôle dans le cas visé à l’article 12 ci-dessous. Lorsque l’examen est effectué par un médecin-généraliste du secteur privé, la formule spéciale dénommée «certificat médical» est remise par le médecin au candidat qui devra la remettre en mains propres au médecin du travail dans la fonction publique.
 
 <a id="art-4"></a>
 ## Art. 4.
+
+1.
+
+Le médecin est chargé de l’examen médical des agents dans tous les cas où l’examen est ordonné dans l’intérêt du personnel ou dans l’intérêt du service par le ministre de la Fonction publique, s’il s’agit de l’ensemble des fonctionnaires, et par le ministre du ressort s’il s’agit de tout ou partie des fonctionnaires d’un ministère ou des administrations et services qui en dépendent, respectivement par le Collège des Bourgmestre et échevins.
+
+A cette fin, le médecin est directement saisi par l’autorité compétente précitée de l’institution qui désire faire examiner ses agents. La convocation des agents est faite sous forme de lettre recommandée par le médecin qui fixe la date et le lieu de l’examen.
+
+2.
+
+Le médecin est chargé de l’examen médical périodique prévu par l’article 32, paragraphe 2 du statut général des fonctionnaires de l’Etat, respectivement l’article 36, paragraphe 2 du statut général des fonctionnaires communaux.
+
+A cette fin, le chef d’administration ou son délégué invite, par courrier, l’agent à se soumettre à l’examen médical en indiquant, après concertation avec le médecin, la date et l’heure à laquelle il doit s’y présenter.
 
 <a id="art-5"></a>
 ## Art. 5.
@@ -71,10 +121,22 @@ En cas de congés sans traitement dépassant la durée d’un an, l’agent est 
 
 Sans préjudice des autres obligations légales ou réglementaires régissant les examens périodiques prescrits sur la base des statuts par respectivement les ministres et les collèges des Bourgmestre et échevins compétents, chaque agent d’une institution assujettie à la loi a droit à un examen de sa santé en relation avec son travail effectué par le médecin, et notamment dans les cas suivants:
 
+- sur la demande écrite de l’agent transmise par voie hiérarchique au médecin;
+
+- sur demande du médecin,
+
+- sur demande motivée du responsable compétent.
+
 <a id="art-7"></a>
 ## Art. 7.
 
 Le médecin prescrit des examens supplémentaires individuels ou collectifs:
+
+- en cas d’incidents sanitaires,
+
+- en présence d’insuffisances résultant d’examens préalables,
+
+- à l’égard de groupes à risques dont la santé n’est pas surveillée autrement; sont visés des jeunes, des personnes handicapées, des travailleurs occupant des postes à risque de même que des personnes exposées à un risque de maladies professionnelles ou à des radiations ionisantes.
 
 <a id="art-8"></a>
 ## Art. 8.
@@ -95,6 +157,16 @@ Le médecin informe et conseille l’agent personnellement et décide des suites
 
 En fonction des résultats il peut notamment:
 
+- classer le dossier sans suite;
+
+- décider d’examens médicaux ultérieurs, éventuellement périodiques;
+
+- prescrire des analyses et autres examens cliniques supplémentaires;
+
+- proposer des limitations d’efforts, de sollicitation, d’exposition et d’autres activités préjudiciables, voire des changements d’affectation ou de fonction;
+
+- effectuer ou faire effectuer des visites d’expertises techniques sur les lieux de travail.
+
 Les conclusions du médecin précitées (apte, apte sous réserve ou inapte) sont transmises à l’agent et à l’autorité qui a saisi le médecin.
 
 <a id="art-11"></a>
@@ -113,10 +185,26 @@ Si le deuxième avis conclut également à l’inaptitude totale et définitive 
 
 Le médecin est chargé en ce qui concerne les agents des institutions assujetties à la loi:
 
+- d’effectuer les contrôles des incapacités de travail pendant les périodes de congés de maladie, sur demande du chef de l’administration ou de son délégué à laquelle est affecté l’agent en congé de maladie. Dans l’exécution de cette mission, il ne peut s’immiscer dans les rapports de l’agent avec le médecin traitant. Le médecin doit s’abstenir de formuler devant l’agent un diagnostic ou une appréciation sur le traitement. Les médecins traitants sont tenus de fournir sous pli fermé au médecin toutes indications concernant le diagnostic et le traitement; toutes les fois qu’il le juge utile, le médecin doit entrer en rapport avec le médecin traitant, toutes les précautions étant prises pour que le secret professionnel soit respecté; le médecin peut prendre l’avis d’hommes de l’art toutes les fois qu’il le juge nécessaire;
+
+- d’effectuer sur demande du ministre du ressort les examens médicaux prévus à l’article 2.IV. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat et à l’article 67.IV. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société Nationale des Chemins de Fer luxembourgeois;
+
+- d’effectuer les examens médicaux, sur demande de la Commission des pensions prévue au titre VI de la loi modifiée du 26 mai 1954 précitée, ainsi qu’aux articles 68-74 de la loi modifiée du 3 août 1998 précitée;
+
+- de procéder à un examen médical complémentaire des candidats à un emploi du secteur public, déclarés inaptes par le médecin ayant procédé à l’examen médical requis au recrutement. Le médecin en est saisi par la partie intéressée dans les huit jours qui suivent la réception du certificat médical par le ministre ayant la Fonction publique dans ses attributions. Il dispose à son tour d’un délai de huit jours pour procéder à l’examen en question et avertir le ministre du ressort respectivement le Collège des Bourgmestre et échevins du résultat. L’avis du médecin de contrôle décide de l’aptitude ou de l’inaptitude définitive du candidat.
+
 #### Chapitre III. Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui
 
 <a id="art-13"></a>
 ## Art. 13.
+
+1.
+
+Il est interdit de fumer à l’intérieur de tous les bâtiments de l’Etat, des communes et des établissements publics.
+
+2.
+
+Cette mesure s’applique à tous les bâtiments des institutions assujetties à la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’Etat, dans les établissements publics et dans les écoles.
 
 <a id="art-14"></a>
 ## Art. 14.

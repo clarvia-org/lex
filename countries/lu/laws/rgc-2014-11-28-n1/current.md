@@ -35,12 +35,20 @@ Il est institué auprès du Ministère de l'Enseignement supérieur et de la Rec
 <a id="art-2"></a>
 ## Art. 2.
 
-La Commission nationale d'éthique est un organe consultatif du Gouvernement chargé d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement, les questions éthiques, sociales, scientifiques et médicales ainsi que les implications éventuelles sur les individus et la société, émanant notamment des sciences de la vie et de la santé. Ses tâches comprennent notamment:
+La Commission nationale d'éthique est un organe consultatif du Gouvernement chargé d'étudier, soit de sa propre initiative, soit à la demande du Gouvernement, les questions éthiques, sociales, scientifiques et médicales ainsi que les implications éventuelles sur les individus et la société, émanant notamment des sciences de la vie et de la santé.
+
+Ses tâches comprennent notamment:
+
+- élaboration d'avis et de recommandations sur les mesures politiques et législatives;
+
+- information du public et de promouvoir la discussion dans la société;
+
+- coopération avec les instances nationales chargées d'évaluer des projets de recherche sur les aspects éthiques ainsi qu'avec des institutions similaires d'autres Etats et organisations internationales.
 
 <a id="art-3"></a>
 ## Art. 3.
 
-La Commission nationale d'éthique se compose de quinze membres dont un président et un vice-président, nommés et révoqués par le Gouvernement en conseil sur proposition du ministre ayant l'enseignement supérieur dans ses attributions, ci-après « ministre » . Un membre peut être révoqué avant l'expiration de son mandat. Les membres sont nommés pour une durée de cinq ans, renouvelable à son terme. Aucun membre de la Commission nationale d'éthique ne peut exercer plus de deux mandats entiers.
+La Commission nationale d'éthique se compose de quinze membres dont un président et un vice-président, nommés et révoqués par le Gouvernement en conseil sur proposition du ministre ayant l'enseignement supérieur dans ses attributions , ci-après « ministre » . Un membre peut être révoqué avant l'expiration de son mandat. Les membres sont nommés pour une durée de cinq ans, renouvelable à son terme. Aucun membre de la Commission nationale d'éthique ne peut exercer plus de deux mandats entiers.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -65,7 +73,11 @@ La Commission nationale d'éthique élabore des avis qui sont communiqués au Go
 <a id="art-8"></a>
 ## Art. 8.
 
-Tout avis doit être soutenu par au moins deux tiers des membres de la Commission nationale d'éthique. Les avis sont les produits d'une recherche pluraliste et multidisciplinaire; ils établissent des positions éthiques dûment documentées et argumentées; en cas de dissensions au sein de la Commission nationale d'éthique, les avis rendent compte de la diversité des opinions défendues au cours des débats; ils retracent les lignes d'argumentation adoptées par les tenants de points de vue opposés et formulent les conclusions et recommandations auxquelles ils aboutissent. Le cas échéant, un avis peut contenir en annexe une prise de position minoritaire à laquelle se rallient au moins trois des membres de la Commission nationale d'éthique.
+Tout avis doit être soutenu par au moins deux tiers des membres de la Commission nationale d'éthique.
+
+Les avis sont les produits d'une recherche pluraliste et multidisciplinaire; ils établissent des positions éthiques dûment documentées et argumentées; en cas de dissensions au sein de la Commission nationale d'éthique, les avis rendent compte de la diversité des opinions défendues au cours des débats; ils retracent les lignes d'argumentation adoptées par les tenants de points de vue opposés et formulent les conclusions et recommandations auxquelles ils aboutissent.
+
+Le cas échéant, un avis peut contenir en annexe une prise de position minoritaire à laquelle se rallient au moins trois des membres de la Commission nationale d'éthique.
 
 <a id="art-9"></a>
 ## Art. 9.

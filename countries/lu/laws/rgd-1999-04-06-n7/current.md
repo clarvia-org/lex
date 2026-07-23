@@ -29,15 +29,21 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+Objet
+
 Il est créé un Parc Naturel de la Haute-Sûre, dénommé ci-après «le parc naturel».
 
 <a id="art-2"></a>
 ## Art. 2.
 
+Portée
+
 La création du parc naturel entraîne la mise en œuvre de son plan de développement, la mise en place des organismes chargés de son administration et de sa gestion, l’établissement et la mise en œuvre du plan de gestion annuel ainsi que l’installation de la commission consultative.
 
 <a id="art-3"></a>
 ## Art. 3.
+
+Durée
 
 Le statut de parc naturel est limité à dix ans, sauf renouvellement exprès pour une même période.
 
@@ -59,10 +65,14 @@ Une liste des communes avec leurs sections cadastrales et une carte topographiqu
 <a id="art-5"></a>
 ## Art. 5.
 
+Le syndicat pour l’aménagement et la gestion du parc naturel
+
 Le parc naturel est administré par un syndicat pour l’aménagement et la gestion du Parc Naturel de la Haute-Sûre, au comité duquel siègent les représentants des départements ministériels et des administrations publiques concernées ainsi que des communes syndiquées, dénommé ci-après «le syndicat».
 
 <a id="art-6"></a>
 ## Art. 6.
+
+Le service du parc naturel
 
 Le syndicat s’adjoint un service du parc naturel, dénommé ci-après «le service».
 
@@ -72,17 +82,33 @@ Il comprend une équipe permanente qui regroupe le personnel administratif, tech
 
 Le service est composé de trois cellules, à savoir:
 
+- une cellule administration;
+
+- une cellule agriculture, environnement naturel et sylviculture;
+
+- une cellule tourisme, entreprises et environnement humain.
+
 Le nombre des agents à affecter à chaque cellule est fixé par le comité du syndicat.
 
 <a id="art-7"></a>
 ## Art. 7.
 
+La direction du service du parc naturel
+
 La direction du service est assurée par un chargé de direction. Celui-ci:
+
+- exécute les décisions du comité;
+
+- assure la gestion courante du parc naturel dont il rend compte à la demande du comité;
+
+- dirige, coordonne et surveille l’action des cellules du service.
 
 Le chargé de direction assiste aux réunions du comité avec voix consultative. En cas d’empêchement, il est remplacé par un autre membre du service.
 
 <a id="art-8"></a>
 ## Art. 8.
+
+La commission consultative
 
 Il est instituée une commission consultative, désignée ci-après par le terme «la commission», qui a pour mission d’assister le comité du syndicat dans l’exercice de ses attributions.
 
@@ -95,6 +121,22 @@ La commission comprend, comme représentants de la population locale, un habitan
 
 La commission comprend, comme délégués des groupements d’intérêts locaux ou régionaux représentatifs:
 
+- un délégué d’un groupement agissant dans le domaine de l’agriculture;
+
+- un délégué d’un groupement agissant dans le domaine de la sylviculture;
+
+- un délégué d’un groupement agissant dans le domaine du tourisme;
+
+- un délégué d’un groupement agissant dans le domaine des petites et moyennes entreprises (PME);
+
+- un délégué d’un groupement agissant dans le domaine de la nature et de l’environnement humain;
+
+- un délégué d’un groupement agissant dans le domaine de la culture;
+
+- un délégué d’un groupement agissant dans le domaine de l’urbanisme;
+
+- un délégué d’un groupement agissant dans le domaine de l’énergie.
+
 A chaque délégué est associé un suppléant qui peut remplacer le délégué en cas d’absence.
 
 En vue de l’équilibre régional et thématique, la commission peut comprendre également jusqu’à quatre représentants des associations privées oeuvrant dans l’intérêt des objectifs poursuivis par le Parc naturel.
@@ -103,6 +145,8 @@ Le comité du syndicat décide quels groupements et quelles associations sont re
 
 <a id="art-10"></a>
 ## Art. 10.
+
+Nomination des membres de la commission consultative
 
 La nomination des membres de la commission est faite par le comité du syndicat, sur proposition des groupements et associations en ce qui concerne leurs représentants, respectivement sur base de candidatures introduites, suite à un appel public, par des particuliers pour assumer la représentation de la population locale.
 
@@ -113,6 +157,8 @@ La durée du mandat des membres de la commission est de cinq ans. Toutefois les 
 
 <a id="art-12"></a>
 ## Art. 12.
+
+Fonctionnement de la commission consultative
 
 La commission élit parmi ses membres un président, un vice-président et un secrétaire qui resteront en fonction pour toute la durée de leur mandat.
 
@@ -141,6 +187,16 @@ Le syndicat veille à la réalisation des objectifs fixés à l’article 2 de l
 
 Le syndicat peut assumer toutes les missions nécessaires pour la mise en oeuvre des objectifs du Parc naturel et
 
+- assume une mission de promotion et de sensibilisation dans la région;
+
+- aide à coordonner l’action de l’Etat et des communes au niveau du Parc naturel;
+
+- travaille en étroite coopération avec les instances régionales et nationales;
+
+- instaure une plateforme de communication avec les acteurs oeuvrant dans l’intérêt poursuivi par le Parc naturel tels que les agriculteurs, les sylviculteurs, les producteurs régionaux, les entreprises ou les organisations travaillant dans le domaine du tourisme et de l’environnement;
+
+- intègre à sa démarche également les initiatives privées qui constituent un apport au Parc naturel.
+
 #### Chapitre 5 Modifications à apporter aux plans d’aménagement communaux
 
 <a id="art-14"></a>
@@ -154,6 +210,8 @@ Les modifications proposées qui figurent à la carte reprise en annexe 3bis son
 
 <a id="art-15"></a>
 ## Art. 15.
+
+Information du public
 
 Des copies du présent règlement sont déposées à la maison communale de chacune des communes où le public peut en prendre connaissance.
 

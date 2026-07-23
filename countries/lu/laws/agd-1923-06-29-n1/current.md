@@ -81,6 +81,10 @@ Pour être admis à exercer leurs fonctions à l'étranger, les agents doivent �
 
 L'exequatur sera demandé:
 
+- par l'agent diplomatique luxembourgeois accrédité dans le pays;
+
+- à défaut d'agent diplomatique, par le Département des affaires étrangères directement.
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -131,10 +135,44 @@ Le même pouvoir est accordé au chef de la légation dont relève le consulat e
 <a id="art-16"></a>
 ## Art. 16.
 
+(1)
+
+Les consuls sont obligés, dans l'exercice de leurs fonctions, de se conformer en tous points aux dispositions qui concernent le ministre ayant les affaires étrangères dans ses attributions.
+
+Ils doivent aide et protection aux Luxembourgeois voyageant ou résidant à l’étranger, et à leurs membres de la famille, dans la mesure du possible.
+
+Ils fournissent au Gouvernement les renseignements et rendent les services qu'il leur demande ; ils s'efforcent en outre de renseigner le ministre ayant les affaires étrangères dans ses attributions sur toutes les affaires et sur tous les événements qui peuvent avoir de l'intérêt pour le pays.
+
+(2)
+
+Les consuls accordent une protection consulaire aux citoyens de l’Union européenne non représentés dans les mêmes conditions que celles s'appliquant aux Luxembourgeois.
+
+Par citoyen non représenté, on entend tout citoyen ayant la nationalité d’un État membre de l’Union européenne qui n’est pas représenté dans un pays tiers, parce que cet État soit n’y dispose pas d’une ambassade ou d’un consulat établi de façon permanente, soit y dispose d’une ambassade, d’un consulat ou d’un consul honoraire mais qui n’est pas en mesure d’assurer une protection consulaire effective dans une situation donnée.
+
+(3)
+
+Sur initiative ou après autorisation du ministre ayant les affaires étrangères dans ses attributions ou de la mission diplomatique de laquelle ils relèvent, les consuls honoraires peuvent, dans des cas exceptionnels, fournir une assistance consulaire aux Luxembourgeois, et à leurs membres de famille.
+
 <a id="art-16bis"></a>
 ## Art. 16 bis.
 
 Par membres de la famille il y a lieu de comprendre :
+
+(1)
+
+Sont considérés comme membres de la famille d’un citoyen luxembourgeois :
+
+- le conjoint ;
+
+- le partenaire avec lequel le citoyen luxembourgeois a contracté un partenariat enregistré conformément aux conditions de fond de l’article 4 de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
+
+- les descendants directs et les descendants directs du conjoint ou du partenaire visé au point b) qui sont âgés de moins de 21 ans ou qui sont à charge ;
+
+- les ascendants directs du citoyen luxembourgeois et les ascendants directs du conjoint ou du partenaire visé au point b).
+
+(2)
+
+Les membres de la famille d’un citoyen de l’Union européenne, ressortissants de pays tiers, sont assimilés aux membres de la famille du citoyen luxembourgeois.
 
 <a id="art-16ter"></a>
 ## Art. 16ter.
@@ -323,8 +361,54 @@ Les arrêts, jugements ou actes rendus ou passés dans le Grand-Duché ne pourro
 <a id="art-37bis"></a>
 ## Art. 37 bis.
 
+(1)
+
+Les consuls prêtent assistance, dans la mesure du possible, aux Luxembourgeois à l’étranger, ainsi qu'aux ressortissants de l’Union européenne non représentés, qui se trouvent en situation de détresse ou de difficulté, notamment dans les cas suivants :
+
+- arrestation ou détention ;
+
+- fait d’être victime d’un crime ou d’un délit ;
+
+- accident ou maladie grave ;
+
+- décès ;
+
+- besoin d’aide et de rapatriement en situation d’urgence ;
+
+- besoin de titres de voyage provisoires comme prévu dans la décision 96/409/PESC.
+
+(2)
+
+Les procédures détaillées de l’assistance consulaire sont réglées par règlement ministériel.
+
+(3)
+
+L’assistance consulaire apportée varie selon la situation mais est, en principe, de nature administrative. Ainsi les consuls peuvent fournir une assistance avec les procédures locales, mettre à disposition l’infrastructure des missions ou encore prendre contact avec les membres de la famille.
+
+(4)
+
+Les consuls doivent se conformer aux législations et procédures locales. Ils ne peuvent pas intervenir dans le cours de la justice lors d’une affaire judiciaire ou d'un délit commis sur le territoire d'un pays d'accueil.
+
 <a id="art-37-ter"></a>
 ## Art. 37 ter.
+
+(1)
+
+Les consuls ne peuvent pas avancer de l’argent, voire régler une amende, note d'hôtel, d'hôpital ou toute autre dépense à charge du demandeur, sauf sous réserve d'un remboursement ultérieur via une reconnaissance de dette ou dans des cas d'extrême urgence.
+
+En outre, les consuls ne peuvent accorder des avances à rembourser via une reconnaissance de dette qu’après avoir consulté le ministre ayant les affaires étrangères dans ses attributions.
+
+(2)
+
+Les citoyens non représentés s'engagent à rembourser à l'État membre dont ils ont la nationalité les coûts de la protection consulaire, selon les mêmes conditions que les Luxembourgeois, au moyen du formulaire type figurant à l'annexe I.
+
+Dans ce cas, le consul doit consulter le ministre ayant les affaires étrangères dans ses attributions et en informer le ministère des affaires étrangères de l’État membre dont le demandeur a la nationalité.
+
+(3)
+
+Le consul est remboursé par l’État luxembourgeois des dépenses effectuées.
+
+L’État luxembourgeois demande le remboursement des coûts visés au paragraphe 2 à l'État membre dont le citoyen non représenté a la nationalité, au moyen du formulaire type figurant à l'annexe II.
 
 <a id="art-37quater"></a>
 ## Art. 37 quater.
@@ -334,8 +418,26 @@ Les Luxembourgeois s'engagent à rembourser à l'État luxembourgeois les coûts
 <a id="art-37quinquies"></a>
 ## Art. 37 quinquies.
 
+(1)
+
+Lorsque le consul reçoit une demande de protection consulaire de la part d'une personne qui prétend être un citoyen non représenté, ou qu'il est informé d'une situation d'urgence donnée dans laquelle se trouve un citoyen non représenté, il consulte sans tarder le ministère des affaires étrangères de l'État membre dont la personne revendique la nationalité ou, le cas échéant, l'ambassade ou le consulat compétent de cet État membre, et il lui fournit toutes les informations utiles dont il dispose, y compris concernant l'identité de la personne concernée, les coûts éventuels de la protection consulaire et concernant les membres de la famille auxquels la protection consulaire devrait également être accordée.
+
+Cette consultation intervient avant qu'une assistance ne soit fournie. En cas d’extrême urgence, où la consultation par le consul ne peut pas se faire avant que l’assistance ne soit fournie, celle-ci doit néanmoins se faire a posteriori. Le consul facilite également l'échange d'informations entre le citoyen concerné et les autorités de l'État membre dont le citoyen a la nationalité.
+
 <a id="art-37sexies"></a>
 ## Art. 37. sexies.
+
+(1)
+
+L’identification des personnes cherchant une protection consulaire se fait sur base d’un passeport ou d’une carte d'identité.
+
+(2)
+
+Si le citoyen non représenté n'est pas en mesure de produire un passeport ou une carte d'identité en cours de validité, sa nationalité peut être prouvée par tout autre moyen, y compris si nécessaire des vérifications auprès des agents diplomatiques ou consulaires de l'État membre dont il revendique la nationalité.
+
+(3)
+
+En ce qui concerne les membres de la famille, leur identité et l'existence d'un lien de parenté peuvent être prouvées par tout moyen, y compris des vérifications effectuées auprès des agents diplomatiques ou consulaires de l'État membre dont les citoyens ont la nationalité.
 
 <a id="art-37septies"></a>
 ## Art. 37 septies.
@@ -363,6 +465,16 @@ Les taxes sont acquises clans leur intégralité aux agents non rétribués jusq
 
 L'excédent des quotités indiquées ci-dessus est attribué à l'Etat et au consulat suivant la formule ci-après établie:
 
+- l'excédent de 1 à 25.000 frs. revient à parts égales à l'Etat et au consulat;
+
+- l'excédent de 25.000 à 50.000 frs. revient pour 75 % à l'Etat et pour 25 % au consulat;
+
+- l'excédent de 50.000 à 75.000 frs. revient pour 87½% à l'Etat et pour 12½ % au consulat;
+
+- l'excédent de 75.000 à 100.000 frs. revient pour 92½% à l'Etat et pour 7½ % au consulat;
+
+- l'excédent dépassant la somme de 100.000 frs. revient pour 95% à l'Etat et pour 5% au consulat.
+
 En cas de changement du titulaire en cours d'année, le calcul de la part revenant au Trésor sera effectué d'après ce barème; le calcul des parts revenant aux différents titulaires se fera au prorata de la durée des mandats respectifs, en tenant compte des recettes de toute l'année.
 
 <a id="art-41"></a>
@@ -371,6 +483,10 @@ En cas de changement du titulaire en cours d'année, le calcul de la part revena
 Le Gouvernement est autorisé à conclure avec les Puissances étrangères des arrangements établissant, sous condition de réciprocité, la gratuité ou une réduction spécifiée du prix de certaines des opérations de chancellerie soumises à des taxes.
 
 La gratuité est en outre acquise de plein droit:
+
+- aux actes destinés aux indigènes;
+
+- aux documents réclamés par le Directeur général des affaires étrangères dans un intérêt publie ou administratif, ainsi qu'aux actes réclamés en leur qualité officielle pour leur usage personnel ou celui de leur suite, par les agents officiels des autres États, ce à titre de réciprocité.
 
 <a id="art-42"></a>
 ## Art. 42.
@@ -397,6 +513,10 @@ En cas de recette négative ils en feront la déclaration aux mêmes époques. L
 Les dépenses susceptibles d'être remboursées font l'objet de déclarations que les agents transmettent au Département des affaires étrangères une ou plusieurs fois par an, suivant l'importance de leur montant.
 
 Ces dépenses sont:
+
+- les frais de port et d'affranchissement de la correspondance officielle;
+
+- les secours provisoires accordés à des Luxembourgeois qui se trouvent dans une position nécessiteuse, par suite de circonstances indépendantes de leur volonté.
 
 Les dépenses indiquées sous le n° 2 sont à justifier par des quittances; le Directeur général des affaires étrangères fixera le montant que les consuls peuvent avancer à un compatriote nécessiteux sans avoir obtenu au préalable l'autorisation du Gouvernement.
 

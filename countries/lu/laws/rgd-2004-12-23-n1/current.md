@@ -209,6 +209,20 @@ Toute infraction à la discipline ou à l’ordre intérieur peut être sanction
 
 Outre les infractions susceptibles d’être sanctionnées par un renvoi définitif du lycée fixées par l’article 42 de la loi précitée, notamment les infractions suivantes sont susceptibles d’être sanctionnées par une des mesures moindres :
 
+- les actes d’incivilité et d’impertinence commis à l’égard des membres de la communauté scolaire,
+
+- le refus d’obéissance,
+
+- le refus d’assister aux cours ou de composer,
+
+- l’absence injustifiée des cours durant au plus vingt demi-journées au cours d’une même année scolaire et les retards réitérés,
+
+- la fraude, le vol, le faux en écriture, la falsification de documents,
+
+- l’incitation au désordre,
+
+- l’organisation, dans l’enceinte du lycée, de réunions ou de manifestations non autorisées par le directeur.
+
 Toutes les mesures disciplinaires sont à inscrire au livre de classe.
 
 <a id="art-29"></a>
@@ -236,6 +250,16 @@ Le conseil de discipline est saisi par le conseil de classe au cas où un élèv
 
 Il convoque également à la séance et en respectant les mêmes délais :
 
+- par lettre recommandée l’élève prévenu et, au cas où il est mineur, ses parents ou la personne investie du droit d’éducation,
+
+- le régent de la classe de l’élève,
+
+- un membre du service de psychologie et d’orientation scolaires,
+
+- le conseiller à l’apprentissage pour les élèves des classes à enseignement concomitant du régime professionnel de l’enseignement secondaire technique,
+
+- le cas échéant les plaignants, les témoins ou les personnes susceptibles d’éclairer le conseil sur les faits motivant la comparution de l’élève.
+
 La convocation doit contenir une description des faits et des infractions qui sont reprochés au prévenu.
 
 L’élève prévenu peut se faire accompagner par une personne de son choix en dehors de ses parents.
@@ -261,6 +285,14 @@ La décision du conseil de discipline, de même que celle du conseil de classe s
 
 <a id="art-33"></a>
 ## Art. 33.
+
+(1)
+
+Au début de l'année scolaire, l'élève nouvellement inscrit ainsi que les parents de l’élève mineur sont informés au sujet des règles de conduite applicables au lycée.
+
+(2)
+
+À chaque rentrée scolaire, le régent rappelle aux élèves les règles de conduite.
 
 <a id="art-34"></a>
 ## Art. 34.

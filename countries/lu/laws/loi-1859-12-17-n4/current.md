@@ -43,6 +43,14 @@ Sont applicables aux chemins de fer les lois et règlements sur la grande voirie
 
 Sont applicables aux propriétés riveraines des chemins de fer, les servitudes imposées par les lois et règlements sur la grande voirie, et qui concernent:
 
+- l'alignement,
+
+- l'écoulement des eaux,
+
+- l'occupation temporaire des terrains en cas de réparation,– la distance à observer pour les plantatations, et l'élagage des arbres plantés,
+
+- le mode d'exploitation des mines, minières, tourbières, carrières et sablières, dans la zone déterminée à cet effet.
+
 Sont également applicables à la confection et à l'entretien des chemins de fer, les lois et règlements sur l'extraction des matériaux nécessaires aux travaux publics.
 
 <a id="art-4"></a>
@@ -96,6 +104,10 @@ Cette autorisation sera toujours révocable.
 
 L'autorisation n'est pas nécessaire:
 
+- Pour former, dans les localités où le chemin de fer est en remblai, des dépôts de matières non inflammables dont la hauteur n'excède pas celle du remblai du chemin;
+
+- Pour former des dépôts temporaires d'engrais et autres objets nécessaires à la culture des terres.
+
 Il ne sera permis de planter à l'avenir, sans autorisation du Gouvernement, qu'à la distance de vingt mètres du franc bord des chemins de fer pour les arbres à haute tige, et de six mètres pour les autres arbres.
 
 <a id="art-9"></a>
@@ -115,7 +127,7 @@ L'indemnité sera réglée, pour la suppression des constructions, conformément
 
 Les contraventions aux dispositions du présent litre seront constatées, poursuivies et réprimées comme en matière de grande voirie.
 
-Elles seront punies d'une amende d'un à huit euros , sans préjudice, s'il y a lieu, des peines portées au Code pénal et au titre III de la présente loi. Les contrevenants sont, en outre, condamnés à supprimer, dans le délai déterminé par le jugement, les excavations, couvertures, meules ou dépôts faits contrairement aux dispositions précédentes.
+Elles seront punies d'une amende d' un à huit euros , sans préjudice, s'il y a lieu, des peines portées au Code pénal et au titre III de la présente loi. Les contrevenants sont, en outre, condamnés à supprimer, dans le délai déterminé par le jugement, les excavations, couvertures, meules ou dépôts faits contrairement aux dispositions précédentes.
 
 A défaut par eux de satisfaire à cette condamnation dans le délai fixé, la suppression aura lieu d'office, et le montant de la dépense sera recouvré dents pourront être diminuées par des arrêtés royaux grand-ducaux, rendus après enquête, dans la forme de règlements d'administration publique.
 
@@ -170,14 +182,14 @@ Quiconque aura menacé, par écrit anonyme ou signé, de commettre un des crimes
 
 Si la menace n'a été accompagnée d'aucun ardre ou condition, la peine sera d'un emprisonnement de trois mois à deux ans, et d'une amende de trois à treize euros .
 
-Si la menace avec ordre ou condition a été verbale, le coupable sera puni d'un emprisonnement de quinze jours à six mois, et d'une amende d'un à huit euros .
+Si la menace avec ordre ou condition a été verbale, le coupable sera puni d'un emprisonnement de quinze jours à six mois, et d'une amende d' un à huit euros .
 
 Dans tous les cas, le coupable pourra être mis par le jugement sous la surveillance de la haute police, pour un temps qui ne pourra être moindre de deux ans ni excéder cinq ans.
 
 <a id="art-19"></a>
 ## Art. 19.
 
-Lorsqu'un convoi sur un chemin de fer aura éprouvé un accident par maladresse, imprudence, inattention, négligence ou inobservation des lois ou règlements, ou des prescriptions ou défenses de l'autorité, le coupable sera puni d'une amende d'un à cinq euros .
+Lorsqu'un convoi sur un chemin de fer aura éprouvé un accident par maladresse, imprudence, inattention, négligence ou inobservation des lois ou règlements, ou des prescriptions ou défenses de l'autorité, le coupable sera puni d'une amende d' un à cinq euros .
 
 Si l'accident ainsi causé involontairement sur un chemin de fer ou dans les gares ou stations, a occasionné des blessures, la peine sera celle de huit jours à six mois d'emprisonnement, et d'une amende de deux à vingt-cinq euros .
 
@@ -191,7 +203,7 @@ Sera puni d'un emprisonnement de six mois à deux ans tout mécanicien ou conduc
 <a id="art-21"></a>
 ## Art. 21.
 
-Toute contravention aux arrêtés royaux grandsducaux portant règlement d'administration publique sur la police, la sûreté et l'exploitation du chemin de fer, et aux dispositions prises par l'autorité pour l'exécution des dits arrêtés, sera punie d'une amende d'un à soixante-quinze euros .
+Toute contravention aux arrêtés royaux grandsducaux portant règlement d'administration publique sur la police, la sûreté et l'exploitation du chemin de fer, et aux dispositions prises par l'autorité pour l'exécution des dits arrêtés, sera punie d'une amende d' un à soixante-quinze euros .
 
 En cas de récidive dans l'année, l'amende sera portée au double, et le tribunal pourra, selon les circonstances, prononcer en outre un emprisonnement de trois jours à un mois.
 
@@ -207,7 +219,7 @@ L'État sera soumis à la même responsabilité envers les particuliers, si le c
 
 Les crimes, délits ou contraventions prévus dans les titres I et III de la présente loi, pourront être constatés par des procès-verbaux dressés concurremment par les officiers de police judiciaire, les agents de l'administration des travaux publics, et les agents de surveillance du chemin de fer nommés ou agréés par le Gouvernement et dûment assermentés.
 
-Les agents de surveillance du Gouvernement et ceux qu'il aura agréés des concessionnaires ou fermiers, prêteront devant le tribunal de l'arrondissement de leur résidence, le serment suivant: Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l'État. - Je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité, et de bien et fidèlement servir les intérêts du Roi Grand-Duc et ceux du pays. Ainsi Dieu me soit en aide ! Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l'État. - Je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité, et de bien et fidèlement servir les intérêts du Roi Grand-Duc et ceux du pays. Ainsi Dieu me soit en aide !
+Les agents de surveillance du Gouvernement et ceux qu'il aura agréés des concessionnaires ou fermiers, prêteront devant le tribunal de l'arrondissement de leur résidence, le serment suivant: Je jure fidélité au Roi Grand-Duc, obéissance à la Constitution et aux lois de l'État. - Je promets de remplir fidèlement mes fonctions avec intégrité, exactitude et impartialité, et de bien et fidèlement servir les intérêts du Roi Grand-Duc et ceux du pays. Ainsi Dieu me soit en aide !
 
 En cas de changement de résidence, l'acte de prestation du serment sera transcrit et visé au greffe du tribunal de l'arrondissement de la nouvelle résidence.
 

@@ -28,8 +28,47 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Le Conseil supérieur des personnes handicapées se compose de 11 membres dont:
+
+- cinq représentant(e)s de personnes handicapées respectivement de leurs familles pour ceux et celles qui ne peuvent pas se représenter eux-/elles-mêmes;
+
+- quatre représentant(e)s d'associations gestionnaires offrant des services aux personnes handicapées;
+
+- un membre du personnel du Centre national d'information et de rencontre du handicap;
+
+- un(e) délégué(e) du ministre ayant dans ses attributions la politique en faveur des personnes handicapées, ci-après dénommé «le ministre».
+
+(2)
+
+Les membres du Conseil sont nommés par le ministre. Les représentant(e)s des personnes handicapées respectivement de leurs familles et les représentant(e)s des associations gestionnaires sont nommé(e)s par le ministre sur proposition des associations de ou pour personnes handicapées, tout en veillant à une représentation équilibrée des personnes présentant une déficience physique, mentale, sensorielle ou psychique. La durée du mandat des membres du conseil est de quatre ans. Leur mandat est renouvelable.
+
+Pour chaque membre effectif du Conseil, il est nommé un membre suppléant. En cas de décès ou de démission d'un membre du Conseil, son suppléant le remplace jusqu'à échéance du mandat des membres du Conseil.
+
+(3)
+
+Le mandat de membre du Conseil est incompatible avec les fonctions de membre du Gouvernement, de membre de la Chambre des Députés et de membre du Conseil d'Etat.
+
+Le membre du Conseil qui perd la qualité au titre de laquelle il a été nommé ne peut plus faire partie du Conseil.
+
 <a id="art-2"></a>
 ## Art. 2.
+
+(1)
+
+Le Conseil choisit en son sein un président et un vice-président. La présidence du Conseil revient à un représentant d'une association de personnes handicapées.
+
+Le secrétariat du Conseil est assuré par un fonctionnaire ou employé de l'Etat désigné par le ministre. Le secrétaire agit conformément aux directives du bureau défini ci-après.
+
+(2)
+
+Les membres du Conseil supérieur des personnes handicapées et le secrétaire présents à la réunion à la demande du Conseil ont droit à une indemnité spéciale qui est fixée comme suit:
+
+| Président | 34,5 € / séance |
+| --- | --- |
+| Membre | 17,25 € / séance |
+| Secrétaire | 17,25 € / séance |
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -38,6 +77,14 @@ Le président, le vice-président, le secrétaire du Conseil et deux membres él
 
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Le Conseil peut, dans l'exercice de ses missions, inviter en consultation toute personne dont le concours, en raison de sa compétence ou de sa fonction, lui paraît utile pour l'exécution de sa mission.
+
+(2)
+
+Le Conseil peut instituer des commissions ou des groupes de travail chargés soit d'une mission permanente, soit de l'analyse d'un sujet particulier.
 
 <a id="art-5"></a>
 ## Art. 5.

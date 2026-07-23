@@ -31,7 +31,18 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 L’indemnité spéciale visée à l’article 9 de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise est fixée aux montants mensuels nets ci-après :
 
-1° Pour le personnel militaire de l’Armée : a. Officiers : 4.618.- EUR b. Sous-officiers et caporaux : 4.270.- EUR c. Soldats volontaires : 3.192.- EUR 2° Pour le personnel de la Police : a. Cadre supérieur : 4.618.- EUR b. Inspecteurs et brigadiers : 4.270.- EUR 3° Pour les participants civils, issus du secteur public ou du secteur privé : a. Catégorie de traitement A, groupes de traitements A1 et A2 : 4.618.- EUR b. Catégories de traitement B et C : 4.270.- EUR c. Toutes catégories de traitement ou de rémunération confondues : les participants au programme « Jeunes experts professionnels » de l’UE et les participants à une mission d’observation électorale : 2.700.- EUR
+| 1° | Pour le personnel militaire de l’Armée : |  |
+| --- | --- | --- |
+| a. | Officiers : | 4.618.- EUR |
+| b. | Sous-officiers et caporaux : | 4.270.- EUR |
+| c. | Soldats volontaires : | 3.192.- EUR |
+| 2° | Pour le personnel de la Police : |  |
+| a. | Cadre supérieur : | 4.618.- EUR |
+| b. | Inspecteurs et brigadiers : | 4.270.- EUR |
+| 3° | Pour les participants civils, issus du secteur public ou du secteur privé : |  |
+| a. | Catégorie de traitement A, groupes de traitements A1 et A2 : | 4.618.- EUR |
+| b. | Catégories de traitement B et C : | 4.270.- EUR |
+| c. | Toutes catégories de traitement ou de rémunération confondues : les participants au programme « Jeunes experts professionnels » de l’UE et les participants à une mission d’observation électorale : | 2.700.- EUR |
 
 <a id="art-2"></a>
 ## Art. 2.

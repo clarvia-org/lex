@@ -39,7 +39,15 @@ L’engagement de prise en charge porte une signature manuscrite ou électroniqu
 <a id="art-3"></a>
 ## Art. 3.
 
-Le garant transmet l'engagement de prise en charge signé selon les modalités prévues à l’article 2 avec la légalisation de la signature au ministre en y joignant les pièces suivantes: Le ministre vérifie si les conditions prévues à l'article 4, paragraphes (1) et (2) de la loi sont remplies. Le niveau des ressources est apprécié par référence à la moyenne du taux mensuel du salaire social minimum d'un travailleur non qualifié sur une durée de douze mois et par rapport à la durée et à l'objet du séjour envisagé par le bénéficiaire de la prise en charge.
+Le garant transmet l'engagement de prise en charge signé selon les modalités prévues à l’article 2 avec la légalisation de la signature au ministre en y joignant les pièces suivantes:
+
+- un document attestant qu'il possède la nationalité luxembourgeoise ou qu'il est autorisé à séjourner au Grand-Duché de Luxembourg pour une durée d'au moins un an;
+
+- les trois dernières fiches de salaire ou un document attestant ses revenus mensuels.
+
+Le ministre vérifie si les conditions prévues à l'article 4, paragraphes (1) et (2) de la loi sont remplies.
+
+Le niveau des ressources est apprécié par référence à la moyenne du taux mensuel du salaire social minimum d'un travailleur non qualifié sur une durée de douze mois et par rapport à la durée et à l'objet du séjour envisagé par le bénéficiaire de la prise en charge.
 
 <a id="art-4"></a>
 ## Art. 4.
@@ -49,7 +57,9 @@ Lorsqu'il avise favorablement l'engagement de prise en charge, le ministre en in
 <a id="art-5"></a>
 ## Art. 5.
 
-La prise en charge prend cours à partir de l'arrivée de l'étranger sur le territoire de l’Espace Schengen. Le garant est, avec l'étranger, solidairement responsable à l'égard de l'Etat des frais mentionnés à l'article 4, paragraphe (1) de la loi pendant une durée de deux ans à partir de l’entrée de l’étranger sur le territoire de l’Espace Schengen. Il est délié de son engagement s'il apporte la preuve que l'étranger a quitté l'Espace Schengen. Il ne peut se désister de son engagement que si une autre personne souscrit une nouvelle prise en charge pour remplacer l'engagement qu'il avait pris ou si le bénéficiaire de la prise en charge s'est vu attribuer une autorisation de séjour à un autre titre.
+La prise en charge prend cours à partir de l'arrivée de l'étranger sur le territoire de l’Espace Schengen . Le garant est, avec l'étranger, solidairement responsable à l'égard de l'Etat des frais mentionnés à l'article 4, paragraphe (1) de la loi pendant une durée de deux ans à partir de l’entrée de l’étranger sur le territoire de l’Espace Schengen . Il est délié de son engagement s'il apporte la preuve que l'étranger a quitté l'Espace Schengen.
+
+Il ne peut se désister de son engagement que si une autre personne souscrit une nouvelle prise en charge pour remplacer l'engagement qu'il avait pris ou si le bénéficiaire de la prise en charge s'est vu attribuer une autorisation de séjour à un autre titre.
 
 <a id="art-6"></a>
 ## Art. 6.

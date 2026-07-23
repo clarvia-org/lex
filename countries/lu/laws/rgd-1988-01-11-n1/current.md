@@ -35,6 +35,34 @@ Il est constitué pour chaque fonctionnaire un dossier personnel au bureau du pe
 
 Le dossier personnel doit contenir, pour autant qu’ils existent, les documents énumérés ci-après ou une copie conforme de ces documents:
 
+- l’extrait de l’acte de naissance;
+
+- les certificats d’études et les diplômes se rapportant à la carrière de l’intéressé;
+
+- le certificat de nationalité;
+
+- l’extrait du casier judiciaire;
+
+- le certificat médical;
+
+- les résultats des examens auxquels l’intéressé s’est présenté au cours de sa carrière;
+
+- les délibérations, les décisions et la correspondance concernant la carrière de l’intéressé;
+
+- les certificats relatifs aux cours et stages spéciaux;
+
+- les décisions relatives à la validation des périodes de service antérieures;
+
+- les pièces relatives à la situation de famille de l’agent;
+
+- les fiches de traitement;
+
+- la correspondance relative aux congés pour raisons de santé;
+
+- la décision concernant la démission ou, le cas échéant, l’acte de décès;
+
+- la décision accordant la pension.
+
 <a id="art-3"></a>
 ## Art. 3.
 

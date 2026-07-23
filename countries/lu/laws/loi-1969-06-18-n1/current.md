@@ -48,6 +48,30 @@ Un règlement grand-ducal, pris sur avis du Conseil d’État, arrêtera la comp
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Nul ne pourra présenter à l’homologation un diplôme final d’enseignement supérieur étranger s’il n’est pas titulaire d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien approprié selon les dispositions de l’article 20 de la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue, luxembourgeois ou étranger reconnu équivalent selon la réglementation luxembourgeoise en vigueur.
+
+Un règlement grand-ducal peut déterminer la procédure et les conditions d’une reconnaissance d’équivalence à un des diplômes luxembourgeois mentionnés au premier alinéa de diplômes étrangers correspondants délivrés par des Etats qui n’ont pas adhéré à la Convention européenne relative à l’équivalence des diplômes donnant accès aux établissements universitaires, signée à Paris le 11 décembre 1953 et approuvée par la loi du 13 décembre 1954, et/ou la Convention sur la reconnaissance des qualifications relatives à l’enseignement supérieur dans la région européenne, ouverte à la signature, à Lisbonne, le 11 avril 1997, et approuvée par la loi du 14 août 2000.
+
+(2)
+
+L’homologation ne pourra être accordée que si les études supérieures des postulants et leurs diplômes ou titres d’examens finals étrangers répondent aux critères généraux définis comme suit:
+
+- la durée minimale des études supérieures, qui pour chacune des disciplines est fixée par règlement grand-ducal;
+
+- la nature et l’étendue des enseignements théoriques et/ou pratiques, dont les spécificités sont définies par règlement grand-ducal pour chaque discipline.
+
+Les diplômes finals sanctionnant des études portant respectivement sur les langues ou lettres anglaises, allemandes et françaises doivent être obtenus dans un pays ou une région d’un pays de langue respectivement anglaise, allemande, française, après des études accomplies dans un tel pays pendant au moins deux années.
+
+Le diplôme final sanctionnant des études en droit doit être obtenu dans un pays dont le système juridique correspond dans ses conceptions fondamentales aux principes généraux du système juridique luxembourgeois.
+
+Les diplômes présentés à l’homologation doivent, sans dérogation possible, conférer un grade d’enseignement supérieur, reconnu par le pays d’origine, ou y donner accès à certaines fonctions et professions conformément aux lois et règlements les gouvernant ainsi qu’aux stages correspondants, sans qu’une discrimination puisse être faite entre titres légaux et titres scientifiques, entre titres d’Etat et titres d’Université.
+
+(3)
+
+Le Ministre ayant l’enseignement supérieur dans ses attributions peut, par voie d’arrêtés à prendre sur avis des commissions d’homologation, énumérer les diplômes et titres étrangers qui répondent aux exigences formulées à l’alinéa qui précède et qui donneront droit à l’homologation sans nouvel examen et avis des commissions.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -101,6 +125,10 @@ Les stagiaires toucheront une indemnité de stage dont le montant sera fixé par
 ## Art. 10.
 
 Il est créé à Luxembourg un institut appelé Centre universitaire de Luxembourg, qui comprendra:
+
+- les Cours universitaires, prévus à l’article 8;
+
+- les Cours complémentaires, institués en vertu de l’article 9.
 
 Le Centre universitaire pourra recourir à des chargés de cours étrangers.
 
@@ -180,6 +208,24 @@ L’article 25 de la même loi est applicable à ces infractions.
 
 <a id="art-19"></a>
 ## Art. 19.
+
+I. -
+
+Indépendamment des peines plus fortes portées par le Code pénal, tous ceux qui auront frauduleusement donné de faux renseignements déterminants, soit en faveur, soit en défaveur des postulants, ainsi que ceux qui auront, dans la même intention, fourni ou produit de fausses pièces déterminantes, même ne tombant pas sous les dispositions du chapitre IV du titre III du livre II du Code pénal, seront punis d’une peine d’emprisonnement de trois mois à deux ans et d’une amende de 500 à 6.000 euros.
+
+Si l’homologation a été accordée ou refusée sur la base de ces faux renseignements ou de ces fausses pièces la peine sera d’un emprisonnement de six mois à cinq ans et d’une amende de 2.000 à 6.000 euros.
+
+Dans les deux cas, les coupables pourront, de plus, être condamnés à l’interdiction, conformément à l’article 33 du Code pénal.
+
+La juridiction répressive qui condamne le postulant ou un tiers sur la base de l’alinéa 2 qui précède prononcera même d’office l’annulation de la décision d’homologation ou de refus de l’homologation. Durant l’instance répressive, l’effet de la décision d’octroi pourra être suspendu par décision du Ministre de l’Éducation Nationale prise sur avis de la commission compétente.
+
+II. -
+
+Seront punis des mêmes peines, et suivant les distinctions qui précédent, ceux qui, dans une intention frauduleuse auront reproduit aux fins d’homologation des diplômes ou titres d’examen ayant fait l’objet d’une décision antérieure même non encore irrévocable.
+
+III. -
+
+Les dispositions du Livre Ier du Code pénal ainsi que les articles 130-1 à 132-1 du Code d’instruction criminelle seront applicables aux infractions prévues par le présent article.
 
 <a id="art-20"></a>
 ## Art. 20.

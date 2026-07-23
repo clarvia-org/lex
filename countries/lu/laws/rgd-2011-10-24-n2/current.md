@@ -32,10 +32,28 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pour être admis au concours d’admission au stage préparant à l’une des fonctions de formateur d’adultes, le candidat doit remplir les conditions suivantes:
 
+- être détenteur d’un diplôme tel qu’il est prévu à l’article 63 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle ou à l’article 9 de la loi du 22 mai 2009 portant création d’un Institut national des langues et reconnu comme tel par le ministre ayant l’Éducation nationale dans ses attributions, dénommé ci-après «ministre», la commission consultative prévue à l’article 2 entendue en son avis;
+
+- avoir réussi les épreuves préliminaires visant à vérifier les connaissances linguistiques dans les trois langues administratives du pays prévues à l'article 4 du présent règlement;
+
+- être ressortissant d’un État membre de l’Union européenne;
+
+- jouir des droits civils et politiques;
+
+- offrir les garanties de moralité requises;
+
+- satisfaire aux conditions d’aptitude physique requises pour l’exercice de la fonction.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Il est créé une commission consultative chargée de donner son avis sur la conformité des diplômes présentés par les candidats pour l’admission à l’examen-concours préparant à l’une des fonctions de formateur d’adultes
+
+- en enseignement théorique,
+
+- en enseignement technique,
+
+- en enseignement pratique,
 
 appelés ci-après «formateur d’adultes» et prévues à l’article 63, de la loi du 19 décembre 2008 portant réforme de la formation professionnelle, à l’article 30 de la loi du 12 mai 2009 portant création d’une école de la 2e chance, ainsi qu’à l’article 9 de la loi portant création de l’Institut national des langues. Les membres de la commission sont nommés par le ministre. Cette commission fonctionne suivant les principes et les modalités des commissions consultatives chargées d’examiner et d’aviser les études ainsi que les diplômes des candidats à une fonction enseignante de l’enseignement secondaire et de l’enseignement secondaire technique.
 
@@ -59,6 +77,10 @@ Des dispenses aux épreuves préliminaires sont accordées suivant les dispositi
 
 À l’issue des épreuves préliminaires, ne sont pas admissibles au concours les candidats
 
+- dont la moyenne des notes de l’épreuve écrite et orale des épreuves préliminaires est inférieure à 10 points sur 20, ou
+
+- ayant obtenu une note inférieure à 7 points sur 20 soit à l’épreuve écrite, soit à l’épreuve orale des épreuves préliminaires.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -69,6 +91,10 @@ Les épreuves du concours d’admission au stage prévues au présent règlement
 
 Le concours d’admission au stage comporte deux parties dont
 
+- la première comprend deux épreuves écrites;
+
+- la deuxième comprend une épreuve orale ou pratique.
+
 Chaque épreuve est évaluée sur un total de 20 points.
 
 Le programme et la durée des épreuves sont fixés par le ministre.
@@ -77,6 +103,26 @@ Chaque épreuve est évaluée par au moins deux membres du jury.
 
 <a id="art-7"></a>
 ## Art. 7.
+
+1)
+
+À l’issue de la première partie des épreuves de classement, sont exclus du concours les candidats ayant obtenu
+
+- une moyenne des notes aux deux épreuves inférieure à 10 points;
+
+- une note inférieure à 7 points dans l’une des épreuves.
+
+2)
+
+À l’issue de la deuxième partie des épreuves de classement, sont exclus du concours les candidats ayant obtenu
+
+- une moyenne pondérée des notes obtenues aux deux parties des épreuves de classement inférieure à 10 points;
+
+- une note inférieure à 7 points dans l’épreuve orale ou pratique.
+
+3)
+
+Le classement final est établi comme suit: les deux épreuves de la première partie des épreuves de classement interviennent pour 25% chacune, l’épreuve de la deuxième partie des épreuves de classement intervient pour 50% dans la note globale.
 
 #### Chapitre II. Le stage
 
@@ -107,6 +153,10 @@ Le stage peut être suspendu par le ministre soit d’office, soit à la demande
 
 Le stage comprend:
 
+- une formation pédagogique d’ordre pratique et théorique, dénommée ci-après «formation pédagogique» avec une insertion dans une tâche d’enseignement;
+
+- une période probatoire avec une tâche d’enseignement qui donne accès à la carrière.
+
 La tâche peut comprendre des éléments de permanence, de surveillance, de guidance ainsi que d’encadrement des apprenants.
 
 <a id="art-11-20160905"></a>
@@ -116,6 +166,10 @@ Pendant la durée de son stage, le stagiaire est placé sous l’autorité du di
 
 La tâche du stagiaire comprend:
 
+- la participation à des modules de formation, d’une durée totale de 240 heures réparties sur trois semestres, qui sont définis en termes de compétences et qui portent sur les sciences de l’éducation, l’éducation des adultes, la didactique générale, l’information et l’orientation des apprenants adultes, ainsi que la profession du formateur d’adultes. En vertu du principe de l’alternance, les modules impliquent l’application pratique dans les établissements. En vue de la participation à ces modules de formation, à des activités de concertation entre stagiaires ainsi qu’avec le conseiller pédagogique et de la constitution du dossier visé à l’article 16, le stagiaire bénéficie d’une décharge de 8 leçons hebdomadaires;
+
+- une tâche d’enseignement qui correspond à la tâche régulière du formateur d’adultes dans sa carrière, diminuée de la décharge visée sub a). Dans l’exécution de sa tâche, le stagiaire est assisté par un conseiller pédagogique qui l’accompagne, le guide et le conseille dans sa démarche didactique.
+
 <a id="art-12-20160905"></a>
 ## Art. 12.
 
@@ -124,6 +178,14 @@ La formation pédagogique a une durée de 3 périodes consécutives; chaque pér
 La formation pédagogique est organisée en alternance d’une façon modulaire sous forme d’unités capitalisables.
 
 Les unités capitalisables sont les suivantes:
+
+- introduction dans les processus d’enseignement et d’apprentissage en formation des adultes;
+
+- gestion et soutien des processus d’apprentissage en groupes;
+
+- information, orientation et guidance des apprenants dans le cadre de l’apprentissage tout au long de la vie;
+
+- introduction à la didactique dans le domaine de la formation des adultes.
 
 <a id="art-13-20160905"></a>
 ## Art. 13.
@@ -137,12 +199,36 @@ Le cadre de la formation et les principes d’organisation de la formation sont 
 
 L’Institut de formation:
 
+- conçoit et met en œuvre les modules de formation et leurs contenus,
+
+- propose le parcours de formation du stagiaire,
+
+- organise les modules de la partie théorique,
+
+- assure en concertation avec les directeurs des établissements concernés la coordination entre la partie théorique, la partie pratique et la supervision par le ou les conseillers pédagogiques.
+
 Le ministre fixe, sur proposition de l’Institut de formation et des directeurs des établissements concernés:
+
+- le parcours de formation ainsi que les programmes pour la partie théorique et pour la partie pratique,
+
+- le budget pour la mise en œuvre de la formation pédagogique.
 
 <a id="art-15-20160905"></a>
 ## Art. 15.
 
 Interviennent dans la formation pédagogique avec les missions définies ci-après:
+
+- le personnel désigné par l’Institut de formation:
+
+  - un coordinateur pédagogique qui assure l’organisation et la gestion de la partie théorique;
+
+  - un ou plusieurs formateurs qui assurent l’enseignement des modules de la partie théorique;
+
+  - le cas échéant un ou plusieurs experts qui assurent notamment l’ouverture sur le monde non scolaire et qui établissent les liens avec le monde de la recherche scientifique;
+
+- le personnel désigné par le directeur de l’établissement d’affectation du stagiaire:
+
+  - un ou plusieurs conseillers pédagogiques par établissement qui assurent la supervision de tous les stagiaires y affectés.
 
 Le coordinateur, les formateurs et les conseillers pédagogiques doivent avoir suivi ou suivre une formation continue organisée ou agréée par l’Institut de formation. Les fonctions de conseiller pédagogique et de formateur sont compatibles entre elles.
 
@@ -157,12 +243,22 @@ L’examen consiste en une épreuve portant sur la législation concernant le st
 
 La soutenance du dossier comprend:
 
+- une épreuve portant sur les pièces certifiées issues de la formation pédagogique ainsi que des pièces certifiées issues des activités menées par le stagiaire dans le cadre de la supervision, y inclus les rapports du conseiller pédagogique;
+
+- une épreuve portant sur le projet intégré visant à connecter la formation théorique et la pratique professionnelle.
+
 Le ministre fixe le détail précisant les délais, le déroulement de l’épreuve de législation, le contenu des pièces certifiées et du projet intégré.
 
 <a id="art-17-20160905"></a>
 ## Art. 17.
 
 L’examen a lieu devant une commission composée de trois membres désignés par le ministre. Font partie de la commission:
+
+- un commissaire du gouvernement qui la préside,
+
+- un membre de la direction de l’établissement auquel est affecté le stagiaire,
+
+- le conseiller pédagogique; dans des cas exceptionnels il peut être remplacé par un membre qui est intervenu au cours de la formation pédagogique du stagiaire.
 
 <a id="art-18-20160905"></a>
 ## Art. 18.

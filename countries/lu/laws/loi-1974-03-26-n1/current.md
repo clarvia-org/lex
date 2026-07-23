@@ -30,11 +30,27 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Pourront bénéficier de la présente loi en cas d’invalidité ou de décès précoces, à la demande des intéressés, les Luxembourgeois qui pour une période d’au moins trois mois justifient remplir l’une ou plusieurs des conditions prévues à l’article 14, lettres a, b, c, d et g de la loi du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d’actes illégaux de l’occupant, à savoir:
 
+- avoir été déportés, internés ou emprisonnés par l’occupant pour des raisons patriotiques, de race ou de religion;
+
+- avoir été enrôlés de force dans le «Reichsarbeitsdienst», l’armée allemande ou autres services analogues ou s’y être soustraits par la fuite et qui remplissent les conditions prévues à l’article 4 de la loi du 25 février 1967 précitées;
+
+- avoir été déportés, internés ou emprisonnés pour des raisons patriotiques, de race ou de religion dans un pays soumis à l’influence ennemie;
+
+- avoir été contraints pour des raisons patriotiques, de race ou de religion de vivre cachés pendant l’occupation du territoire national;
+
+- avoir quitté le Grand-Duché pour joindre les forces alliées ou pour se mettre à la disposition du gouvernement luxembourgeois ou du gouvernement d’une des puissances alliées au Grand-Duché;
+
 à moins que l’Etat par l’intermédiaire de l’Office de l’Etat des Dommages de Guerre ne rapporte la preuve que l’invalidité ou le décès précoces sont imputables à des événements étrangers aux cas ci-dessus prévus.
 
 Toutefois le bénéfice de la présente loi est accordé également si les conditions prévues ci-dessus ne sont remplies que pour une période inférieure à six mois, lorsque l’invalidité ou le décès précoces ont été reconnus par l’Office de l’Etat des Dommages de Guerre comme entièrement imputables à ces conditions.
 
 Peuvent également bénéficier des dispositions de la loi, pourvu que l’invalidité ou le décès précoces aient été reconnus par l’Office de l’Etat des Dommages de Guerre comme entièrement imputables à ces conditions, les Luxembourgeois qui, au cours de l’occupation étrangère du pays:
+
+- ont été, pour des raisons patriotiques, de race ou de religion, obligés à travailler hors du Grand-Duché en vertu d’une astreinte au travail de l’occupant;
+
+- ont été, pour des raisons patriotiques, de race ou de religion, mis dans l’impossibilité d’exercer un emploi;
+
+- ont rendu, en exposant itérativement ou d’une façon prolongée leur vie et leur santé à de graves périls, des services éminents au pays ou à des personnes persécutées.
 
 Sont assimilés aux Luxembourgeois les étrangers et apatrides poursuivis par l’occupant en raison de leur attitude loyale à l’égard de l’Etat luxembourgeois.
 
@@ -61,6 +77,20 @@ Dans les régimes de pension contributifs, le complément différentiel calculé
 
 Pour la détermination du montant du complément différentiel les autorités compétentes pour l’octroi des pensions tiendront compte:
 
+- dans les régimes de pension non contributifs:
+
+  - de toutes les augmentations périodiques en relation avec l’ancienneté de service restant à échoir à la survenance du risque;
+
+  - de toutes promotions normales non encore réalisées dans la carrière occupée au moment de la survenance du risque et pour lesquelles à cette date les prémisses nécessaires à une réalisation avant la limite d’âge sont acquises. Est considérée comme promotion normale toute promotion accordée en ordre principal à raison de l’ancienneté, à l’exclusion de toute promotion réservée expressément par les lois ou règlements au choix des autorités compétentes en matière de promotion.
+
+- dans les régimes de pension contributifs des salariés:
+
+  - de la moyenne des cinq salaires ou traitements annuels cotisables et le cas échéant ajustés les plus élevés de la carrière d’assurance, sinon et pour le cas où cette mise en compte serait plus favorable, le salaire ou traitement cotisable, le cas échéant ajusté, de l’année de calendrier ayant précédé immédiatement celle de la survenance du risque.
+
+- dans les régimes de pension contributifs des indépendants:
+
+  - de la moyenne des cinq cotisations annuelles, le cas échéant ajustées, les plus élevées de la carrière d’assurance, sinon et pour le cas où cette mise en compte serait plus favorable, la cotisation, le cas échéant ajustée, de l’année de calendrier ayant précédé immédiatement l’année de la réalisation du risque.
+
 Pour les personnes relevant d’un régime de pension spécial pour fonctionnaires de l’Etat, fonctionnaires communaux et agents des chemins de fer ou dont les pensions sont déterminées en fonction des règles applicables à un tel régime, la détermination du complément se fait conformément au point b) de l’alinéa 1 ci-avant.
 
 <a id="art-5"></a>
@@ -78,6 +108,12 @@ S’il s’agit d’un régime de pension non luxembourgeois, le droit à pensio
 ## Art. 6.
 
 Le complément différentiel est suspendu:
+
+- dans la mesure où il se superpose aux majorations spéciales de pension en cas d’invalidité ou de décès précoces;
+
+- dans la mesure où par son effet la pension allouée par un régime de pension non contributif et d’autres prestations de pension luxembourgeoises ou non luxembourgeoises dépassent ensemble le maximum de pension de vieillesse ou de survie prévu pour ce régime, sans préjudice des autres règles de cumul régissant les régimes de pension non contributifs;
+
+- si et tant que le bénéficiaire d’une pension d’invalidité s’adonne à une occupation.
 
 Il ne sera pas tenu compte du complément différentiel pour la fixation de l'indemnité de rachat ou pour la détermination de la pension due en cas de nouvel engagement par mariage ou partenariat au sens de l'article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
 
@@ -105,12 +141,29 @@ Les décisions prises en exécution de la présente loi sont susceptibles des re
 <a id="art-10"></a>
 ## Art. 10.
 
-L’article 47 de la loi modifiée du 25 février 1950 concernant l’indemnisation des dommages de guerre aura la teneur suivante: Les rentes et autres indemnités prévues par le présent titre peuvent être cumulées avec les prestations versées à la suite des mêmes dommages de guerre par une institution sociale quelconque, sans préjudice des dispositions ci-après: Les rentes et autres secours alloués pour des dommages de guerre constituant en même temps des accidents du travail sont suspendus jusqu’à concurrence du montant des rentes et secours versés en vertu de la législation concernant les accidents du travail. Les rentes allouées en application de l’article 48 lettre A sont suspendues jusqu’à concurrence du montant des pensions de survie servies par les régimes de pension non contributifs; celles allouées en application de l’article 48 lettre B sont suspendues jusqu’à concurrence de la moitié du montant des éléments de pensions de survie à charge des régimes de pension contributifs. Les dépenses de l’association d’assurance contre les accidents seront remboursées par l’Office de l’Etat des Dommages de Guerre dans la limite de la suspension prévue ci-dessus. Les dépenses des organismes de pension seront remboursées par le même Office à concurrence de la moitié du montant des éléments de pension qui sont à leur charge. Aucun remboursement n’a lieu à partir du premier du mois pendant lequel la victime aurait dépassé ou dépassera l’âge limite obligatoire de retraite. Si l’invalidité ou le décès ne sont pas reconnus comme entièrement imputables aux faits de guerre, le remboursement n’aura lieu que dans la proportion admise pour l’imputabilité. Les rentes et autres indemnités prévues par le présent titre peuvent être cumulées avec les prestations versées à la suite des mêmes dommages de guerre par une institution sociale quelconque, sans préjudice des dispositions ci-après: Les rentes et autres secours alloués pour des dommages de guerre constituant en même temps des accidents du travail sont suspendus jusqu’à concurrence du montant des rentes et secours versés en vertu de la législation concernant les accidents du travail. Les rentes allouées en application de l’article 48 lettre A sont suspendues jusqu’à concurrence du montant des pensions de survie servies par les régimes de pension non contributifs; celles allouées en application de l’article 48 lettre B sont suspendues jusqu’à concurrence de la moitié du montant des éléments de pensions de survie à charge des régimes de pension contributifs. Les dépenses de l’association d’assurance contre les accidents seront remboursées par l’Office de l’Etat des Dommages de Guerre dans la limite de la suspension prévue ci-dessus. Les dépenses des organismes de pension seront remboursées par le même Office à concurrence de la moitié du montant des éléments de pension qui sont à leur charge. Aucun remboursement n’a lieu à partir du premier du mois pendant lequel la victime aurait dépassé ou dépassera l’âge limite obligatoire de retraite. Si l’invalidité ou le décès ne sont pas reconnus comme entièrement imputables aux faits de guerre, le remboursement n’aura lieu que dans la proportion admise pour l’imputabilité.
+L’article 47 de la loi modifiée du 25 février 1950 concernant l’indemnisation des dommages de guerre aura la teneur suivante:
+
+<a id="article"></a>
+## article
+
+Les rentes et autres indemnités prévues par le présent titre peuvent être cumulées avec les prestations versées à la suite des mêmes dommages de guerre par une institution sociale quelconque, sans préjudice des dispositions ci-après:
+
+Les rentes et autres secours alloués pour des dommages de guerre constituant en même temps des accidents du travail sont suspendus jusqu’à concurrence du montant des rentes et secours versés en vertu de la législation concernant les accidents du travail.
+
+Les rentes allouées en application de l’article 48 lettre A sont suspendues jusqu’à concurrence du montant des pensions de survie servies par les régimes de pension non contributifs; celles allouées en application de l’article 48 lettre B sont suspendues jusqu’à concurrence de la moitié du montant des éléments de pensions de survie à charge des régimes de pension contributifs.
+
+Les dépenses de l’association d’assurance contre les accidents seront remboursées par l’Office de l’Etat des Dommages de Guerre dans la limite de la suspension prévue ci-dessus.
+
+Les dépenses des organismes de pension seront remboursées par le même Office à concurrence de la moitié du montant des éléments de pension qui sont à leur charge. Aucun remboursement n’a lieu à partir du premier du mois pendant lequel la victime aurait dépassé ou dépassera l’âge limite obligatoire de retraite.
+
+Si l’invalidité ou le décès ne sont pas reconnus comme entièrement imputables aux faits de guerre, le remboursement n’aura lieu que dans la proportion admise pour l’imputabilité.
 
 <a id="art-11"></a>
 ## Art. 11.
 
-L’article 50 de la même loi est complété par les dispositions suivantes: En cas de décès, survenu après la libération du pays, de suites autres que celles en rapport direct avec des faits de guerre d’une victime de la guerre, frappée d’une incapacité de travail telle qu’elle n’a pu exercer une activité professionnelle soumise à l’assurance pension obligatoire ou qu’elle n’a pu exercer une telle activité professionnelle que tardivement, un revenu correspondant au montant de la rente de guerre sera garanti dans le chef des survivants définis dans la présente loi. En cas de décès, survenu après la libération du pays, de suites autres que celles en rapport direct avec des faits de guerre d’une victime de la guerre, frappée d’une incapacité de travail telle qu’elle n’a pu exercer une activité professionnelle soumise à l’assurance pension obligatoire ou qu’elle n’a pu exercer une telle activité professionnelle que tardivement, un revenu correspondant au montant de la rente de guerre sera garanti dans le chef des survivants définis dans la présente loi.
+L’article 50 de la même loi est complété par les dispositions suivantes:
+
+En cas de décès, survenu après la libération du pays, de suites autres que celles en rapport direct avec des faits de guerre d’une victime de la guerre, frappée d’une incapacité de travail telle qu’elle n’a pu exercer une activité professionnelle soumise à l’assurance pension obligatoire ou qu’elle n’a pu exercer une telle activité professionnelle que tardivement, un revenu correspondant au montant de la rente de guerre sera garanti dans le chef des survivants définis dans la présente loi.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -121,6 +174,10 @@ L’application de l’article 49 lettre g alinéas 3 et 4 de la même loi est s
 ## Art. 13.
 
 Sont abrogés:
+
+- L’alinéa 4 de l’article 48B de la loi modifiée du 25 février 1950 précitée;
+
+- L’article 14 de la loi du 21 juin 1946 portant abrogation ou modification des dispositions en vigueur au 31 décembre 1945 en matière d’assurances sociales.
 
 <a id="art-14"></a>
 ## Art. 14.

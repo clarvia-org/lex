@@ -30,17 +30,39 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Dans l´exercice de leurs fonctions, les membres de la gendarmerie et de la police peuvent, en cas de nécessité absolue, faire usage des armes blanches ou des armes à feu dans les cas suivants:
 
+- lorsque des violences ou voies de fait sont exercées contre eux, ou lorsqu´ils sont attaqués même sans armes ou qu´ils sont menacés par des individus armés;
+
+- lorsqu´ils sont appelés à prêter assistance à des personnes attaquées et dont la vie, l´intégrité physique ou les biens sont exposés à un danger considérable et présent;
+
+- lorsqu´ils ne peuvent défendre autrement, contre une attaque armée ou non, le terrain qu´ils occupent, les postes, édifices et installations qui leur sont confiés ou qui sont sous leur garde, ou encore les personnes à eux confiées ou sous leur escorte;
+
+- lorsque les personnes sommées de s´arrêter par deux appels, faits à haute voix, de « Halte, gendarmerie ! » ou « Halte, police ! », cherchent à se soustraire à leurs investigations ou à l´arrestation, et ne peuvent être contraintes de s´arrêter que par l´usage des armes; toutefois, dans ce cas l´usage des armes n´est justifié que s´il y a des présomptions graves:
+
+  - que les individus en question, identifiés ou non, ont commis un crime, et notamment s´ils sont poursuivis par la clameur publique;
+
+  - ou que ces individus sont des personnes recherchées ou dont l´arrestation est ordonnée par un mandat de justice, pour crime;
+
+  - ou que ces individus sont des prisonniers, détenus ou condamnés évadés, et qui sont recherchés, inculpés ou condamnés du chef de crime.
+
 <a id="art-2"></a>
 ## Art. 2.
 
 Les membres de la gendarmerie et de la police peuvent encore faire usage de leurs armes, dans les conditions spécifiées à l´article 1er:
+
+- contre les personnes qui, sans obéir à l´ordre de s´arrêter, fuient après les avoir attaqués à main armée, et contre les conducteurs de véhicules pourvus de moteurs mécaniques qui fuient après avoir manœuvré pour mettre leur vie en péril;
+
+- pour repousser ceux qui, malgré la sommation de se désister ou de s´éloigner, tentent de leur enlever leurs prisonniers, leurs armes ou les objets saisis en vue de la confiscation ou à titre de pièces de conviction;
+
+- lorsqu´ils ne peuvent immobiliser autrement les véhicules, embarcations, aéronefs ou autres moyens servant au transport d´auteurs présumés d´un crime dont les conducteurs n´obtempèrent pas à l´ordre ou au signal d´arrêt, sans préjudice de ce qui est porté à l´article 8 ci-après; lorsqu´un barrage dressé dans le cadre de la recherche des malfaiteurs a été forcé par un véhicule, et s´il appert des circonstances qu´il l´a été en connaissance de cause, le feu peut être ouvert sans sommation;
+
+- pour empêcher la commission imminente d´une infraction ou la continuation de cette infraction, si, d´après les circonstances, celle-ci constitue soit un crime, soit un délit commis à l´aide d´armes ou d´explosifs.
 
 <a id="art-3"></a>
 ## Art. 3.
 
 Dans les cas où il y a rébellion de la part des prisonniers ou tentative d´évasion, et s´il n´y a pas d´autres moyens de contenir ou de contraindre les révoltés ou les fuyards, le chef de l´escorte leur enjoint de rentrer dans l´ordre par les mots: « Halte ou je fais feu ». Si cette injonction n´est pas suivie, l´usage des armes est autorisé.
 
-Si les prisonniers cherchent à s´emparer des armes des membres de l´escorte , ou fuient après avoir blessé un membre de celle-ci, les armes peuvent être employées à l´instant et sans sommation préalable.
+Si les prisonniers cherchent à s´emparer des armes des membres de l´ escorte , ou fuient après avoir blessé un membre de celle-ci, les armes peuvent être employées à l´instant et sans sommation préalable.
 
 <a id="art-4"></a>
 ## Art. 4.

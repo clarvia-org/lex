@@ -44,6 +44,12 @@ Dans des situations exceptionnelles, la liste peut être complétée au niveau d
 
 Il existe deux modes de prises en charges :
 
+- les aides techniques mises à disposition par voie de location sont déterminées sur la liste par la lettre «L»;
+
+- les aides techniques pouvant être acquises à charge de l’assurance dépendance sont déterminées par la lettre «A». Pour tenir compte des besoins spécifiques du bénéficiaire, les aides techniques marquées simultanément des lettres «L» et «A» peuvent être prises en charge sous l’une ou l’autre forme;
+
+- les aides techniques mises à disposition par acquisition avec rétrocession sont marquées des lettres «A» et «R».
+
 La prise en charge des aides techniques diffère suivant le lieu de séjour du bénéficiaire. Elle est précisée par les lettres « D » pour domicile, « E » pour établissement d’aides et de soins et « LE » pour logement encadré tel que défini au règlement grand-ducal modifié du 8 décembre 1999 concernant l’agrément à accorder aux gestionnaires de services pour personnes âgées.
 
 Pour les aides techniques marquées de la lettre «D», un délai de renouvellement a été fixé.
@@ -119,6 +125,24 @@ Au cas où une aide technique doit être installée de manière fixe dans un log
 
 <a id="art-12"></a>
 ## Art. 12.
+
+(1)
+
+Les aides techniques prises en charge pour permettre au bénéficiaire de maintenir ou d’accroître son autonomie dans le domaine de la mobilité à l’intérieur du logement visent l’accès aux lieux de vie dans le domicile du bénéficiaire, à savoir la salle de bains avec WC ou, le cas échéant, un WC séparé, la chambre à coucher, le salon, la cuisine et la salle à manger.
+
+Si pour des raisons techniques ou fonctionnelles, l’accès aux lieux de vie se fait par un garage ou une autre pièce, cet accès peut être pris en charge.
+
+Les aides techniques visant à assurer l’accès à la chambre de l’enfant peuvent également être prises en charge pour un bénéficiaire ayant à sa charge un enfant de moins de 16 ans accomplis.
+
+Si le contexte architectural permet de regrouper les lieux de vie sur un niveau, tout en respectant la fonctionnalité des lieux ainsi que le contexte familial, les aides techniques visant à assurer un changement de niveau ne sont pas prises en charge.
+
+(2)
+
+Les aides techniques prises en charge pour permettre au bénéficiaire de maintenir ou d’accroître son autonomie dans le domaine de la mobilité à l’extérieur du logement visent à assurer l’accessibilité du domicile du bénéficiaire par une seule entrée. Les aides techniques visant à assurer l’accès au balcon, à la terrasse ou au jardin ne sont pas prises en charge.
+
+(3)
+
+Lorsque l’installation d’une main courante ou d’un garde-corps en bilatéral est indispensable afin de permettre au bénéficiaire d’accéder à une seule entrée du logement ou aux lieux de vie à l’intérieur du logement, une seule main courante ou un seul garde-corps est pris en charge par l’assurance dépendance.
 
 <a id="art-12bis"></a>
 ## Art. 12bis.
@@ -234,6 +258,20 @@ Une adaptation du logement peut être réalisée au domicile d’une personne pr
 <a id="art-23bis"></a>
 ## Art. 23bis.
 
+(1)
+
+Les adaptations du logement prises en charge pour permettre au bénéficiaire de maintenir ou d’accroître son autonomie dans le domaine de la mobilité à l’intérieur du logement visent l’accès aux lieux de vie dans le domicile du bénéficiaire, à savoir la salle de bains avec WC ou, le cas échéant, un WC séparé, la chambre à coucher, le salon, la cuisine et la salle à manger.
+
+Si pour des raisons techniques ou fonctionnelles, l’accès aux lieux de vie se fait par un garage ou une autre pièce, cet accès peut être pris en charge.
+
+Les adaptations du logement visant à assurer l’accès à la chambre de l’enfant peuvent également être prises en charge pour un bénéficiaire ayant à sa charge un enfant de moins de 16 ans accomplis.
+
+Si le contexte architectural permet de regrouper les lieux de vie sur un niveau, tout en respectant la fonctionnalité des lieux ainsi que le contexte familial, les adaptations du logement visant à assurer un changement de niveau ne sont pas prises en charge.
+
+(2)
+
+Les adaptations du logement prises en charge pour permettre au bénéficiaire de maintenir ou d’accroître son autonomie dans le domaine de la mobilité à l’extérieur du logement visent à assurer l’accessibilité du domicile du bénéficiaire par une seule entrée. Les adaptations du logement visant à assurer l’accès au balcon, à la terrasse ou au jardin ne sont pas prises en charge.
+
 <a id="art-24"></a>
 ## Art. 24.
 
@@ -255,7 +293,7 @@ L’assurance dépendance ne prend en charge que le surcoût lié à la dépenda
 
 La Cellule d’évaluation et d’orientation réalise, le cas échéant, avec le concours des services spécialisés prévus à l’article 386, alinéa final du Code de la sécurité sociale, un cahier des charges détaillé des adaptations à entreprendre, tenant compte de la faisabilité juridique et technique des travaux.
 
-Le cahier des charges se compose d’un volet fonctionnel et d’un volet technique. Le volet fonctionnel est communiqué pour validation au demandeur, le cas échéant au syndicat de copropriété et au propriétaire du logement si le demandeur est locataire. Le volet technique est élaboré sur base du volet fonctionnel validé. Le volet technique comprend un devis estimatif permettant de comparer les offres de prix visées à l’article 27.
+Le cahier des charges se compose d’un volet fonctionnel et d’un volet technique. Le volet fonctionnel est communiqué pour validation au demandeur, le cas échéant au syndicat de copropriété et au propriétaire du logement si le demandeur est locataire . Le volet technique est élaboré sur base du volet fonctionnel validé . Le volet technique comprend un devis estimatif permettant de comparer les offres de prix visées à l’article 27.
 
 Le cahier des charges retient pour les adaptations, la solution la plus rationnelle du point de vue économique en tenant compte des besoins du demandeur ainsi que d’autres prestations et aides techniques accordées le cas échéant.
 

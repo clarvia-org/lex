@@ -42,8 +42,30 @@ Le directeur peut être assisté de directeurs adjoints auxquels il peut délég
 
 L’Administration est chargée des missions suivantes :
 
+- instruire les dossiers relatifs aux aides individuelles au logement ;
+
+- assurer la mise en œuvre de textes législatifs et réglementaires en matière d’aides individuelles au logement et exécuter les décisions du ministre en cette matière ;
+
+- extraire de ses bases de données pour le ministre des données statistiques anonymisées nécessaires à la politique du logement ;
+
+- participer à l’élaboration de la réglementation dans son domaine de compétence ;
+
+- élaborer des propositions en matière d’aides individuelles au logement pour le ministre ;
+
+- assurer auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière d’aides individuelles au logement, à l’aide des moyens de communication et des technologies appropriés.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Le cadre du personnel de l’Administration comprend un directeur, deux directeurs adjoints, qui ont le statut de fonctionnaire, et des fonctionnaires des différentes catégories de traitement prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins de l’Administration et dans les limites des crédits budgétaires.
+
+(2)
+
+Le directeur et les directeurs adjoints sont nommés par le Grand-Duc.
 
 <a id="art-5"></a>
 ## Art. 5.

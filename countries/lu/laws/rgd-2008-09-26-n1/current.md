@@ -27,12 +27,20 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 # Règlement grand-ducal modifié du 26 septembre 2008 établissant les règles de bonne conduite à appliquer par les agents chargés de l'exécution d'une mesure d'éloignement et modifiant le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l'assistance au transit dans le cadre de mesures d'éloignement par voie aérienne - TEXTE COORDONNÉ,
 
+Texte coordonné au 22 août 2011
+
 <a id="art-1er"></a>
 ## Art. 1er.
 
 Le présent règlement s’applique aux mesures d’éloignement par la contrainte prises en exécution d’une décision comportant l’obligation de quitter le territoire.
 
 Aux fins du présent règlement on entend par:
+
+- «éloignement»: le transfert physique de l’étranger hors du territoire vers son pays d’origine, vers un Etat de transit ou vers un Etat tiers;
+
+- «escorte»: toutes les personnes chargées d’accompagner l’étranger lors de son éloignement, y compris les personnes chargées des soins médicaux ainsi que les interprètes;
+
+- «ministre»: le membre du gouvernement ayant l’immigration dans ses attributions.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -49,7 +57,9 @@ L’éloignement ne peut avoir lieu si la personne est médicalement dans l’in
 
 Lors de l’opération d’éloignement, le principe de l’unité familiale est respecté. Il peut être dérogé à ce principe si un membre de la famille se soustrait volontairement à la mesure d’éloignement.
 
-(Règlement grand-ducal du 17 août 2011) «Les besoins particuliers des personnes vulnérables définies à l’article 125bis de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, sont dûment pris en compte.
+(Règlement grand-ducal du 17 août 2011)
+
+«Les besoins particuliers des personnes vulnérables définies à l’article 125bis de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, sont dûment pris en compte.
 
 Avant d’éloigner un mineur non accompagné du territoire, le ministre s’assure que dans l’Etat de retour le mineur sera remis à un membre de sa famille, à un tuteur désigné ou à des structures d’accueil adéquates.»
 
@@ -60,7 +70,9 @@ L’opération d’éloignement peut avoir lieu, soit par voie terrestre, soit p
 
 Le ministre peut décider d’adjoindre à l’escorte un représentant de son ministère, ainsi qu’une assistance médicale ou paramédicale.
 
-(Règlement grand-ducal du 17 août 2011) «Lorsque l’opération de l’éloignement se fait par voie aérienne, il est tenu compte des orientations communes sur les mesures de sécurité à prendre pour les opérations communes d’éloignement par voie aérienne, annexées à la décision 2004/573/CE.»
+(Règlement grand-ducal du 17 août 2011)
+
+«Lorsque l’opération de l’éloignement se fait par voie aérienne, il est tenu compte des orientations communes sur les mesures de sécurité à prendre pour les opérations communes d’éloignement par voie aérienne, annexées à la décision 2004/573/CE.»
 
 <a id="art-6"></a>
 ## Art. 6.
@@ -93,7 +105,19 @@ Les membres de l’escorte bénéficient d’une formation spécifique adaptée 
 <a id="art-10"></a>
 ## Art. 10.
 
-Le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l’assistance au transit dans le cadre de mesures d’éloignement par voie aérienne est modifié comme suit: Le présent règlement définit les mesures d’assistance dont bénéficie l’étranger maintenu en zone d’attente. Les mesures prévues au paragraphe 3 qui précède sont applicables aux étrangers maintenus en zone d’attente.
+Le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l’assistance au transit dans le cadre de mesures d’éloignement par voie aérienne est modifié comme suit:
+
+- A l’article 1er est ajouté un paragraphe 3 libellé de la façon suivante:
+
+(3)
+
+Le présent règlement définit les mesures d’assistance dont bénéficie l’étranger maintenu en zone d’attente.
+
+- A l’article 5 est ajouté un nouveau paragraphe 8 de la teneur suivante:
+
+(8)
+
+Les mesures prévues au paragraphe 3 qui précède sont applicables aux étrangers maintenus en zone d’attente.
 
 <a id="art-11"></a>
 ## Art. 11.

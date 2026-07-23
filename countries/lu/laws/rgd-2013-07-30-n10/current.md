@@ -44,13 +44,17 @@ Dans le cadre des procédures légales d'adoption et de contrôle des budgets, d
 
 Pour le budget et les comptes, l'identifiant alphanumérique de l'article budgétaire est composé de 20 positions au maximum, y compris les barres obliques de séparation «/», la lettre «n» représentant un code numérique et la lettre «x» représentant un code alphabétique. Il correspond au schéma établi ci-après:
 
-Code chapitre/Code fonctionnel général ou spécifique/Code comptable/Code sectoriel/Code détail n/nnn/nnnnnn/x/nnnnn
+| Code chapitre/Code fonctionnel général ou spécifique/Code comptable/Code sectoriel/Code détail |
+| --- |
+| n/nnn/nnnnnn/x/nnnnn |
 
 Pour le budget et les comptes, la mention des trois premiers codes est obligatoire pour le chapitre ordinaire, sans préjudice des dispositions de l'article 7, et la mention des cinq codes est obligatoire pour le chapitre extraordinaire.
 
 Pour la ventilation statistique, l'identifiant alphanumérique de l'article budgétaire est composé de 26 positions au maximum, y compris les barres obliques de séparation «/», la lettre «n» représentant un code numérique et la lettre «x» représentant un code alphabétique. Il correspond au schéma établi ci-après:
 
-Code chapitre/Code fonctionnel général ou spécifique/Code comptable/Code sectoriel/Code détail n/nnn/nnnnnnnnn/xnnn/nnnnn
+| Code chapitre/Code fonctionnel général ou spécifique/Code comptable/Code sectoriel/Code détail |
+| --- |
+| n/nnn/nnnnnnnnn/xnnn/nnnnn |
 
 La mention des cinq codes est obligatoire pour la ventilation statistique.
 
@@ -76,23 +80,73 @@ Le code fonctionnel général correspond au niveau de détail minimum obligatoir
 
 Il y a neuf catégories de codes fonctionnels et un code dit «technique», libellés comme suit:
 
-Il y a neuf catégories de codes fonctionnels et un code dit «technique», libellés comme suit: Catégorie Libellé de la catégorie 1 Services généraux des administrations publiques 2 Protection sociale 3 Ordre et sécurité publics 4 Affaires économiques 5 Protection de l'environnement 6 Logements et équipements collectifs 7 Santé 8 Loisirs, culture et culte 9 Enseignement 0 Code technique
+Il y a neuf catégories de codes fonctionnels et un code dit «technique», libellés comme suit:
+
+| Catégorie | Libellé de la catégorie |
+| --- | --- |
+| 1 | Services généraux des administrations publiques |
+| 2 | Protection sociale |
+| 3 | Ordre et sécurité publics |
+| 4 | Affaires économiques |
+| 5 | Protection de l'environnement |
+| 6 | Logements et équipements collectifs |
+| 7 | Santé |
+| 8 | Loisirs, culture et culte |
+| 9 | Enseignement |
+| 0 | Code technique |
 
 <a id="art-6"></a>
 ## Art. 6.
 
 Le code comptable est un code numérique à six positions pour le budget et les comptes et à neuf positions pour la ventilation statistique qui indique la nature des dépenses et des recettes effectuées.
 
-Il y a huit classes de codes comptables, libellées comme suit: Classe Libellé de la classe 1 Comptes de capitaux, de provisions et de dettes financières 2 Comptes de frais d'établissement et d'actifs immobilisés 3 Comptes de stocks 4 Comptes de tiers 5 Comptes financiers 6 Comptes de charges 7 Comptes de produits 8 Opérations sur réserves
+Il y a huit classes de codes comptables, libellées comme suit:
+
+| Classe | Libellé de la classe |
+| --- | --- |
+| 1 | Comptes de capitaux, de provisions et de dettes financières |
+| 2 | Comptes de frais d'établissement et d'actifs immobilisés |
+| 3 | Comptes de stocks |
+| 4 | Comptes de tiers |
+| 5 | Comptes financiers |
+| 6 | Comptes de charges |
+| 7 | Comptes de produits |
+| 8 | Opérations sur réserves |
 
 <a id="art-7"></a>
 ## Art. 7.
 
 Le code sectoriel est un code alphabétique à une position pour le budget et les comptes et un code alphanumérique à quatre positions pour la ventilation statistique. Il indique le secteur économique auquel appartient la contrepartie de l'opération effectuée.
 
-Les codes sectoriels sont définis come suit: Code sectoriel Libellé du secteur A Institutions de sécurité sociale B Institutions Européennes C Communes E Etablissements publics placés sous la surveillance des communes F Organismes publics transfrontaliers G Administration Centrale (Etat) I Institutions Internationales O Offices sociaux P Secteur privé S Syndicats de communes X Facturation interne Z Code néant
+Les codes sectoriels sont définis come suit:
 
-L'indication du code sectoriel pour le budget et les comptes est obligatoire pour les codes comptables indiqués ci-après: Code Libellé 161xxx Subventions d'investissement en capital - Terrains et constructions 162xxx Subventions d'investissement en capital - Installations techniques et machines 163xxx Subventions d'investissement en capital - Autres installations, outillage, mobilier et matériel roulant 168xxx Subventions d'investissement en capital - Autres subventions d'investissement en capital 238xxx Immobilisations financières - Apports en capital, Fonds et Fonds associatifs 272xxx Cession immobilisations financières - Apports 648xxx Autres charges d'exploitation diverses 744xxx Autres produits d'exploitation - Subventions d'exploitation et transferts courants des Administrations publiques
+| Code sectoriel | Libellé du secteur |
+| --- | --- |
+| A | Institutions de sécurité sociale |
+| B | Institutions Européennes |
+| C | Communes |
+| E | Etablissements publics placés sous la surveillance des communes |
+| F | Organismes publics transfrontaliers |
+| G | Administration Centrale (Etat) |
+| I | Institutions Internationales |
+| O | Offices sociaux |
+| P | Secteur privé |
+| S | Syndicats de communes |
+| X | Facturation interne |
+| Z | Code néant |
+
+L'indication du code sectoriel pour le budget et les comptes est obligatoire pour les codes comptables indiqués ci-après:
+
+| Code | Libellé |
+| --- | --- |
+| 161xxx | Subventions d'investissement en capital - Terrains et constructions |
+| 162xxx | Subventions d'investissement en capital - Installations techniques et machines |
+| 163xxx | Subventions d'investissement en capital - Autres installations, outillage, mobilier et matériel roulant |
+| 168xxx | Subventions d'investissement en capital - Autres subventions d'investissement en capital |
+| 238xxx | Immobilisations financières - Apports en capital, Fonds et Fonds associatifs |
+| 272xxx | Cession immobilisations financières - Apports |
+| 648xxx | Autres charges d'exploitation diverses |
+| 744xxx | Autres produits d'exploitation - Subventions d'exploitation et transferts courants des Administrations publiques |
 
 Pour la ventilation statistique, un code numérique à 3 positions est à ajouter aux codes sectoriels C, E, F, O et S.
 
@@ -108,6 +162,10 @@ Le code détail est un code numérique à cinq positions qui détaille les indic
 Au chapitre ordinaire, le code détail est facultatif et peut être utilisé librement par la commune pour ses propres besoins. Il est composé de deux parties: les deux premières positions indiquent les chiffres «99»; les trois dernières positions correspondent à un numéro courant qui peut être attribué librement.
 
 Au chapitre extraordinaire, le code détail est obligatoire. Il est composé comme suit:
+
+- Au cas où il se rapporte à un projet d'investissement, les deux premières positions identifient l'année de début du projet; les trois dernières positions correspondent à un numéro courant qui peut être attribué librement.
+
+- Dans les autres cas, les deux premières positions indiquent les chiffres «99»; les trois dernières positions correspondent à un numéro courant qui peut être attribué librement.
 
 Chaque code détail lié à un projet spécifique et à un exercice déterminé est unique.
 

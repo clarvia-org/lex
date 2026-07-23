@@ -114,12 +114,58 @@ Le même règlement grand-ducal détermine notamment la durée de l’engagement
 <a id="art-10"></a>
 ## Art. 10.
 
-La commission administrative décide sur: Si après un délai de deux mois les parties n’arrivent pas à se mettre d’accord sur le modèle de contrat, chacune des parties peut soumettre le désaccord à une commission de conciliation et d’arbitrage qui statuera. Celle-ci sera présidée par le ministre de la santé publique ou son délégué et comprendra un membre d’une commission administrative d’un hôpital et un médecin agréé à exercer dans un établissement hospitalier du pays. Ces deux membres seront désignés par le ministre de la santé publique et choisis sur deux listes doubles présentées l’une par l’Entente des hôpitaux pour le membre d’une commission administrative d’un hôpital et l’autre par l’organisation professionnelle nationale représentative des médecins pour le membre médecin. Poursuite et diligence de son président ou de celui qui le remplace, elle représente l’établissement dans les actions judiciaires. Sont soumises à l’approbation du ministre de la santé publique les délibérations prévues sous 1 à 7 ainsi que la nomination et le licenciement du directeur, des chefs de département et des médecins. Les délibérations prévues sub 1 à 4 sont également soumises à l’approbation de la Ville de Luxembourg dans la mesure où la Ville est appelée à participer au financement.
+La commission administrative décide sur:
+
+- le budget, les crédits supplémentaires, le bilan et les comptes de profits et pertes;
+
+- les acquisitions, aliénations et échanges d’immeubles et leur affectation, les conditions des baux de plus de neuf ans;
+
+- les emprunts;
+
+- les projets de travaux de constructions, grosses réparations et démolitions;
+
+- le règlement général qui comporte entre autres:
+
+  - le règlement intérieur,
+
+  - les règles concernant l’emploi des diverses catégories de personnel pour autant qu’elles n’ont pas été fixées par des dispositions législatives ou réglementaires,
+
+  - le tableau des effectifs du personnel,
+
+  - les descriptions d’emplois du directeur, des chefs de département et des différentes catégories de personnel,
+
+  - un modèle de contrat déterminant les conditions de travail et de rémunération des médecins, élaboré après négociation avec l’organisation professionnelle nationale représentative des médecins,
+
+  - les règles relatives à la composition du conseil médical. Si après un délai de deux mois les parties n’arrivent pas à se mettre d’accord sur le modèle de contrat, chacune des parties peut soumettre le désaccord à une commission de conciliation et d’arbitrage qui statuera. Celle-ci sera présidée par le ministre de la santé publique ou son délégué et comprendra un membre d’une commission administrative d’un hôpital et un médecin agréé à exercer dans un établissement hospitalier du pays. Ces deux membres seront désignés par le ministre de la santé publique et choisis sur deux listes doubles présentées l’une par l’Entente des hôpitaux pour le membre d’une commission administrative d’un hôpital et l’autre par l’organisation professionnelle nationale représentative des médecins pour le membre médecin.
+
+- les créations, transformations et suppressions de services;
+
+- l’acceptation et le refus de dons et de legs;
+
+- les actions judiciaires et les transactions;
+
+- l’engagement et le licenciement du directeur, des chefs de département, des médecins, du personnel de la carrière supérieure ainsi que du personnel responsable de services à désigner au règlement général;
+
+- l’acquisition des appareils et équipements nécessitant une autorisation préalable du ministre de la santé publique, en vertu de dispositions légales ou réglementaires;
+
+- la fixation des modalités selon lesquelles le centre sera obligé à l’égard des tiers ainsi que la délégation de signatures. Poursuite et diligence de son président ou de celui qui le remplace, elle représente l’établissement dans les actions judiciaires. Sont soumises à l’approbation du ministre de la santé publique les délibérations prévues sous 1 à 7 ainsi que la nomination et le licenciement du directeur, des chefs de département et des médecins. Les délibérations prévues sub 1 à 4 sont également soumises à l’approbation de la Ville de Luxembourg dans la mesure où la Ville est appelée à participer au financement.
 
 <a id="art-12"></a>
 ## Art. 12.
 
-médecin autorisé à exercer sa profession au Luxembourg. titulaire d’un diplôme d’études supérieures en soins infirmiers ou en organisation hospitalière ou titulaire d’un diplôme d’infirmier hospitalier gradué ou titulaire d’un diplôme d’infirmier pouvant se prévaloir d’une large expérience en matière de soins infirmiers; titulaire d’un diplôme sanctionnant un cycle universitaire complet de quatre années au moins en droit ou en économie ou en gestion hospitalière ou titulaire d’un diplôme de fin d’études secondaires pouvant se prévaloir d’une large expérience en matière de gestion hospitalière. soit être médecin autorisé à exercer sa profession au Luxembourg, soit être titulaire d’un diplôme d’études supérieures en soins infirmiers et en organisation hospitalière soit être titulaire d’un diplôme sanctionnant un cycle universitaire complet de quatre années au moins en droit ou en économie ou en gestion hospitalière.
+- La direction du Centre hospitalier est confiée à un directeur. Le directeur est assisté d’un chef de département pour chacun des départements médical, de soins et administratif.
+
+- Les chefs de département doivent répondre aux qualifications suivantes:
+
+  - le chef du département médical médecin autorisé à exercer sa profession au Luxembourg.
+
+  - le chef du département paramédical: titulaire d’un diplôme d’études supérieures en soins infirmiers ou en organisation hospitalière ou titulaire d’un diplôme d’infirmier hospitalier gradué ou titulaire d’un diplôme d’infirmier pouvant se prévaloir d’une large expérience en matière de soins infirmiers;
+
+  - le chef du département administratif: titulaire d’un diplôme sanctionnant un cycle universitaire complet de quatre années au moins en droit ou en économie ou en gestion hospitalière ou titulaire d’un diplôme de fin d’études secondaires pouvant se prévaloir d’une large expérience en matière de gestion hospitalière.
+
+- Le directeur doit répondre à l’une des qualifications suivantes: soit être médecin autorisé à exercer sa profession au Luxembourg, soit être titulaire d’un diplôme d’études supérieures en soins infirmiers et en organisation hospitalière soit être titulaire d’un diplôme sanctionnant un cycle universitaire complet de quatre années au moins en droit ou en économie ou en gestion hospitalière.
+
+- En cas d’empêchement ou de vacance de poste du directeur ses fonctions sont exercées temporairement par le chef de département à désigner par la commission administrative.
 
 <a id="art-13"></a>
 ## Art. 13.
@@ -146,6 +192,16 @@ Les rémunérations restant à charge de l’Etat ou de la Ville leur seront rem
 ## Art. 16.
 
 Les ressources du Centre hospitalier comprennent notamment:
+
+- les paiements pour prestations et actes médicaux;
+
+- le paiement pour prestations hospitalières, médicales et autres;
+
+- les donations et legs;
+
+- les subventions prévues aux budgets de l’Etat et de la Ville de Luxembourg;
+
+- les emprunts.
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -189,7 +245,11 @@ L’application de l’article 150 de la loi du 4 décembre 1967 concernant l’
 
 Les actes passés au nom et en faveur du Centre hospitalier sont exempts des droits de timbre, d’enregistrement, d’hypothèque et de succession.
 
-Les dons en espèces faits à l’établissement sont déductibles comme dépenses spéciales conformément à l’article 109 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu. A cet effet, l’article 112, alinéa 1er, numéro 1 de la loi précitée est modifié comme suit: 1. «Les dons en espèces à des sociétés reconnues d’utilité publique par la loi pour autant qu’elles seront désignées par arrêté grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, à l’institut grand-ducal, au Centre universitaire de Luxembourg, aux musées de l’Etat et des communes, à la bibliothèque nationale et aux bibliothèques municipales.» 1. «Les dons en espèces à des sociétés reconnues d’utilité publique par la loi pour autant qu’elles seront désignées par arrêté grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, à l’institut grand-ducal, au Centre universitaire de Luxembourg, aux musées de l’Etat et des communes, à la bibliothèque nationale et aux bibliothèques municipales.»
+Les dons en espèces faits à l’établissement sont déductibles comme dépenses spéciales conformément à l’article 109 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu. A cet effet, l’article 112, alinéa 1er, numéro 1 de la loi précitée est modifié comme suit:
+
+1. «Les dons en espèces à des sociétés reconnues d’utilité publique par la loi pour autant qu’elles seront désignées par arrêté grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, à l’institut grand-ducal, au Centre universitaire de Luxembourg, aux musées de l’Etat et des communes, à la bibliothèque nationale et aux bibliothèques municipales.»
+
+Dispositions transitoires
 
 <a id="art-23"></a>
 ## Art. 23.
@@ -209,6 +269,12 @@ Si cependant la majorité du corps médical de l’un des deux établissements e
 ## Art. 25.
 
 Le cadre des fonctionnaires du Centre hospitalier comprendra dans la carrière de l’artisan:
+
+- un artisan dirigeant;
+
+- un premier artisan principal;
+
+- trois artisans principaux ou premiers artisans ou artisans.
 
 Les artisans détenteurs du brevet de maîtrise âgés de moins de cinquante-cinq ans au moment de l’entrée en vigueur de la présente loi et qui peuvent faire valoir au moins trois années de service sous le régime du contrat collectif des ouvriers de l’Etat pourront être nommés aux fonctions de premier artisan. Ils sont dispensés de l’examen-concours pour l’admission au stage, du stage et de l’examen d’admission définitive.
 

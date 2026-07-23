@@ -39,6 +39,22 @@ Les permissions sont accordées après publication d'un appel de candidatures, s
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+Le Ministre procède aux appels de candidatures en publiant les fréquences et emplacements disponibles, avec leurs caractéristiques respectives et en indiquant le dernier délai pour la présentation des dossiers de candidature.
+
+(2)
+
+L’appel de candidatures publié précisera les informations à fournir par les candidats et les critères de sélection des bénéficiaires. Ces critères tiendront compte de l’intérêt du public et des objectifs de la loi, tels qu’ils sont définis à l’article 1er de la loi.
+
+(3)
+
+L’appel de candidatures pourra également préciser les conditions auxquelles devront répondre le bénéficiaire d’une permission et le service qu’il propose.
+
+(4)
+
+Après l’écoulement du délai pour la présentation des dossiers de candidature, et après consultation de la Commission indépendante de la radiodiffusion, le Ministre soumet ses propositions au Gouvernement en conseil qui décide de l’attribution des permissions.
+
 <a id="art-4"></a>
 ## Art. 4.
 

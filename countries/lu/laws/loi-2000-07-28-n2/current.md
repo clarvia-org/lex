@@ -44,6 +44,14 @@ Sont considérés comme régimes spéciaux les régimes de pension régis par la
 
 Sont qualifiés d’organismes au titre de la présente loi :
 
+- la Caisse nationale d’assurance pension en ce qui concerne le régime général ;
+
+- le Centre de gestion du personnel et de l’organisation de l’État, la Caisse de prévoyance des fonctionnaires et employés communaux, la Société nationale des chemins de fer luxembourgeois et les établissements publics en ce qui concerne le régime spécial transitoire ;
+
+- le Centre de gestion du personnel et de l’organisation de l’État, la Caisse de prévoyance des fonctionnaires et employés communaux et la Société nationale des chemins de fer luxembourgeois en ce qui concerne les régimes spéciaux ;
+
+- la Banque centrale du Luxembourg en ce qui concerne le régime correspondant au statut de ses agents.
+
 Est qualifié d’organisme compétent au sens du chapitre II, l’organisme du régime spécial transitoire auquel l’assuré était soumis, à l’exclusion de tout organisme du régime général. Si l’intéressé était soumis simultanément ou successivement au régime spécial transitoire relevant de deux organismes, est compétent respectivement l’organisme du régime de l’activité principale ou celui auquel l’intéressé était soumis en dernier lieu.
 
 Est qualifié d’organisme compétent au sens du chapitre III de la présente loi, l’organisme du régime auquel l’assuré était soumis en dernier lieu. Si l’assuré était soumis en dernier lieu simultanément à deux régimes, l’organisme compétent est celui de l’activité principale.
@@ -52,15 +60,25 @@ Est considérée comme activité principale celle dont le revenu est le plus él
 
 #### Chapitre II Coordination du régime général et du régime spécial transitoire
 
+Champ d’application
+
 <a id="art-3"></a>
 ## Art. 3.
 
 Le présent chapitre s’applique toutes les fois qu’une personne a été soumise de façon successive ou concomitante au régime général et au régime spécial transitoire relevant d’un ou de plusieurs organismes.
 
+Assurance rétroactive
+
 <a id="art-4"></a>
 ## Art. 4.
 
 Toute personne relevant du champ d’application du régime spécial transitoire et qui, pour quelque motif que ce soit,
+
+- quitte le service de l’Etat, d’un établissement public, de la société nationale des chemins de fer ou d’un employeur relevant de la caisse de prévoyance des fonctionnaires et employés communaux sans avoir droit à pension auprès du régime spécial transitoire , ou
+
+- est déchu de tout droit à pension, ou
+
+- décède sans avoir accompli le stage d’affiliation,
 
 est assurée rétroactivement conformément à l’article 171 du code des assurances sociales auprès de la caisse de pension des employés privés pour les périodes qui auraient été computables pour le calcul des pensions dans le régime spécial transitoire. Ces périodes sont prises en compte pour leur durée effective.
 
@@ -88,6 +106,8 @@ En cas de rentrée ultérieure dans le secteur public, le transfert de cotisatio
 
 L’assurance rétroactive n’ouvre pas droit à la restitution de la retenue pour pension opérée au-delà du maximum cotisable.
 
+Totalisation des périodes d’assurance
+
 <a id="art-7"></a>
 ## Art. 7.
 
@@ -98,6 +118,8 @@ Pour l’appréciation des conditions d’ouverture du droit à pension dans le 
 
 Pour l’admission à l’assurance continuée, complémentaire ou facultative ainsi qu’à l’achat rétroactif de périodes dans le régime général conformément aux articles 173, 173bis et 174 du code des assurances sociales, sont assimilées à des périodes d’assurance au titre de l’article 171 du code des assurances sociales les périodes de service qui sont computables pour le calcul de la pension dans le régime spécial transitoire, pour autant qu’elles ne se superposent pas à des périodes visées aux articles 171, 172, 173, 173bis et 174 du même code.
 
+Transfert de cotisations
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -107,10 +129,14 @@ Les cotisations versées pour des périodes d’affiliation qui ont donné lieu 
 
 La dernière phrase du deuxième alinéa de l’article 6 est applicable.
 
+Cumul de plusieurs activités
+
 <a id="art-9bis"></a>
 ## Art. 9bis.
 
 Si une personne relevant du régime spécial transitoire , exerce une activité accessoire soumise à l’assurance au titre de l’article 171, alinéa 1, point 2 du Code des assurances sociales, les revenus se rapportant à cette activité ne sont pris en compte que jusqu’à concurrence du maximum prévu à l’article 241, alinéa 3, du même code compte tenu de la rémunération prise en compte pour la détermination de la retenue pour pension. N’est pas considéré comme activité accessoire au sens du présent article, l’exercice du mandat de membre de la Chambre des Députés, du mandat de membre du Parlement européen ou de la fonction de membre du Conseil d’Etat.
+
+Cumuls de prestations
 
 <a id="art-10"></a>
 ## Art. 10.
@@ -154,10 +180,14 @@ Pour autant que le conjoint ou le partenaire décédé n’ait pas été soumis 
 
 #### Chapitre III. Coordination du régime général et des régimes spéciaux
 
+Champ d’application
+
 <a id="art-16"></a>
 ## Art. 16.
 
 Le présent chapitre s’applique toutes les fois qu’une personne a été soumise de façon successive ou concomitante au régime général et à un ou plusieurs régimes spéciaux.
+
+Ouverture du droit à pension et totalisation
 
 <a id="art-17"></a>
 ## Art. 17.
@@ -167,12 +197,16 @@ L’organisme compétent apprécie les conditions d’attribution de la pension 
 <a id="art-18"></a>
 ## Art. 18.
 
+(abrogé)
+
 Assurance volontaire
 
 <a id="art-18bis"></a>
 ## Art. 18bis.
 
 Les seuils et limites applicables, prévus par les règlements d’application visés respectivement aux articles 173, 173bis et 174 du Code de la Sécurité sociale et aux articles 5, 5bis et 6 de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, sont ceux du régime compétent au moment de l’introduction de la demande et s’appliquent indifféremment sur toute la période visée par l’assurance volontaire, sauf changement de compétence ultérieur.
+
+Calcul de la pension
 
 <a id="art-19"></a>
 ## Art. 19.
@@ -187,10 +221,14 @@ Lorsque le bénéficiaire d’une pension relevant d’un régime spécial justi
 
 #### Chapitre IV. Dispositions communes
 
+Mise en compte des périodes d’éducation d’enfants
+
 <a id="art-20"></a>
 ## Art. 20.
 
 Si l’un des parents est soumis au régime général et l’autre au régime transitoire spécial ou à un régime spécial, la période à mettre en compte du chef de l’éducation d’un enfant commun ne saurait dépasser celle à mettre en compte si les parents sont soumis à un seul régime de pension.
+
+Instruction des demandes
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -205,6 +243,8 @@ La décision de l’organisme débiteur d’une pension ou part de pension est p
 
 Aucune décision concernant la modification, la suspension ou le retrait d’une pension ou part de pension accordée en vertu de la présente loi ne peut être prise valablement sans que les autres organismes débiteurs d’une pension ou part de pension soient mis en cause.
 
+Réduction et paiement des pensions
+
 <a id="art-22"></a>
 ## Art. 22.
 
@@ -218,6 +258,8 @@ Si une personne a droit à des pensions de survie du chef de conjoints ou parten
 ## Art. 23.
 
 L’organisme compétent assure le paiement de la totalité de la pension, sous réserve du remboursement des parts de pensions incombant aux autres organismes conformément aux dispositions qui précèdent.
+
+Contestations
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -292,7 +334,9 @@ Lorsqu’une demande de remboursement ultérieure porte sur des cotisations rest
 <a id="art-33"></a>
 ## Art. 33.
 
-L’article 7, alinéa 2 de la loi modifiée du 21 juillet 1978 portant modification des dispositions concernant les droits à pension de la femme divorcée dans les régimes de pension contributifs prend la teneur suivante: Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal. Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal.
+L’article 7, alinéa 2 de la loi modifiée du 21 juillet 1978 portant modification des dispositions concernant les droits à pension de la femme divorcée dans les régimes de pension contributifs prend la teneur suivante:
+
+Les personnes qui ont bénéficié d’un remboursement de cotisations peuvent faire revivre les droits attachés à la partie non remboursée lorsqu’elles ont accompli une nouvelle période de quarante-huit mois au titre des articles 171, 173 et 173bis du code des assurances sociales. En outre elles peuvent restituer le montant des cotisations remboursées revalorisées suivant les modalités à fixer par règlement grand-ducal.
 
 <a id="art-34"></a>
 ## Art. 34.

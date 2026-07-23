@@ -117,12 +117,28 @@ Le dispositif de marquage est fixé de façon inamovible à un des membres arri�
 <a id="art-15"></a>
 ## Art. 15.
 
-Les dispositifs de marquage pour gibier tiré, délivrés par l'administration, portent apposés en estampe: CM pour le cerf mâle >2 ans ; CF pour le cerf femelle >2 ans (biche et bichette ); CJ pour le cerf jeune (mâle <2 ans et femelle <2 ans) ; SM pour le sanglier mâle; SF pour le sanglier femelle; MM pour le mouflon mâle (>1 an); MA pour le mouflon femelle et jeune; DM pour le daim mâle (>1 an); DA pour le daim femelle et jeune; RM pour le brocard; RA pour les chevrettes et chevrillards.
+Les dispositifs de marquage pour gibier tiré, délivrés par l'administration, portent apposés en estampe:
+
+- les lettres «ANF»
+
+- la période cynégétique visée
+
+- un numéro
+
+- les lettres correspondant à l'espèce et à la catégorie, à savoir: CM pour le cerf mâle >2 ans ; CF pour le cerf femelle >2 ans (biche et bichette ); CJ pour le cerf jeune (mâle <2 ans et femelle <2 ans) ; SM pour le sanglier mâle; SF pour le sanglier femelle; MM pour le mouflon mâle (>1 an); MA pour le mouflon femelle et jeune; DM pour le daim mâle (>1 an); DA pour le daim femelle et jeune; RM pour le brocard; RA pour les chevrettes et chevrillards.
 
 <a id="art-16"></a>
 ## Art. 16.
 
 Avant le début d'une période cynégétique, les dispositifs de marquage sont délivrés par l'administration aux locataires de chasse,
+
+- pour le cerf, en nombre égal à celui du nombre maximal par catégorie arrêté dans la décision ministérielle;
+
+- pour le daim et le mouflon, au nombre minimal par catégorie arrêté par le ministre augmenté de 50%;
+
+- pour le sanglier, au nombre minimal arrêté par le ministre augmenté de 50%, à raison de 50% de dispositifs pour animaux mâles, et 50% de dispositifs pour animaux femelles;
+
+- pour le chevreuil, au nombre minimal arrêté par le ministre augmenté de 50%, à raison de 40% de dispositifs pour brocards, et 60% de dispositifs pour chevrettes et chevrillards.
 
 Pour le daim, le mouflon, le sanglier et le chevreuil, le locataire de chasse peut à tout moment demander par écrit à l'administration des dispositifs de marquage supplémentaires.
 
@@ -152,6 +168,12 @@ Chaque fois qu'un individu des espèces cerf, daim ou mouflon est tiré, le loca
 Préalablement à tout transport, le gibier trouvé mort ainsi que le gibier saisi mort ou mis à mort conformément à l'article 79 de la loi du 25 mai 2011 relative à la chasse est muni d'un dispositif de marquage spécial.
 
 Les dispositifs de marquage spéciaux pour le gibier trouvé mort ainsi que pour le gibier saisi, de couleur rouge, portent, apposés en estampe:
+
+- les lettres «ANF»;
+
+- un numéro;
+
+- les lettres GM pour gibier trouvé mort respectivement GS pour le gibier saisi.
 
 L'administration met les dispositifs de marquage à la disposition des différentes autorités chargées du contrôle conformément à l'article 78 de la loi du 25 mai 2011 relative à la chasse.
 

@@ -7,6 +7,7 @@ import jsonschema  # type: ignore[import-untyped]
 
 from lex.dataset import discover_laws
 from lex.errors import ErrorCode, LexError
+from lex.fidelity import check_law_fidelity
 from lex.frontmatter import FIELD_ORDER, parse_frontmatter
 
 
@@ -128,5 +129,8 @@ def validate_dataset(root: Path) -> list[LexError]:
                     LexError(ErrorCode.LEX_INVALID_DATA, rel_path, f"Duplicate anchor: {anchor}")
                 )
             seen_anchors.add(anchor)
+
+        # Markdown ↔ retained source fidelity (lists/paragraphs not silently dropped)
+        errors.extend(check_law_fidelity(law.path, rel_path=rel_path))
 
     return errors

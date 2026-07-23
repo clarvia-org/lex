@@ -29,6 +29,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La majoration de l'impôt sur le revenu introduite par l'article 6, alinéa 1 de la loi modifiée du 30 juin 1976 portant
 
+- création d'un fonds pour l'emploi;
+
+- réglementation de l'octroi des indemnités de chômage complet, est, en ce qui concerne les différentes retenues d'impôt prévues par la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu, mise en application dans les conditions et suivant les modalités des articles 2 à 4 ci-après.
+
 <a id="art-2"></a>
 ## Art. 2.
 
@@ -46,6 +50,18 @@ Les taux applicables aux revenus extraordinaires qui rentrent dans les prévisio
 
 <a id="art-5"></a>
 ## Art. 5.
+
+(1)
+
+L'article 4 du règlement grand-ducal modifié du 12 novembre 1976 relatif aux dotations fiscales du fonds de chômage et portant adaptation de la limite d'assiette spéciale et des taux de retenue sur rémunérations supplémentaires est abrogé avec effet à partir de l'année d'imposition 2002.
+
+(2)
+
+Sont abrogés avec effet à partir de l'année d'imposition 2004:
+
+- le règlement grand-ducal modifié du 12 novembre 1976 relatif aux dotations fiscales du fonds de chômage et portant adaptation de la limite d'assiette spéciale et des taux de retenue sur rémunérations supplémentaires;
+
+- le règlement grand-ducal du 28 décembre 1990 relatif aux dotations fiscales du fonds pour l'emploi à partir de l'année d'imposition 1991.
 
 <a id="art-6"></a>
 ## Art. 6.

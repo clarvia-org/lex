@@ -34,6 +34,10 @@ Les montants respectifs des redevances de traitement à acquitter aux fins des p
 
 Une réduction de la redevance de traitement peut être accordée au demandeur ayant obtenu une confirmation du statut de « petite et moyenne entreprise » par l’Agence européenne des produits chimiques, dénommée ci-après « PME », selon les taux respectivement définis au :
 
+- Tableau A point 7 de l’annexe, pour les redevances figurant au tableau A concernant l’approbation et le renouvellement d’approbations pour une substance active, sauf s’il s’agit d’une substance qui est candidate pour la substitution ;
+
+- Tableau C point 7 de l’annexe, pour les redevances de traitement qui constituent le cumul des montants figurant aux tableaux B1 et C, relatives aux autorisations et renouvellements d’autorisations pour produits biocides, sauf si au moins une des substances actives contenues dans un produit est un candidat pour la substitution.
+
 <a id="art-3"></a>
 ## Art. 3.
 

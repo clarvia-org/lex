@@ -29,8 +29,36 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
+(1)
+
+Le président du conseil d’administration d’un centre de recherche public bénéficie d’une indemnité mensuelle de 92 euros à la cote 100 de l’indice des prix à la consommation nationale au 1er janvier 1948, sous réserve d’un taux moyen annuel de participation aux réunions du conseil d’administration dépassant 50 pour cent.
+
+(2)
+
+Le vice-président du conseil d’administration d’un centre de recherche public bénéficie d’une indemnité mensuelle de 61 euros à la cote 100 de l’indice des prix à la consommation nationale au 1er janvier 1948, sous réserve d’un taux moyen annuel de participation aux réunions du conseil d’administration dépassant 50 pour cent.
+
+(3)
+
+Les autres membres du conseil d’administration d’un centre de recherche public bénéficient d’une indemnité mensuelle de 49 euros à la cote 100 de l’indice des prix à la consommation nationale au 1er janvier 1948, sous réserve d’un taux moyen annuel de participation aux réunions du conseil d’administration dépassant 50 pour cent.
+
+(4)
+
+Pour chaque réunion du conseil d’administration d’un centre de recherche public, les membres perçoivent un jeton de présence de 6 euros à la cote 100 de l’indice des prix à la consommation nationale au 1er janvier 1948, par heure de présence.
+
+(5)
+
+Pour chaque réunion d’un des comités du conseil d’administration d’un centre de recherche public, les membres du comité concerné perçoivent un jeton de présence de 6 euros à la cote 100 de l’indice des prix à la consommation nationale au 1er janvier 1948, par heure de présence.
+
 <a id="art-2-20230701"></a>
 ## Art. 2.
+
+(1)
+
+Le commissaire du Gouvernement auprès d’un centre de recherche public bénéficie d’une indemnité mensuelle de 400 euros, sous réserve d’un taux moyen annuel de participation aux réunions du conseil d’administration dépassant 50 pour cent.
+
+(2)
+
+Pour chaque réunion du conseil d’administration d’un centre de recherche public, le commissaire du Gouvernement perçoit un jeton de présence de 50 euros par heure de présence.
 
 <a id="art-3"></a>
 ## Art. 3.

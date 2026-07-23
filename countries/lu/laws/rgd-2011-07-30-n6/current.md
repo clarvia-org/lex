@@ -54,12 +54,44 @@ A moins qu'elle n'ait déjà fait l'objet d'une décision de la commission au co
 
 La saisine de la Commission de nomenclature se fait par la demande standardisée d'inscription dont la première partie est à remplir par le demandeur en indiquant les éléments suivants:
 
+- l'emplacement de la nomenclature dans lequel l'acte est inscrit, modifié ou supprimé;
+
+- une motivation détaillée justifiant l'inscription, la modification ou la suppression de l'acte;
+
+- une évaluation de la durée, de la compétence technique et de l'effort intellectuel requis pour le dispenser et
+
+- l'implication éventuelle de l'inscription, de la modification ou de la suppression de l'acte sur la définition, la dispensation ou la tarification d'autres actes dans la même ou dans d'autres nomenclatures.
+
 La Commission de nomenclature juge de la recevabilité de la demande en vérifiant si elle est complète, si elle n'a pas déjà fait l'objet d'une décision de la commission au cours des trois dernières années et si son objet n'est pas soumis à une période de révision obligatoire.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Le président de la Commission de nomenclature transmet les demandes recevables à la Cellule d'expertise médicale afin qu'elle révise au besoin la première partie et établisse la deuxième partie de la demande standardisée d'inscription dans les délais lui impartis compte tenu des délais figurant à l'article 8, alinéa 3 en indiquant les éléments suivants dans la mesure où ils peuvent être déterminés pour l'acte en question:
+
+- les lieux de prestation de l'acte;
+
+- les services ou centres de compétence hospitaliers auxquels la dispensation de l'acte est réservée;
+
+- la ou les spécialités médicales à laquelle ou auxquelles l'acte est réservé;
+
+- les normes de compétences spécifiques et d'expérience professionnelle requises pour le dispenser;
+
+- l'appareillage médical nécessaire;
+
+- la nécessité d'une assistance opératoire;
+
+- les règles de cumul;
+
+- la périodicité de prise en charge de l'acte;
+
+- le coefficient de majoration ou de réduction de l'acte;
+
+- une étude de l'impact économique de l'inscription, de la modification ou de la suppression de l'acte;
+
+- la nomenclature de référence appliquée et
+
+- la période de validation provisoire et le délai de révision obligatoire.
 
 Les nomenclatures de référence sont des classifications des actes basées sur une hiérarchie des actes et services des prestataires de soins établie suivant des critères scientifiques validés.
 

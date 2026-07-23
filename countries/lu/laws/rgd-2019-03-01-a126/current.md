@@ -30,7 +30,7 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Le montant annuel de référence prévu à l’article 3 de la loi modifiée du 3 août 1998 sur la promotion de la presse écrite est fixé comme suit pour l’an 2019 :
 
-5 x 84 274 + 120 x 515 = 483 170 €.
+5 x 84 274 + 120 x 515 = 483 170 € .
 
 <a id="art-2"></a>
 ## Art. 2.

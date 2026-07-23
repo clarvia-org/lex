@@ -42,6 +42,16 @@ Le présent règlement grand-ducal s’applique aux fonctionnaires de l’État 
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Dans les cas d’urgence, le chef d’administration peut autoriser la prestation d’heures supplémentaires. Il informe sans délai le ministre du ressort de sa décision d’autoriser la prestation d’heures supplémentaires et des raisons justifiant le recours à celles-ci.
+
+(2)
+
+Dans les cas de surcroît exceptionnel de travail, le chef d’administration soumet au ministre du ressort une demande d’autorisation pour la prestation d’heures supplémentaires.
+
+La prestation d’heures supplémentaires peut être autorisée pour une période de six mois au maximum par décision du ministre du ressort, sur avis des ministres ayant respectivement la Fonction publique et les Finances dans leurs attributions.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -52,6 +62,22 @@ Le ministre du ressort transmet pour exécution au Centre de gestion du personne
 <a id="art-6"></a>
 ## Art. 6.
 
+1.
+
+Les heures de travail supplémentaires sont à rémunérer sur la base du taux horaire, qui équivaut à 1/173 du traitement mensuel brut.
+
+Pour les heures de travail supplémentaires prestées le dimanche, il est ajouté un supplément de 40%.
+
+Pour les heures de travail supplémentaires prestées un jour férié légal, respectivement un jour férié de rechange, le supplément s’élève à 70%.
+
+Si les heures de travail supplémentaires sont effectuées entre 22 heures du soir et 6 heures du matin, un supplément pour travail de nuit de 20% est ajouté aux taux précités.
+
+Si les heures de travail supplémentaires sont compensées par un repos correspondant, les suppléments sont seuls dus.
+
+2.
+
+Pour le fonctionnaire qui a accompli sa tâche hebdomadaire et qui doit faire du service supplémentaire le samedi, le supplément est celui dû pour travail de dimanche.
+
 <a id="art-7"></a>
 ## Art. 7.
 
@@ -59,7 +85,15 @@ Le fonctionnaire soumis à astreinte à domicile bénéficie d’un congé de co
 
 A) Permanences de nuit
 
+- pour les astreintes aux jours ouvrables (à partir de 19.00 heures jusqu’à 7.00 heures): 1,24 euros (n.i. 100);
+
+- pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 19.00 heures jusqu’à 7.00 heures): 2,48 euros (n.i. 100);
+
 B) Permanence de jour
+
+- pour les astreintes aux jours ouvrables (à partir de 7.00 heures jusqu’à 19.00 heures): 1,24 euros (n.i. 100);
+
+- pour les astreintes aux samedis, dimanches et jours fériés, respectivement jours fériés de rechange (à partir de 7.00 heures jusqu’à 19.00 heures): 2,48 euros (n.i. 100);
 
 #### Chapitre V.
 

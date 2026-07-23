@@ -47,6 +47,12 @@ Le membre du Gouvernement ayant dans ses attributions les affaires communales à
 
 La caisse est dirigée et administrée par un conseil d'administration composé de cinq membres, savoir:
 
+- d'un président;
+
+- d'un vice-président et
+
+- de trois membres.
+
 <a id="art-4"></a>
 ## Art. 4.
 
@@ -162,6 +168,12 @@ Sauf les exceptions prévues à l’art. 20, la participation à la caisse est o
 
 Ne sont pas admis à s’affilier à la caisse:
 
+- les titulaires d’emplois conférés à titre simplement temporaire;
+
+- les personnes payées sur états de salaire ou sous forme de toutes autres rétributions généralement quelconques n’ayant pas le caractère de traitement fixe;
+
+- tous les employés dont le traitement est inférieur à 12,39 euros. Néanmoins si ces employés occupent un autre emploi en raison duquel ils sont affiliés à la caisse, les charges accessoires, même quand le traitement y attaché n’atteint pas 12,39 euros, comptent dans l’intérêt de la pension, laquelle, dans ce cas, est réglée sur la base de l’ensemble des traitements dont l’intéressé a joui au moment de la mise à la retraite.
+
 <a id="art-21"></a>
 ## Art. 21.
 
@@ -178,6 +190,18 @@ Les comptes et registres de la caisse de retraite et de la caisse de secours son
 ## Art. 23.
 
 Les ressources de la caisse consistent en:
+
+- une contribution annuelle des communes et des établissements publics égale à 7,25% du montant des traitements de leurs employés affiliés;
+
+- une contribution communale pour l’affiliation des sages-femmes, calculée à raison de 5,25% de la somme de 37,18 euros par membre. Cette contribution sera répartie entre les communes au prorata de la population de fait, constatée par le dernier recensement général. Elle sera avancée à la caisse par le Trésor qui en obtiendra la restitution par voie de liquidation sur le fonds de dépenses communales;
+
+- un subside annuel de l’Etat, qui est de 5,25% des traitements des employés et 7,25% de l’émolument des sages-femmes;
+
+- une retenue de 1% ou de 2% sur le traitement des employés qui se marient après 40 respectivement 50 ans d’âge;
+
+- les intérêts de capitaux placés;
+
+- les dons et legs qui peuvent être faits à la caisse.
 
 <a id="art-24"></a>
 ## Art. 24.
@@ -266,6 +290,12 @@ Le compte et le bilan de la caisse de prévoyance sont dressés par le secrétai
 
 Les compte et bilan, appuyés des pièces justificatives, présentent avec les distinctions nécessaires:
 
+- le tableau des valeurs de toute nature existant en caisse et en portefeuille au commencement de la gestion;
+
+- les recettes et les dépenses faites pendant le cours de la gestion;
+
+- le montant des valeurs qui se trouvent dans la caisse et en portefeuille à la fin de la gestion.
+
 L’état de la situation annuelle est publié au Mémorial.
 
 <a id="art-37"></a>
@@ -287,25 +317,61 @@ La requête indiquera les nom, prénoms, âge, (domicile ou résidence de l'int�
 
 Le fonctionnaire ou employé participant doit joindre à la requête:
 
+- son acte de naissance;
+
+- son état de service, accompagné des actes de nomination ou autres pièces constatant les nominations.
+
 <a id="art-40"></a>
 ## Art. 40.
 
 Le conjoint survivant d’un participant qui demande une pension de retraite doit joindre à sa requête:
+
+- les pièces mentionnées à l'article précédent;
+
+- l'acte de mariage;
+
+- l'acte de décès du conjoint;
+
+- un certificat de l'autorité communale du lieu de son domicile constatant qu'elle est restée en état de viduité;
+
+- s'il y a lieu, un extrait de l'acte de naissance et un certificat de vie pour chaque enfant âgé de moins de 18 ans.
 
 <a id="art-41"></a>
 ## Art. 41.
 
 Toute demande de pension en faveur d'enfants orphelins doit être faite par le tuteur et être accompagnée des pièces suivantes:
 
+- l'acte de naissance du père et son état de service, conformément aux prescriptions de l'art. 36 ci-avant;
+
+- l'acte de mariage des parents;
+
+- les actes de décès du père et, le cas échéant, de la mère;
+
+- un extrait de l'acte de naissance et un certificat de vie pour chaque enfant;
+
+- la preuve de la qualité du tuteur.
+
 <a id="art-42"></a>
 ## Art. 42.
 
 Le conjoint survivant d'un participant pensionné qui demande la réversion en sa faveur de la pension accordée à son conjoint, doit joindre à sa requête:
 
+- l'acte de mariage;
+
+- s'il a y lieu, les actes de naissance et les certificats de vie des enfants.
+
 <a id="art-43"></a>
 ## Art. 43.
 
 Toute demande de réversion de pension au profit d'enfants mineurs est faite par le tuteur et doit être accompagnée des pièces suivantes:
+
+- de l'acte de mariage des parents;
+
+- les actes de décès du père et, le cas échéant, de la mère;
+
+- les actes de naissance et les certificats de vie des enfants;
+
+- la preuve de la qualité de tuteur.
 
 <a id="art-44"></a>
 ## Art. 44.
@@ -319,10 +385,20 @@ Les frais de visite sont à charge de la caisse, mais pour autant seulement que 
 
 La déclaration donnée par les médecins doit énoncer d'une manière détaillée:
 
+- quelles sont les causes probables, la nature, la gravité et les suites des infirmités;
+
+- si les infirmités paraissent devoir être temporaires ou permanentes;
+
+- s'il en résulte pour l'intéressé l'impossibilité de continuer à remplir ses fonctions ou à les reprendre.
+
 <a id="art-46"></a>
 ## Art. 46.
 
 Si la pension est demandée pour cause de blessures ou d'accidents survenus dans les circonstances prévues par l'art. 9 litt. d et l'art. 18 de la loi du 7 août 1912, il sera produit, indépendamment des autres documents requis:
+
+- des pièces constatant le jour, le lieu et la nature de l'accident;
+
+- des certificats de deux médecins désignés par le président du conseil d'administration de la caisse, énonçant la nature, la gravité et les suites des blessures ou accidents.
 
 Le conseil d'administration pourra exiger, en outre, d'autres moyens de preuve.
 

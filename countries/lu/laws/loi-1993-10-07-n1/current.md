@@ -45,10 +45,74 @@ Le SCRIPT a pour mission de promouvoir, de mettre en œuvre et de coordonner dan
 <a id="art-3"></a>
 ## Art. 3.
 
-Le SCRIPT comprend six divisions : une division de l’innovation pédagogique et technologique ; une division de la coordination d’initiatives et de programmes pédagogiques ; une division du développement du curriculum ; une division du développement de matériels didactiques ; une division du traitement de données sur la qualité de l’encadrement et de l’offre scolaire et éducative ;
+Le SCRIPT comprend six divisions :
+
+- une division de l’innovation pédagogique et technologique ;
+
+- une division de la coordination d’initiatives et de programmes pédagogiques ;
+
+- une division du développement du curriculum ;
+
+- une division du développement de matériels didactiques ;
+
+- une division du traitement de données sur la qualité de l’encadrement et de l’offre scolaire et éducative ;
 
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+La division de l’innovation pédagogique et technologique a pour missions :
+
+- de contribuer au développement de réformes scolaires et éducatives, et de réaliser dans ce contexte des études de prospection et de faisabilité, ainsi que des projets pilotes ;
+
+- de coordonner, soutenir et évaluer des projets d’innovation pédagogique et technologique en mettant à la disposition des écoles et lycées, des structures éducatives et des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
+
+- de favoriser et de soutenir l’innovation pédagogique et technologique dans les écoles, lycées et structures éducatives en identifiant, documentant et diffusant des exemples de bonne pratique ;
+
+- de mettre les écoles, les lycées et les structures éducatives en réseau en organisant des réunions d’échanges et des journées d’innovation.
+
+(2)
+
+La division de la coordination d’initiatives et de programmes pédagogiques a pour missions :
+
+- de promouvoir, coordonner et organiser dans les écoles et les lycées des activités, projets et événements relatifs à la vie publique et sociale de l’élève, et de mettre à disposition des écoles et lycées des ressources financières, méthodologiques et humaines adéquates à cette fin ;
+
+- de collaborer, dans le cadre de conventions, avec les associations et institutions du milieu social et culturel, ayant pour objectif de favoriser le développement des compétences personnelles, sociales et communicatives des élèves ;
+
+- de promouvoir, coordonner et organiser dans les écoles et les lycées des activités relatives à la promotion des sciences et des technologies ;
+
+- de soutenir des projets de collaboration entre écoles, lycées et structures éducatives.
+
+(3)
+
+La division du développement du curriculum a pour missions :
+
+- de soutenir et de coordonner les travaux des commissions nationales des programmes et des commissions nationales des formations selon les modalités des articles 7 et 10 de la loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation nationale ;
+
+- de coordonner, soutenir et évaluer des projets d’élaboration et de développement du curriculum en mettant à la dispo- sition des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
+
+- de collaborer avec l’Université du Luxembourg et les organisations et partenaires nationaux et internationaux ayant dans leurs missions le développement curriculaire.
+
+- de collaborer avec le Conseil national des programmes dans l’organisation de forums selon les modalités fixées à l’article 3 de la loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation nationale et de mettre à disposition de ce conseil les ressources financières, méthodologiques et humaines adéquates selon l’article 5 de la même loi »
+
+(4)
+
+La division du développement de matériels didactiques a pour missions :
+
+- de coordonner, soutenir et évaluer des projets d’élaboration de matériels didactiques en mettant à la disposition des groupes de travail nommés par le ministre, les ressources et l’appui méthodologique nécessaires ;
+
+- de collaborer avec l’Université du Luxembourg et les organisations et partenaires nationaux et internationaux ayant dans leurs missions le développement de matériels didactiques.
+
+(5)
+
+La division du traitement de données sur la qualité de l’encadrement et de l’offre scolaire et éducative a pour missions :
+
+- le recueil, l’analyse et la mise à disposition de données sur la qualité de l’offre scolaire et éducative dans les écoles, les lycées et les structures éducatives ;
+
+- d’accompagner les structures éducatives, les écoles et les lycées dans leurs démarches d’analyse et d’évaluation de leurs pratiques pédagogiques et de leur enseignement ;
+
+- de collaborer avec l’Observatoire national de la qualité scolaire, l’Université du Luxembourg et les autres organisations et partenaires nationaux et internationaux ayant un mandat pour contribuer, par des études, à l’évaluation et l’analyse de la qualité de l’encadrement et de l’offre scolaire et éducative dans les écoles, les lycées et les structures éducatives.
 
 ##### Direction et personnel
 
@@ -62,12 +126,30 @@ Le directeur est responsable du bon fonctionnement du SCRIPT et de l’accomplis
 <a id="art-6"></a>
 ## Art. 6.
 
+(1)
+
+Les fonctionnaires ou employés de l’État appelés à gérer une division peuvent être autorisés à porter le titre de responsable de division» sans que ni leur classement ni leur traitement n’en soient modifiés.
+
+Ils sont nommés pour une durée renouvelable de cinq ans. Pendant la durée de leur mandat, ils bénéficient d’une indemnité non pensionnable de 45 points indiciaires. Cette indemnité ne peut pas être cumulée avec celle prévue au paragraphe (2), ni avec celle prévue au paragraphe (3).
+
+(2)
+
+Des tâches d’innovation et de recherche peuvent être assurées par des chargés de mission au sein de chaque division. Les chargés de mission sont recrutés parmi les fonctionnaires et employés de l’État assurant une tâche complète auprès du SCRIPT. Ils sont nommés pour une durée renouvelable de cinq ans. Pendant la durée de leur mandat, ils bénéficient d’une in- demnité non pensionnable de 45 points indiciaires. Cette indemnité ne peut pas être cumulée avec celle prévue au paragraphe (1), ni avec celle prévue au paragraphe (3).
+
+(3)
+
+Pour autant qu’ils ne bénéficient pas d’une décharge partielle ou totale de leur tâche d’enseignement, les fonctionnaires et employés de l’État touchent une indemnité fixée par le Gouvernement en conseil.
+
 ##### Évaluation du système éducatif
 
 <a id="art-7"></a>
 ## Art. 7.
 
-L’évaluation du système éducatif porte sur les domaines suivants: la qualité de l’enseignement dans les écoles et les lycées; les compétences atteintes par les élèves à différents niveaux de leur scolarité. L’évaluation du système éducatif est interne et externe.
+L’évaluation du système éducatif porte sur les domaines suivants:
+
+- la qualité de l’enseignement dans les écoles et les lycées;
+
+- les compétences atteintes par les élèves à différents niveaux de leur scolarité. L’évaluation du système éducatif est interne et externe.
 
 Elle comprend la participation à des enquêtes et tests internationaux auxquels le ministère a décidé de prendre part.
 
@@ -105,7 +187,23 @@ Dans le cadre des missions définies à l’article suivant, le Centre est comp�
 <a id="art-11"></a>
 ## Art. 11.
 
-Le Centre a pour mission : de promouvoir l’étude, la conception, le développement et l’exploitation d’applications informatiques pour les besoins de l’administration de l’Éducation nationale; d’encourager le conseil technique en matière d’acquisitions, d’installations, d’équipements et de maintenance; d’assumer la gestion et le traitement des données des élèves, du personnel et de l’administration de l’Éducation nationale; de garantir la sécurité de l’informatique et le respect de la protection des données à caractère personnel; de gérer la mise en place et l’exploitation de plateformes internet, intranet et extranet; d’assurer le suivi et l’évolution de l’outil informatique, y compris la fixation des standards technologiques et la veille technologique; de faciliter les relations avec des services et organismes luxembourgeois ou étrangers ayant des missions similaires. de coordonner et de financer l’acquisition, l’installation, la maintenance et l’assistance technique concernant le matériel relatif aux technologies de l’information et de la communication dans les établissements de l’enseignement secondaire public.
+Le Centre a pour mission :
+
+- de promouvoir l’étude, la conception, le développement et l’exploitation d’applications informatiques pour les besoins de l’administration de l’Éducation nationale;
+
+- d’encourager le conseil technique en matière d’acquisitions, d’installations, d’équipements et de maintenance;
+
+- d’assumer la gestion et le traitement des données des élèves, du personnel et de l’administration de l’Éducation nationale;
+
+- de garantir la sécurité de l’informatique et le respect de la protection des données à caractère personnel;
+
+- de gérer la mise en place et l’exploitation de plateformes internet, intranet et extranet;
+
+- d’assurer le suivi et l’évolution de l’outil informatique, y compris la fixation des standards technologiques et la veille technologique;
+
+- de faciliter les relations avec des services et organismes luxembourgeois ou étrangers ayant des missions similaires.
+
+- de coordonner et de financer l’acquisition, l’installation, la maintenance et l’assistance technique concernant le matériel relatif aux technologies de l’information et de la communication dans les établissements de l’enseignement secondaire public.
 
 <a id="art-12"></a>
 ## Art. 12.
@@ -115,11 +213,39 @@ Le ministre peut charger le Centre de toute autre mission en relation avec les t
 <a id="art-13"></a>
 ## Art. 13.
 
-Le Centre comprend deux divisions: une division «Études et développements» une division «Informatique distribuée et support».
+Le Centre comprend deux divisions:
 
-La division «Études et développements» a pour missions: la promotion et l’organisation de l’informatisation, notamment en ce qui concerne la collecte, la transmission et le traitement des données; l’étude, le développement, la maîtrise d’ouvrage, la maintenance, l’hébergement et l’exploitation d’applications existantes ou à développer; le support organisationnel et l’accompagnement de projets informatiques; la recherche de synergies et l’optimisation des échanges d’informations; la mise en place et l’exploitation de plateformes de collaboration et d’information; la spécification, la traduction, le contrôle et la mise en œuvre des besoins fonctionnels en projets informatiques.
+- une division «Études et développements»
 
-La division «Informatique distribuée et support» assure en collaboration étroite avec le Centre des Technologies de l’Information de l’État: l’acquisition, la gestion et l’inventaire d’équipements informatiques et bureautiques; le conseil et l’assistance techniques de l’administration de l’Éducation nationale dans l’exécution des travaux courants d’informatique notamment en matière d’installations, d’équipements et de maintenance; la gestion des équipements informatiques appropriés à l’accomplissement de ses attributions; la sécurité au sein du réseau informatique commun RESTENA en collaboration avec le CRT gouvernemental (Computer Emergency Response Team, GOVCERT.LU) et RESTENA-CSIRT; la sécurité de l’informatique et le respect des dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, dans les limites de ses attributions; la gestion d’un centre de support destiné aux utilisateurs internes et externes des systèmes d’informations gérés par le Centre.
+- une division «Informatique distribuée et support».
+
+La division «Études et développements» a pour missions:
+
+- la promotion et l’organisation de l’informatisation, notamment en ce qui concerne la collecte, la transmission et le traitement des données;
+
+- l’étude, le développement, la maîtrise d’ouvrage, la maintenance, l’hébergement et l’exploitation d’applications existantes ou à développer;
+
+- le support organisationnel et l’accompagnement de projets informatiques;
+
+- la recherche de synergies et l’optimisation des échanges d’informations;
+
+- la mise en place et l’exploitation de plateformes de collaboration et d’information;
+
+- la spécification, la traduction, le contrôle et la mise en œuvre des besoins fonctionnels en projets informatiques.
+
+La division «Informatique distribuée et support» assure en collaboration étroite avec le Centre des Technologies de l’Information de l’État:
+
+- l’acquisition, la gestion et l’inventaire d’équipements informatiques et bureautiques;
+
+- le conseil et l’assistance techniques de l’administration de l’Éducation nationale dans l’exécution des travaux courants d’informatique notamment en matière d’installations, d’équipements et de maintenance;
+
+- la gestion des équipements informatiques appropriés à l’accomplissement de ses attributions;
+
+- la sécurité au sein du réseau informatique commun RESTENA en collaboration avec le CRT gouvernemental (Computer Emergency Response Team, GOVCERT.LU) et RESTENA-CSIRT;
+
+- la sécurité de l’informatique et le respect des dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel, dans les limites de ses attributions;
+
+- la gestion d’un centre de support destiné aux utilisateurs internes et externes des systèmes d’informations gérés par le Centre.
 
 Pour l’exécution de ces missions, le Centre s’engage à respecter les normes de qualité et de sécurité déterminées par le Centre des Technologies de l’Information de l’État.
 
@@ -177,7 +303,15 @@ Il est créé sous l’autorité du ministre un Conseil scientifique auprès du 
 <a id="art-21"></a>
 ## Art. 21.
 
-Le Conseil a pour mission: d’aviser les programmes d’action et les rapports d’activités de chaque division du SCRIPT; de proposer au ministre des critères d’évaluation de la qualité du système éducatif ainsi que des sujets susceptibles de faire l’objet d’une évaluation; d’entériner les documents se rapportant à l’évaluation du système éducatif élaborés par l’institut universitaire; de donner son avis sur toutes les questions qui lui sont soumises par le ministre. Il peut de sa propre initiative faire des recommandations au ministre.
+Le Conseil a pour mission:
+
+- d’aviser les programmes d’action et les rapports d’activités de chaque division du SCRIPT;
+
+- de proposer au ministre des critères d’évaluation de la qualité du système éducatif ainsi que des sujets susceptibles de faire l’objet d’une évaluation;
+
+- d’entériner les documents se rapportant à l’évaluation du système éducatif élaborés par l’institut universitaire;
+
+- de donner son avis sur toutes les questions qui lui sont soumises par le ministre. Il peut de sa propre initiative faire des recommandations au ministre.
 
 <a id="art-22"></a>
 ## Art. 22.
@@ -202,7 +336,17 @@ Le directeur et le directeur adjoint du SCRIPT assistent avec voix délibérativ
 
 Il est créé sous l’autorité du ministre un Comité de gouvernance informatique auprès du Centre appelé par la suite «le Comité».
 
-Le Comité a pour missions: de donner son avis sur les questions qui lui sont soumises par le ministre; de présenter de sa propre initiative au ministre des propositions, suggestions et informations en relation avec les actions et les mesures à prendre en matière de gouvernance électronique; de soumettre au ministre un programme d’actions annuel en matière de gestion informatique de l’administration de l’Éducation nationale; d’aviser les projets d’informatisation des processus de l’administration de l’Éducation nationale et d’en assurer le suivi; de conseiller, d’office ou sur demande, les responsables des services de l’administration de l’Éducation nationale et le directeur du Centre sur toute question relative à l’organisation et l’automatisation de l’administration.
+Le Comité a pour missions:
+
+- de donner son avis sur les questions qui lui sont soumises par le ministre;
+
+- de présenter de sa propre initiative au ministre des propositions, suggestions et informations en relation avec les actions et les mesures à prendre en matière de gouvernance électronique;
+
+- de soumettre au ministre un programme d’actions annuel en matière de gestion informatique de l’administration de l’Éducation nationale;
+
+- d’aviser les projets d’informatisation des processus de l’administration de l’Éducation nationale et d’en assurer le suivi;
+
+- de conseiller, d’office ou sur demande, les responsables des services de l’administration de l’Éducation nationale et le directeur du Centre sur toute question relative à l’organisation et l’automatisation de l’administration.
 
 <a id="art-23ter"></a>
 ## Art. 23ter.
@@ -220,6 +364,20 @@ Les membres ainsi que le président du Comité sont nommés par le ministre pour
 <a id="art-25"></a>
 ## Art. 25.
 
+(1)
+
+Outre le personnel et les collaborateurs mentionnés aux articles 15, 17 et 18, le cadre du personnel comprend un directeur, un directeur adjoint et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
+
+(2)
+
+La direction du SCRIPT est assurée par un directeur choisi parmi les agents de l’État détenteurs d’un diplôme de master en relation avec la fonction et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions et appartenant ou ayant appartenu pendant cinq ans au moins, à partir de leur nomination ou de la fin de leur période d’initiation, au personnel de la catégorie de traitement ou d’indemnité A, rubrique « Enseignement » ou de la catégorie de traitement ou d’indemnité A, rubrique « Administration générale ». La fonction du directeur est classée dans le groupe de traitement A1 au grade 17 de la rubrique « Enseignement ».
+
+(3)
+
+Le directeur est assisté dans ses fonctions par un directeur adjoint choisi parmi les agents de l’État détenteurs d’un diplôme de master en relation avec la fonction et reconnu par le ministre ayant l’Enseignement supérieur dans ses attributions et appartenant ou ayant appartenu pendant cinq ans au moins, à partir de leur nomination ou de la fin de leur période d’initiation, au personnel de la catégorie de traitement ou d’indemnité A, rubrique « Enseignement » ou de la catégorie de traitement ou d’indemnité A, rubrique « Administration générale ». La fonction du directeur adjoint est classée dans le groupe de traitement A1 au grade 16 de la rubrique « Enseignement ».
+
+Le directeur et le directeur adjoint sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil.
+
 <a id="art-26"></a>
 ## Art. 26.
 
@@ -228,7 +386,21 @@ Le personnel du SCRIPT et du Centre peut comprendre en outre des stagiaires, des
 <a id="art-29"></a>
 ## Art. 29.
 
-Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des fonctionnaires de l’État: L’annexe A - Classification des fonctions - est modifiée comme suit: Rubrique I. Administration générale: Au grade 9, la mention «Différents établissements scolaires - bibliothécaire-documentaliste [II-26,VI-13 a]» est remplacée par la mention «Différentes administrations - bibliothécaire-documentaliste [II-26,VI-13a]». Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Centre de Technologie de l’Éducation - directeur». L’annexe D - Détermination des carrières inférieures, moyennes et supérieures; du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial; est modifiée comme suit: - Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Directeur du Centre de Technologie de l’Éducation - grade de computation de la bonification d’ancienneté: E7». L’article 13, paragraphe 10, de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’État, telle qu’elle a été modifiée et nouvellement coordonnée par la loi du 29 juillet 1988, est complété comme suit : Il en est de même du fonctionnaire-directeur du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques bénéficiaire du supplément de traitement prévu à l’article 29 de la loi du 7 octobre 1993 portant sur a. la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques, b. la création d’un Centre de Technologie de l’Éducation, c. l’institution d’une Commission d’Innovation et de Recherche en Éducation, en raison d’un trentième pour chaque année de jouissance.
+- Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des fonctionnaires de l’État:
+
+  - L’annexe A - Classification des fonctions - est modifiée comme suit:
+
+    - Rubrique I. Administration générale: Au grade 9, la mention «Différents établissements scolaires - bibliothécaire-documentaliste [II-26,VI-13 a]» est remplacée par la mention «Différentes administrations - bibliothécaire-documentaliste [II-26,VI-13a]».
+
+    - Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Centre de Technologie de l’Éducation - directeur».
+
+  - L’annexe D - Détermination est modifiée comme suit: - Rubrique IV. Enseignement: à ajouter au grade E8 la mention «Directeur du Centre de Technologie de l’Éducation - grade de computation de la bonification d’ancienneté: E7».
+
+    - des carrières inférieures, moyennes et supérieures;
+
+    - du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial;
+
+- L’article 13, paragraphe 10, de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’État, telle qu’elle a été modifiée et nouvellement coordonnée par la loi du 29 juillet 1988, est complété comme suit : Il en est de même du fonctionnaire-directeur du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques bénéficiaire du supplément de traitement prévu à l’article 29 de la loi du 7 octobre 1993 portant sur a. la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques, b. la création d’un Centre de Technologie de l’Éducation, c. l’institution d’une Commission d’Innovation et de Recherche en Éducation, en raison d’un trentième pour chaque année de jouissance.
 
 <a id="art-30"></a>
 ## Art. 30.
@@ -312,4 +484,8 @@ En cas de nomination et pour le cas où leur nouvelle rémunération est inféri
 <a id="art-43"></a>
 ## Art. 43.
 
-Par dérogation aux dispositions de l’article 16 de la loi budgétaire de l’exercice 1993, il est créé les emplois suivants pour les besoins du SCRIPT: un bibliothécaire-documentaliste; un employé de l’État de la carrière C.
+Par dérogation aux dispositions de l’article 16 de la loi budgétaire de l’exercice 1993, il est créé les emplois suivants pour les besoins du SCRIPT:
+
+- un bibliothécaire-documentaliste;
+
+- un employé de l’État de la carrière C.

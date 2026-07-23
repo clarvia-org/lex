@@ -29,7 +29,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Lorsqu’il s’agit d’un ensemble de travaux ayant pour objet d’assainir ou d’améliorer, en totalité ou en partie, un ancien quartier ou de construire un quartier nouveau, l’autorisation de procéder à l’expropriation de tous les terrains destinés aux voies de communication et à d’autres usages ou services publics, ainsi qu’aux constructions comprises dans le plan général des travaux projetés, pourra être accordée par Nous, le Conseil d’Etat entendu.
 
-L’expropriation peut s’opérer à la demande : 1° de l’État ; 2° des communes ou sections de commune, et 3° même de particuliers, mais seulement si l’intérêt de la partie demanderesse est en même temps d’utilité publique.
+L’expropriation peut s’opérer à la demande :
+
+1° de l’État ;
+
+2° des communes ou sections de commune, et
+
+3° même de particuliers, mais seulement si l’intérêt de la partie demanderesse est en même temps d’utilité publique.
 
 <a id="art-2"></a>
 ## Art. 2
@@ -41,7 +47,15 @@ Les bourgmestres des communes intéressées assisteront aux réunions avec voix 
 <a id="art-3"></a>
 ## Art. 3.
 
-Le plan général prescrit par l’art. 1er indique : 1° la superficie des terrains et édifices dont la cession est nécessaire ; 2° le nom de chaque propriétaire et la désignation cadastrale de la propriété ; 3° les travaux à exécuter sur les dits terrains après l’expropriation ; 4° les parcelles des terrains destinées à être remises en vente ou à recevoir des constructions sur l’alignement des nouvelles rues ou places.
+Le plan général prescrit par l’art. 1er indique :
+
+1° la superficie des terrains et édifices dont la cession est nécessaire ;
+
+2° le nom de chaque propriétaire et la désignation cadastrale de la propriété ;
+
+3° les travaux à exécuter sur les dits terrains après l’expropriation ;
+
+4° les parcelles des terrains destinées à être remises en vente ou à recevoir des constructions sur l’alignement des nouvelles rues ou places.
 
 <a id="art-4"></a>
 ## Art. 4.

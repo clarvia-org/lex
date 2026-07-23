@@ -62,6 +62,18 @@ Il peut notamment supprimer les spécifications techniques, économiques ou fina
 <a id="art-4"></a>
 ## Art. 4.
 
+(1)
+
+Le président du tribunal administratif, en tenant compte des conséquences probables des mesures pour tous les intérêts susceptibles d’être lésés, ainsi que de l’intérêt public, peut décider de ne pas accorder ces mesures lorsque des conséquences négatives pourraient dépasser leurs avantages. Une décision de ne pas accorder des mesures ne porte pas préjudice aux autres droits revendiqués par la personne requérant ces mesures.
+
+(2)
+
+Le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir, à la poursuite de la procédure de mise en concurrence, voire à la décision d’adjudication jusqu’à la notification de l’ordonnance en référé.
+
+(3)
+
+L’ordonnance est exécutoire dès sa notification.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -83,15 +95,37 @@ Le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir à 
 
 La décision d’attribution est communiquée à chaque soumissionnaire et candidat concerné, accompagnée:
 
+- d’un exposé synthétique des motifs pertinents à communiquer par le pouvoir adjudicateur sur demande de la partie concernée tel que prévu par règlement grand-ducal, sauf exceptions y prévues, et pour les marchés tombant dans le champ d’application du livre III de la loi modifiée du 25 juin 2009 sur les marchés publics, d’un exposé synthétique des motifs pertinents à communiquer par les entités adjudicatrices sur demande de la partie concernée tel que prévu par règlement grand-ducal, sauf exceptions y prévues et pour les contrats de concession d’un exposé synthétique des motifs pertinents à communiquer par les pouvoirs adjudicateurs ou entités adjudicatrices sur demande de la partie concernée tel que prévu par l’article 40 paragraphe 1er de la loi sur l’attribution de contrats de concession, sous réserve de l’article 40, paragraphe 2.
+
+- d’une mention précise de la durée exacte du délai de suspension applicable.
+
 <a id="art-8"></a>
 ## Art. 8.
 
-Les délais visés à l’article 5 ne s’appliquent pas dans les cas suivants: Lorsque la dérogation visée au point c) est invoquée, le marché en cause est déclaré comme dépourvu d’effets conformément aux articles 9 à 11 et 15:
+Les délais visés à l’article 5 ne s’appliquent pas dans les cas suivants:
+
+- si une publication préalable d’un avis au Journal officiel de l’Union européenne n’est pas obligatoire;
+
+- si le seul soumissionnaire concerné au sens de l’article 5 est celui auquel le marché est attribué et en l’absence de candidats concernés;
+
+- lorsqu’il s’agit d’un marché fondé sur un accord-cadre ou d’un marché spécifique fondé sur un système d’acquisition dynamique visé par le Livre II de la loi sur les marchés publics ou d’un marché fondé sur un accord cadre visé à l’article 29 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité.
+
+Lorsque la dérogation visée au point c) est invoquée, le marché en cause est déclaré comme dépourvu d’effets conformément aux articles 9 à 11 et 15:
+
+- s’il y a eu violation des dispositions régissant l’attribution des marchés fondés sur les accords-cadres ou régissant l’attribution de marchés spécifiques fondés sur des systèmes d’acquisition dynamiques avec plusieurs opérateurs économiques remis en concurrence telles que fixées par règlement grand-ducal,
+
+- si le montant estimé du marché est égal ou supérieur aux seuils d'application du livre II de la loi sur les marchés publics ou aux seuils visés à l'article 8 de la loi sur les marchés publics de la défense et de la sécurité.
 
 <a id="art-9"></a>
 ## Art. 9.
 
 Un marché est déclaré dépourvu d’effets par le président du tribunal d’arrondissement siégeant comme juge des référés:
+
+- si le pouvoir adjudicateur ou l’entité adjudicatrice a passé un marché sans avoir préalablement publié un avis de marché au Journal officiel de l’Union européenne, sans que cela ne soit autorisé en vertu des dispositions des Livres II et III de la loi sur les marchés publics, ou que le pouvoir adjudicateur ou l’entité adjudicatrice a attribué un contrat de concession sans avoir préalablement publié un avis de concession au Journal officiel de l’Union européenne, sans que cela ne soit autorisé par l’article 30 de la loi sur l’attribution de contrats de concession ;
+
+- en cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe 5, ou de l’article 21, si cette violation a privé le soumissionnaire intentant un recours de la possibilité d’engager ou de mener à son terme un recours précontractuel lorsqu’une telle violation est accompagnée, soit d’une violation des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions régissant le cahier général des charges applicables aux marchés publics d’une certaine envergure et le cahier général des charges applicables aux marchés dans les secteurs de l’eau, de l’énergie, des transports et des services postaux telles que fixées par règlement grand-ducal, soit d’une violation des dispositions des titres I et II de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, ou d’une violation des dispositions de la loi sur l’attribution de contrats de concession, et si cette violation a compromis les chances du soumissionnaire intentant un recours d’obtenir le marché ;
+
+- dans les cas visés à l’article 8, point c), deuxième alinéa.
 
 La décision déclarant un marché dépourvu d’effets peut être subordonnée à une décision au fond établissant qu’une violation a été commise.
 
@@ -118,6 +152,12 @@ Toutefois, l’intérêt économique directement lié au marché concerné ne co
 
 L’intervention du président du tribunal d’arrondissement siégeant comme juge des référés prévue à l’article 9, point a) est exclue si:
 
+- le pouvoir adjudicateur ou l’entité adjudicatrice estiment que la passation du marché sans publication préalable d’un avis de marché ou d’un avis de concession au Journal officiel de l’Union européenne est autorisée en vertu des dispositions des Livres II ou III de la loi sur les marchés publics ou des dispositions de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité ou des dispositions de la loi sur l’attribution de contrats de concession,
+
+- le pouvoir adjudicateur ou l’entité adjudicatrice a publié au Journal officiel de l’Union européenne un avis de transparence ex ante volontaire exprimant son intention de conclure le marché, tel que décrit à l’article 18, et
+
+- le marché n’a pas été conclu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour de publication de cet avis au Journal officiel de l’Union européenne.
+
 En cas de recours dans le délai prévu au troisième tiret selon les modalités des articles 6 ou 21, le pouvoir adjudicateur ou l’entité adjudicatrice est obligé de surseoir à la conclusion du contrat jusqu’à la notification de l’ordonnance en référé et jusqu’à l’expiration du délai prévu au troisième tiret.
 
 <a id="art-13"></a>
@@ -125,13 +165,51 @@ En cas de recours dans le délai prévu au troisième tiret selon les modalités
 
 L’intervention du président du tribunal d’arrondissement siégeant comme juge des référés prévue par l’article 9, paragraphe (1), point c) est exclue si:
 
+- le pouvoir adjudicateur estime que l’attribution d’un marché est conforme à la procédure relative à l’attribution des marchés fondés sur les accords cadres avec plusieurs opérateurs économiques remis en concurrence telle que fixée par règlement grand-ducal,
+
+- le pouvoir adjudicateur a envoyé aux soumissionnaires concernés une décision d’attribution du marché, accompagnée d’un exposé synthétique des motifs, conformément à l’article 7, premier tiret, et
+
+- la conclusion du contrat n’a pas pu avoir lieu avant l’expiration d’un délai d’au moins dix jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires concernés si un télécopieur ou un moyen électronique est utilisé, ou, si d’autres moyens de communication sont utilisés, avant l’expiration d’un délai d’au moins quinze jours à compter du lendemain du jour où la décision d’attribution du marché est envoyée aux soumissionnaires concernés.
+
 En cas de recours dans le délai prévu au troisième tiret selon les modalités de l’article 6, le pouvoir adjudicateur est obligé de surseoir à la conclusion du contrat jusqu’à la notification de l’ordonnance en référé et jusqu’à l’expiration du délai prévu au troisième tiret.
 
 <a id="art-14"></a>
 ## Art. 14.
 
+(1)
+
+En cas de violation des articles 4, alinéa (2), 5, 6, 20, paragraphe (5) ou de l’article 21, sans que les conditions d’application de l’article 9, point b) ne soient remplies, le président du tribunal d’arrondissement siégeant comme juge des référés prononce des sanctions de substitution.
+
+(2)
+
+Les sanctions de substitution pouvant être prononcées suivant l’article 10, alinéa (2) et suivant l’article 14, paragraphe (1) doivent être effectives, proportionnées et dissuasives.
+
+Elles consistent:
+
+- à imposer des pénalités financières au pouvoir adjudicateur ou à l’entité adjudicatrice, ou
+
+- à abréger la durée du marché.
+
+Le président du tribunal d’arrondissement siégeant comme juge des référés tient compte de tous les facteurs pertinents, y compris la gravité de la violation, le comportement du pouvoir adjudicateur ou de l’entité adjudicatrice et, dans les cas visés à l’article 10 la mesure dans laquelle le contrat continue à produire des effets.
+
+Dans l’hypothèse où une pénalité financière est imposée, le président du tribunal d’arrondissement siégeant comme juge des référés émet un ordre de paiement d’une somme déterminée au profit de l’Etat et à percevoir par l’administration de l’enregistrement et des domaines. Le paiement de cette somme peut être subordonné à une décision au fond établissant que la violation a été commise. La somme à verser doit être de nature à empêcher le pouvoir adjudicateur ou l’entité adjudicatrice de commettre une nouvelle infraction à la loi. Cette pénalité financière s’élève au maximum à 15 pour cent du montant hors TVA du marché attribué.
+
+L’octroi de dommages et intérêts ne constitue pas une sanction appropriée aux fins de cet article.
+
 <a id="art-15"></a>
 ## Art. 15.
+
+(1)
+
+L’introduction d’un recours en application de l’article 9 doit intervenir:
+
+- avant l’expiration d’un délai de 30 jours à compter du lendemain du jour où:
+
+  - le pouvoir adjudicateur ou l’entité adjudicatrice a publié un avis d’attribution du marché selon les procédures fixées par règlement grand-ducal ou conformément à l’article 30, paragraphe 3, et aux articles 31 et 32 de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, pour les marchés relevant de ladite loi, ou conformément aux articles 31 et 32 de la loi sur l’attribution de contrats de concession, à condition que cet avis contienne la justification de la décision d’attribuer le marché sans publication préalable d’un avis de marché au Journal officiel de l’Union européenne, ou
+
+  - le pouvoir adjudicateur ou l’entité adjudicatrice a informé les soumissionnaires et les candidats concernés de la conclusion d’un accord-cadre ou de l’adjudication d’un marché, pour autant que cette information soit accompagnée d’un exposé synthétique des motifs tel que prévu à l’article 7, ou en ce qui concerne la loi sur l’attribution de contrats de concession tel que prévu à l’article 39, paragraphe 1er, alinéa 2, sous réserve de l’article 39, paragraphe 2. Ce délai s’applique également aux cas visés à l’article 8, point c) ;
+
+- avant l’expiration d’un délai de six mois à compter du lendemain du jour de la conclusion du contrat lorsque le pouvoir adjudicateur ou l’entité adjudicatrice n’a pas respecté les dispositions du point a).
 
 <a id="art-16"></a>
 ## Art. 16.
@@ -148,6 +226,16 @@ Tout pouvoir adjudicateur ou entité adjudicatrice autre que l’Etat qui a fait
 
 L’avis de transparence ex ante volontaire visé à l’article 12, deuxième tiret, contient les informations suivantes:
 
+- nom et coordonnées du pouvoir adjudicateur ou de l’entité adjudicatrice;
+
+- description de l’objet du marché;
+
+- justification de la décision du pouvoir adjudicateur ou de l’entité adjudicatrice d’attribuer le marché sans publication préalable d’avis de marché au Journal officiel de l’Union européenne;
+
+- nom et coordonnées de l’opérateur économique auquel il a été décidé d’attribuer le marché, et
+
+- le cas échéant, toute autre information jugée utile par le pouvoir adjudicateur ou par l’entité adjudicatrice.
+
 <a id="art-19"></a>
 ## Art. 19.
 
@@ -157,6 +245,30 @@ Une autorité déterminée par voie de règlement grand-ducal communique chaque 
 
 <a id="art-20"></a>
 ## Art. 20.
+
+(1)
+
+Le président du tribunal d’arrondissement siégeant comme juge des référés peut: soit
+
+- prendre des mesures provisoires ayant pour but de corriger la violation alléguée ou d’empêcher que d’autres préjudices soient causés aux intérêts concernés, y compris des mesures destinées à suspendre ou à faire suspendre la procédure de passation de marché en cause ou l’exécution de toute décision prise par l’entité adjudicatrice. Il peut notamment supprimer les spécifications techniques, économiques ou financières discriminatoires figurant dans l’avis du marché, l’avis périodique indicatif, l’avis sur l’existence d’un système de qualification, l’invitation à soumissionner, les cahiers des charges ou dans tout autre document se rapportant à la procédure de passation de marché en cause; soit
+
+- prendre toutes mesures autres que celles prévues au point a), ayant pour but de corriger la violation constatée et d’empêcher que des préjudices soient causés aux intérêts concernés; il peut notamment émettre un ordre de paiement d’une somme déterminée au profit de l’Etat et à percevoir par l’administration de l’enregistrement et des domaines dans le cas où l’infraction n’est pas corrigée ou évitée. Le paiement de cette somme peut être subordonné à une décision au fond établissant que la violation a été commise.
+
+(2)
+
+Le président du tribunal d’arrondissement siégeant comme juge des référés, en tenant compte des conséquences probables de ces mesures pour tous les intérêts susceptibles d’être lésés, ainsi que de l’intérêt public, peut décider de ne pas accorder ces mesures lorsque leurs conséquences négatives pourraient dépasser leurs avantages. Une décision de ne pas accorder des mesures provisoires ne porte pas atteinte aux autres droits revendiqués par la personne requérant ces mesures.
+
+(3)
+
+La somme à verser conformément au paragraphe (1), point b) doit être de nature à empêcher l’entité adjudicatrice de commettre une infraction ou de persévérer dans une infraction. Le paiement de cette somme peut être subordonné à une décision au fond établissant que la violation a bien été commise. La somme à verser doit être de nature à empêcher l’entité adjudicatrice de commettre une nouvelle infraction à la loi. Cette pénalité financière s’élève au maximum à 15 pour cent du montant hors TVA du marché attribué.
+
+(4)
+
+L’assignation en référé prévue par le paragraphe (2) doit se faire avant la décision d’adjudication par l’entité adjudicatrice. La requérante notifie par voie d’huissier à l’entité adjudicatrice l’assignation en référé.
+
+(5)
+
+L’entité adjudicatrice est obligée de surseoir à la poursuite de la procédure de mise en concurrence, voire à la décision d’adjudication jusqu’à la notification de l’ordonnance en référé.
 
 <a id="art-21"></a>
 ## Art. 21.
@@ -185,3 +297,11 @@ La loi modifiée du 13 mars 1993 relative à l’exécution en droit luxembourge
 
 <a id="art-23"></a>
 ## Art. 23.
+
+(1)
+
+La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.
+
+(2)
+
+Les procédures comportant publication d’un avis, publiées avant la date d’entrée en vigueur, et à défaut de publication d’un avis, les invitations à présenter une candidature ou à remettre une offre, lancées avant la date d’entrée en vigueur, demeurent soumises aux dispositions législatives en vigueur au moment de la publication de l’avis ou de l’invitation.

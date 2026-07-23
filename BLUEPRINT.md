@@ -885,6 +885,22 @@ provision: art-13
 - `1` when any validation error exists;
 - `2` for invalid CLI usage.
 
+Checks include frontmatter schema and field order, source file presence and SHA-256,
+unique provision anchors, and **Markdown↔retained-source statutory word parity**
+with classified residuals. The gate is **unexplained source-only tokens** (within
+0.5% of source size). Exact concatenations under a narrow French
+proclitic/ordinal/N° allowlist are counted as **recognized token-boundary
+differences** (e.g. `ladirective` ↔ `la` + `directive`) — not dropped prose and
+not a general rewrite dictionary. Failures include a **per-article
+first-difference** report. Single-law `lex check` prints a public `fidelity:`
+summary (`unexplained_*`, `recognized_boundary_differences`, `divergence_ratio`).
+
+Pass a law directory path to run the fidelity check for that law only:
+
+```bash
+uv run lex check countries/lu/laws/loi-2000-06-29-n2
+```
+
 Text errors use:
 
 ```text

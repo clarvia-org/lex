@@ -32,6 +32,10 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 Les sections suivantes sont créées dans l’enseignement secondaire général :
 
+- dans la division hôtelière et touristique, la section gestion de l’hospitalité ;
+
+- dans la division technique générale, la section architecture, design et développement durable et la section sciences environnementales.
+
 <a id="art-2-20190916"></a>
 ## Art. 2.
 
@@ -55,6 +59,24 @@ Le règlement grand-ducal modifié du 28 juillet 2017 fixant les grilles horaire
 Le présent règlement est applicable à partir de l'année scolaire 2018/2019.
 
 Par dérogation à l’alinéa 1er :
+
+- la grille horaire pour la classe de 2e de la section arts et communication visuelle est applicable à partir de l’année scolaire 2019/2020 ;
+
+- la grille horaire pour la classe de 1re de la section arts et communication visuelle est applicable à partir de l’année scolaire 2020/2021 ;
+
+- la grille horaire pour la classe de 3e de la section architecture, design et développement durable est applicable à partir de l’année scolaire 2019/2020 ;
+
+- la grille horaire pour la classe de 2e de la section architecture, design et développement durable est applicable à partir de l’année scolaire 2020/2021 ;
+
+- la grille horaire pour la classe de 1re de la section architecture, design et développement durable est applicable à partir de l’année scolaire 2021/2022 ;
+
+- la grille horaire pour la classe de 1re de la section sciences environnementales est applicable à partir de l’année scolaire 2019/2020 ;
+
+- la grille horaire pour la classe de 1re nouveau régime de la section sciences de la santé est applicable à partir de l’année scolaire 2019/2020 ;
+
+- la grille horaire pour la classe de 3e nouveau régime de la section sciences sociales est applicable à partir de l’année scolaire 2019/2020 ;
+
+- la grille horaire pour la classe de 1re de la section gestion de l’hospitalité est applicable à partir de l’année scolaire 2019/2020.
 
 <a id="art-6-20190916"></a>
 ## Art. 6.

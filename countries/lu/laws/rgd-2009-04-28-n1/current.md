@@ -37,7 +37,7 @@ La déclaration est à adresser par le médecin traitant signataire du formulair
 <a id="art-3"></a>
 ## Art. 3.
 
-La déclaration est validée par le Contrôle médical de la sécurité sociale conformément à l’article 420 du Code de la sécurité sociale. Cette validation est inscrite sur le volet administratif du formulaire de déclaration qui est communiqué à la Caisse nationale de santé endéans les trois jours ouvrables de son entrée auprès du Contrôle médical de la sécurité sociale.
+La déclaration est validée par le Contrôle médical de la sécurité sociale conformément à l’ article 420 du Code de la sécurité sociale. Cette validation est inscrite sur le volet administratif du formulaire de déclaration qui est communiqué à la Caisse nationale de santé endéans les trois jours ouvrables de son entrée auprès du Contrôle médical de la sécurité sociale.
 
 La validation indique la date de l’ouverture du droit aux soins palliatifs, fixée d’après les indications du médecin traitant. La date d’ouverture du droit ne peut être antérieure de plus de cinq jours ouvrables à la date d’entrée de la déclaration auprès du Contrôle médical de la sécurité sociale.
 

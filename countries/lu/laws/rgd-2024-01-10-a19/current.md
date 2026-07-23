@@ -36,6 +36,32 @@ warning: 'Official consolidation: Version rectifiée applicable au 03/02/2024 : 
 
 Les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d’infirmier militaire gradué, d’infirmier militaire et d’infirmier militaire anesthésiste de l’Armée luxembourgeoise sont autorisés à mettre en œuvre les techniques suivantes :
 
+- libération et maintien des voies aériennes, y compris par moyens invasifs et dispositifs supra-glottiques ;
+
+- décompression en urgence d’un pneumothorax compressif ;
+
+- obtention d’un accès intraveineux périphérique et intraosseux ;
+
+- mise en place de perfusion liquidienne et traitement de substitution volémique ;
+
+- administration médicamenteuse y compris la préparation par voies transmuqueuse et parentérale y compris à l’aide d’une pompe à perfusion ;
+
+- utilisation de moyens antihémorragiques ;
+
+- administration d’oxygène par sonde nasale ou masque ;
+
+- première mise en place et retrait d’une sonde vésicale ainsi que les soins liés ;
+
+- pose de plâtre ou de moyens d’immobilisation similaires ;
+
+- prélèvement de sang par ponction veineuse ou capillaire ou par dispositifs ad hoc ;
+
+- contrôle des gaz du sang à l’aide d’appareils automatiques ;
+
+- prélèvements et collectes de sécrétions et d’excrétions à l’exception de toute ponction ;
+
+- enregistrement simple d’un électrocardiogramme, d’un électromyogramme, d’une électroneurographie, d’un électroencéphalogramme, et de potentiels évoqués.
+
 <a id="art-2"></a>
 ## Art. 2.
 

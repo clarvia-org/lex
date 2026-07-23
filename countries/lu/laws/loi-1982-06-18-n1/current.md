@@ -188,6 +188,14 @@ Si la fin de l’année culturale est postérieure au congé de neuf mois au moi
 
 Sans préjudice des dommages-intérêts éventuellement dus, le bailleur ne peut poursuivre la résiliation du bail sans congé préalable que dans les cas ci-après:
 
+- si le preneur, six mois après une mise en demeure par lettre recommandée, n’a pas payé le fermage échu;
+
+- si le preneur ou la personne qu’il s’est substituée dans l’exploitation du bien loué, a causé la dépréciation du bien loué par le fait d’une mauvaise exploitation des terres ou d’une négligence grave dans l’entretien locatif des bâtiments loués;
+
+- si le preneur n’a pas respecté les dispositions de l’article 21;
+
+- si le preneur, des membres de sa famille ou la personne qu’il s’est substituée dans l’exploitation du bien loué, se sont rendus coupables d’actes d’hostilité ou d’injures graves envers le bailleur ou des membres de sa famille vivant sous son toit.
+
 #### Chapitre V De la sous-location, de la cession du bail et de la révision du prix de fermage
 
 <a id="art-21"></a>
@@ -222,6 +230,12 @@ Lorsqu’en conformité de l’article 25, le bailleur fait opposition à la ces
 Le bailleur, auquel une cession a été notifiée, peut faire opposition en citant l’ancien et le nouveau preneur devant le juge de paix dans le mois de la notification de la cession, à peine de déchéance, en vue d’entendre valider son opposition.
 
 Peuvent seuls être admis comme motifs d’opposition:
+
+- le fait qu’avant toute notification de la cession, le bailleur a donné un congé valable;
+
+- le fait que le cessionnaire n’a pas la capacité professionnelle requise ou ne dispose pas des moyens matériels nécessaires pour une bonne exploitation des biens loués;
+
+- le fait que le cédant ou le cessionnaire ou des membres de leur famille se sont rendus coupables d’actes d’hostilité ou d’injures graves envers le bailleur ou des membres de sa famille vivant sous son toit.
 
 <a id="art-26"></a>
 ## Art. 26.
@@ -340,7 +354,13 @@ La période comprise entre la conclusion du bail et le 1er novembre suivant est 
 
 Le bail en cours au moment de l'entrée en vigueur de la loi du 2 juillet 2018 portant modification 1° de la loi modifiée du 18 juin 1982 portant réglementation du bail à ferme et 2° de certaines dispositions du Code civil, continue à produire ses effets suivant les conditions convenues par les parties jusqu'à son expiration ou à l'expiration de la période de bail en cours.
 
-À partir de l’entrée en vigueur de la loi précitée du 2 juillet 2018 et jusqu’au 31 décembre 2018, le bail peut être dénoncé selon les modalités suivantes : Le bail portant sur une ferme entière, en cours depuis au moins six ans au moment de l’entrée en vigueur de la loi précitée du 2 juillet 2018, peut être dénoncé avec un préavis de trois ans. Le bail portant sur des parcelles, en cours depuis au moins trois ans au moment de l’entrée en vigueur de la loi précitée du 2 juillet 2018, peut être dénoncé avec un préavis de deux ans. Le bail portant sur des parcelles, en cours depuis au moins neuf ans au moment de l’entrée en vigueur de la loi précitée du 2 juillet 2018, peut être dénoncé avec un préavis de neuf mois.
+À partir de l’entrée en vigueur de la loi précitée du 2 juillet 2018 et jusqu’au 31 décembre 2018, le bail peut être dénoncé selon les modalités suivantes :
+
+Le bail portant sur une ferme entière, en cours depuis au moins six ans au moment de l’entrée en vigueur de la loi précitée du 2 juillet 2018, peut être dénoncé avec un préavis de trois ans.
+
+Le bail portant sur des parcelles, en cours depuis au moins trois ans au moment de l’entrée en vigueur de la loi précitée du 2 juillet 2018, peut être dénoncé avec un préavis de deux ans.
+
+Le bail portant sur des parcelles, en cours depuis au moins neuf ans au moment de l’entrée en vigueur de la loi précitée du 2 juillet 2018, peut être dénoncé avec un préavis de neuf mois.
 
 <a id="art-42-20180709"></a>
 ## Art. 42.

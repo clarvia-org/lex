@@ -43,6 +43,10 @@ Dans les mêmes délais, une copie du formulaire et de la carte est à envoyer p
 
 Les dispositions des alinéas 1er et 2 du présent article ne s’appliquent
 
+- ni aux chasses en battue de douze chasseurs ou moins,
+
+- ni à celles destinées au sanglier et organisées dans un délai inférieur à quinze jours.
+
 Néanmoins, le préposé de la nature et des forêts territorialement compétent doit être informé de ces battues dès le début de leur organisation.
 
 <a id="art-3"></a>

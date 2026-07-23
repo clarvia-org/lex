@@ -29,7 +29,13 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-Le ministre ayant la Protection des consommateurs dans ses attributions peut prononcer les sanctions administratives suivantes: Dans le cadre de l'instruction de son dossier et avant toute sanction, tout service ferroviaire de transport de voyageurs a le droit d'être entendu par le ministre ayant la Protection des consommateurs dans ses attributions et de présenter ses observations.
+Le ministre ayant la Protection des consommateurs dans ses attributions peut prononcer les sanctions administratives suivantes:
+
+- l'avertissement écrit et
+
+- l'amende administrative.
+
+Dans le cadre de l'instruction de son dossier et avant toute sanction, tout service ferroviaire de transport de voyageurs a le droit d'être entendu par le ministre ayant la Protection des consommateurs dans ses attributions et de présenter ses observations.
 
 Au cas où une sanction est prononcée, la décision infligeant la sanction administrative doit être motivée.
 

@@ -45,6 +45,16 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 
 La notification prévue à l'article 3 de la loi modifiée du 24 mai 2018 sur les conditions d'hygiène et de salubrité relatives à la pratique des techniques de tatouage par effraction cutanée, du perçage, du branding, cutting, ainsi que du bronzage UV (ci-après « la loi ») comprend obligatoirement :
 
+- les noms et prénoms du déclarant ;
+
+- le nom de l'employeur et des personnes faisant l'objet de la notification ;
+
+- l’adresse du lieu de l'exercice des activités ;
+
+- les techniques visées à l'article 2 (1) de la loi mises en oeuvre ;
+
+- la/les attestation(s) de formation ou le/les titre(s) équivalent(s) visés à l'article 3 de la loi.
+
 Tout changement des données ci-dessus est notifié au ministre.
 
 <a id="art-2"></a>
@@ -64,6 +74,10 @@ L’annexe B précise les caractéristiques et l’équipement des locaux visés
 
 Ne peuvent pas entrer dans la composition des produits de tatouage :
 
+- Les substances énumérées à l’annexe XVII du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances ;
+
+- Les substances listées dans le règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges.
+
 <a id="art-5"></a>
 ## Art. 5.
 
@@ -78,6 +92,24 @@ Suite à l'information préalable telle que prévue à l'article 7 de la loi, le
 ## Art. 7.
 
 Le professionnel recueille le consentement éclairé du client respectivement du client mineur d'âge et de son titulaire de l'autorité parentale par écrit en double exemplaire moyennant un document, comprenant au moins les informations suivantes :
+
+- nom, prénom(s) du client ;
+
+- pour les clients mineurs d'âge, nom, prénom(s) du titulaire de l'autorité parentale ;
+
+- adresse postale ;
+
+- date de naissance ;
+
+- type d'acte ;
+
+- localisation de l'acte ;
+
+- nom, prénom(s) du professionnel qui exécute l'acte ;
+
+- déclaration du client qu'il a été adéquatement mis en garde contre les risques et conséquences de l'acte moyennant entretien préalable et fiche d'information, conformément aux dispositions de l'article 7 de la loi ;
+
+- déclaration de consentement éclairé à l' acte proposé du client et du professionnel moyennant signature apposée de la date et du lieu de signature.
 
 <a id="art-8"></a>
 ## Art. 8.

@@ -36,6 +36,14 @@ Dans les classes supérieures de l'enseignement secondaire classique, le nombre 
 
 Les matières des classes supérieures définies par l’article 49 de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement secondaire classique sont réparties sur les différentes classes dans les quatre volets suivants :
 
+- Le volet « langues et mathématiques » ;
+
+- Le volet « spécialisation » regroupe les matières caractéristiques de la section ;
+
+- Le volet « formation générale » regroupe les autres matières qui portent sur la formation générale des élèves ;
+
+- Le volet « domaine optionnel » comprend les matières à option.
+
 Les matières à option du volet 4 sont définies par chaque lycée. L’offre du lycée est documentée dans son plan de développement de l’établissement scolaire. Elle tient compte des caractéristiques de sa population scolaire.
 
 <a id="art-3"></a>
@@ -48,6 +56,12 @@ Le volet « langues et mathématiques » inclut comme disciplines l’allemand, 
 Les disciplines du volet « spécialisation » sont définies par les grilles horaires mentionnées à l’alinéa 1er.
 
 Le volet « formation générale » d’une section regroupe les disciplines suivantes pour autant qu’elles soient prévues par la grille horaire et ne fassent pas partie du volet « spécialisation » :
+
+- en classe de 3e : biologie, physique, chimie, histoire, éducation artistique, éducation physique, cours vie et société ;
+
+- en classe de 2e : histoire, éducation à la citoyenneté , philosophie, physique, chimie, économie générale, géographie, éducation musicale, éducation artistique, éducation physique ;
+
+- en classe de 1re : philosophie, histoire, économie générale, éducation musicale, éducation artistique, éducation physique.
 
 Les disciplines du volet « domaine optionnel » sont définies par le lycée.
 
@@ -63,10 +77,82 @@ Les programmes du volet « domaine optionnel » sont publiés par le lycée sur 
 <a id="art-5"></a>
 ## Art. 5.
 
+(1)
+
+Pour chaque section, la grille horaire en classe de 3e comprend les disciplines suivantes avec au moins le nombre indiqué de leçons hebdomadaires :
+
+- allemand : 3 leçons, 2 leçons pour l’élève qui étudie le latin ;
+
+- anglais : 4 leçons ;
+
+- français : 3 leçons, 2 leçons pour l’élève qui étudie le latin ;
+
+- mathématiques : 3 leçons ;
+
+- biologie : 2 leçons ou 1,5 leçons de sciences de la vie et de la terre ;
+
+- physique : 1,5 leçons ;
+
+- chimie : 1,5 leçons ;
+
+- histoire : 2 leçons ;
+
+- éducation physique : 1 leçon ;
+
+- éducation artistique : 1 leçon ;
+
+- cours vie et société : 1 leçon.
+
+(2)
+
+Pour chaque section, la grille horaire en classe de 2e comprend les disciplines suivantes avec au moins le nombre indiqué de leçons hebdomadaires :
+
+- allemand : 3 leçons ;
+
+- anglais : 3 leçons ;
+
+- français : 3 leçons ;
+
+- histoire : 2 leçons ;
+
+- éducation physique : 1 leçon ;
+
+- instruction civique : 1 leçon.
+
+L’élève qui étudie le latin choisit deux parmi les trois langues allemande, anglaise et française.
+
+(3)
+
+Pour chaque section, la grille horaire en classe de 1re comprend les disciplines suivantes avec au moins le nombre indiqué de leçons hebdomadaires :
+
+- pour l’une des trois langues allemande, anglaise et française : 3 leçons ;
+
+- pour une deuxième des trois langues allemande, anglaise et française : 3 leçons ;
+
+- éducation physique : 1 leçon ;
+
+- philosophie : 2 leçons.
+
+(4)
+
+L’élève étudiant le latin suit au moins trois leçons hebdomadaires de cours de latin dans les classes de 3e, 2e et 1re.
+
+(5)
+
+Pour chaque section et classe, la grille horaire comprend au moins 2 leçons de cours d’option du volet « domaine optionnel ».
+
 <a id="art-6"></a>
 ## Art. 6.
 
 Les différentes grilles horaires d’une même section peuvent varier selon les dispositions suivantes :
+
+- une ou plusieurs disciplines du volet « langues et mathématiques » d’une section peuvent être remplacées chacune par une discipline du volet « langues et mathématiques » d’une autre section de l’enseignement secondaire classique ;
+
+- une ou plusieurs disciplines du volet « spécialisation » du tableau peuvent être remplacées chacune par une discipline du volet « spécialisation » d’une autre section ou par une discipline du volet « formation générale » de la même section ou d’une autre section ou par une nouvelle discipline dont le programme doit satisfaire aux exigences de l’enseignement secondaire classique ;
+
+- une ou plusieurs disciplines du volet « formation générale » du tableau peuvent être remplacées chacune par une discipline du volet « formation générale » d’une autre section ou par une discipline du volet « domaine optionnel» ;
+
+- le nombre minimal de leçons défini à l’article 5 est respecté.
 
 <a id="art-7"></a>
 ## Art. 7.
@@ -78,6 +164,14 @@ L’offre scolaire du lycée est dûment documentée et intégrée au plan de d�
 <a id="art-8"></a>
 ## Art. 8.
 
+(1)
+
+À l’examen de fin d’études secondaires organisé selon le règlement grand-ducal modifié du 31 juillet 2006 portant organisation de l’examen de fin d’études secondaires, le candidat passe des épreuves écrites pour six disciplines dont deux disciplines du volet « langues et mathématiques », trois disciplines du volet « spécialisation » et une discipline du volet « formation générale », ainsi que des épreuves orales dans deux disciplines dont une du volet « langues et mathématiques » et une du volet « spécialisation » pour autant qu’elles aient fait l’objet d’une épreuve d’examen écrite.
+
+(2)
+
+Les disciplines d’examen sont arrêtées par règlement grand-ducal ; s’il y a lieu, elles sont choisies par l’élève dans la limite des dispositions du paragraphe 1er.
+
 <a id="art-9"></a>
 ## Art. 9.
 
@@ -87,6 +181,12 @@ Le règlement grand-ducal du 30 juillet 2002 déterminant les matières obligato
 ## Art. 10.
 
 La mise en vigueur du présent règlement grand-ducal est la suivante :
+
+- à partir de l’année scolaire 2018/2019 pour les classes de 4e et de 3e de l’enseignement secondaire classique ;
+
+- à partir de l’année scolaire 2019/2020 pour les classes de 2e de l’enseignement secondaire classique ;
+
+- à partir de l’année scolaire 2020/2021 pour les classes de 1re de l’enseignement secondaire classique.
 
 <a id="art-11"></a>
 ## Art. 11.

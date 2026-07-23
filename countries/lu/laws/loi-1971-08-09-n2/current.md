@@ -59,6 +59,12 @@ En vue de rechercher et de constater les infractions aux règlements des Communa
 
 Les agents qualifiés ont accès aux locaux, terrains, moyens de transport, livres et documents professionnels des personnes et entreprises assujetties aux règlements pris en application de l'article 1er de la présente loi. Ils peuvent:
 
+- pénétrer même pendant la nuit, lorsqu'il existe des indices graves faisant présumer une infraction à la présente loi, dans les locaux et terrains visés à l'alinéa deux du présent article; toutefois s'il s'agit du domicile privé, un mandat de perquisition est requis;
+
+- visiter pendant le jour et même pendant la nuit, lorsqu'il existe des indices graves faisant présumer une infraction à la présente loi, les véhicules des entreprises de transports et vérifier les documents imposés par la loi et les règlements pris en vertu de la présente loi;
+
+- exiger la production de toutes les écritures commerciales relatives aux objets visés par la présente loi;
+
 <a id="art-4"></a>
 ## Art. 4.
 

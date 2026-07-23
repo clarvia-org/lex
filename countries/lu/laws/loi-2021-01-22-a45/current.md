@@ -29,7 +29,9 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-1er"></a>
 ## Art. 1er.
 
-À l’article L. 234-51 du Code du travail est inséré un alinéa 2 nouveau de la teneur suivante :II en est de même en cas de mise en quarantaine de l’enfant de moins de treize ans accomplis et de mesure d’isolement, d’éviction, d’éloignement, de mise à l’écart ou de maintien à domicile de l’enfant de moins de treize ans accomplis, pour des raisons impérieuses de santé publique, décidées ou recommandées par l’autorité nationale ou étrangère compétente, en vue de limiter la propagation d’une épidémie. II en est de même en cas de mise en quarantaine de l’enfant de moins de treize ans accomplis et de mesure d’isolement, d’éviction, d’éloignement, de mise à l’écart ou de maintien à domicile de l’enfant de moins de treize ans accomplis, pour des raisons impérieuses de santé publique, décidées ou recommandées par l’autorité nationale ou étrangère compétente, en vue de limiter la propagation d’une épidémie.
+À l’article L. 234-51 du Code du travail est inséré un alinéa 2 nouveau de la teneur suivante :
+
+II en est de même en cas de mise en quarantaine de l’enfant de moins de treize ans accomplis et de mesure d’isolement, d’éviction, d’éloignement, de mise à l’écart ou de maintien à domicile de l’enfant de moins de treize ans accomplis, pour des raisons impérieuses de santé publique, décidées ou recommandées par l’autorité nationale ou étrangère compétente, en vue de limiter la propagation d’une épidémie.
 
 <a id="art-2"></a>
 ## Art. 2.
@@ -39,12 +41,22 @@ warning: Official consolidation. Cite the official ELI URI and publisher; lex is
 <a id="art-3"></a>
 ## Art. 3.
 
-À l’article L. 234-53 du même code, l’alinéa 1er est remplacé comme suit :Pour les cas visés à l’article L. 234-51, alinéa 1er, l’absence du bénéficiaire lors d’un congé pour raisons familiales est justifiée moyennant un certificat médical attestant la maladie, l’accident ou d’autres raisons impérieuses de santé de l’enfant, la nécessité de la présence du bénéficiaire et la durée de celle-ci. Pour les cas visés à l’article L. 234-51, alinéa 2, l’absence du bénéficiaire est justifiée par un certificat de l’autorité nationale ou étrangère compétente attestant la décision ou la recommandation. Pour les cas visés à l’article L. 234-51, alinéa 1er, l’absence du bénéficiaire lors d’un congé pour raisons familiales est justifiée moyennant un certificat médical attestant la maladie, l’accident ou d’autres raisons impérieuses de santé de l’enfant, la nécessité de la présence du bénéficiaire et la durée de celle-ci. Pour les cas visés à l’article L. 234-51, alinéa 2, l’absence du bénéficiaire est justifiée par un certificat de l’autorité nationale ou étrangère compétente attestant la décision ou la recommandation.
+À l’article L. 234-53 du même code, l’alinéa 1er est remplacé comme suit :
+
+Pour les cas visés à l’article L. 234-51, alinéa 1er, l’absence du bénéficiaire lors d’un congé pour raisons familiales est justifiée moyennant un certificat médical attestant la maladie, l’accident ou d’autres raisons impérieuses de santé de l’enfant, la nécessité de la présence du bénéficiaire et la durée de celle-ci. Pour les cas visés à l’article L. 234-51, alinéa 2, l’absence du bénéficiaire est justifiée par un certificat de l’autorité nationale ou étrangère compétente attestant la décision ou la recommandation.
 
 <a id="art-4"></a>
 ## Art. 4.
 
 Par dérogation à l’article L. 234-51, alinéa 1er, du même code, peut également prétendre au congé pour raisons familiales le salarié ou le travailleur indépendant ayant à charge :
+
+- un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental ;
+
+- un enfant né avant le 1er septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ;
+
+- un enfant né à partir du 1er septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ;
+
+- un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente.
 
 En cas de fermeture totale ou partielle ou de façon isolée, avec ou sans enseignement à distance des écoles ou des structures d’accueil pour enfants situées en dehors du territoire luxembourgeois, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, un document officiel émanant de l’autorité compétente du pays concerné attestant la situation donnée est à joindre à la demande par le bénéficiaire.
 

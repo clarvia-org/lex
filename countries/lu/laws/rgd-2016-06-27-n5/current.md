@@ -38,18 +38,62 @@ Si une exploitation agricole compte plusieurs personnes affiliées au titre de l
 <a id="art-3"></a>
 ## Art. 3.
 
+(1)
+
+A partir de l’exercice de cotisation 2016, les marges brutes standard des différentes spéculations animales et végétales fixées à l’annexe I sont multipliées pour chaque exploitation agricole par leur volume déclaré au Service d’économie rurale au cours de l’année précédant l’exercice de cotisation.
+
+Par dérogation à l’alinéa 1er, les marges brutes standard des différentes spéculations animales bovines fixées à l’annexe I sont multipliées par le cheptel bovin moyen détenu pendant la période du 1er novembre jusqu’au 31 octobre de l’année précédant l’exercice de cotisation en utilisant la base centrale de données informatiques visée à l’article 13 du règlement grand-ducal du 22 avril 1999 portant mesures d’application du règlement (CE) n° 820/97 du Conseil du 21 avril 1997 en ce qui concerne l’identification et l’enregistrement des bovins.
+
+(2)
+
+La marge brute standard totale de l’exploitation est obtenue en ajoutant au résultat déterminé conformément au paragraphe 1er les aides à la production suivantes versées au cours de l’année précédant l’exercice de cotisation:
+
+- les paiements directs accordés au titre des régimes de soutien relevant de la politique agricole commune prévus par les dispositions nationales prises en exécution du droit de l’Union européenne en vigueur;
+
+- l’aide accordée au titre de l’agriculture biologique prévue par la législation nationale en vigueur concernant le soutien au développement rural;
+
+- l’aide à la restructuration et à la reconversion des vignobles prévue par la législation nationale en vigueur concernant le soutien au développement rural.
+
 <a id="art-4"></a>
 ## Art. 4.
+
+(1)
+
+Aux fins du calcul du revenu professionnel agricole de l’exploitation sont ajoutées au résultat déterminé conformément à l’article qui précède les aides à la production suivantes versées au cours de l’année précédant l’exercice de cotisation:
+
+- les aides accordées au titre des paiements agroenvironnementaux et climatiques prévues par la législation nationale en vigueur concernant le soutien au développement rural;
+
+- la prime à l’entretien du paysage et de l’espace naturel prévue par la législation nationale en vigueur concernant le soutien au développement rural.
+
+(2)
+
+Sont déduits du résultat déterminé conformément au paragraphe qui précède les coûts de production fixes déterminés forfaitairement en fonction de l’orientation technico-économique de l’exploitation.
+
+L’orientation technico-économique de l’exploitation est déterminée conformément au règlement délégué (UE) n° 1198/2014 de la Commission du 1er août 2014 complétant le règlement (CE) n° 1217/2009 du Conseil portant création d’un réseau d’information comptable agricole sur les revenus et l’économie des exploitations agricoles dans l’Union européenne.
+
+Les coûts de production fixes correspondent aux pourcentages définis à l’annexe II.
 
 <a id="art-5"></a>
 ## Art. 5.
 
 Sont ajoutées au résultat déterminé conformément à l’article qui précède les aides à la production et subventions au revenu ci-après versées à l’exploitation agricole au cours de l’année précédant l’exercice de cotisation:
 
+- les paiements en faveur des zones soumises à des contraintes naturelles ou à d’autres contraintes spécifiques prévues par la législation nationale en vigueur concernant le soutien au développement rural;
+
+- les aides pour la sauvegarde de la diversité biologique prévue par la législation nationale en vigueur concernant le soutien au développement rural.
+
 <a id="art-6"></a>
 ## Art. 6.
 
 Le revenu professionnel agricole de l’exploitation servant d’assiette au calcul des cotisations est obtenu en déduisant du résultat déterminé conformément à l’article qui précède les charges réelles supportées par l’exploitant agricole au cours de l’année précédant l’exercice de cotisation, à savoir:
+
+- le fermage,
+
+- les intérêts découlant de prêts professionnels agricoles,
+
+- les salaires payés à des tiers et déclarés auprès du Centre commun de la sécurité sociale, augmentés des cotisations sociales à charge du chef d’exploitation,
+
+- les salaires payés aux personnes visées à l’article 90, alinéa 3 du Code de la sécurité sociale, à condition que leur identité résulte du répertoire national des personnes physiques ou d’un document officiel, ou que ces salaires aient fait l’objet d’une déclaration à l’Administration des contributions directes dans le cadre de l’imposition forfaitaire prévue par le règlement grand-ducal du 7 mai 1991 portant exécution de l’article 137, alinéa 4 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu et modifiant le règlement grand-ducal du 3 décembre 1969 portant exécution de l’article 115, numéro 12 de la prédite loi du 4 décembre 1967.
 
 <a id="art-7"></a>
 ## Art. 7.

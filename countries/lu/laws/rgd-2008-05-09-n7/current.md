@@ -35,7 +35,13 @@ Le Lycée technique du Centre et l'Athénée de Luxembourg sont autorisés à or
 <a id="art-2"></a>
 ## Art. 2.
 
-Dans les classes internationales, le niveau de langue enseigné est celui déterminé par la terminologie du Baccalauréat International. Au cas où la langue française est étudiée au niveau de langue A1 ou A, la langue anglaise est étudiée au niveau de langue A2 ou B. Au cas où la langue anglaise est étudiée au niveau de langue A1 ou A, la langue française est étudiée au niveau de langue A2 ou B. La langue allemande est la troisième langue.
+Dans les classes internationales, le niveau de langue enseigné est celui déterminé par la terminologie du Baccalauréat International.
+
+Au cas où la langue française est étudiée au niveau de langue A1 ou A, la langue anglaise est étudiée au niveau de langue A2 ou B.
+
+Au cas où la langue anglaise est étudiée au niveau de langue A1 ou A, la langue française est étudiée au niveau de langue A2 ou B.
+
+La langue allemande est la troisième langue.
 
 <a id="art-3"></a>
 ## Art. 3.
@@ -50,12 +56,36 @@ Une discipline ne peut être offerte dans un établissement que s'il y a un mini
 <a id="art-5"></a>
 ## Art. 5.
 
-Peut être admis en classe de IVe internationale: Peut être admis en classe de IIIe internationale: Peut être admis en classe de IIe internationale: Le directeur désigne au maximum deux enseignants pour organiser les tests d'admission dans la langue véhiculaire dans laquelle les cours sont offerts. Une indemnité par questionnaire ainsi qu'une indemnité par candidat et par épreuve de deux heures peut leur être allouée, calculée selon les modalités de l'arrêté du Gouvernement en conseil du 24 mai 2004 portant fixation des taux à appliquer pour l'indemnisation des opérations de l'examen d'admission en classe de septième de l'enseignement secondaire dans le cadre de la procédure d'admission à une classe de septième de l'enseignement secondaire technique ou à la classe d'orientation de l'enseignement secondaire.
+Peut être admis en classe de IVe internationale:
+
+- l'élève qui a réussi la classe de Ve de l'enseignement secondaire et qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts;
+
+- l'élève qui a réussi la classe de 9e théorique de l'enseignement secondaire technique avec une moyenne générale d'au moins 45 points et qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts;
+
+- l'élève qui a passé un test d'admission dans la langue véhiculaire dans laquelle les cours sont offerts, ainsi que le cas échéant d'autres tests d'admission organisés par le lycée, après consultation du dossier de l'élève par le directeur.
+
+Peut être admis en classe de IIIe internationale:
+
+- l'élève qui a réussi la IVe internationale;
+
+- l'élève qui a passé des tests d'admission organisés par le lycée après consultation du dossier de l'élève par le directeur.
+
+Peut être admis en classe de IIe internationale:
+
+- l'élève qui a réussi la IIIe internationale;
+
+- l'élève qui a passé des tests d'admission organisés par le lycée après consultation du dossier de l'élève par le directeur.
+
+Le directeur désigne au maximum deux enseignants pour organiser les tests d'admission dans la langue véhiculaire dans laquelle les cours sont offerts. Une indemnité par questionnaire ainsi qu'une indemnité par candidat et par épreuve de deux heures peut leur être allouée, calculée selon les modalités de l'arrêté du Gouvernement en conseil du 24 mai 2004 portant fixation des taux à appliquer pour l'indemnisation des opérations de l'examen d'admission en classe de septième de l'enseignement secondaire dans le cadre de la procédure d'admission à une classe de septième de l'enseignement secondaire technique ou à la classe d'orientation de l'enseignement secondaire.
 
 <a id="art-6"></a>
 ## Art. 6.
 
-En classe de IVe et en classe de IIIe l'évaluation et la promotion des élèves se font conformément à la réglementation en vigueur à l'enseignement secondaire, à l'exception de la détermination des branches fondamentales, qui sont la langue française et la langue anglaise. En classe de IIe et en classe de Ire l'évaluation se fait conformément aux dispositions du programme du Baccalauréat International. Les conditions de passage de la classe de IIe à la classe de Ire peuvent être déterminées par règlement interne pris par l'établissement scolaire.
+En classe de IVe et en classe de IIIe l'évaluation et la promotion des élèves se font conformément à la réglementation en vigueur à l'enseignement secondaire, à l'exception de la détermination des branches fondamentales, qui sont la langue française et la langue anglaise.
+
+En classe de IIe et en classe de Ire l'évaluation se fait conformément aux dispositions du programme du Baccalauréat International.
+
+Les conditions de passage de la classe de IIe à la classe de Ire peuvent être déterminées par règlement interne pris par l'établissement scolaire.
 
 <a id="art-7"></a>
 ## Art. 7.
