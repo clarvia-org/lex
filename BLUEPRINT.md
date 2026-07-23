@@ -888,7 +888,11 @@ provision: art-13
 Checks include frontmatter schema and field order, source file presence and SHA-256,
 unique provision anchors, and **Markdown↔retained-source statutory word parity**
 (XML/HTML body words vs Markdown body words: omitted source tokens must stay within
-0.5%; silent omission of legal prose fails the check).
+0.5%; silent omission of legal prose fails the check). Failures include a
+**per-article first-difference** report (article id, first diverging token index,
+and short XML/MD context windows). Residuals under the margin are typically
+Casemates source glue without spaces (e.g. `ladirective`, `UEdu`) rather than
+dropped statutory prose.
 
 Pass a law directory path to run the fidelity check for that law only:
 

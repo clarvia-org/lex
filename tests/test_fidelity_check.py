@@ -42,6 +42,19 @@ def test_fidelity_fails_on_broken_projection(tmp_path: Path) -> None:
     errors = check_law_fidelity(md_path)
     assert errors, "expected word-parity failure on truncated projection"
     assert "word parity" in errors[0].message.casefold()
+    assert "per-article first differences" in errors[0].message.casefold()
+    assert "first diff at token" in errors[0].message.casefold()
+
+
+def test_article_first_difference_points_at_truncation() -> None:
+    from lex.fidelity import article_first_differences_xml
+
+    source = (LAW / "source.xml").read_bytes()
+    broken_body = (FIXTURES / "broken-loi-2000-body.md").read_text(encoding="utf-8")
+    diffs = article_first_differences_xml(source, broken_body)
+    assert diffs, "expected at least one article-level first difference"
+    assert diffs[0].kind in {"mismatch", "missing_in_md"}
+    assert diffs[0].article_id
 
 
 def test_renormalized_loi_2000_within_margin(tmp_path: Path) -> None:
