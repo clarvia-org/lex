@@ -31,18 +31,7 @@ def extract_provision(markdown: str, anchor: str) -> str:
     if not metadata:
         raise LexError(ErrorCode.LEX_INVALID_DATA, "", "Missing frontmatter")
 
-    lines = body.splitlines()
-    blocks = _index_provisions(lines)
-    match = next((block for block in blocks if block.anchor == anchor), None)
-    if match is None:
-        raise LexError(
-            ErrorCode.LEX_PROVISION_NOT_FOUND,
-            metadata.get("id", ""),
-            f"Provision anchor not found: {anchor}",
-        )
-
-    provision_lines = lines[match.start : match.end]
-    provision_body = "\n".join(provision_lines).rstrip() + "\n"
+    provision_body = provision_markdown_slice(body, anchor, document_id=str(metadata.get("id", "")))
 
     provision_meta = dict(metadata)
     # Insert provision after warning, else after retrieved_at.
@@ -57,6 +46,20 @@ def extract_provision(markdown: str, anchor: str) -> str:
         ordered["provision"] = anchor
 
     return serialize_frontmatter(ordered) + "\n" + provision_body
+
+
+def provision_markdown_slice(body: str, anchor: str, *, document_id: str = "") -> str:
+    """Return the provision Markdown slice (anchor + heading + body) from a law body."""
+    lines = body.splitlines()
+    blocks = _index_provisions(lines)
+    match = next((block for block in blocks if block.anchor == anchor), None)
+    if match is None:
+        raise LexError(
+            ErrorCode.LEX_PROVISION_NOT_FOUND,
+            document_id,
+            f"Provision anchor not found: {anchor}",
+        )
+    return "\n".join(lines[match.start : match.end]).rstrip() + "\n"
 
 
 def _index_provisions(lines: list[str]) -> list[ProvisionBlock]:

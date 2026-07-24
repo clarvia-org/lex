@@ -57,9 +57,35 @@
     "LEX_SOURCE_CHANGED",
     "LEX_UNEXPECTED_DELETION"
   ],
-  "citation_rule": "Always cite the official source (source_url or eli_uri), not lex, as the legal authority.",
+  "citation_rule": "Always cite the official source (source_url or eli_uri) and official publisher (source_attribution), not lex, as the legal authority. Surface warning when present.",
+  "provision_json": {
+    "command": "lex get ID --provision ANCHOR --json",
+    "provision_id": "{document_id}/{anchor}",
+    "required_fields": [
+      "provision_id", "document_id", "anchor", "country", "language", "title",
+      "document_type", "status", "heading_path", "markdown", "plain_text",
+      "character_count", "word_count", "citation"
+    ],
+    "citation_required": [
+      "label", "document_title", "publisher", "formatted"
+    ],
+    "temporal_passthrough": [
+      "published_at", "consolidated_at", "retrieved_at"
+    ],
+    "forbidden_fields": [
+      "valid_from", "valid_to", "is_current", "applicable_from", "version_type"
+    ],
+    "heading_path": "structural stack from non-anchored non-H1 headings only; provision headings (anchor + following heading) do not update the stack; append selected provision heading"
+  },
+  "search_json": {
+    "matched_on_required": true,
+    "matched_on_fields_order": [
+      "id", "title", "official_id", "eli_uri", "document_type", "heading", "body"
+    ],
+    "normalization": "casefold + diacritic folding + typographic apostrophe normalization on query and haystack; matching only"
+  },
   "semantics": {
-    "temporal": "current-only; no historical versions or point-in-time queries",
+    "temporal": "current-only; published_at/consolidated_at/retrieved_at are pass-through facts, not legal applicability; no historical versions or point-in-time queries",
     "coverage": "partial; the filesystem is the coverage list"
   }
 }
