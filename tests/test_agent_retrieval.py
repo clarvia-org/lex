@@ -26,6 +26,17 @@ def test_normalize_for_search_diacritics_and_apostrophes() -> None:
     assert "decoration civique" in normalize_for_search("institution d'une décoration civique")
 
 
+def test_heading_re_ignores_hash_lines_without_space() -> None:
+    """Search heading extraction must use HEADING_RE, not startswith('#')."""
+    from lex.markdown import HEADING_RE
+
+    body = "#TitleWithoutSpace\n## Real Heading\n#anchor\n###  Spaced\n"
+    labels = [
+        match.group(2).strip() for line in body.splitlines() if (match := HEADING_RE.match(line))
+    ]
+    assert labels == ["Real Heading", "Spaced"]
+
+
 def test_heading_path_agd_art3_no_invented_chapters() -> None:
     _, body = parse_frontmatter(AGD.read_text(encoding="utf-8"))
     assert provision_heading_path(body, "art-3") == ["Art. 3."]

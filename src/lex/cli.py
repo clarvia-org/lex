@@ -15,7 +15,7 @@ from lex.evidence import (
     search_rank_score,
 )
 from lex.frontmatter import parse_frontmatter
-from lex.markdown import extract_provision
+from lex.markdown import HEADING_RE, extract_provision
 from lex.runner import load_id_list, update_country
 from lex.validate import validate_dataset
 
@@ -130,7 +130,9 @@ def search_cmd(query: str, country: str | None, language: str | None, as_json: b
         eli_uri = str(meta.get("eli_uri", ""))
         doc_type = str(meta.get("document_type", ""))
         headings = [
-            line[line.find(" ") + 1 :] for line in body.splitlines() if line.startswith("#")
+            match.group(2).strip()
+            for line in body.splitlines()
+            if (match := HEADING_RE.match(line))
         ]
 
         matched_on = search_field_matches(
