@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import re
 import unicodedata
+from datetime import date, datetime
 from typing import Any
 
 from lex.errors import ErrorCode, LexError
@@ -130,6 +131,22 @@ def _optional_str(meta: dict[str, Any], key: str) -> str | None:
     return text if text else None
 
 
+def _jsonable_meta_value(value: Any) -> Any:
+    """Coerce YAML-parsed scalars to JSON-serializable forms.
+
+    Unquoted frontmatter dates become datetime.date / datetime.datetime via
+    yaml.safe_load; json.dumps cannot serialize those.
+    """
+    if isinstance(value, datetime):
+        text = value.isoformat()
+        if text.endswith("+00:00"):
+            return text[:-6] + "Z"
+        return text
+    if isinstance(value, date):
+        return value.isoformat()
+    return value
+
+
 def build_provision_evidence(markdown: str, anchor: str) -> dict[str, Any]:
     """Build §7.6 provision JSON evidence from a whole-law Markdown file."""
     meta, body = parse_frontmatter(markdown)
@@ -166,7 +183,10 @@ def build_provision_evidence(markdown: str, anchor: str) -> dict[str, Any]:
         value = meta[key]
         if value is None:
             continue
-        evidence[key] = str(value) if key == "warning" else value
+        if key == "warning":
+            evidence[key] = str(value)
+        else:
+            evidence[key] = _jsonable_meta_value(value)
 
     for key in ("country", "language", "document_type", "status"):
         if key in evidence and evidence[key] is not None:

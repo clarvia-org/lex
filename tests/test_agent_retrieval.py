@@ -128,6 +128,49 @@ def test_get_json_without_provision_keeps_metadata_body() -> None:
     assert "provision_id" not in data
 
 
+def test_provision_json_serializes_unquoted_yaml_dates() -> None:
+    """Unquoted YAML dates must not blow up json.dumps (date/datetime objects)."""
+    from lex.evidence import build_provision_evidence
+
+    markdown = """---
+id: xx/sample
+country: xx
+title: Sample
+language: en
+document_type: law
+status: official_current
+official_id: S-1
+source_url: https://example.test
+source_file: source.html
+source_sha256: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+source_license: CC-BY-4.0
+source_attribution: Example Publisher
+source_terms_url: https://example.test/terms
+rights_reviewed_at: 2026-01-01
+published_at: 1946-04-29
+consolidated_at: 2004-01-04
+retrieved_at: 2026-07-21T21:21:12Z
+warning: Cite the official source.
+---
+
+<a id="art-1"></a>
+## Art. 1.
+
+Body one.
+"""
+    meta, _ = parse_frontmatter(markdown)
+    assert type(meta["published_at"]).__name__ == "date"
+    assert type(meta["retrieved_at"]).__name__ == "datetime"
+
+    evidence = build_provision_evidence(markdown, "art-1")
+    dumped = json.dumps(evidence)
+    data = json.loads(dumped)
+    assert data["published_at"] == "1946-04-29"
+    assert data["consolidated_at"] == "2004-01-04"
+    assert data["retrieved_at"] == "2026-07-21T21:21:12Z"
+    assert data["warning"] == "Cite the official source."
+
+
 def test_search_diacritic_normalization_and_matched_on() -> None:
     runner = CliRunner()
     accented = runner.invoke(
