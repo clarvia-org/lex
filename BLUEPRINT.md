@@ -821,7 +821,7 @@ JSON output is a JSON array with:
 
 ### 7.4 `lex search`
 
-Search performs case-insensitive Unicode text matching over:
+Search performs Unicode text matching over:
 
 - `id`;
 - title;
@@ -830,6 +830,10 @@ Search performs case-insensitive Unicode text matching over:
 - document type;
 - provision headings;
 - normalized body.
+
+Matching is **casefold + diacritic folding + typographic apostrophe normalization**
+applied to **both** the query and each haystack field. Normalization affects
+matching only; it does not alter stored Markdown or ranking precedence.
 
 Results are sorted by:
 
@@ -840,7 +844,31 @@ Results are sorted by:
 5. body match;
 6. stable ID alphabetical order.
 
-No fuzzy-search dependency is used.
+No fuzzy-search dependency is used. No committed search index is used.
+
+JSON output (`--json`) is a JSON array. **Every hit MUST include `matched_on`**:
+a list of **every** field that matched the query, using these stable field names
+in this fixed order for determinism:
+
+```text
+id, title, official_id, eli_uri, document_type, heading, body
+```
+
+Example:
+
+```json
+{
+  "id": "lu/agd-1946-03-30-n9",
+  "country": "lu",
+  "language": "fr",
+  "title": "…",
+  "status": "official_consolidation",
+  "path": "countries/lu/laws/agd-1946-03-30-n9/current.md",
+  "matched_on": ["title", "body"]
+}
+```
+
+Do not add search CLI flags in version 1.
 
 ### 7.5 `lex get`
 
@@ -848,7 +876,9 @@ No fuzzy-search dependency is used.
 - `--body` removes YAML frontmatter and returns the Markdown body.
 - `--language` selects the language file.
 - `ID@lang` and `--language lang` are equivalent; using both with different values is an error.
-- `--json` returns metadata and body in one JSON object.
+- `--json` **without** `--provision` returns `{ "metadata": ..., "body": ... }`.
+- `--json` **with** `--provision` returns the provision evidence object in §7.6
+  (not the `{metadata, body}` shape).
 
 ### 7.6 Provision retrieval
 
@@ -862,13 +892,111 @@ The extractor:
 4. stops before the next anchored heading at the same or higher heading level;
 5. returns no unrelated text.
 
-Provision output retains the law frontmatter and inserts this field after `warning` or after `retrieved_at` when no warning exists:
+#### Markdown output (default)
+
+Without `--json`, provision output retains the law frontmatter and inserts this
+field after `warning` or after `retrieved_at` when no warning exists:
 
 ```yaml
 provision: art-13
 ```
 
 `provision` is retrieval-only and is not stored in whole-law files.
+
+Non-JSON `lex get ID --provision ANCHOR` output MUST remain byte-for-byte
+identical to the Markdown projection contract (frontmatter + provision slice).
+
+#### JSON provision evidence (`--provision` + `--json`)
+
+`lex get ID --provision ANCHOR --json` returns a provision evidence object.
+`provision_id` is deterministic for the **current published snapshot** in this
+repository: `{document_id}/{anchor}` (article-level anchors only). It is not a
+cross-version legal identity.
+
+Temporal frontmatter fields (`published_at`, `consolidated_at`, `retrieved_at`,
+and optional peers) are **pass-through publication / consolidation / retrieval
+facts only**. Implementations MUST NOT reinterpret them as legal applicability
+and MUST NOT emit `valid_from`, `valid_to`, `is_current`, `applicable_from`, or
+similar fields.
+
+Canonical shape:
+
+```json
+{
+  "provision_id": "lu/agd-1946-03-30-n9/art-3",
+  "document_id": "lu/agd-1946-03-30-n9",
+  "anchor": "art-3",
+  "country": "lu",
+  "language": "fr",
+  "title": "…",
+  "document_type": "regulation",
+  "status": "official_consolidation",
+  "official_id": "agd/1946/03/30/n9",
+  "eli_uri": "…",
+  "source_url": "…",
+  "source_sha256": "…",
+  "source_attribution": "Service central de législation, Luxembourg",
+  "published_at": "1946-04-29",
+  "consolidated_at": "2004-01-04",
+  "retrieved_at": "2026-07-21T21:21:12Z",
+  "warning": "Official consolidation. Cite the official ELI URI and publisher; lex is not the legal authority.",
+  "heading_path": ["Art. 3."],
+  "markdown": "<a id=\"art-3\"></a>\n## Art. 3.\n\n…",
+  "plain_text": "…",
+  "character_count": 0,
+  "word_count": 0,
+  "citation": {
+    "label": "Art. 3.",
+    "document_title": "…",
+    "publisher": "Service central de législation, Luxembourg",
+    "official_id": "agd/1946/03/30/n9",
+    "eli_uri": "…",
+    "source_url": "…",
+    "formatted": "… Art. 3. … Service central de législation, Luxembourg …"
+  }
+}
+```
+
+Rules:
+
+- Omit unknown optional fields rather than inventing values.
+- Include `warning` when present in frontmatter; omit the key when absent.
+- Include `source_attribution` when present; `citation.publisher` MUST use that
+  value (official publisher per §7.10).
+- `citation.formatted` MUST contain: official title + provision label +
+  publisher + (`source_url` or `eli_uri`).
+- `character_count` and `word_count` are computed over `plain_text`.
+- `markdown` is the provision slice only (anchor + heading + body), not the
+  whole-law file and not the retrieval-only `provision:` frontmatter field.
+
+#### `heading_path` algorithm (normative)
+
+Structural headings and article headings often share Markdown levels
+(`##`, `###`, …). A naive “walk all headings above the provision” is unsafe.
+
+Required algorithm:
+
+1. Scan the **complete** Markdown body in document order.
+2. Maintain a **structural heading stack** keyed by heading level.
+3. When a line is an HTML anchor `<a id="…"></a>` and the **next non-blank line**
+   is a Markdown heading, that heading is a **provision heading**:
+   - it MUST NOT modify the structural heading stack;
+   - if this is the selected provision, remember it as `provision_heading`.
+4. When a Markdown heading is **not** a provision heading (no immediately
+   preceding anchor):
+   - level-1 (`#`) document-title headings MUST NOT update the structural stack;
+   - any other non-provision heading MAY update the structural stack (replace
+     same/deeper levels; push).
+5. For the selected provision,
+   `heading_path = structural_stack_labels + [provision_heading_label]`.
+
+Example: `lu/agd-1946-03-30-n9` / `art-3` has no chapter/section structure, so:
+
+```json
+"heading_path": ["Art. 3."]
+```
+
+Do not invent chapters for that law.
 
 ### 7.7 `lex source`
 
@@ -942,9 +1070,14 @@ Required citation elements:
 official title + provision label + official publisher + source_url or eli_uri
 ```
 
+The provision JSON `citation` object (§7.6) carries these elements. `publisher`
+is the official publisher string from `source_attribution`. `formatted` MUST
+include title, provision label, publisher, and `source_url` or `eli_uri`.
+
 A Git commit and `source_sha256` may be added for reproducibility. They do not replace the official citation.
 
-The optional `warning` **MUST** be surfaced with any answer derived from the law.
+The optional `warning` **MUST** be surfaced with any answer derived from the law
+(including provision JSON evidence when the frontmatter contains `warning`).
 
 ---
 

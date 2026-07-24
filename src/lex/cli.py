@@ -8,6 +8,12 @@ import click
 
 from lex.dataset import LawRecord, discover_laws
 from lex.errors import ErrorCode, LexError
+from lex.evidence import (
+    build_provision_evidence,
+    normalize_for_search,
+    search_field_matches,
+    search_rank_score,
+)
 from lex.frontmatter import parse_frontmatter
 from lex.markdown import extract_provision
 from lex.runner import load_id_list, update_country
@@ -108,14 +114,14 @@ def list_cmd(country: str | None, language: str | None, as_json: bool) -> None:
 @click.option("--json", "as_json", is_flag=True)
 def search_cmd(query: str, country: str | None, language: str | None, as_json: bool) -> None:
     root = _root()
-    needle = query.casefold()
+    needle = normalize_for_search(query)
     laws = discover_laws(root)
     if country:
         laws = [law for law in laws if law.country == country]
     if language:
         laws = [law for law in laws if law.language == language]
 
-    ranked: list[tuple[int, str, LawRecord]] = []
+    ranked: list[tuple[int, str, LawRecord, list[str]]] = []
     for law in laws:
         text = law.path.read_text(encoding="utf-8")
         meta, body = parse_frontmatter(text)
@@ -127,24 +133,25 @@ def search_cmd(query: str, country: str | None, language: str | None, as_json: b
             line[line.find(" ") + 1 :] for line in body.splitlines() if line.startswith("#")
         ]
 
-        score = 99
-        if law.id.casefold() == needle:
-            score = 1
-        elif title.casefold() == needle:
-            score = 2
-        elif needle in title.casefold():
-            score = 3
-        elif any(needle in heading.casefold() for heading in headings):
-            score = 4
-        elif needle in body.casefold():
-            score = 5
-        elif needle in official_id.casefold() or needle in eli_uri.casefold():
-            score = 5
-        elif needle in doc_type.casefold() or needle in law.id.casefold():
-            score = 5
-        else:
+        matched_on = search_field_matches(
+            law_id=law.id,
+            title=title,
+            official_id=official_id,
+            eli_uri=eli_uri,
+            document_type=doc_type,
+            headings=headings,
+            body=body,
+            needle=needle,
+        )
+        score = search_rank_score(
+            law_id=law.id,
+            title=title,
+            matched_on=matched_on,
+            needle=needle,
+        )
+        if score is None:
             continue
-        ranked.append((score, law.id, law))
+        ranked.append((score, law.id, law, matched_on))
 
     ranked.sort(key=lambda item: (item[0], item[1]))
 
@@ -157,12 +164,13 @@ def search_cmd(query: str, country: str | None, language: str | None, as_json: b
                 "title": law.title,
                 "status": law.status,
                 "path": str(law.path.relative_to(root).as_posix()),
+                "matched_on": matched_on,
             }
-            for _, _, law in ranked
+            for _, _, law, matched_on in ranked
         ]
         click.echo(json.dumps(output, indent=2, ensure_ascii=False))
     else:
-        for _, _, law in ranked:
+        for _, _, law, _ in ranked:
             path_str = str(law.path.relative_to(root).as_posix())
             click.echo(f"{law.id}\t{law.language}\t{law.title}\t{law.status}\t{path_str}")
 
@@ -185,6 +193,10 @@ def get_cmd(
         base_id, lang = _parse_id(law_id, language)
         path = _find_law(root, base_id, lang)
         text = path.read_text(encoding="utf-8")
+        if provision and as_json and not body_only:
+            evidence = build_provision_evidence(text, provision)
+            click.echo(json.dumps(evidence, indent=2, ensure_ascii=False))
+            return
         if provision:
             text = extract_provision(text, provision)
         meta, body = parse_frontmatter(text)
